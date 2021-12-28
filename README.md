@@ -19,19 +19,20 @@ Trouble communicating
 Who am I again?
 ---------------
 
-* Acid nightcap
+* Acid flashbacks
 * Dreams
 * Memories (earliest)
 * Details (milk)
-* Same house (cleaned)
+* Same house (salmon)
 * Moving back in (parents)
+* Squeezing sister (hi dad)
 * 7 years a student
 * Spliff noise
-* Amateur dramatics (rimming)
-* Washing up as I go along
+* Amateur dramatics (eating arse)
+* Washing up as I go along (hi mum) 
 * Suspiciously cheap bedsit
 * Nuclear waste leak
 * Stopped drinking - high and dry
-* Neat freaks, temporally relative
+* Neat freaks, temporally relative (bathing is a sin)
 * Dirty kitchen tolerance
 * Freud delivering my sister
