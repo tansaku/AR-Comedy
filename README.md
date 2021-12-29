@@ -29,10 +29,10 @@ Who am I again?
 * 7 years a student
 * Spliff noise
 * Amateur dramatics (eating arse)
-* Washing up as I go along (hi mum) 
+* My approach to Wassup ... (hi mum) 
 * Suspiciously cheap bedsit
 * Nuclear waste leak
 * Stopped drinking - high and dry
-* Neat freaks, temporally relative (bathing is a sin)
+* Neat freaks, temporally relative (bathing is a gateway to sin)
 * Dirty kitchen tolerance
 * Freud delivering my sister
