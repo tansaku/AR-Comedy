@@ -25,7 +25,7 @@ Who am I again?
 * Details (milk)
 * Same house (salmon)
 * Moving back in (parents)
-* Squeezing sister (hi dad)
+* Squeezing sister (onesie, stolen by ghosts, joker, skulls, hi dad)
 * 7 years a student
 * Spliff noise
 * Amateur dramatics (eating arse)
@@ -33,6 +33,8 @@ Who am I again?
 * Suspiciously cheap bedsit
 * Nuclear waste leak
 * Stopped drinking - high and dry
-* Neat freaks, temporally relative (bathing is a gateway to sin)
+* Neat freaks, cultural, socially, temporally relative
+  - bathing was a gateway to sin
 * Dirty kitchen tolerance
 * Freud delivering my sister
+* Just remember it may all be a dream
