@@ -33,7 +33,7 @@ Past Gigs
   - 5m "Trouble Communicating"
   - Show 7:30
   - Camden Eye, 2 Kentish Road, NW1 9NX
-* Dec 22nd (Wed) - [Fambula Comedy](https://www.facebook.com/FambulaComedy/) Hampstead 
+* Dec 22nd (Wed) - [Fambula Comedy](https://www.facebook.com/FambulaComedy/)
   - 10m "Trouble Communicating and Who am I Again?"
   - Show 7:00
   - Old Town Hall in Belsize Park, Hampstead
