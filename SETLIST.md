@@ -19,22 +19,31 @@ Trouble communicating
 Who am I again?
 ---------------
 
-* Acid flashbacks
-* Dreams
-* Memories (earliest)
-* Details (milk)
-* Same house (salmon)
-* Moving back in (parents)
-* Squeezing sister (onesie, stolen by ghosts, joker, skulls, hi dad)
+* Aide de memoire, wifi not available
+* Getting older, juxtapositions, acid flashbacks
+* Dream theory (dominatrix, scientists)
+* Freud, window, spherical, cylindrical
+* Earliest memory, sisier home birth
+* Other people's house
+* Memory of a memory
+* Details (milk, meet, perch)
+* Moved back in, salmon spawn
+* Moving back in with parents
+* Sister, squeeze, canada onesie
+* Ghosts, skulls, hi dad
+
 * 7 years a student
-* Spliff noise
-* Amateur dramatics (eating arse)
-* My approach to Wassup ... (hi mum) 
-* Suspiciously cheap bedsit
-* Nuclear waste leak
-* Stopped drinking - high and dry
-* Neat freaks, cultural, socially, temporally relative
-  - bathing was a gateway to sin
-* Dirty kitchen tolerance
-* Freud delivering my sister
-* Just remember it may all be a dream
+* Friends in high places
+* Stoned convo
+* Spliff, amateur dramatics, aaahh
+* Tried to explain to mum at the time
+* Approach to wassup!! (Hi mum)
+* Slob in suspiciously cheap bedsit
+* Kitchen (nuclear waste leak)
+* High and dry
+* Neat freaks, culturally, socially, temporally
+* Bathing was a gateway to sin
+* Have you taken a bath? Yes, but only to hide it from the others
+* Tolerant society
+* Have a dream - freud delivering
+* May all be a dream
