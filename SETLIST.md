@@ -13,7 +13,7 @@ Trouble communicating
 * Keep an ear out
 * Kill and eat
 * Apocalypse
-* Asimov’s 3 laws of robotics
+* Asimov's 3 laws of robotics
 * Metaphor contest
 * Love is an Ocean
 * Isolation is knife
