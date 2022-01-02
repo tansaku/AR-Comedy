@@ -23,14 +23,14 @@ Who am I again?
 * Getting older, juxtapositions, acid flashbacks
 * Dream theory (dominatrix, scientists)
 * Freud, window, spherical, cylindrical
-* Earliest memory, sisier home birth
+* Earliest memory, sister home birth
 * Other people's house
 * Memory of a memory
 * Details (milk, meet, perch)
-* Moved back in, salmon spawn
+* Moved back in, salmon that's swum back to spawning grounds
 * Moving back in with parents
 * Sister, squeeze, canada onesie
-* Ghosts, skulls, hi dad
+* Ghosts, cake, skulls, hi dad
 
 * 7 years a student
 * Friends in high places
@@ -44,6 +44,6 @@ Who am I again?
 * Neat freaks, culturally, socially, temporally
 * Bathing was a gateway to sin
 * Have you taken a bath? Yes, but only to hide it from the others
-* Tolerant society
-* Have a dream - freud delivering
+* Dirty kitchen, tolerant society
+* Have a dream - freud delivering (back from ghosts, tell me about your mother)
 * May all be a dream
