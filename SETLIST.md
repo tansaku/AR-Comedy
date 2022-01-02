@@ -1,6 +1,6 @@
 ---
 title: Setlist
-layout: template
+layout: page
 filename: SETLIST.md
 --- 
 
