@@ -1,7 +1,3 @@
-title: Setlist
-layout: page
-filename: SETLIST.md
-
 Trouble communicating
 ---------------------
 
