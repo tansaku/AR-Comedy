@@ -23,7 +23,7 @@ Who am I again?
 * Getting older, juxtapositions, acid flashbacks
 * Dream theory (dominatrix, scientists)
 * Freud, window, spherical, cylindrical
-* Earliest memory, sister home birth
+* Earliest memory, baby sister, home birth
 * Other people's house
 * Memory of a memory
 * Details (milk, meet, perch)
@@ -43,7 +43,7 @@ Who am I again?
 * High and dry
 * Neat freaks, culturally, socially, temporally
 * Bathing was a gateway to sin
-* Have you taken a bath? Yes, but only to hide it from the others
+* Have you taken a bath? Why is one missing? 1899
 * Dirty kitchen, tolerant society
 * Have a dream - freud delivering (back from ghosts, tell me about your mother)
 * May all be a dream
