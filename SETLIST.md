@@ -1,6 +1,8 @@
 ---
-layout: page
----
+title: Setlist
+layout: template
+filename: SETLIST.md
+--- 
 
 Trouble communicating
 ---------------------
