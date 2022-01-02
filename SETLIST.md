@@ -28,7 +28,7 @@ Who am I again?
 * Memory of a memory
 * Details (milk, meet, perch)
 * Moved back in, salmon that's swum back to spawning grounds
-* Moving back in with parents
+* Moving back in, not with parents
 * Sister, squeeze, canada onesie
 * Ghosts, cake, skulls, hi dad
 
@@ -44,6 +44,6 @@ Who am I again?
 * Neat freaks, culturally, socially, temporally
 * Bathing was a gateway to sin
 * Have you taken a bath? Why is one missing? 1899
-* Dirty kitchen, tolerant society
+* Dirty kitchen, question of tolerance
 * Have a dream - freud delivering (back from ghosts, tell me about your mother)
 * May all be a dream
