@@ -1,8 +1,11 @@
 Upcoming Gigs
 =============
+* Jan 12th (Wed) - [Not Another Comedy Night](https://www.facebook.com/notanothercomedynight/)
+  - Doors 7:30?, Show from 8:00?
+  - The Florence Pub, Herne Hill, SE24 0NG
 * Jan 14th (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles)
   - Doors 7:30, Show from 8:00?
-  -  The Trinity Pub, Borough, SE1 1JX
+  - The Trinity Pub, Borough, SE1 1JX
 * Jan 17th (Mon) - [Lollipops](https://www.facebook.com/lolipopslivecomedy)
   - Doors 6:30, Show from 7:00
   - The Carlton Tavern - NW5 5EU
