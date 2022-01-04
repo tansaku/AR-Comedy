@@ -14,10 +14,13 @@ Upcoming Gigs
   - The Old Crown, Holborn
 * Jan 27th (Thu) - [Monkey Business](http://www.monkeybusinesscomedyclub.co.uk/)
   - Doors 7:00, Show from 8:00
-  - 31 Jamestown Road, Camden , NW1 7DB
+  - 31 Jamestown Road, Camden, NW1 7DB
 * Feb 3rd (Thu) - [Up the Creek](https://up-the-creek.com)
   - Doors 7:00, Show from 8:00
-  - 302 Creek Rd, London,SE10 9SW
+  - 302 Creek Rd, London, SE10 9SW
+* Feb 7th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
+  - Doors ?, Show from ?
+  - The Comedy Pub, 7 Oxendon Street, SW1Y 4EE
 * Mar 3rd (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight/) (TBC)
   - The Tram Depot, 5 Dover St Cambridge CB1 1DY
 
