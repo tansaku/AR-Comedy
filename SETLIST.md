@@ -19,14 +19,17 @@ Trouble communicating
 Who am I again?
 ---------------
 
-* Aide de memoire, wifi not available
-* Getting older, juxtapositions, AR headset
+* Aide de memoire
+* Wifi not available
+* Getting older, juxtapositions
+  - Keep falling asleep in this AR headset
 * Dream theory (dominatrix, scientists)
-* Freud, door, window
-* Unconscious, spherical, cylindrical (SKIP?)
+  - stop disrupting our covid briefing
+* Freud, unconscious, window, door
 * Earliest memory, baby sister, home birth
 * Other people's house
 * Details (milk, meet, perch)
+  - 3 at the time, so I didn't use the word ... displaced
 * Moved back in, salmon that's swum back to spawning grounds
 * Moving back in, not with parents
 * 7 years a student
@@ -38,7 +41,7 @@ Who am I again?
 * Slob in suspiciously cheap bedsit
 * Kitchen (fire in offal ...)
 * High and dry  (SKIP?)
-* Neat freaks, culturally, socially, temporally
+* Neat freaks, cleanliness is relative
 * 15th C, Bathing was a gateway to sin
 * Inquisition, Have you taken a bath? Why is one missing? 1899
 * Dirty kitchen, question of tolerance (SKIP?)
