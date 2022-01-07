@@ -1,7 +1,7 @@
 Upcoming Gigs
 =============
 * Jan 12th (Wed) - [Not Another Comedy Night](https://www.facebook.com/notanothercomedynight/)
-  - Doors 7:30?, Show from 8:00?
+  - Doors 7:30, Show from 8:00
   - The Florence Pub, Herne Hill, SE24 0NG
 * Jan 14th (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles)
   - Doors 7:30, Show from 8:00?
