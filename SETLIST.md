@@ -20,30 +20,27 @@ Who am I again?
 ---------------
 
 * Aide de memoire, wifi not available
-* Getting older, juxtapositions, acid flashbacks
+* Getting older, juxtapositions, AR headset
 * Dream theory (dominatrix, scientists)
-* Freud, window, spherical, cylindrical
+* Freud, door, window
+* Unconscious, spherical, cylindrical (SKIP?)
 * Earliest memory, baby sister, home birth
 * Other people's house
-* Memory of a memory
 * Details (milk, meet, perch)
 * Moved back in, salmon that's swum back to spawning grounds
 * Moving back in, not with parents
-* Sister, squeeze, canada onesie
-* Ghosts, cake, skulls, hi dad
-
 * 7 years a student
-* Friends in high places
+* Friends in very high places
 * Stoned convo
 * Spliff, amateur dramatics, aaahh
+* Approach to wassup!!
 * Tried to explain to mum at the time
-* Approach to wassup!! (Hi mum)
 * Slob in suspiciously cheap bedsit
-* Kitchen (nuclear waste leak)
-* High and dry
+* Kitchen (fire in offal ...)
+* High and dry  (SKIP?)
 * Neat freaks, culturally, socially, temporally
-* Bathing was a gateway to sin
-* Have you taken a bath? Why is one missing? 1899
-* Dirty kitchen, question of tolerance
-* Have a dream - freud delivering (back from ghosts, tell me about your mother)
+* 15th C, Bathing was a gateway to sin
+* Inquisition, Have you taken a bath? Why is one missing? 1899
+* Dirty kitchen, question of tolerance (SKIP?)
+* Have a dream - freud watching my birth (SKIP?)
 * May all be a dream
