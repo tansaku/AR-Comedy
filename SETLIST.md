@@ -16,10 +16,9 @@ Trouble communicating
 * Remote work upsides
 
 
-Who am I again?
+Aide de memoire
 ---------------
 
-* Aide de memoire
 * Wifi not available
 * Getting older, juxtapositions
   - Keep falling asleep in this AR headset
