@@ -1,3 +1,3 @@
-[Extrovert Geek](extrovert_geek.md)
+* [Extrovert Geek](extrovert_geek.md)
 
-[Aide de Memoire](aide_de_memoire.md)
+* [Aide de Memoire](aide_de_memoire.md)
