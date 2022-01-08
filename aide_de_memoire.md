@@ -1,38 +1,45 @@
 <table>
 <tr>
 <td>
-
-* Aide de Memoire
-* Wifi not available
-* Getting older, juxtapositions
-  - Keep falling asleep in this AR headset
-* Dream theory (dominatrix, scientists)
-  - stop disrupting our covid briefings
-* Freud, unconscious, window, door
-* Earliest memory, baby sister, home birth
-* Other people's house
-* Details (milk, meet, perch)
-  - 3 at the time, so I didn't use rude words like ... displaced
-* Moved back in, salmon that's swum back to spawning grounds
-* Moving back in, not with parents
+<ul>
+<li>Aide de Memoire</li>
+<li>Wifi not available</li>
+<li>Getting older, juxtapositions</li>
+  <ul>
+  <li>Keep falling asleep in this AR headset</li>
+  </ul>
+<li>Dream theory (dominatrix, scientists)</li>
+  <ul>
+  <li>stop disrupting our covid briefings</li>
+  </ul>  
+<li>Freud, unconscious, window, door</li>
+<li>Earliest memory, baby sister, home birth</li>
+<li>Other people's house</li>
+<li>Details (milk, meet, perch)</li>
+  <ul>
+  <li>3 at the time, so I didn't use rude words like ... displaced</li>
+  </ul>  
+<li>Moved back in, salmon that's swum back to spawning grounds</li>
+<li>Moving back in, not with parents</li>
+</ul>
   
 </td>
 <td>
-  
-* 7 years a student
-* Friends in very high places
-* Stoned convo
-* Spliff, amateur dramatics, aaahh
-* Approach to wassup!!
-* Tried to explain to mum at the time
-* Slob in suspiciously cheap bedsit
-* Kitchen (fire in offal ...)
-* High and dry  (SKIP?)
-* Neat freaks, cleanliness is relative
-* 15th C, Bathing was a gateway to sin
-* Inquisition, Have you taken a bath? Why is one missing? 1899
-* May all be a dream
-  
+<ul>
+<li>7 years a student</li>
+<li>Friends in very high places</li>
+<li>Stoned convo</li>
+<li>Spliff, amateur dramatics, aaahh</li>
+<li>Approach to wassup!!</li>
+<li>Tried to explain to mum at the time</li>
+<li>Slob in suspiciously cheap bedsit</li>
+<li>Kitchen (fire in offal ...)</li>
+<li>High and dry  (SKIP?)</li>
+<li>Neat freaks, cleanliness is relative</li>
+<li>15th C, Bathing was a gateway to sin</li>
+<li>Inquisition, Have you taken a bath? Why is one missing? 1899</li>
+<li>May all be a dream</li>
+</ul>
 </td>
 </tr>
 </table>
