@@ -14,7 +14,7 @@ Upcoming Gigs
   - 31 Jamestown Road, Camden, NW1 7DB
 * Jan 24th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/)
   - Doors ?, Show from ?
-  - The Old Crown, Holborn
+  - The Old Crown, Holborn, WC1A 1BH
 * Jan 27th (Thu) - [Monkey Business](http://www.monkeybusinesscomedyclub.co.uk/)
   - Doors 7:00, Show from 8:00
   - 31 Jamestown Road, Camden, NW1 7DB
@@ -40,7 +40,7 @@ Past Gigs
 * Dec 22nd (Wed) - [Fambula Comedy](https://www.facebook.com/FambulaComedy/)
   - 10m "Trouble Communicating and Who am I Again?"
   - Show 7:00
-  - Old Town Hall in Belsize Park, Hampstead
+  - Old Town Hall in Belsize Park, Hampstead, NW3 4QP
 * Dec 15th (Wed) - [Comedy in Your Eye](https://www.facebook.com/comedyinyoureye/) 
   - 5m "Trouble Communicating"
   - Show 7:30
