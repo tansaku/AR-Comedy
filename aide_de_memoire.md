@@ -12,12 +12,12 @@
 <li>Details (milk, meet, perch)</li>
 <li>Moved back in, salmon</li>
 <li>Not with parents</li>
+<li>7 years a student</li>
 </ul>
   
 </td>
 <td>
 <ul>
-<li>7 years a student</li>
 <li>Friends in high places</li>
 <li>Stoned convo</li>
 <li>Spliff, amdram, aaahh</li>
