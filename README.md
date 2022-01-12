@@ -24,6 +24,9 @@ Upcoming Gigs
 * Feb 7th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors ?, Show from ?
   - The Comedy Pub, 7 Oxendon Street, SW1Y 4EE
+* Feb 27th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick)
+  - Doors 6:30, Show from 7:00
+  - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
 * Mar 3rd (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight/) (TBC)
   - The Tram Depot, 5 Dover St Cambridge CB1 1DY
 
