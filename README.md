@@ -1,12 +1,12 @@
 Upcoming Gigs
 =============
-* Jan 12th (Wed) - [Not Another Comedy Night](https://www.facebook.com/notanothercomedynight/)
+* Jan 12th (Wed) - [Not Another Comedy Night](https://www.facebook.com/notanothercomedynight/) (bringer)
   - Doors 7:30, Show from 8:00
   - The Florence Pub, Herne Hill, SE24 0NG
-* Jan 14th (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles)
+* Jan 14th (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles) (bringer)
   - Doors 7:30, Show from 8:00?
   - The Trinity Pub, Borough, SE1 1JX
-* Jan 17th (Mon) - [Lollipops](https://www.facebook.com/lolipopslivecomedy)
+* Jan 17th (Mon) - [Lollipops](https://www.facebook.com/lolipopslivecomedy) (bringer?)
   - Doors 6:30, Show from 7:00
   - The Carlton Tavern - NW5 5EU
 * Jan 20th (Thu) - [Monkey Business](http://www.monkeybusinesscomedyclub.co.uk/)
@@ -24,7 +24,7 @@ Upcoming Gigs
 * Feb 7th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors ?, Show from ?
   - The Comedy Pub, 7 Oxendon Street, SW1Y 4EE
-* Feb 27th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick)
+* Feb 27th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (bringer)
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
 * Mar 3rd (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight/) (TBC)
@@ -44,7 +44,7 @@ Past Gigs
   - 10m "Trouble Communicating and Who am I Again?"
   - Show 7:00
   - Old Town Hall in Belsize Park, Hampstead, NW3 4QP
-* Dec 15th (Wed) - [Comedy in Your Eye](https://www.facebook.com/comedyinyoureye/) 
+* Dec 15th (Wed) - [Comedy in Your Eye](https://www.facebook.com/comedyinyoureye/) (bringer)
   - 5m "Trouble Communicating"
   - Show 7:30
   - Camden Eye, 2 Kentish Road, NW1 9NX
