@@ -1,8 +1,5 @@
 Upcoming Gigs
 =============
-* Jan 14th (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles) (bringer)
-  - Doors 7:30, Show from 8:00?
-  - The Trinity Pub, Borough, London, SE1 1JX
 * Jan 17th (Mon) - [Lollipops](https://www.facebook.com/lolipopslivecomedy) (bringer?)
   - Doors 6:30, Show from 7:00
   - The Carlton Tavern, London, NW5 5EU
@@ -36,6 +33,10 @@ Upcoming Gigs
 
 Past Gigs
 =========
+* Jan 14th (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles) (bringer)
+  - 5m "Aide de Memoire"
+  - Doors 7:30, Show from 8:00
+  - The Trinity Pub, Borough, London, SE1 1JX
 * Jan 12th (Wed) - [Not Another Comedy Night](https://www.facebook.com/notanothercomedynight/) (bringer)
   - 5m "Aide de Memoire"
   - Doors 7:30, Show from 8:00
