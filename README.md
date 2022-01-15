@@ -1,12 +1,12 @@
 Upcoming Gigs
 =============
-* Jan 17th (Mon) - [Lollipops](https://www.facebook.com/lolipopslivecomedy) (bringer?)
+* Jan 17th (Mon) - [Lollipops](https://www.facebook.com/lolipopslivecomedy) (bringer)
   - Doors 6:30, Show from 7:00
   - The Carlton Tavern, London, NW5 5EU
 * Jan 20th (Thu) - [Monkey Business](http://www.monkeybusinesscomedyclub.co.uk/)
   - Doors 7:00, Show from 8:00
   - 31 Jamestown Road, Camden, London,NW1 7DB
-* Jan 24th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/)
+* Jan 24th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (bringer)
   - Doors ?, Show from ?
   - The Old Crown, Holborn, London,WC1A 1BH
 * Jan 27th (Thu) - [Monkey Business](http://www.monkeybusinesscomedyclub.co.uk/)
