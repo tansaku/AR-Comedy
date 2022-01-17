@@ -25,7 +25,11 @@ Upcoming Gigs
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
 * Mar 3rd (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight/) (TBC)
+  - Doors ?, Show from ?
   - The Tram Depot, 5 Dover St., Cambridge CB1 1DY
+* Apr 5th (Tue) - [Comedy Lab UK](http://www.facebook.com/comedylabuk)
+  - Doors 8:00, Show from 8:30
+  - The People's Park Tavern, 360 Victoria Road, London, E9 7BT
 
 [Find The AR Comedian on Instagram!](https://www.instagram.com/tansaku/)
 
