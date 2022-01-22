@@ -1,17 +1,12 @@
 Upcoming Gigs
 =============
-* Jan 17th (Mon) - [Lollipops](https://www.facebook.com/lolipopslivecomedy) (bringer)
-  - Doors 6:30, Show from 7:00
-  - The Carlton Tavern, London, NW5 5EU
-* Jan 20th (Thu) - [Monkey Business](http://www.monkeybusinesscomedyclub.co.uk/)
-  - Doors 7:00, Show from 8:00
-  - 31 Jamestown Road, Camden, London,NW1 7DB
+
 * Jan 24th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (bringer)
-  - Doors ?, Show from ?
-  - The Old Crown, Holborn, London,WC1A 1BH
+  - Doors 7:00, Show from ?
+  - The Old Crown, Holborn, London, WC1A 1BH
 * Jan 27th (Thu) - [Monkey Business](http://www.monkeybusinesscomedyclub.co.uk/)
   - Doors 7:00, Show from 8:00
-  - 31 Jamestown Road, Camden, London,NW1 7DB
+  - 31 Jamestown Road, Camden, London, NW1 7DB
 * Feb 3rd (Thu) - [Up the Creek](https://up-the-creek.com)
   - Doors 7:00, Show from 8:00
   - 302 Creek Rd, London, SE10 9SW
@@ -31,12 +26,23 @@ Upcoming Gigs
   - Doors 8:00, Show from 8:30
   - The People's Park Tavern, 360 Victoria Road, London, E9 7BT
 
-[Find The AR Comedian on Instagram!](https://www.instagram.com/tansaku/)
+Find The AR Comedian on:
+
+* [Instagram!](https://www.instagram.com/tansaku/)
+* [Twitter!](https://www.twitter.com/tansakuu/)
 
 ----
 
 Past Gigs
 =========
+* Jan 20th (Thu) - [Monkey Business](http://www.monkeybusinesscomedyclub.co.uk/)
+  - 8m "Super Ego"
+  - Doors 7:00, Show from 8:00
+  - 31 Jamestown Road, Camden, London, NW1 7DB
+* Jan 17th (Mon) - [Lollipops](https://www.facebook.com/lolipopslivecomedy) (bringer)
+  - 5m "On Your Face"
+  - Doors 6:30, Show from 7:00
+  - The Carlton Tavern, London, NW5 5EU
 * Jan 14th (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles) (bringer)
   - 5m "Aide de Memoire"
   - Doors 7:30, Show from 8:00
