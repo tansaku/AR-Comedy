@@ -7,12 +7,18 @@ Upcoming Gigs
 * Jan 27th (Thu) - [Monkey Business](http://www.monkeybusinesscomedyclub.co.uk/)
   - Doors 7:00, Show from 8:00
   - 31 Jamestown Road, Camden, London, NW1 7DB
+* Jan 30th (Sun) - [Trinity Open Mic](https://www.facebook.com/Trinity-Sunday-Sessions-Open-Mic-108196944960106)
+  - Show from 2:00 (till 6:00)  
+  - 378-380 Station Road, Harrow, London, HA1 2DE
 * Feb 3rd (Thu) - [Up the Creek](https://up-the-creek.com)
   - Doors 7:00, Show from 8:00
   - 302 Creek Rd, London, SE10 9SW
 * Feb 7th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors ?, Show from ?
   - The Comedy Pub, 7 Oxendon Street, London, SW1Y 4EE
+* Feb 9th (Wed) - [Acid with Jesus at the Nelsons](https://www.thenelsonspub.com/) (TBC)
+  - Doors 7, Show from ?
+  - The Nelson's Pub, 32 Horatio St, London, E2 7SB
 * Feb 23rd (Wed) - [Big Nose Comedy](https://www.facebook.com/bignosecomedy) (bringer)
   - Doors 7:30?, Show from 8:00
   - Boogaloo, 312 Archway Rd, Highgate, London N6 5AT
