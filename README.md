@@ -1,9 +1,6 @@
 Upcoming Gigs
 =============
 
-* Jan 24th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (bringer)
-  - Doors 7:00, Show from ?
-  - The Old Crown, Holborn, London, WC1A 1BH
 * Jan 27th (Thu) - [Monkey Business](http://www.monkeybusinesscomedyclub.co.uk/)
   - Doors 7:00, Show from 8:00
   - 31 Jamestown Road, Camden, London, NW1 7DB
@@ -28,6 +25,9 @@ Upcoming Gigs
 * Mar 3rd (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight/) (TBC)
   - Doors ?, Show from ?
   - The Tram Depot, 5 Dover St., Cambridge CB1 1DY
+* Mar 6th (Sun) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (bringer)
+  - Doors ?, Show from ?
+  - The Star of Kings, 126 York Way, London, N1 0AX
 * Apr 5th (Tue) - [Comedy Lab UK](http://www.facebook.com/comedylabuk)
   - Doors 8:00, Show from 8:30
   - The People's Park Tavern, 360 Victoria Road, London, E9 7BT
@@ -41,6 +41,10 @@ Find The AR Comedian on:
 
 Past Gigs
 =========
+* Jan 24th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (bringer)
+  - 5m "Mid-life crisis"
+  - Doors 7:00, Show from 7:30
+  - The Old Crown, Holborn, London, WC1A 1BH
 * Jan 20th (Thu) - [Monkey Business](http://www.monkeybusinesscomedyclub.co.uk/)
   - 8m "Super Ego"
   - Doors 7:00, Show from 8:00
