@@ -13,7 +13,7 @@ Upcoming Gigs
 * Feb 9th (Wed) - [Acid with Jesus at the Nelsons](https://www.thenelsonspub.com/) (TBC)
   - Doors 7, Show from ?
   - The Nelson's Pub, 32 Horatio St, London, E2 7SB
-* Feb 2st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (bringer)
+* Feb 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (bringer)
   - Doors 7:00, Show from 7:30
   - The Old Crown, Holborn, London, WC1A 1BH
 * Feb 23rd (Wed) - [Big Nose Comedy](https://www.facebook.com/bignosecomedy) (bringer)
