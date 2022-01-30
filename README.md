@@ -1,9 +1,6 @@
 Upcoming Gigs
 =============
 
-* Jan 30th (Sun) - [Trinity Open Mic](https://www.facebook.com/Trinity-Sunday-Sessions-Open-Mic-108196944960106)
-  - Show from 2:00 (till 6:00)  
-  - 378-380 Station Road, Harrow, London, HA1 2DE
 * Feb 3rd (Thu) - [Up the Creek](https://up-the-creek.com)
   - Doors 7:00, Show from 8:00
   - 302 Creek Rd, London, SE10 9SW
@@ -42,9 +39,13 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Jan 30th (Sun) - [Trinity Open Mic](https://www.facebook.com/Trinity-Sunday-Sessions-Open-Mic-108196944960106)
+  - 15m "Mid-life Crisis & Super Ego"
+  - Show from 2:00 (till 6:00)  
+  - 378-380 Station Road, Harrow, London, HA1 2DE
 * Jan 27th (Thu) - [Monkey Business](http://www.monkeybusinesscomedyclub.co.uk/)
   - 8m "Mid-life Crisis"
-  - 5m "Trouble Communicatiung"
+  - 5m "Trouble Communicating"
   - Doors 7:00, Show from 8:00
   - 31 Jamestown Road, Camden, London, NW1 7DB
 * Jan 24th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (bringer)
