@@ -1,9 +1,6 @@
 Upcoming Gigs
 =============
 
-* Feb 3rd (Thu) - [Up the Creek](https://up-the-creek.com)
-  - Doors 7:00, Show from 8:00
-  - 302 Creek Rd, London, SE10 9SW
 * Feb 7th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors ?, Show from ?
   - The Comedy Pub, 7 Oxendon Street, London, SW1Y 4EE
@@ -39,6 +36,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Feb 3rd (Thu) - [Up the Creek](https://up-the-creek.com)
+  - 2m "Star Trek"
+  - Doors 7:00, Show from 8:00
+  - 302 Creek Rd, London, SE10 9SW
 * Jan 30th (Sun) - [Trinity Open Mic](https://www.facebook.com/Trinity-Sunday-Sessions-Open-Mic-108196944960106)
   - 15m "Mid-life Crisis & Super Ego"
   - Show from 2:00 (till 6:00)  
