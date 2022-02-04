@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Up The Creek"
 date: 2022-02-03 22:00:00 -0000
 categories: blackout gong competition
