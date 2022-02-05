@@ -2,18 +2,18 @@
 title: "Up The Creek"
 date: 2022-02-03 22:00:00 -0000
 categories: blackout gong competition
-published: true
+published: false
 ---
 
 Well not so nervous today, directing the day at work. Pretty tired. Maybe that helps. Slight frisson of excitement getting the DLR to the place. 
 
 Routine of practicing walking over the river helps me feel it’s all under control. Practice each night helps too.  
 
-This is just another gig. There are two more next week. Independently of how this one goes feels like I might want to develop something new for next week? Just thinking i want a largely new set for when i get back to rising stars Monday after next
+This is just another gig. There are two more next week. Independently of how this one goes feels like I might want to develop something new for next week? Just thinking I want a largely new set for when i get back to rising stars Monday after next
 
 Maybe old Norse ideas, and …? I guess experimenting with pattern of misdirection wasabi and wordplay palate cleansers …
 
-Of course if i get blacked out I’ll try the same again next week, on Monday at least …
+Of course if I get blacked out I’ll try the same again next week, on Monday at least …
 
 Other comedians
 * Mark Flynn
@@ -36,6 +36,9 @@ Other comedians
 Other gigs
 * mirth control
 * Westend (liam)
+
+
+Post gig:
 
 So the first 5 acts all made the five, but now they’ve changed who’s holding the cards, and the next two were cut off quite brutally
 
