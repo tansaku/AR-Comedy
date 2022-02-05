@@ -2,10 +2,10 @@ Upcoming Gigs
 =============
 
 * Feb 7th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
-  - Doors ?, Show from ?
+  - Doors ?, Show from 7:00
   - The Comedy Pub, 7 Oxendon Street, London, SW1Y 4EE
 * Feb 9th (Wed) - [Acid with Jesus at the Nelsons](https://www.thenelsonspub.com/) (TBC)
-  - Doors 7, Show from ?
+  - Doors ?, Show from 7:00
   - The Nelson's Pub, 32 Horatio St, London, E2 7SB
 * Feb 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (bringer)
   - Doors 7:00, Show from 7:30
@@ -20,7 +20,7 @@ Upcoming Gigs
   - Doors ?, Show from ?
   - The Tram Depot, 5 Dover St., Cambridge CB1 1DY
 * Mar 6th (Sun) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (bringer)
-  - Doors ?, Show from ?
+  - Doors 3:00, Show from 3:30
   - The Star of Kings, 126 York Way, London, N1 0AX
 * Apr 5th (Tue) - [Comedy Lab UK](http://www.facebook.com/comedylabuk)
   - Doors 8:00, Show from 8:30
