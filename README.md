@@ -11,7 +11,7 @@ Upcoming Gigs
   - Doors 7:00, Show from 7:30
   - The Old Crown, Holborn, London, WC1A 1BH
 * Feb 23rd (Wed) - [Big Nose Comedy](https://www.facebook.com/bignosecomedy) (bringer)
-  - Doors 7:30?, Show from 8:00
+  - Doors 7:30, Show from 8:00
   - Boogaloo, 312 Archway Rd, Highgate, London N6 5AT
 * Feb 27th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (bringer)
   - Doors 6:30, Show from 7:00
@@ -25,6 +25,9 @@ Upcoming Gigs
 * Apr 5th (Tue) - [Comedy Lab UK](http://www.facebook.com/comedylabuk)
   - Doors 8:00, Show from 8:30
   - The People's Park Tavern, 360 Victoria Road, London, E9 7BT
+* Apr 18th (Mon)) - [Jester Jesters](/https://www.facebook.com/jjesters) (TBC)
+  - Doors 7:00?, Show from ?
+  - The Betsey Trotwood, 56 Farringdon Road, London, EC1R 3BL
 
 Find The AR Comedian on:
 
