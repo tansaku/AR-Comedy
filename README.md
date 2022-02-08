@@ -1,9 +1,6 @@
 Upcoming Gigs
 =============
 
-* Feb 7th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
-  - Doors ?, Show from 7:00
-  - The Comedy Pub, 7 Oxendon Street, London, SW1Y 4EE
 * Feb 9th (Wed) - [Acid with Jesus at the Nelsons](https://www.thenelsonspub.com/) (TBC)
   - Doors ?, Show from 7:00
   - The Nelson's Pub, 32 Horatio St, London, E2 7SB
@@ -22,6 +19,9 @@ Upcoming Gigs
 * Mar 6th (Sun) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (bringer)
   - Doors 3:00, Show from 3:30
   - The Star of Kings, 126 York Way, London, N1 0AX
+* Mar 28th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
+  - Doors 6:30, Show from 7:00
+  - The Comedy Pub, 7 Oxendon Street, London, SW1Y 4EE
 * Apr 5th (Tue) - [Comedy Lab UK](http://www.facebook.com/comedylabuk)
   - Doors 8:00, Show from 8:30
   - The People's Park Tavern, 360 Victoria Road, London, E9 7BT
@@ -39,6 +39,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Feb 7th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
+  - 5m "Shattered Personality"
+  - Doors 6:30, Show from 7:00
+  - The Comedy Pub, 7 Oxendon Street, London, SW1Y 4EE
 * Feb 3rd (Thu) - [Up the Creek](https://up-the-creek.com)
   - 2m "Star Trek"
   - Doors 7:00, Show from 8:00
