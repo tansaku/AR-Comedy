@@ -1,9 +1,6 @@
 Upcoming Gigs
 =============
 
-* Feb 9th (Wed) - [Acid with Jesus at the Nelsons](https://www.thenelsonspub.com/) (TBC)
-  - Doors ?, Show from 7:00
-  - The Nelson's Pub, 32 Horatio St, London, E2 7SB
 * Feb 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (bringer)
   - Doors 7:00, Show from 7:30
   - The Old Crown, Holborn, London, WC1A 1BH
@@ -39,6 +36,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Feb 9th (Wed) - [Acid with Jesus at the Nelsons](https://www.thenelsonspub.com/)
+  - 7m "Shattered Personality"
+  - Doors 6:30, Show from 7:00
+  - The Nelson's Pub, 32 Horatio St, London, E2 7SB
 * Feb 7th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - 5m "Shattered Personality"
   - Doors 6:30, Show from 7:00
