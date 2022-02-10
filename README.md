@@ -16,6 +16,9 @@ Upcoming Gigs
 * Mar 6th (Sun) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (bringer)
   - Doors 3:00, Show from 3:30
   - The Star of Kings, 126 York Way, London, N1 0AX
+* Mar 13th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy)
+  - Show from 6:30
+  - The Castle Pub, King Charles Road, Surbiton Surrey KT5 8SB
 * Mar 28th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 6:30, Show from 7:00
   - The Comedy Pub, 7 Oxendon Street, London, SW1Y 4EE
