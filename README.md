@@ -22,6 +22,9 @@ Upcoming Gigs
 * Mar 28th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 6:30, Show from 7:00
   - The Comedy Pub, 7 Oxendon Street, London, SW1Y 4EE
+* Apr 1st (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles) (bringer)
+  - Doors 7:30, Show from 8:00
+  - The Trinity Pub, Borough, London, SE1 1JX
 * Apr 5th (Tue) - [Comedy Lab UK](http://www.facebook.com/comedylabuk)
   - Doors 8:00, Show from 8:30
   - The People's Park Tavern, 360 Victoria Road, London, E9 7BT
