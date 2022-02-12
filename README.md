@@ -28,9 +28,12 @@ Upcoming Gigs
 * Apr 5th (Tue) - [Comedy Lab UK](http://www.facebook.com/comedylabuk)
   - Doors 8:00, Show from 8:30
   - The People's Park Tavern, 360 Victoria Road, London, E9 7BT
-* Apr 18th (Mon)) - [Jester Jesters](/https://www.facebook.com/jjesters) (TBC)
+* Apr 18th (Mon)) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:00?, Show from ?
   - The Betsey Trotwood, 56 Farringdon Road, London, EC1R 3BL
+* Apr 20th (Wed)) - [first showcase round of So You Think You’re Funny? 2022](https://soyouthinkyourefunny.co.uk/) 
+  - Doors 6:30, Show from 7:30
+  - Zoom
 
 Find The AR Comedian on:
 
