@@ -1,18 +1,12 @@
 Upcoming Gigs
 =============
 
-* Feb 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (bringer)
-  - Doors 7:00, Show from 7:30
-  - The Old Crown, Holborn, London, WC1A 1BH
 * Feb 23rd (Wed) - [Big Nose Comedy](https://www.facebook.com/bignosecomedy) (bringer)
   - Doors 7:30, Show from 8:00
   - Boogaloo, 312 Archway Rd, Highgate, London N6 5AT
 * Feb 27th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (bringer)
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
-* Mar 3rd (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight/) (TBC)
-  - Doors ?, Show from ?
-  - The Tram Depot, 5 Dover St., Cambridge CB1 1DY
 * Mar 6th (Sun) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (bringer)
   - Doors 3:00, Show from 3:30
   - The Star of Kings, 126 York Way, London, N1 0AX
@@ -34,7 +28,7 @@ Upcoming Gigs
 * Apr 18th (Mon)) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:00?, Show from ?
   - The Betsey Trotwood, 56 Farringdon Road, London, EC1R 3BL
-* Apr 20th (Wed)) - [first showcase round of So You Think You’re Funny? 2022](https://soyouthinkyourefunny.co.uk/) 
+* Apr 20th (Wed)) - [First showcase round of So You Think You’re Funny? 2022](https://soyouthinkyourefunny.co.uk/) 
   - Doors 6:30, Show from 7:30
   - Zoom
 
@@ -48,6 +42,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Feb 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (bringer)
+  - 5m "Middle Class"
+  - Doors 7:00, Show from 7:30
+  - The Old Crown, Holborn, London, WC1A 1BH
 * Feb 9th (Wed) - [Acid with Jesus at the Nelsons](https://www.thenelsonspub.com/)
   - 7m "Shattered Personality"
   - Doors 6:30, Show from 7:00
