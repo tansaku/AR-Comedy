@@ -1,9 +1,6 @@
 Upcoming Gigs
 =============
 
-* Feb 23rd (Wed) - [Big Nose Comedy](https://www.facebook.com/bignosecomedy) (bringer)
-  - Doors 7:30, Show from 8:00
-  - Boogaloo, 312 Archway Rd, Highgate, London N6 5AT
 * Feb 27th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (bringer)
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
@@ -48,6 +45,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Feb 23rd (Wed) - [Big Nose Comedy](https://www.facebook.com/bignosecomedy) (bringer)
+  - 4m "Middle Class"
+  - Doors 7:30, Show from 8:00
+  - Boogaloo, 312 Archway Rd, Highgate, London N6 5AT
 * Feb 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (bringer)
   - 5m "Middle Class"
   - Doors 7:00, Show from 7:30
