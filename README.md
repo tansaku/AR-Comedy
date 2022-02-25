@@ -7,6 +7,9 @@ Upcoming Gigs
 * Feb 27th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (bringer)
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
+* Mar 3rd (Thu) - [Comedy at the Birkbeck](https://www.facebook.com/groups/2579005315654413)
+  - Doors 7:00, Show from 7:30
+  - The Birkbeck Tavern, 45 Langthorne Road, Leyton E11 4HL
 * Mar 6th (Sun) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (bringer)
   - Doors 3:00, Show from 3:30
   - The Star of Kings, 126 York Way, London, N1 0AX
