@@ -1,9 +1,6 @@
 Upcoming Gigs
 =============
 
-* Feb 27th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (bringer)
-  - Doors 6:30, Show from 7:00
-  - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
 * Mar 3rd (Thu) - [Comedy at the Birkbeck](https://www.facebook.com/groups/2579005315654413)
   - Doors 7:00, Show from 7:30
   - The Birkbeck Tavern, 45 Langthorne Road, Leyton E11 4HL
@@ -45,6 +42,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Feb 27th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (bringer)
+  - 5m "Time Twister"
+  - Doors 6:30, Show from 7:00
+  - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
 * Feb 23rd (Wed) - [Big Nose Comedy](https://www.facebook.com/bignosecomedy) (bringer)
   - 4m "Middle Class"
   - Doors 7:30, Show from 8:00
