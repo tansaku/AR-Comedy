@@ -1,22 +1,25 @@
 Upcoming Gigs
 =============
 
-* Mar 3rd (Thu) - [Comedy at the Birkbeck](https://www.facebook.com/groups/2579005315654413)
-  - Doors 7:00, Show from 7:30
-  - The Birkbeck Tavern, 45 Langthorne Road, Leyton E11 4HL
 * Mar 6th (Sun) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (found bringer)
   - Doors 3:00, Show from 3:30
   - The Star of Kings, 126 York Way, London, N1 0AX
 * Mar 13th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy)
   - Show from 6:30
   - The Castle Pub, King Charles Road, Surbiton Surrey KT5 8SB
+* Mar 16th (Wed) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (being a bringer)
+  - Doors 7, Show from 7:30
+  - Arch1 in West ham
+* Mar 17th (Thu) - [Joker Comedy](https://www.facebook.com/jokercomedyearlscourt) (being a bringer)
+  - Doors ?, Show from ?
+  - The Bolton Pub & Proeflokaal Rembrandt, 326 Earls Ct Rd, Earl's Court, London, United Kingdom
 * Mar 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (seeking bringer)
   - Doors 7:00, Show from 7:30
-  - The Old Crown, Holborn, London, WC1A 1BH  
+  - The Old Crown, Holborn, London, WC1A 1BH
 * Mar 28th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 6:30, Show from 7:00
   - The Comedy Pub, 7 Oxendon Street, London, SW1Y 4EE
-* Apr 1st (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles) (seeking bringer)
+* Apr 1st (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles) (found bringer)
   - Doors 7:30, Show from 8:00
   - The Trinity Pub, Borough, London, SE1 1JX
 * Apr 5th (Tue) - [Comedy Lab UK](http://www.facebook.com/comedylabuk)
@@ -42,6 +45,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Mar 3rd (Thu) - [Comedy at the Birkbeck](https://www.facebook.com/groups/2579005315654413)
+  - 5m "Time Twister"
+  - Doors 7:00, Show from 7:30
+  - The Birkbeck Tavern, 45 Langthorne Road, Leyton E11 4HL
 * Feb 27th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (bringer)
   - 5m "Time Twister"
   - Doors 6:30, Show from 7:00
