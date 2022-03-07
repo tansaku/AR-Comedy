@@ -1,9 +1,6 @@
 Upcoming Gigs
 =============
 
-* Mar 6th (Sun) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (found bringer)
-  - Doors 3:00, Show from 3:30
-  - The Star of Kings, 126 York Way, London, N1 0AX
 * Mar 13th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy)
   - Show from 6:30
   - The Castle Pub, King Charles Road, Surbiton Surrey KT5 8SB
@@ -45,19 +42,23 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Mar 6th (Sun) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (Thanks to bringer [Osman Shibili][https://www.instagram.com/osmanshibli/])
+  - 5m "Identity"
+  - Doors 3:00, Show from 3:30
+  - The Star of Kings, 126 York Way, London, N1 0AX
 * Mar 3rd (Thu) - [Comedy at the Birkbeck](https://www.facebook.com/groups/2579005315654413)
   - 5m "Time Twister"
   - Doors 7:00, Show from 7:30
   - The Birkbeck Tavern, 45 Langthorne Road, Leyton E11 4HL
-* Feb 27th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (bringer)
+* Feb 27th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (Thanks to bringer Nick Joseph)
   - 5m "Time Twister"
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
-* Feb 23rd (Wed) - [Big Nose Comedy](https://www.facebook.com/bignosecomedy) (bringer)
+* Feb 23rd (Wed) - [Big Nose Comedy](https://www.facebook.com/bignosecomedy) (Failed to find bringer ;-( )
   - 4m "Middle Class"
   - Doors 7:30, Show from 8:00
   - Boogaloo, 312 Archway Rd, Highgate, London N6 5AT
-* Feb 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (bringer)
+* Feb 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (Thanks to Bringer [Wes Defoe](https://www.instagram.com/wesdefoe/))
   - 5m "Middle Class"
   - Doors 7:00, Show from 7:30
   - The Old Crown, Holborn, London, WC1A 1BH
@@ -82,7 +83,7 @@ Past Gigs
   - 5m "Trouble Communicating"
   - Doors 7:00, Show from 8:00
   - 31 Jamestown Road, Camden, London, NW1 7DB
-* Jan 24th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (bringer)
+* Jan 24th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (Failed to find bringer :-( )
   - 5m "Mid-life Crisis"
   - Doors 7:00, Show from 7:30
   - The Old Crown, Holborn, London, WC1A 1BH
@@ -90,15 +91,15 @@ Past Gigs
   - 8m "Super Ego"
   - Doors 7:00, Show from 8:00
   - 31 Jamestown Road, Camden, London, NW1 7DB
-* Jan 17th (Mon) - [Lollipops](https://www.facebook.com/lolipopslivecomedy) (bringer)
+* Jan 17th (Mon) - [Lollipops](https://www.facebook.com/lolipopslivecomedy) (Thanks to bringer [Craig Craw](https://www.instagram.com/craigcrawmedy/))
   - 5m "On Your Face"
   - Doors 6:30, Show from 7:00
   - The Carlton Tavern, London, NW5 5EU
-* Jan 14th (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles) (bringer)
+* Jan 14th (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles) (Thanks to bringer Stevie)
   - 5m "Aide de Memoire"
   - Doors 7:30, Show from 8:00
   - The Trinity Pub, Borough, London, SE1 1JX
-* Jan 12th (Wed) - [Not Another Comedy Night](https://www.facebook.com/notanothercomedynight/) (bringer)
+* Jan 12th (Wed) - [Not Another Comedy Night](https://www.facebook.com/notanothercomedynight/) (Thanks to bringer Gui)
   - 5m "Aide de Memoire"
   - Doors 7:30, Show from 8:00
   - The Florence Pub, Herne Hill, SE24 0NG
