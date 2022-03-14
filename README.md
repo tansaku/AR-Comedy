@@ -1,9 +1,6 @@
 Upcoming Gigs
 =============
 
-* Mar 13th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy)
-  - Show from 6:30
-  - The Castle Pub, King Charles Road, Surbiton Surrey KT5 8SB
 * Mar 16th (Wed) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (being a bringer)
   - Doors 7, Show from 7:30
   - Arch1 in West ham
@@ -42,6 +39,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Mar 13th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy)
+  - 10m "Identity and Supermarket-fu"
+  - Show from 6:30
+  - The Castle Pub, King Charles Road, Surbiton Surrey KT5 8SB
 * Mar 6th (Sun) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (Thanks to bringer [Osman Shibili][https://www.instagram.com/osmanshibli/])
   - 5m "Identity"
   - Doors 3:00, Show from 3:30
