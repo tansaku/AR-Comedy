@@ -3,10 +3,10 @@ Upcoming Gigs
 
 * Mar 16th (Wed) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (being a bringer)
   - Doors 7, Show from 7:30
-  - Arch1 in West ham
+  - Arch One, Cranberry Lane, London, E16 4BJ
 * Mar 17th (Thu) - [Joker Comedy](https://www.facebook.com/jokercomedyearlscourt) (being a bringer)
-  - Doors ?, Show from ?
-  - The Bolton Pub & Proeflokaal Rembrandt, 326 Earls Ct Rd, Earl's Court, London, United Kingdom
+  - Doors 7, Show from 7:30
+  - The Bolton Pub & Proeflokaal Rembrandt, 326 Earls Ct Rd, Earl's Court, London, SW5 9BQ
 * Mar 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - The Old Crown, Holborn, London, WC1A 1BH
@@ -28,6 +28,12 @@ Upcoming Gigs
 * Apr 20th (Wed) - [First showcase round of So You Think You’re Funny? 2022](https://soyouthinkyourefunny.co.uk/) 
   - Doors 6:30, Show from 7:30
   - Zoom
+* May 1st (Sun) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (seeking bringer) 
+  - Doors 3:00, Show from 3:30
+  - The Star of Kings, 126 York Way, London, N1 0AX
+* May 29th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (TBC) (seeking bringer) 
+  - Doors 6:30, Show from 7:00
+  - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
 
 Find The AR Comedian on:
 
