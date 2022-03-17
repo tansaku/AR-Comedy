@@ -1,9 +1,6 @@
 Upcoming Gigs
 =============
 
-* Mar 16th (Wed) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (being a bringer)
-  - Doors 7, Show from 7:30
-  - Arch One, Cranberry Lane, London, E16 4BJ
 * Mar 17th (Thu) - [Joker Comedy](https://www.facebook.com/jokercomedyearlscourt) (being a bringer)
   - Doors 7, Show from 7:30
   - The Bolton Pub & Proeflokaal Rembrandt, 326 Earls Ct Rd, Earl's Court, London, SW5 9BQ
@@ -127,4 +124,8 @@ Past Gigs
   - Show 6:30
   - Karma Sanctum, 20 Warwick Street, Soho, London, W1B 5NF.
 
-
+Gigs Where I was Brought
+------------------------
+* Mar 16th (Wed) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (being a bringer)
+  - Doors 7, Show from 7:30
+  - Arch One, Cranberry Lane, London, E16 4BJ
