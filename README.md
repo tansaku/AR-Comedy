@@ -1,9 +1,6 @@
 Upcoming Gigs
 =============
 
-* Mar 17th (Thu) - [Joker Comedy](https://www.facebook.com/jokercomedyearlscourt) (being a bringer)
-  - Doors 7, Show from 7:30
-  - The Bolton Pub & Proeflokaal Rembrandt, 326 Earls Ct Rd, Earl's Court, London, SW5 9BQ
 * Mar 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - The Old Crown, Holborn, London, WC1A 1BH
@@ -28,6 +25,9 @@ Upcoming Gigs
 * May 1st (Sun) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (seeking bringer) 
   - Doors 3:00, Show from 3:30
   - The Star of Kings, 126 York Way, London, N1 0AX
+* May 5th (Thur) - [Quintissential Comedy](https://www.facebook.com/quinntessentialcomedy) (seeking bringer) 
+  - Doors ??? Show from 7:30
+  - Quinn's Pub, 65 Kentish Town Road, London, GB NW1 8NY
 * May 29th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (TBC) (seeking bringer) 
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
@@ -129,3 +129,6 @@ Gigs Where I was Brought
 * Mar 16th (Wed) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (being a bringer)
   - Doors 7, Show from 7:30
   - Arch One, Cranberry Lane, London, E16 4BJ
+* Mar 17th (Thu) - [Joker Comedy](https://www.facebook.com/jokercomedyearlscourt) (being a bringer)
+  - Doors 7, Show from 7:30
+  - The Bolton Pub & Proeflokaal Rembrandt, 326 Earls Ct Rd, Earl's Court, London, SW5 9BQ
