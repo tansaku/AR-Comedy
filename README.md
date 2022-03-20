@@ -22,6 +22,9 @@ Upcoming Gigs
 * Apr 20th (Wed) - [First showcase round of So You Think You’re Funny? 2022](https://soyouthinkyourefunny.co.uk/) 
   - Doors 6:30, Show from 7:30
   - Zoom
+* Apr 25th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (seeking bringer)
+  - Doors 7:00, Show from 7:30
+  - The Old Crown, Holborn, London, WC1A 1BH  
 * May 1st (Sun) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (seeking bringer) 
   - Doors 3:00, Show from 3:30
   - The Star of Kings, 126 York Way, London, N1 0AX
