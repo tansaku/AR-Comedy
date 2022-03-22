@@ -1,15 +1,21 @@
 Upcoming Gigs
 =============
 
-* Mar 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (seeking bringer)
-  - Doors 7:00, Show from 7:30
-  - The Old Crown, Holborn, London, WC1A 1BH
+* Mar 22nd (Tue) - [TNT Comedy Club](https://www.facebook.com/groups/341746814250) (being a bringer)
+  - Doors 7:45, Show from 8:00
+  - The Vine Pub, 86 Highgate Rd, London, NW5 1PB
+* Mar 24th (Thu) - [Arts Evening Charity Fundraiser for Ukraine](https://www.departmentofcoffee.com/)
+  - Show from 7:00
+  - Department of Coffee and Social Affairs, 3 Lowndes Court, Soho, London, W1F 7HD
 * Mar 28th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 6:30, Show from 7:00
   - The Comedy Pub, 7 Oxendon Street, London, SW1Y 4EE
 * Apr 1st (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles) (found bringer)
   - Doors 7:30, Show from 8:00
   - The Trinity Pub, Borough, London, SE1 1JX
+* Apr 4th (Mon) - [Competition Open Mic Night](https://giggag.co.uk/gig/competition-open-mic-night-2022-04-0416) (seeking bringer)
+  - Doors 7:30, Show from 8:00
+  - The North Star pub, 104 Finchley Road, London, NW3 5JJ
 * Apr 5th (Tue) - [Comedy Lab UK](http://www.facebook.com/comedylabuk)
   - Doors 8:00, Show from 8:30
   - The People's Park Tavern, 360 Victoria Road, London, E9 7BT
@@ -45,6 +51,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Mar 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (Thanks to bringer[Taylor Simpson](https://www.instagram.com/taylordsimpson/))
+  - 5m "Identity"
+  - Doors 7:00, Show from 7:30
+  - The Old Crown, Holborn, London, WC1A 1BH
 * Mar 13th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy)
   - 10m "Identity and Supermarket-fu"
   - Show from 6:30
@@ -127,7 +137,7 @@ Past Gigs
   - Show 6:30
   - Karma Sanctum, 20 Warwick Street, Soho, London, W1B 5NF.
 
-Gigs Where I was Brought
+Gigs I Attended as a Bringer
 ------------------------
 * Mar 16th (Wed) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (being a bringer)
   - Doors 7, Show from 7:30
