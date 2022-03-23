@@ -1,11 +1,8 @@
 Upcoming Gigs
 =============
 
-* Mar 22nd (Tue) - [TNT Comedy Club](https://www.facebook.com/groups/341746814250) (being a bringer)
-  - Doors 7:45, Show from 8:00
-  - The Vine Pub, 86 Highgate Rd, London, NW5 1PB
 * Mar 24th (Thu) - [Arts Evening Charity Fundraiser for Ukraine](https://www.departmentofcoffee.com/)
-  - Show from 7:00
+  - Doors 6:00, Show from 7:00
   - Department of Coffee and Social Affairs, 3 Lowndes Court, Soho, London, W1F 7HD
 * Mar 28th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 6:30, Show from 7:00
@@ -19,7 +16,7 @@ Upcoming Gigs
 * Apr 5th (Tue) - [Comedy Lab UK](http://www.facebook.com/comedylabuk)
   - Doors 8:00, Show from 8:30
   - The People's Park Tavern, 360 Victoria Road, London, E9 7BT
-* Apr 7th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight) (TBC)
+* Apr 7th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
   - Doors 7:30, Show from 8:00
   - The Tram Depot, 5 Dover St, Cambridge CB1 1DY
 * Apr 18th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
@@ -139,6 +136,10 @@ Past Gigs
 
 Gigs I Attended as a Bringer
 ------------------------
+
+* Mar 22nd (Tue) - [TNT Comedy Club](https://www.facebook.com/groups/341746814250) (being a bringer)
+  - Doors 7:45, Show from 8:00
+  - The Vine Pub, 86 Highgate Rd, London, NW5 1PB
 * Mar 16th (Wed) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (being a bringer)
   - Doors 7, Show from 7:30
   - Arch One, Cranberry Lane, London, E16 4BJ
