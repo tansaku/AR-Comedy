@@ -1,9 +1,6 @@
 Upcoming Gigs
 =============
 
-* Mar 24th (Thu) - [Arts Evening Charity Fundraiser for Ukraine](https://www.departmentofcoffee.com/)
-  - Doors 6:00, Show from 7:00
-  - Department of Coffee and Social Affairs, 3 Lowndes Court, Soho, London, W1F 7HD
 * Mar 28th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 6:30, Show from 7:00
   - The Comedy Pub, 7 Oxendon Street, London, SW1Y 4EE
@@ -28,6 +25,9 @@ Upcoming Gigs
 * Apr 25th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - The Old Crown, Holborn, London, WC1A 1BH  
+* Apr 28th (Thu) - Free Cockerel
+  - Doors ???
+  - Maidenhead  
 * May 1st (Sun) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (seeking bringer) 
   - Doors 3:00, Show from 3:30
   - The Star of Kings, 126 York Way, London, N1 0AX
@@ -48,6 +48,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Mar 24th (Thu) - [Arts Evening Charity Fundraiser for Ukraine](https://www.departmentofcoffee.com/)
+  - MCing
+  - Doors 6:00, Show from 7:00
+  - Department of Coffee and Social Affairs, 3 Lowndes Court, Soho, London, W1F 7HD
 * Mar 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (Thanks to bringer[Taylor Simpson](https://www.instagram.com/taylordsimpson/))
   - 5m "Identity"
   - Doors 7:00, Show from 7:30
@@ -56,7 +60,7 @@ Past Gigs
   - 10m "Identity and Supermarket-fu"
   - Show from 6:30
   - The Castle Pub, King Charles Road, Surbiton Surrey KT5 8SB
-* Mar 6th (Sun) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (Thanks to bringer [Osman Shibili][https://www.instagram.com/osmanshibli/])
+* Mar 6th (Sun) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (Thanks to bringer [Osman Shibili](https://www.instagram.com/osmanshibli/)
   - 5m "Identity"
   - Doors 3:00, Show from 3:30
   - The Star of Kings, 126 York Way, London, N1 0AX
