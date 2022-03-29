@@ -1,9 +1,6 @@
 Upcoming Gigs
 =============
 
-* Mar 28th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
-  - Doors 6:30, Show from 7:00
-  - The Comedy Pub, 7 Oxendon Street, London, SW1Y 4EE
 * Apr 1st (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles) (found bringer)
   - Doors 7:30, Show from 8:00
   - The Trinity Pub, Borough, London, SE1 1JX
@@ -48,6 +45,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Mar 28th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
+  - 10m "Dangerous Animals"
+  - Doors 6:30, Show from 7:00
+  - The Comedy Pub, 7 Oxendon Street, London, SW1Y 4EE
 * Mar 24th (Thu) - [Arts Evening Charity Fundraiser for Ukraine](https://www.departmentofcoffee.com/)
   - MCing
   - Doors 6:00, Show from 7:00
