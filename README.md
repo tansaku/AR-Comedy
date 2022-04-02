@@ -1,10 +1,7 @@
 Upcoming Gigs
 =============
 
-* Apr 1st (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles) (found bringer)
-  - Doors 7:30, Show from 8:00
-  - The Trinity Pub, Borough, London, SE1 1JX
-* Apr 4th (Mon) - [Competition Open Mic Night](https://giggag.co.uk/gig/competition-open-mic-night-2022-04-0416) (seeking bringer)
+* Apr 4th (Mon) - [Competition Open Mic Night](https://giggag.co.uk/gig/competition-open-mic-night-2022-04-0416) (found bringer)
   - Doors 7:30, Show from 8:00
   - The North Star pub, 104 Finchley Road, London, NW3 5JJ
 * Apr 5th (Tue) - [Comedy Lab UK](http://www.facebook.com/comedylabuk)
@@ -45,6 +42,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Apr 1st (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles) (Thanks to bringer Will Davies!)
+  - 5m "Dangerous Animals"
+  - Doors 7:30, Show from 8:00
+  - The Trinity Pub, Borough, London, SE1 1JX
 * Mar 28th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - 10m "Dangerous Animals"
   - Doors 6:30, Show from 7:00
@@ -53,7 +54,7 @@ Past Gigs
   - MCing
   - Doors 6:00, Show from 7:00
   - Department of Coffee and Social Affairs, 3 Lowndes Court, Soho, London, W1F 7HD
-* Mar 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (Thanks to bringer[Taylor Simpson](https://www.instagram.com/taylordsimpson/))
+* Mar 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (Thanks to bringer [Taylor Simpson](https://www.instagram.com/taylordsimpson/)!)
   - 5m "Identity"
   - Doors 7:00, Show from 7:30
   - The Old Crown, Holborn, London, WC1A 1BH
@@ -61,7 +62,7 @@ Past Gigs
   - 10m "Identity and Supermarket-fu"
   - Show from 6:30
   - The Castle Pub, King Charles Road, Surbiton Surrey KT5 8SB
-* Mar 6th (Sun) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (Thanks to bringer [Osman Shibili](https://www.instagram.com/osmanshibli/)
+* Mar 6th (Sun) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (Thanks to bringer [Osman Shibili](https://www.instagram.com/osmanshibli/)!)
   - 5m "Identity"
   - Doors 3:00, Show from 3:30
   - The Star of Kings, 126 York Way, London, N1 0AX
@@ -69,7 +70,7 @@ Past Gigs
   - 5m "Time Twister"
   - Doors 7:00, Show from 7:30
   - The Birkbeck Tavern, 45 Langthorne Road, Leyton E11 4HL
-* Feb 27th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (Thanks to bringer Nick Joseph)
+* Feb 27th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (Thanks to bringer Nick Joseph!)
   - 5m "Time Twister"
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
@@ -77,7 +78,7 @@ Past Gigs
   - 4m "Middle Class"
   - Doors 7:30, Show from 8:00
   - Boogaloo, 312 Archway Rd, Highgate, London N6 5AT
-* Feb 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (Thanks to Bringer [Wes Defoe](https://www.instagram.com/wesdefoe/))
+* Feb 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (Thanks to Bringer [Wes Defoe](https://www.instagram.com/wesdefoe/)!)
   - 5m "Middle Class"
   - Doors 7:00, Show from 7:30
   - The Old Crown, Holborn, London, WC1A 1BH
@@ -110,15 +111,15 @@ Past Gigs
   - 8m "Super Ego"
   - Doors 7:00, Show from 8:00
   - 31 Jamestown Road, Camden, London, NW1 7DB
-* Jan 17th (Mon) - [Lollipops](https://www.facebook.com/lolipopslivecomedy) (Thanks to bringer [Craig Craw](https://www.instagram.com/craigcrawmedy/))
+* Jan 17th (Mon) - [Lollipops](https://www.facebook.com/lolipopslivecomedy) (Thanks to bringer [Craig Craw](https://www.instagram.com/craigcrawmedy/)!)
   - 5m "On Your Face"
   - Doors 6:30, Show from 7:00
   - The Carlton Tavern, London, NW5 5EU
-* Jan 14th (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles) (Thanks to bringer Stevie)
+* Jan 14th (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles) (Thanks to bringer Stevie H.!)
   - 5m "Aide de Memoire"
   - Doors 7:30, Show from 8:00
   - The Trinity Pub, Borough, London, SE1 1JX
-* Jan 12th (Wed) - [Not Another Comedy Night](https://www.facebook.com/notanothercomedynight/) (Thanks to bringer Gui)
+* Jan 12th (Wed) - [Not Another Comedy Night](https://www.facebook.com/notanothercomedynight/) (Thanks to bringer Gui!)
   - 5m "Aide de Memoire"
   - Doors 7:30, Show from 8:00
   - The Florence Pub, Herne Hill, SE24 0NG
