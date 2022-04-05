@@ -1,9 +1,6 @@
 Upcoming Gigs
 =============
 
-* Apr 4th (Mon) - [Competition Open Mic Night](https://giggag.co.uk/gig/competition-open-mic-night-2022-04-0416) (found bringer)
-  - Doors 7:30, Show from 8:00
-  - The North Star pub, 104 Finchley Road, London, NW3 5JJ
 * Apr 5th (Tue) - [Comedy Lab UK](http://www.facebook.com/comedylabuk)
   - Doors 8:00, Show from 8:30
   - The People's Park Tavern, 360 Victoria Road, London, E9 7BT
@@ -42,6 +39,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Apr 4th (Mon) - [Competition Open Mic Night](https://giggag.co.uk/gig/competition-open-mic-night-2022-04-0416) (found bringer)
+  - 5m "Magic Rings"
+  - Doors 7:30, Show from 8:00
+  - The North Star pub, 104 Finchley Road, London, NW3 5JJ
 * Apr 1st (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles) (Thanks to bringer Will Davies!)
   - 5m "Dangerous Animals"
   - Doors 7:30, Show from 8:00
