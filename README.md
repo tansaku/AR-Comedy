@@ -1,9 +1,6 @@
 Upcoming Gigs
 =============
 
-* Apr 5th (Tue) - [Comedy Lab UK](http://www.facebook.com/comedylabuk)
-  - Doors 8:00, Show from 8:30
-  - The People's Park Tavern, 360 Victoria Road, London, E9 7BT
 * Apr 7th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
   - Doors 7:30, Show from 8:00
   - The Tram Depot, 5 Dover St, Cambridge CB1 1DY
@@ -39,6 +36,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Apr 5th (Tue) - [Comedy Lab UK](http://www.facebook.com/comedylabuk)
+  - 5m "Magic Rings"
+  - Doors 8:00, Show from 8:30
+  - The People's Park Tavern, 360 Victoria Road, London, E9 7BT
 * Apr 4th (Mon) - [Competition Open Mic Night](https://giggag.co.uk/gig/competition-open-mic-night-2022-04-0416) (found bringer)
   - 5m "Magic Rings"
   - Doors 7:30, Show from 8:00
