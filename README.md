@@ -10,6 +10,9 @@ Upcoming Gigs
 * Apr 20th (Wed) - [First showcase round of So You Think You’re Funny? 2022](https://soyouthinkyourefunny.co.uk/) 
   - Doors 6:30, Show from 7:30
   - Zoom
+* Apr 21st (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/) 
+  - Doors ???, Show from 7:00
+  - No Such Place bar, 190 New North Road, Islington, N1 7BJ
 * Apr 25th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - The Old Crown, Holborn, London, WC1A 1BH  
