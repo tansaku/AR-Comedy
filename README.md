@@ -25,9 +25,15 @@ Upcoming Gigs
 * May 5th (Thur) - [Quintissential Comedy](https://www.facebook.com/quinntessentialcomedy) (seeking bringer) 
   - Doors ??? Show from 7:30
   - Quinn's Pub, 65 Kentish Town Road, London, GB NW1 8NY
+* May 23rd (Mon) - Nice and Spiky New Jokes Monday (TBC) (bringer?)
+  - Doors ???, Show from 7:30
+  - The Regent Pub in Angel Islington.
 * May 29th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (TBC) (seeking bringer) 
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
+* Jun 9th (Thu) - Comedy Bandits (bringer?)
+  - Doors ???, Show from ???
+  - ???
 
 Find The AR Comedian on:
 
