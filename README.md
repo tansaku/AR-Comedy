@@ -28,6 +28,9 @@ Upcoming Gigs
 * May 23rd (Mon) - Nice and Spiky New Jokes Monday (TBC) (bringer?)
   - Doors ???, Show from 7:30
   - The Regent Pub in Angel Islington.
+* May 27th (Fri) - [Cuddles for Troubles - ALT NIGHT](http://www.facebook.com/CuddlesforTroubles) (seeking bringer)
+  - Doors 7:30, Show from 8:00
+  - The Trinity Pub, Borough, London, SE1 1JX  
 * May 29th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (TBC) (seeking bringer) 
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
