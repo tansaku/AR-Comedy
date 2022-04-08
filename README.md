@@ -1,9 +1,6 @@
 Upcoming Gigs
 =============
 
-* Apr 7th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
-  - Doors 7:30, Show from 8:00
-  - The Tram Depot, 5 Dover St, Cambridge CB1 1DY
 * Apr 18th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:00?, Show from ?
   - The Betsey Trotwood, 56 Farringdon Road, London, EC1R 3BL
@@ -22,7 +19,7 @@ Upcoming Gigs
 * May 1st (Sun) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (seeking bringer) 
   - Doors 3:00, Show from 3:30
   - The Star of Kings, 126 York Way, London, N1 0AX
-* May 5th (Thur) - [Quintissential Comedy](https://www.facebook.com/quinntessentialcomedy) (seeking bringer) 
+* May 5th (Thur) - [Quintessential Comedy](https://www.facebook.com/quinntessentialcomedy) (seeking bringer) 
   - Doors ??? Show from 7:30
   - Quinn's Pub, 65 Kentish Town Road, London, GB NW1 8NY
 * May 23rd (Mon) - Nice and Spiky New Jokes Monday (TBC) (bringer?)
@@ -34,9 +31,9 @@ Upcoming Gigs
 * May 29th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (TBC) (seeking bringer) 
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
-* Jun 9th (Thu) - Comedy Bandits (bringer?)
-  - Doors ???, Show from ???
-  - ???
+* Jun 9th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (bringer?)
+  - Doors ???, Show from 7:30
+  - The Railway Tavern, 18 Clapham High St, London, SW4 7UR
 
 Find The AR Comedian on:
 
@@ -48,6 +45,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Apr 7th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
+  - 5m "Magic Rings"
+  - Doors 7:30, Show from 8:00
+  - The Tram Depot, 5 Dover St, Cambridge CB1 1DY
 * Apr 5th (Tue) - [Comedy Lab UK](http://www.facebook.com/comedylabuk)
   - 5m "Magic Rings"
   - Doors 8:00, Show from 8:30
@@ -157,6 +158,9 @@ Past Gigs
 Gigs I Attended as a Bringer
 ------------------------
 
+* Apr 3rd (Sun) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (being a bringer)
+  - Doors 3:00, Show from 3:30
+  - The Star of Kings, 126 York Way, London, N1 0AX
 * Mar 22nd (Tue) - [TNT Comedy Club](https://www.facebook.com/groups/341746814250) (being a bringer)
   - Doors 7:45, Show from 8:00
   - The Vine Pub, 86 Highgate Rd, London, NW5 1PB
