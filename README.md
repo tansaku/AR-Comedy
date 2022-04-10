@@ -2,14 +2,14 @@ Upcoming Gigs
 =============
 
 * Apr 18th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
-  - Doors 7:00?, Show from ?
+  - Doors 7:00?, Show from 8:00?
   - The Betsey Trotwood, 56 Farringdon Road, London, EC1R 3BL
 * Apr 21st (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/) 
   - Doors ???, Show from 7:00
   - No Such Place bar, 190 New North Road, Islington, N1 7BJ
 * Apr 25th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (seeking bringer)
   - Doors 7:00, Show from 7:30
-  - The Old Crown, Holborn, London, WC1A 1BH  
+  - The Old Crown, Holborn, London, WC1A 1BH
 * Apr 28th (Thu) - [Free Cockerel of Berkshire Comedy Night](https://www.facebook.com/NMCCSportsBar)
   - Doors ???, Show 7:30
   - NMCC Sports Bar, Summerleaze Park, Summerleaze Road, Maidenhead, Berkshire, SL6 8SP  
