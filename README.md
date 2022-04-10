@@ -13,9 +13,6 @@ Upcoming Gigs
 * Apr 28th (Thu) - [Free Cockerel of Berkshire Comedy Night](https://www.facebook.com/NMCCSportsBar)
   - Doors ???, Show 7:30
   - NMCC Sports Bar, Summerleaze Park, Summerleaze Road, Maidenhead, Berkshire, SL6 8SP  
-* May 1st (Sun) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (seeking bringer) 
-  - Doors 3:00, Show from 3:30
-  - The Star of Kings, 126 York Way, London, N1 0AX
 * May 2nd (Mon) - [The Ping Pong Club](https://www.retrobarlondon.co.uk/london) (seeking bringer) 
   - Doors ???, Show from 7:00
   - The Retro Bar, 2 George CT, Charing Cross, London
