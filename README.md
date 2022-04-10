@@ -4,9 +4,6 @@ Upcoming Gigs
 * Apr 18th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:00?, Show from ?
   - The Betsey Trotwood, 56 Farringdon Road, London, EC1R 3BL
-* Apr 20th (Wed) - [First showcase round of So You Think You’re Funny? 2022](https://soyouthinkyourefunny.co.uk/) 
-  - Doors 6:30, Show from 7:30
-  - Zoom
 * Apr 21st (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/) 
   - Doors ???, Show from 7:00
   - No Such Place bar, 190 New North Road, Islington, N1 7BJ
@@ -31,6 +28,9 @@ Upcoming Gigs
 * May 29th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (TBC) (seeking bringer) 
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
+* Jun 6th (Mon) - [First showcase round of So You Think You’re Funny? 2022](https://soyouthinkyourefunny.co.uk/) 
+  - Doors 6:30, Show from 7:30
+  - Zoom  
 * Jun 9th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (bringer?)
   - Doors ???, Show from 7:30
   - The Railway Tavern, 18 Clapham High St, London, SW4 7UR
