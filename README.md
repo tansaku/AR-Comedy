@@ -1,9 +1,6 @@
 Upcoming Gigs
 =============
 
-* Apr 18th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
-  - Doors 7:00?, Show from 8:00?
-  - The Betsey Trotwood, 56 Farringdon Road, London, EC1R 3BL
 * Apr 21st (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/) 
   - Doors ???, Show from 7:00
   - No Such Place bar, 190 New North Road, Islington, N1 7BJ
@@ -19,8 +16,8 @@ Upcoming Gigs
 * May 5th (Thur) - [Quintessential Comedy](https://www.facebook.com/quinntessentialcomedy) (seeking bringer) 
   - Doors ??? Show from 7:30
   - Quinn's Pub, 65 Kentish Town Road, London, GB NW1 8NY
-* May 23rd (Mon) - Nice and Spiky New Jokes Monday (TBC) (bringer?)
-  - Doors ???, Show from 7:30
+* May 23rd (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
+  - Doors 7:00, Show from 7:30
   - The Regent Pub in Angel Islington.
 * May 27th (Fri) - [Cuddles for Troubles - ALT NIGHT](http://www.facebook.com/CuddlesforTroubles) (seeking bringer)
   - Doors 7:30, Show from 8:00
@@ -34,6 +31,9 @@ Upcoming Gigs
 * Jun 9th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (bringer?)
   - Doors ???, Show from 7:30
   - The Railway Tavern, 18 Clapham High St, London, SW4 7UR
+* Jun 13th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
+  - Doors 7:00?, Show from 8:00?
+  - The Betsey Trotwood, 56 Farringdon Road, London, EC1R 3BL  
 
 Find The AR Comedian on:
 
