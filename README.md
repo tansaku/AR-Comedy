@@ -1,6 +1,9 @@
 Upcoming Gigs
 =============
 
+* Apr 18th (Mon) - [Comedy Virgins](https://www.facebook.com/groups/comedyvirgins) (being a bringer)
+  - Doors ???, Show from 6:30
+  - The Cavendish Arms, 128 Hartington Road, Stockwell, London, SW8 2HJ
 * Apr 21st (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/) 
   - Doors ???, Show from 7:00
   - No Such Place bar, 190 New North Road, Islington, N1 7BJ
