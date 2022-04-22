@@ -1,9 +1,6 @@
 Upcoming Gigs
 =============
 
-* Apr 21st (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/) 
-  - Doors ???, Show from 7:00
-  - No Such Place bar, 190 New North Road, Islington, N1 7BJ
 * Apr 25th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - The Old Crown, Holborn, London, WC1A 1BH
@@ -48,6 +45,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Apr 21st (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/)
+  - 5m "Foreign Travel"
+  - Doors 7:00, Show from 7:30
+  - No Such Place bar, 190 New North Road, Islington, N1 7BJ
 * Apr 7th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
   - 5m "Magic Rings"
   - Doors 7:30, Show from 8:00
