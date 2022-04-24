@@ -7,7 +7,7 @@ Upcoming Gigs
 * Apr 28th (Thu) - [Free Cockerel of Berkshire Comedy Night](https://www.facebook.com/NMCCSportsBar) (10m)
   - Doors ???, Show 7:30
   - NMCC Sports Bar, Summerleaze Park, Summerleaze Road, Maidenhead, Berkshire, SL6 8SP  
-* May 2nd (Mon) - [The Ping Pong Club](https://www.retrobarlondon.co.uk/london) (seeking bringer) 
+* May 2nd (Mon) - [The Ping Pong Club](https://www.retrobarlondon.co.uk/london) (found bringer) 
   - Doors ???, Show from 7:00
   - The Retro Bar, 2 George CT, Charing Cross, London
 * May 5th (Thur) - [Quintessential Comedy](https://www.facebook.com/quinntessentialcomedy) (seeking bringer) 
@@ -15,7 +15,10 @@ Upcoming Gigs
   - Quinn's Pub, 65 Kentish Town Road, London, GB NW1 8NY
 * May 8th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m)
   - Show from 6:30
-  - The Castle Pub, King Charles Road, Surbiton Surrey KT5 8SB 
+  - The Castle Pub, King Charles Road, Surbiton Surrey KT5 8SB
+* May 12th (Thur) - [Victoria Comedy Cup](https://www.victoriapubse8.co.uk/) 
+  - Doors 7:30 Show from 8:00
+  - 177 Grove St, London, SE8 3QQ
 * May 23rd (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
   - Doors 7:00, Show from 7:30
   - The Regent Pub in Angel Islington.
@@ -159,8 +162,8 @@ Past Gigs
   - Show 6:30
   - Karma Sanctum, 20 Warwick Street, Soho, London, W1B 5NF.
 
-Gigs I Attended as a Bringer
-------------------------
+Gigs Attended as a Bringer
+--------------------------
 
 * Apr 18th (Mon) - [Comedy Virgins](https://www.facebook.com/groups/comedyvirgins) (being a bringer)
   - Doors 6:30, Show from 7:00
