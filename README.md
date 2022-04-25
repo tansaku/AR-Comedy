@@ -1,9 +1,6 @@
 Upcoming Gigs
 =============
 
-* Apr 25th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (seeking bringer)
-  - Doors 7:00, Show from 7:30
-  - The Old Crown, Holborn, London, WC1A 1BH
 * Apr 28th (Thu) - [Free Cockerel of Berkshire Comedy Night](https://www.facebook.com/NMCCSportsBar) (10m)
   - Doors ???, Show 7:30
   - NMCC Sports Bar, Summerleaze Park, Summerleaze Road, Maidenhead, Berkshire, SL6 8SP  
@@ -48,6 +45,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Apr 25th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (Thanks to bringer [Elvin Mensa](https://www.instagram.com/elvinmensah)!)
+  - 5m "Foreign Travel"
+  - Doors 7:00, Show from 7:30
+  - The Old Crown, Holborn, London, WC1A 1BH
 * Apr 21st (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/)
   - 5m "Foreign Travel"
   - Doors 7:00, Show from 7:30
