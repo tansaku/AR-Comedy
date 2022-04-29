@@ -13,6 +13,9 @@ Upcoming Gigs
 * May 12th (Thur) - [Victoria Comedy Cup](https://www.victoriapubse8.co.uk/) 
   - Doors 7:30 Show from 8:00
   - 177 Grove St, London, SE8 3QQ
+* May 19th (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/)
+  - Doors 7:00, Show from 7:30
+  - No Such Place bar, 190 New North Road, Islington, N1 7BJ
 * May 23rd (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
   - Doors 7:00, Show from 7:30
   - The Regent Pub in Angel Islington.
