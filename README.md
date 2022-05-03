@@ -1,9 +1,6 @@
 Upcoming Gigs
 =============
 
-* May 2nd (Mon) - [The Ping Pong Club](https://www.retrobarlondon.co.uk/london) (found bringer) 
-  - Doors ???, Show from 7:00
-  - The Retro Bar, 2 George CT, Charing Cross, London
 * May 5th (Thur) - [Quintessential Comedy](https://www.facebook.com/quinntessentialcomedy) (seeking bringer) 
   - Doors ??? Show from 7:30
   - Quinn's Pub, 65 Kentish Town Road, London, GB NW1 8NY
@@ -44,6 +41,10 @@ Find The AR Comedian on:
 
 Past Gigs
 =========
+* May 2nd (Mon) - [The Ping Pong Club](https://www.retrobarlondon.co.uk/london)  (Thanks to bringee [Joe Vaughan](https://www.instagram.com/soulstone1971)!) 
+  - 5m "High Libido"
+  - Doors 6:30 Show from 7:00
+  - The Retro Bar, 2 George CT, Charing Cross, London
 * Apr 28th (Thu) - [Free Cockerel of Berkshire Comedy Night](https://www.facebook.com/NMCCSportsBar) (10m)
   - 10m "Foreign Travel and High Libido"
   - Doors 7:00 Show 7:30
