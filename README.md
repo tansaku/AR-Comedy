@@ -1,12 +1,15 @@
 Upcoming Gigs
 =============
 
-* May 5th (Thur) - [Quintessential Comedy](https://www.facebook.com/quinntessentialcomedy) (seeking bringer) 
+* May 5th (Thur) - [Quintessential Comedy](https://www.facebook.com/quinntessentialcomedy) (found bringer) 
   - Doors ??? Show from 7:30
   - Quinn's Pub, 65 Kentish Town Road, London, GB NW1 8NY
 * May 8th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m)
   - Show from 6:30
   - The Castle Pub, King Charles Road, Surbiton Surrey KT5 8SB
+* May 9th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (being a bringer)
+  - Doors 7:00, Show from 7:30
+  - The Old Crown, Holborn, London, WC1A 1BH
 * May 12th (Thur) - [Victoria Comedy Cup](https://www.victoriapubse8.co.uk/) 
   - Doors 7:30 Show from 8:00
   - 177 Grove St, London, SE8 3QQ
