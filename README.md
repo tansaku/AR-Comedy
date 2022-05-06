@@ -1,9 +1,6 @@
 Upcoming Gigs
 =============
 
-* May 5th (Thur) - [Quintessential Comedy](https://www.facebook.com/quinntessentialcomedy) (found bringer) 
-  - Doors ??? Show from 7:30
-  - Quinn's Pub, 65 Kentish Town Road, London, GB NW1 8NY
 * May 8th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m)
   - Show from 6:30
   - The Castle Pub, King Charles Road, Surbiton Surrey KT5 8SB
@@ -44,6 +41,9 @@ Find The AR Comedian on:
 
 Past Gigs
 =========
+* May 5th (Thur) - [Quintessential Comedy](https://www.facebook.com/quinntessentialcomedy) (Thanks to bringee [Lizzie Simpson](https://www.instagram.com/lizziethesimp/)!) 
+  - Doors 7:30 Show from 8:00
+  - Quinn's Pub, 65 Kentish Town Road, London, GB NW1 8NY
 * May 2nd (Mon) - [The Ping Pong Club](https://www.retrobarlondon.co.uk/london)  (Thanks to bringee [Joe Vaughan](https://www.instagram.com/soulstone1971)!) 
   - 5m "High Libido"
   - Doors 6:30 Show from 7:00
