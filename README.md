@@ -24,7 +24,13 @@ Upcoming Gigs
   - The Railway Tavern, 18 Clapham High St, London, SW4 7UR
 * Jun 13th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:00?, Show from 8:00?
-  - The Betsey Trotwood, 56 Farringdon Road, London, EC1R 3BL  
+  - The Betsey Trotwood, 56 Farringdon Road, London, EC1R 3BL 
+* Jun 16th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight) (TBC)
+  - Doors 7:30, Show from 8:00
+  - The Tram Depot, 5 Dover St, Cambridge CB1 1DY
+* Jun 26th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m)
+  - Doors 7:00, Show from 7:30
+  - he Britannia Smok’d Kipling Street London SE1
 
 Find The AR Comedian on:
 
