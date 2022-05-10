@@ -1,12 +1,6 @@
 Upcoming Gigs
 =============
 
-* May 8th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m)
-  - Show from 6:30
-  - The Castle Pub, King Charles Road, Surbiton Surrey KT5 8SB
-* May 9th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (being a bringer)
-  - Doors 7:00, Show from 7:30
-  - The Old Crown, Holborn, London, WC1A 1BH
 * May 12th (Thur) - [Victoria Comedy Cup](https://www.victoriapubse8.co.uk/) 
   - Doors 7:30 Show from 8:00
   - 177 Grove St, London, SE8 3QQ
@@ -16,16 +10,16 @@ Upcoming Gigs
 * May 23rd (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
   - Doors 7:00, Show from 7:30
   - The Regent Pub in Angel Islington.
-* May 27th (Fri) - [Cuddles for Troubles - ALT NIGHT](http://www.facebook.com/CuddlesforTroubles) (seeking bringer)
+* May 27th (Fri) - [Cuddles for Troubles - ALT NIGHT](http://www.facebook.com/CuddlesforTroubles) (bringer found)
   - Doors 7:30, Show from 8:00
   - The Trinity Pub, Borough, London, SE1 1JX  
-* May 29th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (TBC) (seeking bringer) 
+* May 29th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer) 
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
 * Jun 6th (Mon) - [First showcase round of So You Think You’re Funny? 2022](https://soyouthinkyourefunny.co.uk/) 
   - Doors 6:30, Show from 7:30
   - Zoom  
-* Jun 9th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (bringer?)
+* Jun 9th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer)
   - Doors ???, Show from 7:30
   - The Railway Tavern, 18 Clapham High St, London, SW4 7UR
 * Jun 13th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
@@ -41,6 +35,11 @@ Find The AR Comedian on:
 
 Past Gigs
 =========
+
+* May 8th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) 
+  - 10m "High Libido and All or Nothing"
+  - Show from 6:30
+  - The Castle Pub, King Charles Road, Surbiton Surrey KT5 8SB
 * May 5th (Thur) - [Quintessential Comedy](https://www.facebook.com/quinntessentialcomedy) (Thanks to bringee [Lizzie Simpson](https://www.instagram.com/lizziethesimp/)!) 
   - Doors 7:30 Show from 8:00
   - Quinn's Pub, 65 Kentish Town Road, London, GB NW1 8NY
@@ -68,7 +67,7 @@ Past Gigs
   - 5m "Magic Rings"
   - Doors 8:00, Show from 8:30
   - The People's Park Tavern, 360 Victoria Road, London, E9 7BT
-* Apr 4th (Mon) - [Competition Open Mic Night](https://giggag.co.uk/gig/competition-open-mic-night-2022-04-0416) (found bringer)
+* Apr 4th (Mon) - [Virtue Competition Open Mic Night](https://giggag.co.uk/gig/competition-open-mic-night-2022-04-0416) (Thanks to bringee Rosemary Gomes)
   - 5m "Magic Rings"
   - Doors 7:30, Show from 8:00
   - The North Star pub, 104 Finchley Road, London, NW3 5JJ
@@ -173,18 +172,21 @@ Past Gigs
 Gigs Attended as a Bringer
 --------------------------
 
-* Apr 18th (Mon) - [Comedy Virgins](https://www.facebook.com/groups/comedyvirgins) (being a bringer)
+* May 9th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (being a bringer for [Lizzie Simpson](https://www.instagram.com/lizziethesimp/))
+  - Doors 7:00, Show from 7:30
+  - The Old Crown, Holborn, London, WC1A 1BH
+* Apr 18th (Mon) - [Comedy Virgins](https://www.facebook.com/groups/comedyvirgins) (being a bringer for Joe Stride)
   - Doors 6:30, Show from 7:00
   - The Cavendish Arms, 128 Hartington Road, Stockwell, London, SW8 2HJ
-* Apr 3rd (Sun) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (being a bringer)
+* Apr 3rd (Sun) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (being a bringer for Rosemary Gomes)
   - Doors 3:00, Show from 3:30
   - The Star of Kings, 126 York Way, London, N1 0AX
-* Mar 22nd (Tue) - [TNT Comedy Club](https://www.facebook.com/groups/341746814250) (being a bringer)
+* Mar 22nd (Tue) - [TNT Comedy Club](https://www.facebook.com/groups/341746814250) (being a bringer for [Craig Craw](https://www.instagram.com/craigcrawmedy/))
   - Doors 7:45, Show from 8:00
   - The Vine Pub, 86 Highgate Rd, London, NW5 1PB
-* Mar 16th (Wed) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (being a bringer)
+* Mar 16th (Wed) - [G&B Comedy](https://www.facebook.com/groups/226354827562684) (being a bringer for [Osman Shibili](https://www.instagram.com/osmanshibli/) )
   - Doors 7, Show from 7:30
   - Arch One, Cranberry Lane, London, E16 4BJ
-* Mar 17th (Thu) - [Joker Comedy](https://www.facebook.com/jokercomedyearlscourt) (being a bringer)
+* Mar 17th (Thu) - [Joker Comedy](https://www.facebook.com/jokercomedyearlscourt) (being a bringer for Will Davies)
   - Doors 7, Show from 7:30
   - The Bolton Pub & Proeflokaal Rembrandt, 326 Earls Ct Rd, Earl's Court, London, SW5 9BQ
