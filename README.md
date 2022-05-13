@@ -1,9 +1,6 @@
 Upcoming Gigs
 =============
 
-* May 12th (Thur) - [Victoria Comedy Cup](https://www.victoriapubse8.co.uk/) 
-  - Doors 7:30 Show from 8:00
-  - 177 Grove St, London, SE8 3QQ
 * May 19th (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/)
   - Doors 7:00, Show from 7:30
   - No Such Place bar, 190 New North Road, Islington, N1 7BJ
@@ -31,6 +28,9 @@ Upcoming Gigs
 * Jun 26th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m)
   - Doors 7:00, Show from 7:30
   - he Britannia Smok’d Kipling Street London SE1
+* Jul 3rd (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (TBC) (seeking bringer) 
+  - Doors 6:30, Show from 7:00
+  - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
 
 Find The AR Comedian on:
 
@@ -42,6 +42,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* May 12th (Thur) - [Victoria Comedy Cup](https://www.victoriapubse8.co.uk/)
+  - 5m "Sound in Body and Mind"
+  - Doors 7:30 Show from 8:00
+  - 177 Grove St, London, SE8 3QQ
 * May 8th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) 
   - 10m "High Libido and All or Nothing"
   - Show from 6:30
