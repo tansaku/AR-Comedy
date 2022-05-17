@@ -25,9 +25,12 @@ Upcoming Gigs
 * Jun 16th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight) (TBC)
   - Doors 7:30, Show from 8:00
   - The Tram Depot, 5 Dover St, Cambridge CB1 1DY
+* Jun 20th (Mon) - [The £25 Clap Off](https://www.facebook.com/groups/1095201041050460) 
+  - Doors 7:00, Show from 7:30
+  - The Carpenter's Arms, 68-70 Whitfield St, Greater, London W1T 4EY  
 * Jun 26th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m)
   - Doors 7:00, Show from 7:30
-  - he Britannia Smok’d Kipling Street London SE1
+  - The Britannia Smok’d Kipling Street London SE1
 * Jul 3rd (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (TBC) (seeking bringer) 
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
