@@ -13,6 +13,9 @@ Upcoming Gigs
 * May 29th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer) 
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
+* May 31st (Tue) - [Powerplant Comedy Cup](https://www.facebook.com/events/530072612088111)
+  - Doors 7:30 Show from 8:00
+  - The Powerplant, 89 Chalk Farm Rd, Chalk Farm, London, NW1 8AR  
 * Jun 6th (Mon) - [First showcase round of So You Think You’re Funny? 2022](https://soyouthinkyourefunny.co.uk/) 
   - Doors 6:30, Show from 7:30
   - Zoom  
