@@ -16,13 +16,13 @@ Upcoming Gigs
 * May 31st (Tue) - [Powerplant Comedy Cup](https://www.facebook.com/events/530072612088111)
   - Doors 7:30 Show from 8:00
   - The Powerplant, 89 Chalk Farm Rd, Chalk Farm, London, NW1 8AR
-* Jun 5th (Sun) - Recording Comedians On ... podcast
 * Jun 6th (Mon) - [First showcase round of So You Think You’re Funny? 2022](https://soyouthinkyourefunny.co.uk/) 
   - Doors 6:30, Show from 7:30
   - Zoom  
 * Jun 9th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer)
   - Doors ???, Show from 7:30
   - The Railway Tavern, 18 Clapham High St, London, SW4 7UR
+* Jun 12th (Sun) - Recording Comedians On ... podcast  
 * Jun 13th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:00?, Show from 8:00?
   - The Betsey Trotwood, 56 Farringdon Road, London, EC1R 3BL 
