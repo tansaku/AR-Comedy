@@ -15,7 +15,8 @@ Upcoming Gigs
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
 * May 31st (Tue) - [Powerplant Comedy Cup](https://www.facebook.com/events/530072612088111)
   - Doors 7:30 Show from 8:00
-  - The Powerplant, 89 Chalk Farm Rd, Chalk Farm, London, NW1 8AR  
+  - The Powerplant, 89 Chalk Farm Rd, Chalk Farm, London, NW1 8AR
+* Jun 5th (Sun) - Recording Comedians On ... podcast
 * Jun 6th (Mon) - [First showcase round of So You Think You’re Funny? 2022](https://soyouthinkyourefunny.co.uk/) 
   - Doors 6:30, Show from 7:30
   - Zoom  
@@ -28,6 +29,7 @@ Upcoming Gigs
 * Jun 16th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight) (TBC)
   - Doors 7:30, Show from 8:00
   - The Tram Depot, 5 Dover St, Cambridge CB1 1DY
+* Jun 20th (Mon) - Recording Comedians On ... podcast
 * Jun 20th (Mon) - [The £25 Clap Off](https://www.facebook.com/groups/1095201041050460) 
   - Doors 7:00, Show from 7:30
   - The Carpenter's Arms, 68-70 Whitfield St, Greater, London W1T 4EY  
