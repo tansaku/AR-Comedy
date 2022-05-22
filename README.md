@@ -1,9 +1,6 @@
 Upcoming Gigs
 =============
 
-* May 19th (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/)
-  - Doors 7:00, Show from 7:30
-  - No Such Place bar, 190 New North Road, Islington, N1 7BJ
 * May 23rd (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
   - Doors 7:00, Show from 7:30
   - The Regent Pub in Angel Islington.
@@ -34,6 +31,9 @@ Upcoming Gigs
 * Jun 20th (Mon) - [The £25 Clap Off](https://www.facebook.com/groups/1095201041050460) 
   - Doors 7:00, Show from 7:30
   - The Carpenter's Arms, 68-70 Whitfield St, Greater, London W1T 4EY  
+* Jun 23rd (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/)
+  - Doors 7:00, Show from 7:30
+  - No Such Place bar, 190 New North Road, Islington, N1 7BJ
 * Jun 26th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m)
   - Doors 7:00, Show from 7:30
   - The Britannia Smok’d Kipling Street London SE1
@@ -51,6 +51,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* May 19th (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/)
+  - 5m "Sound in Body and Mind"
+  - Doors 7:00, Show from 7:30
+  - No Such Place bar, 190 New North Road, Islington, N1 7BJ
 * May 12th (Thur) - [Victoria Comedy Cup](https://www.victoriapubse8.co.uk/)
   - 5m "Sound in Body and Mind"
   - Doors 7:30 Show from 8:00
