@@ -3,14 +3,16 @@ Upcoming Gigs
 
 * May 23rd (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
   - Doors 7:00, Show from 7:30
-  - The Regent Pub in Angel Islington.
+  - The Regent Pub in Angel Islington, 201-203 Liverpool Rd, London N1 1LX
 * May 27th (Fri) - [Cuddles for Troubles - ALT NIGHT](http://www.facebook.com/CuddlesforTroubles) (bringer found)
   - Doors 7:30, Show from 8:00
   - The Trinity Pub, Borough, London, SE1 1JX  
 * May 29th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer) 
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
-* May 30th (Mon) - Virtue (being a bringer)
+* May 30th (Mon) - [Virtue](https://www.facebook.com/virtuecomedy1) (being a bringer)
+  - Doors 7:30, Show from 8:00
+  - The North Star pub, 104 Finchley Road, London, NW3 5JJ
 * May 31st (Tue) - [Powerplant Comedy Cup](https://www.facebook.com/events/530072612088111)
   - Doors 7:30 Show from 8:00
   - The Powerplant, 89 Chalk Farm Rd, Chalk Farm, London, NW1 8AR
@@ -20,7 +22,8 @@ Upcoming Gigs
 * Jun 9th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer)
   - Doors ???, Show from 7:30
   - The Railway Tavern, 18 Clapham High St, London, SW4 7UR
-* Jun 12th (Sun) - Recording Comedians On ... podcast  
+* Jun 12th (Sun) - Recording [Comedians On ... podcast](https://www.youtube.com/channel/UCVNN--MVpDcwCJ7vwjo0KDw)
+  - [Wes Defoe](https://www.instagram.com/wesdefoe/)
 * Jun 13th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:00?, Show from 8:00?
   - The Betsey Trotwood, 56 Farringdon Road, London, EC1R 3BL 
@@ -90,7 +93,7 @@ Past Gigs
   - 5m "Magic Rings"
   - Doors 8:00, Show from 8:30
   - The People's Park Tavern, 360 Victoria Road, London, E9 7BT
-* Apr 4th (Mon) - [Virtue Competition Open Mic Night](https://giggag.co.uk/gig/competition-open-mic-night-2022-04-0416) (Thanks to bringee Rosemary Gomes)
+* Apr 4th (Mon) - [Virtue Competition Open Mic Night](https://www.facebook.com/virtuecomedy1) (Thanks to bringee Rosemary Gomes)
   - 5m "Magic Rings"
   - Doors 7:30, Show from 8:00
   - The North Star pub, 104 Finchley Road, London, NW3 5JJ
