@@ -1,13 +1,13 @@
 Upcoming Gigs
 =============
 
-* May 23rd (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
-  - Doors 7:00, Show from 7:30
-  - The Regent Pub in Angel Islington, 201-203 Liverpool Rd, London N1 1LX
+* May 29th (Thu) - [Freedom Fridge](https://www.facebook.com/groups/23162425942/) (being a bringer) 
+  - Doors 7:45, Show from 8:00
+  - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
 * May 27th (Fri) - [Cuddles for Troubles - ALT NIGHT](http://www.facebook.com/CuddlesforTroubles) (bringer found)
   - Doors 7:30, Show from 8:00
   - The Trinity Pub, Borough, London, SE1 1JX  
-* May 29th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer) 
+* May 29th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (bringer found) 
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
 * May 30th (Mon) - [Virtue](https://www.facebook.com/virtuecomedy1) (being a bringer)
@@ -30,7 +30,6 @@ Upcoming Gigs
 * Jun 16th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight) (TBC)
   - Doors 7:30, Show from 8:00
   - The Tram Depot, 5 Dover St, Cambridge CB1 1DY
-* Jun 20th (Mon) - Recording Comedians On ... podcast
 * Jun 20th (Mon) - [The £25 Clap Off](https://www.facebook.com/groups/1095201041050460) 
   - Doors 7:00, Show from 7:30
   - The Carpenter's Arms, 68-70 Whitfield St, Greater, London W1T 4EY  
@@ -40,6 +39,8 @@ Upcoming Gigs
 * Jun 26th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m)
   - Doors 7:00, Show from 7:30
   - The Britannia Smok’d Kipling Street London SE1
+* Jun 27th (Mon) - Recording Comedians On ... podcast
+  - [J Amobire](https://www.instagram.com/dj.jace/)
 * Jul 3rd (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (TBC) (seeking bringer) 
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
@@ -54,6 +55,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* May 23rd (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
+  - 5m "Recurring Dreams"
+  - Doors 7:00, Show from 7:30
+  - The Regent Pub in Angel Islington, 201-203 Liverpool Rd, London N1 1LX
 * May 19th (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/)
   - 5m "Sound in Body and Mind"
   - Doors 7:00, Show from 7:30
