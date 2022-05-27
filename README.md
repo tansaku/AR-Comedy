@@ -1,7 +1,12 @@
 Free Drink Offer!
 =================
 
-Follow me on [instagram](instagram.com/tansaku) and attend one of my comedy gigs (see below) and I will buy you a drink (up to max value of £10 once instagram follow confirmed).  Two drinks if you can attend a show marked "seeking bringer".  Offer also applies to those who have attended my gigs in the past.
+Follow me on [instagram](instagram.com/tansaku) and attend one of my comedy gigs (see below) and I will buy you a drink 
+
+Terms & Conditions
+------------------
+
+Drink purchased up to max value of £10 once instagram follow confirmed).  Two drinks if you can attend a show marked "seeking bringer".  Offer also applies retrospectively to those who have attended my gigs in the past.  Alcoholic drinks only bought for those who are above the legal age limit in the territory the gig occurs in.
 
 Upcoming Gigs
 =============
