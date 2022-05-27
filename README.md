@@ -6,7 +6,7 @@ Follow me on [instagram](instagram.com/tansaku) and attend one of my comedy gigs
 Terms & Conditions
 ------------------
 
-Drink purchased up to max value of £10 once instagram follow confirmed).  Two drinks if you can attend a show marked "seeking bringer".  Alcoholic drinks only bought for those who are above the legal age limit in the territory the gig occurs in.  Max three free drinks redeemable per gig.
+Drink purchased up to max value of £10.  Two drinks if you can attend a show marked "seeking bringer".  Alcoholic drinks only bought for those who are above the legal age limit in the territory the gig occurs in.  Max three free drinks redeemable per gig.  Attending a show means seeing my entire performance from start to finish and I will buy you a drink after the show once instagram follow confirmed.
 
 Upcoming Gigs
 =============
