@@ -1,9 +1,11 @@
+Free Drink Offer!
+=================
+
+Follow me on [instagram](instagram.com/tansaku) and attend one of my comedy gigs (see below) and I will buy you a drink (up to max value of £10 once instagram follow confirmed).  Two drinks if you can attend a show marked "seeking bringer".  Offer also applies to those who have attended my gigs in the past.
+
 Upcoming Gigs
 =============
 
-* May 29th (Thu) - [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon) 
-  - Doors 7:30, Show from 8:00
-  - Upstairs in the Queen's Keep. The Paxtons Head, 153 Knightsbridge, SW1X 7PA
 * May 27th (Fri) - [Cuddles for Troubles - ALT NIGHT](http://www.facebook.com/CuddlesforTroubles) (bringer found)
   - Doors 7:30, Show from 8:00
   - The Trinity Pub, Borough, London, SE1 1JX  
@@ -55,6 +57,9 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* May 29th (Thu) - [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon) 
+  - Doors 7:30, Show from 8:00
+  - Upstairs in the Queen's Keep. The Paxtons Head, 153 Knightsbridge, SW1X 7PA
 * May 23rd (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
   - 5m "Recurring Dreams"
   - Doors 7:00, Show from 7:30
