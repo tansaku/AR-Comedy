@@ -11,12 +11,6 @@ Drink purchased up to max value of £10.  Two drinks if you can attend a show ma
 Upcoming Gigs
 =============
 
-* May 27th (Fri) - [Cuddles for Troubles - ALT NIGHT](http://www.facebook.com/CuddlesforTroubles) (bringer found)
-  - Doors 7:30, Show from 8:00
-  - The Trinity Pub, Borough, London, SE1 1JX  
-* May 29th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer) 
-  - Doors 6:30, Show from 7:00
-  - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
 * May 30th (Mon) - [Virtue](https://www.facebook.com/virtuecomedy1) (being a bringer)
   - Doors 7:30, Show from 8:00
   - The North Star pub, 104 Finchley Road, London, NW3 5JJ
@@ -62,7 +56,16 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
-* May 29th (Thu) - [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon) 
+* May 29th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringee Joe Bonfield) 
+  - 5m "High Libido"
+  - Doors 6:30, Show from 7:00
+  - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
+* May 27th (Fri) - [Cuddles for Troubles - ALT NIGHT](http://www.facebook.com/CuddlesforTroubles) (Thanks to bringee Will Davies)
+  - 5m "Recurring Dreams"
+  - Doors 7:30, Show from 8:00
+  - The Trinity Pub, Borough, London, SE1 1JX  
+* May 29th (Thu) - [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon)
+  - 7m "Recurring Dreams"
   - Doors 7:30, Show from 8:00
   - Upstairs in the Queen's Keep. The Paxtons Head, 153 Knightsbridge, SW1X 7PA
 * May 23rd (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
