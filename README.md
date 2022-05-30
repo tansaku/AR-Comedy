@@ -11,9 +11,6 @@ Drink purchased up to max value of £10.  Two drinks if you can attend a show ma
 Upcoming Gigs
 =============
 
-* May 30th (Mon) - [Virtue](https://www.facebook.com/virtuecomedy1) (being a bringer)
-  - Doors 7:30, Show from 8:00
-  - The North Star pub, 104 Finchley Road, London, NW3 5JJ
 * May 31st (Tue) - [Powerplant Comedy Cup](https://www.facebook.com/events/530072612088111)
   - Doors 7:30 Show from 8:00
   - The Powerplant, 89 Chalk Farm Rd, Chalk Farm, London, NW1 8AR
@@ -56,6 +53,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* May 30th (Mon) - [Virtue](https://www.facebook.com/virtuecomedy1)
+  - 5m "High Libido"
+  - Doors 7:30, Show from 8:00
+  - The North Star pub, 104 Finchley Road, London, NW3 5JJ
 * May 29th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringee Joe Bonfield) 
   - 5m "High Libido"
   - Doors 6:30, Show from 7:00
