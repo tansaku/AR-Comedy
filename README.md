@@ -36,7 +36,10 @@ Upcoming Gigs
   - The Britannia Smok’d Kipling Street London SE1
 * Jun 27th (Mon) - Recording Comedians On ... podcast
   - [J Amobire](https://www.instagram.com/dj.jace/)
-* Jul 3rd (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (TBC) (seeking bringer) 
+* Jul 3rd (Sun) - [Laughter Lab](The Three Compasses - 62 High St, London N8 7NX) (TBC)
+  - Doors 7:00, Show from 7:30
+  - The Three Compasses - 62 High St, London N8 7NX
+* Jul 17th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (TBC) (seeking bringer) 
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
 
@@ -51,7 +54,7 @@ Past Gigs
 =========
 
 * May 31st (Tue) - [Powerplant Comedy Cup](https://www.facebook.com/events/530072612088111)
-  - 5m "High Libido"
+  - 5m "High Libido Boosters"
   - Doors 7:30 Show from 8:00
   - The Powerplant, 89 Chalk Farm Rd, Chalk Farm, London, NW1 8AR
 * May 30th (Mon) - [Virtue](https://www.facebook.com/virtuecomedy1)
