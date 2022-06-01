@@ -13,14 +13,14 @@ Upcoming Gigs
 
 * Jun 6th (Mon) - [First showcase round of So You Think You’re Funny? 2022](https://soyouthinkyourefunny.co.uk/) 
   - Doors 6:30, Show from 7:30
-  - Zoom  
+  - Zoom
 * Jun 9th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer)
   - Doors ???, Show from 7:30
   - The Railway Tavern, 18 Clapham High St, London, SW4 7UR
 * Jun 12th (Sun) - Recording [Comedians On ... podcast](https://www.youtube.com/channel/UCVNN--MVpDcwCJ7vwjo0KDw)
   - [Wes Defoe](https://www.instagram.com/wesdefoe/)
-* Jun 13th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
-  - Doors 7:00?, Show from 8:00?
+* Jun 13th (Mon) - [Tooting Comedy](https://www.facebook.com/Selkirk.Tooting)
+  - Doors 7:15, Show from 7:45
   - The Betsey Trotwood, 56 Farringdon Road, London, EC1R 3BL 
 * Jun 16th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
   - Doors 7:30, Show from 8:00
