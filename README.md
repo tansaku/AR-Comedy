@@ -11,9 +11,6 @@ Drink purchased up to max value of £10.  Two drinks if you can attend a show ma
 Upcoming Gigs
 =============
 
-* May 31st (Tue) - [Powerplant Comedy Cup](https://www.facebook.com/events/530072612088111)
-  - Doors 7:30 Show from 8:00
-  - The Powerplant, 89 Chalk Farm Rd, Chalk Farm, London, NW1 8AR
 * Jun 6th (Mon) - [First showcase round of So You Think You’re Funny? 2022](https://soyouthinkyourefunny.co.uk/) 
   - Doors 6:30, Show from 7:30
   - Zoom  
@@ -53,6 +50,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* May 31st (Tue) - [Powerplant Comedy Cup](https://www.facebook.com/events/530072612088111)
+  - 5m "High Libido"
+  - Doors 7:30 Show from 8:00
+  - The Powerplant, 89 Chalk Farm Rd, Chalk Farm, London, NW1 8AR
 * May 30th (Mon) - [Virtue](https://www.facebook.com/virtuecomedy1)
   - 5m "High Libido"
   - Doors 7:30, Show from 8:00
