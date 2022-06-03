@@ -15,7 +15,7 @@ Upcoming Gigs
   - Doors 6:30, Show from 7:30
   - Zoom
 * Jun 9th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer)
-  - Doors ???, Show from 7:30
+  - Doors 7:00, Show from 7:30
   - The Railway Tavern, 18 Clapham High St, London, SW4 7UR
 * Jun 12th (Sun) - Recording [Comedians On ... podcast](https://www.youtube.com/channel/UCVNN--MVpDcwCJ7vwjo0KDw)
   - [Wes Defoe](https://www.instagram.com/wesdefoe/)
@@ -36,9 +36,15 @@ Upcoming Gigs
   - The Britannia Smok’d Kipling Street London SE1
 * Jun 27th (Mon) - Recording Comedians On ... podcast
   - [J Amobire](https://www.instagram.com/dj.jace/)
-* Jul 3rd (Sun) - [Laughter Lab](The Three Compasses - 62 High St, London N8 7NX) (TBC)
+* Jun 30th (Thu) - [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon) (TBC)
+  - Doors 7:30, Show from 8:00
+  - Upstairs in the Queen's Keep. The Paxtons Head, 153 Knightsbridge, SW1X 7PA
+* Jul 3rd (Sun) - [Laughter Lab](https://www.facebook.com/profile.php?id=100073704168673)
   - Doors 7:00, Show from 7:30
   - The Three Compasses - 62 High St, London N8 7NX
+* Jul 7th (Thu) - [Hope and Anchor Comedy Cup](https://www.facebook.com/events/485871346627227) (TBC)
+  - Doors 7:30, Show from 8:00
+  - 123 Acre Lane, London, SW2 5
 * Jul 17th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (TBC) (seeking bringer) 
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
