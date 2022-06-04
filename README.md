@@ -19,7 +19,7 @@ Upcoming Gigs
   - The Railway Tavern, 18 Clapham High St, London, SW4 7UR
 * Jun 12th (Sun) - Recording [Comedians On ... podcast](https://www.youtube.com/channel/UCVNN--MVpDcwCJ7vwjo0KDw)
   - Guest: [Wes Defoe](https://www.instagram.com/wesdefoe/)
-* Jun 13th (Mon) - [Tooting Comedy](https://www.facebook.com/Selkirk.Tooting)
+* Jun 13th (Mon) - [Tooting Comedy](https://www.facebook.com/Selkirk.Tooting) (found bringer)
   - Doors 7:15, Show from 7:45
   - The Selkirk, 60 Selkirk Rd, London SW17 0ES
 * Jun 16th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
@@ -36,7 +36,7 @@ Upcoming Gigs
   - The Britannia Smok’d Kipling Street London SE1
 * Jun 27th (Mon) - Recording [Comedians On ... podcast](https://www.youtube.com/channel/UCVNN--MVpDcwCJ7vwjo0KDw)
   - Guest: [J Amobire](https://www.instagram.com/dj.jace/)
-* Jun 30th (Thu) - [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon) (MC) (TBC)
+* Jun 30th (Thu) - [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon) (MC)
   - Doors 7:30, Show from 8:00
   - Upstairs in the Queen's Keep. The Paxtons Head, 153 Knightsbridge, SW1X 7PA
 * Jul 3rd (Sun) - [Laughter Lab](https://www.facebook.com/profile.php?id=100073704168673)
@@ -45,9 +45,14 @@ Upcoming Gigs
 * Jul 7th (Thu) - [Hope and Anchor Comedy Cup](https://www.facebook.com/events/485871346627227)
   - Doors 7:30, Show from 8:00
   - 123 Acre Lane, London, SW2 5
+* Jul 11th (Mon) TBC 
+* Jul 14th (Thu) TBC
 * Jul 17th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (TBC) (seeking bringer) 
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
+* Jun 21st (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/)
+  - Doors 7:00, Show from 7:30
+  - No Such Place bar, 190 New North Road, Islington, N1 7BJ
 
 Find The AR Comedian on:
 
@@ -67,7 +72,7 @@ Past Gigs
   - 5m "High Libido"
   - Doors 7:30, Show from 8:00
   - The North Star pub, 104 Finchley Road, London, NW3 5JJ
-* May 29th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringee Joe Bonfield) 
+* May 29th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (Thanks to bringee Joe Bonfield) 
   - 5m "High Libido"
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
