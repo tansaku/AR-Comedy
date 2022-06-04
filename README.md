@@ -45,12 +45,12 @@ Upcoming Gigs
 * Jul 7th (Thu) - [Hope and Anchor Comedy Cup](https://www.facebook.com/events/485871346627227)
   - Doors 7:30, Show from 8:00
   - 123 Acre Lane, London, SW2 5
-* Jul 11th (Mon) TBC 
-* Jul 14th (Thu) TBC
+* Jul 11th (Mon) Nice'n'spiky? TBC 
+* Jul 14th (Thu) Rumblings/Laugh Tracks? TBC
 * Jul 17th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (TBC) (seeking bringer) 
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
-* Jun 21st (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/)
+* Jun 21st (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/) (TBC)
   - Doors 7:00, Show from 7:30
   - No Such Place bar, 190 New North Road, Islington, N1 7BJ
 
@@ -92,7 +92,7 @@ Past Gigs
   - 5m "Sound in Body and Mind"
   - Doors 7:00, Show from 7:30
   - No Such Place bar, 190 New North Road, Islington, N1 7BJ
-* May 12th (Thur) - [Victoria Comedy Cup](https://www.victoriapubse8.co.uk/)
+* May 12th (Thu) - [Victoria Comedy Cup](https://www.victoriapubse8.co.uk/)
   - 5m "Sound in Body and Mind"
   - Doors 7:30 Show from 8:00
   - 177 Grove St, London, SE8 3QQ
@@ -100,7 +100,7 @@ Past Gigs
   - 10m "High Libido and All or Nothing"
   - Show from 6:30
   - The Castle Pub, King Charles Road, Surbiton Surrey KT5 8SB
-* May 5th (Thur) - [Quintessential Comedy](https://www.facebook.com/quinntessentialcomedy) (Thanks to bringee [Lizzie Simpson](https://www.instagram.com/lizziethesimp/)!) 
+* May 5th (Thu) - [Quintessential Comedy](https://www.facebook.com/quinntessentialcomedy) (Thanks to bringee [Lizzie Simpson](https://www.instagram.com/lizziethesimp/)!) 
   - Doors 7:30 Show from 8:00
   - Quinn's Pub, 65 Kentish Town Road, London, GB NW1 8NY
 * May 2nd (Mon) - [The Ping Pong Club](https://www.retrobarlondon.co.uk/london)  (Thanks to bringee [Joe Vaughan](https://www.instagram.com/soulstone1971)!) 
