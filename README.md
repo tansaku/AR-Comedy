@@ -18,7 +18,7 @@ Upcoming Gigs
   - Doors 7:00, Show from 7:30
   - The Railway Tavern, 18 Clapham High St, London, SW4 7UR
 * Jun 12th (Sun) - Recording [Comedians On ... podcast](https://www.youtube.com/channel/UCVNN--MVpDcwCJ7vwjo0KDw)
-  - [Wes Defoe](https://www.instagram.com/wesdefoe/)
+  - Guest: [Wes Defoe](https://www.instagram.com/wesdefoe/)
 * Jun 13th (Mon) - [Tooting Comedy](https://www.facebook.com/Selkirk.Tooting) https://www.theselkirksw17.com/
   - Doors 7:15, Show from 7:45
   - The Selkirk, 60 Selkirk Rd, London SW17 0ES
@@ -34,8 +34,8 @@ Upcoming Gigs
 * Jun 26th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m)
   - Doors 7:00, Show from 7:30
   - The Britannia Smok’d Kipling Street London SE1
-* Jun 27th (Mon) - Recording Comedians On ... podcast
-  - [J Amobire](https://www.instagram.com/dj.jace/)
+* Jun 27th (Mon) - Recording [Comedians On ... podcast](https://www.youtube.com/channel/UCVNN--MVpDcwCJ7vwjo0KDw)
+  - Guest: [J Amobire](https://www.instagram.com/dj.jace/)
 * Jun 30th (Thu) - [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon) (MC) (TBC)
   - Doors 7:30, Show from 8:00
   - Upstairs in the Queen's Keep. The Paxtons Head, 153 Knightsbridge, SW1X 7PA
