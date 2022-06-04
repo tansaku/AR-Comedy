@@ -19,7 +19,7 @@ Upcoming Gigs
   - The Railway Tavern, 18 Clapham High St, London, SW4 7UR
 * Jun 12th (Sun) - Recording [Comedians On ... podcast](https://www.youtube.com/channel/UCVNN--MVpDcwCJ7vwjo0KDw)
   - Guest: [Wes Defoe](https://www.instagram.com/wesdefoe/)
-* Jun 13th (Mon) - [Tooting Comedy](https://www.facebook.com/Selkirk.Tooting) https://www.theselkirksw17.com/
+* Jun 13th (Mon) - [Tooting Comedy](https://www.facebook.com/Selkirk.Tooting)
   - Doors 7:15, Show from 7:45
   - The Selkirk, 60 Selkirk Rd, London SW17 0ES
 * Jun 16th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
