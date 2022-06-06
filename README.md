@@ -11,9 +11,6 @@ Drink purchased up to max value of £10.  Two drinks if you can attend a show ma
 Upcoming Gigs
 =============
 
-* Jun 6th (Mon) - [First showcase round of So You Think You’re Funny? 2022](https://soyouthinkyourefunny.co.uk/) 
-  - Doors 6:30, Show from 7:30
-  - Zoom
 * Jun 7th (Tue) - [TNT Comedy Club](https://www.facebook.com/groups/341746814250) (being a bringer)
   - Doors 7:45, Show from 8:00
   - The Vine Pub, 86 Highgate Rd, London, NW5 1PB  
@@ -69,6 +66,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Jun 6th (Mon) - [First showcase round of So You Think You’re Funny? 2022](https://soyouthinkyourefunny.co.uk/) 
+  - 7m "High Libido Boosters"
+  - Doors 6:30, Show from 7:30
+  - Zoom
 * May 31st (Tue) - [Powerplant Comedy Cup](https://www.facebook.com/events/530072612088111)
   - 5m "High Libido Boosters"
   - Doors 7:30 Show from 8:00
