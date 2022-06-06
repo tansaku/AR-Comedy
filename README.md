@@ -14,7 +14,10 @@ Upcoming Gigs
 * Jun 6th (Mon) - [First showcase round of So You Think You’re Funny? 2022](https://soyouthinkyourefunny.co.uk/) 
   - Doors 6:30, Show from 7:30
   - Zoom
-* Jun 9th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer)
+* Jun 7th (Tue) - [TNT Comedy Club](https://www.facebook.com/groups/341746814250) (being a bringer)
+  - Doors 7:45, Show from 8:00
+  - The Vine Pub, 86 Highgate Rd, London, NW5 1PB  
+* Jun 9th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (found bringer)
   - Doors 7:00, Show from 7:30
   - The Railway Tavern, 18 Clapham High St, London, SW4 7UR
 * Jun 12th (Sun) - Recording [Comedians On ... podcast](https://www.youtube.com/channel/UCVNN--MVpDcwCJ7vwjo0KDw)
@@ -45,12 +48,14 @@ Upcoming Gigs
 * Jul 7th (Thu) - [Hope and Anchor Comedy Cup](https://www.facebook.com/events/485871346627227)
   - Doors 7:30, Show from 8:00
   - 123 Acre Lane, London, SW2 5
-* Jul 11th (Mon) Nice'n'spiky? TBC 
+* Jul 11th (Mon) [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
+  - Doors 7:30, Show from 8:00
+  - The Nelson's Pub, 32 Horatio St, London, E2 7SB
 * Jul 14th (Thu) Rumblings/Laugh Tracks? TBC
 * Jul 17th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (TBC) (seeking bringer) 
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
-* Jun 21st (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/) (TBC)
+* Jun 21st (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/)
   - Doors 7:00, Show from 7:30
   - No Such Place bar, 190 New North Road, Islington, N1 7BJ
 
