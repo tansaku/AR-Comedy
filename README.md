@@ -11,12 +11,6 @@ Drink purchased up to max value of £10.  Two drinks if you can attend a show ma
 Upcoming Gigs
 =============
 
-* Jun 7th (Tue) - [TNT Comedy Club](https://www.facebook.com/groups/341746814250) (being a bringer)
-  - Doors 7:45, Show from 8:00
-  - The Vine Pub, 86 Highgate Rd, London, NW5 1PB  
-* Jun 9th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (found bringer)
-  - Doors 7:00, Show from 7:30
-  - The Railway Tavern, 18 Clapham High St, London, SW4 7UR
 * Jun 12th (Sun) - Recording [Comedians On ... podcast](https://www.youtube.com/channel/UCVNN--MVpDcwCJ7vwjo0KDw)
   - Guest: [Wes Defoe](https://www.instagram.com/wesdefoe/)
 * Jun 13th (Mon) - [Tooting Comedy](https://www.facebook.com/Selkirk.Tooting) (found bringer)
@@ -49,7 +43,7 @@ Upcoming Gigs
   - Doors 7:30, Show from 8:00
   - The Nelson's Pub, 32 Horatio St, London, E2 7SB
 * Jul 14th (Thu) Rumblings/Laugh Tracks? TBC
-* Jul 17th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (TBC) (seeking bringer) 
+* Jul 17th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer) 
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
 * Jun 21st (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/)
@@ -66,6 +60,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Jun 9th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (Thanks to bringee Sophie Wilson)
+  - 5m "Bully Camping"
+  - Doors 7:00, Show from 7:30
+  - The Railway Tavern, 18 Clapham High St, London, SW4 7UR
 * Jun 6th (Mon) - [First showcase round of So You Think You’re Funny? 2022](https://soyouthinkyourefunny.co.uk/) 
   - 7m "High Libido Boosters"
   - Doors 6:30, Show from 7:30
@@ -238,6 +236,9 @@ Past Gigs
 Gigs Attended as a Bringer
 --------------------------
 
+* Jun 7th (Tue) - [TNT Comedy Club](https://www.facebook.com/groups/341746814250) (being a bringer)
+  - Doors 7:45, Show from 8:00
+  - The Vine Pub, 86 Highgate Rd, London, NW5 1PB  
 * May 9th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (being a bringer for [Lizzie Simpson](https://www.instagram.com/lizziethesimp/))
   - Doors 7:00, Show from 7:30
   - The Old Crown, Holborn, London, WC1A 1BH
