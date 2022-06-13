@@ -26,8 +26,8 @@ Upcoming Gigs
   - Doors 7:00, Show from 7:30
   - No Such Place bar, 190 New North Road, Islington, N1 7BJ
 * Jun 26th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m)
-  - Doors 7:00, Show from 7:30
-  - The Britannia Smok’d Kipling Street London SE1
+  - Doors 6:00, Show from 6:30
+  - The Castle Pub, King Charles Road, Surbiton Surrey KT5 8SB
 * Jun 27th (Mon) - Recording [Comedians On ... podcast](https://www.youtube.com/channel/UCVNN--MVpDcwCJ7vwjo0KDw)
   - Guest: [J Amobire](https://www.instagram.com/dj.jace/)
 * Jun 30th (Thu) - [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon) (MC)
@@ -46,7 +46,7 @@ Upcoming Gigs
 * Jul 17th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer) 
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
-* Jun 21st (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/)
+* Jul 21st (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/)
   - Doors 7:00, Show from 7:30
   - No Such Place bar, 190 New North Road, Islington, N1 7BJ
 
