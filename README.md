@@ -11,8 +11,6 @@ Drink purchased up to max value of £10.  Two drinks if you can attend a show ma
 Upcoming Gigs
 =============
 
-* Jun 12th (Sun) - Recording [Comedians On ... podcast](https://www.youtube.com/channel/UCVNN--MVpDcwCJ7vwjo0KDw)
-  - Guest: [Wes Defoe](https://www.instagram.com/wesdefoe/)
 * Jun 13th (Mon) - [Tooting Comedy](https://www.facebook.com/Selkirk.Tooting) (found bringer)
   - Doors 7:15, Show from 7:45
   - The Selkirk, 60 Selkirk Rd, London SW17 0ES
@@ -232,6 +230,12 @@ Past Gigs
   - 5m "Trouble Communicating"
   - Show 6:30
   - Karma Sanctum, 20 Warwick Street, Soho, London, W1B 5NF.
+
+Podcasts Recorded
+-----------------
+
+* Jun 12th (Sun) - Recorded [Comedians On ... podcast](https://www.youtube.com/channel/UCVNN--MVpDcwCJ7vwjo0KDw)
+  - Guest: [Wes Defoe](https://www.instagram.com/wesdefoe/)
 
 Gigs Attended as a Bringer
 --------------------------
