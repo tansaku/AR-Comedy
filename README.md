@@ -11,9 +11,6 @@ Drink purchased up to max value of £10.  Two drinks if you can attend a show ma
 Upcoming Gigs
 =============
 
-* Jun 13th (Mon) - [Tooting Comedy](https://www.facebook.com/Selkirk.Tooting) (found bringer)
-  - Doors 7:15, Show from 7:45
-  - The Selkirk, 60 Selkirk Rd, London SW17 0ES
 * Jun 16th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
   - Doors 7:30, Show from 8:00
   - The Tram Depot, 5 Dover St, Cambridge CB1 1DY
@@ -58,6 +55,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Jun 13th (Mon) - [Tooting Comedy](https://www.facebook.com/Selkirk.Tooting) (Thanks to bringees Kim and Carol)
+  - 5m "Bully Camping"
+  - Doors 7:15, Show from 7:45
+  - The Selkirk, 60 Selkirk Rd, London SW17 0ES
 * Jun 9th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (Thanks to bringee Sophie Wilson)
   - 5m "Bully Camping"
   - Doors 7:00, Show from 7:30
@@ -234,7 +235,7 @@ Past Gigs
 Podcasts Recorded
 -----------------
 
-* Jun 12th (Sun) - Recorded [Comedians On ... podcast](https://www.youtube.com/channel/UCVNN--MVpDcwCJ7vwjo0KDw)
+* Jun 12th (Sun) - Recorded  [Comedians On ... podcast](https://www.youtube.com/channel/UCVNN--MVpDcwCJ7vwjo0KDw)
   - Guest: [Wes Defoe](https://www.instagram.com/wesdefoe/)
 
 Gigs Attended as a Bringer
