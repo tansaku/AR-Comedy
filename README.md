@@ -14,7 +14,7 @@ Upcoming Gigs
 * Jun 16th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
   - Doors 7:30, Show from 8:00
   - The Tram Depot, 5 Dover St, Cambridge CB1 1DY
-* Jun 20th (Mon) - [The £25 Clap Off](https://www.facebook.com/groups/1095201041050460) 
+* Jun 20th (Mon) - [The £25 Clap Off](https://www.facebook.com/groups/1095201041050460) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - The Carpenter's Arms, 68-70 Whitfield St, Greater, London W1T 4EY  
 * Jun 23rd (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/)
@@ -36,7 +36,7 @@ Upcoming Gigs
   - 123 Acre Lane, London, SW2 5
 * Jul 11th (Mon) [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
-  - The Nelson's Pub, 32 Horatio St, London, E2 7SB
+  - The Betsey Trotwood, 56 Farringdon Rd, London, EC1R 3BL
 * Jul 14th (Thu) Rumblings/Laugh Tracks? TBC
 * Jul 17th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer) 
   - Doors 6:30, Show from 7:00
