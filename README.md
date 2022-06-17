@@ -11,9 +11,6 @@ Drink purchased up to max value of £10.  Two drinks if you can attend a show ma
 Upcoming Gigs
 =============
 
-* Jun 16th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
-  - Doors 7:30, Show from 8:00
-  - The Tram Depot, 5 Dover St, Cambridge CB1 1DY
 * Jun 20th (Mon) - [The £25 Clap Off](https://www.facebook.com/groups/1095201041050460) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - The Carpenter's Arms, 68-70 Whitfield St, Greater, London W1T 4EY  
@@ -37,7 +34,7 @@ Upcoming Gigs
 * Jul 11th (Mon) [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
   - The Betsey Trotwood, 56 Farringdon Rd, London, EC1R 3BL
-* Jul 14th (Thu) Rumblings/Laugh Tracks? TBC
+* Jul 14th (Thu) Rumblings? TBC
 * Jul 17th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer) 
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
@@ -55,6 +52,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Jun 16th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
+  - 5m "Bully Camping"
+  - Doors 7:30, Show from 8:00
+  - The Tram Depot, 5 Dover St, Cambridge CB1 1DY
 * Jun 13th (Mon) - [Tooting Comedy](https://www.facebook.com/Selkirk.Tooting) (Thanks to bringees Kim and Carol)
   - 5m "Bully Camping"
   - Doors 7:15, Show from 7:45
