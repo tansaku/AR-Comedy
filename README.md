@@ -28,9 +28,9 @@ Upcoming Gigs
 * Jul 7th (Thu) - [Hope and Anchor Comedy Cup](https://www.facebook.com/events/485871346627227)
   - Doors 7:30, Show from 8:00
   - 123 Acre Lane, London, SW2 5
-* Jul 11th (Mon) [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
-  - Doors 7:30, Show from 8:00
-  - The Betsey Trotwood, 56 Farringdon Rd, London, EC1R 3BL
+* Jul 11th (Mon) [Tooting Comedy](https://www.facebook.com/Selkirk.Tooting)
+  - Doors 7:15, Show from 7:45
+  - The Selkirk, 60 Selkirk Rd, London SW17 0ES
 * Jul 14th (Thu) Rumblings? TBC
 * Jul 17th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer) 
   - Doors 6:30, Show from 7:00
