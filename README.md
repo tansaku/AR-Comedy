@@ -11,9 +11,6 @@ Drink purchased up to max value of £10.  Two drinks if you can attend a show ma
 Upcoming Gigs
 =============
 
-* Jun 20th (Mon) - [The £25 Clap Off](https://www.facebook.com/groups/1095201041050460) (seeking bringer)
-  - Doors 7:00, Show from 7:30
-  - The Carpenter's Arms, 68-70 Whitfield St, Greater, London W1T 4EY  
 * Jun 23rd (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/)
   - Doors 7:00, Show from 7:30
   - No Such Place bar, 190 New North Road, Islington, N1 7BJ
@@ -42,6 +39,10 @@ Upcoming Gigs
   - Doors 7:00, Show from 7:30
   - No Such Place bar, 190 New North Road, Islington, N1 7BJ
 
+* Sep 22nd (Thu) - [Winchmore Hill Comedy](https://www.facebook.com/groups/1131205987733768/about/) (7m)
+  - Doors 6:30, Show from 7:00
+  - Winchmore Pub, 235 Winchmore Hill Rd, London N21 1QA
+
 Find The AR Comedian on:
 
 * [Instagram!](https://www.instagram.com/tansaku/)
@@ -52,6 +53,9 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Jun 20th (Mon) - [The £25 Clap Off](https://www.facebook.com/groups/1095201041050460) (Thanks to bringee Alan Moss)
+  - Doors 7:00, Show from 7:30
+  - The Carpenter's Arms, 68-70 Whitfield St, Greater, London W1T 4EY  
 * Jun 16th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
   - 5m "Bully Camping"
   - Doors 7:30, Show from 8:00
