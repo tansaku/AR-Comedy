@@ -11,9 +11,6 @@ Drink purchased up to max value of £10.  Two drinks if you can attend a show ma
 Upcoming Gigs
 =============
 
-* Jun 26th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m)
-  - Doors 6:00, Show from 6:30
-  - The Castle Pub, King Charles Road, Surbiton Surrey KT5 8SB
 * Jun 30th (Thu) - [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon) (MC)
   - Doors 7:30, Show from 8:00
   - Upstairs in the Queen's Keep. The Paxtons Head, 153 Knightsbridge, SW1X 7PA
@@ -50,6 +47,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Jun 26th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m)
+  - 10m "Competitions"
+  - Doors 6:00, Show from 6:30
+  - The Castle Pub, King Charles Road, Surbiton Surrey KT5 8SB
 * Jun 23rd (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/)
   - 5m "Competitions"
   - Doors 7:00, Show from 7:30
