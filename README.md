@@ -33,6 +33,9 @@ Upcoming Gigs
   - Doors 7:00, Show from 7:30
   - No Such Place bar, 190 New North Road, Islington, N1 7BJ
 
+* Sep 5th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
+  - Doors 7:30, Show from 8:00
+  - The Betsey Trotwood, 56 Farringdon Road
 * Sep 22nd (Thu) - [Winchmore Hill Comedy](https://www.facebook.com/groups/1131205987733768/about/) (7m)
   - Doors 6:30, Show from 7:00
   - Winchmore Pub, 235 Winchmore Hill Rd, London N21 1QA
