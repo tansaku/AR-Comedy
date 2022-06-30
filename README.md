@@ -11,9 +11,6 @@ Drink purchased up to max value of £10.  Two drinks if you can attend a show ma
 Upcoming Gigs
 =============
 
-* Jun 30th (Thu) - [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon) (MC)
-  - Doors 7:30, Show from 8:00
-  - Upstairs in the Queen's Keep. The Paxtons Head, 153 Knightsbridge, SW1X 7PA
 * Jul 3rd (Sun) - [Laughter Lab](https://www.facebook.com/profile.php?id=100073704168673)
   - Doors 7:00, Show from 7:30
   - The Three Compasses - 62 High St, London N8 7NX
@@ -23,15 +20,23 @@ Upcoming Gigs
 * Jul 11th (Mon) [Tooting Comedy](https://www.facebook.com/Selkirk.Tooting)
   - Doors 7:15, Show from 7:45
   - The Selkirk, 60 Selkirk Rd, London SW17 0ES
-* Jul 14th (Thu) Rumblings? TBC
+* Jul 14th (Thu) [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon)
+  - Doors 7:30, Show from 8:00
+  - Upstairs in the Queen's Keep. The Paxtons Head, 153 Knightsbridge, SW1X 7PA
 * Jul 17th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer) 
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
-* Jun 18th (Mon) - Recording [Comedians On ... podcast](https://www.youtube.com/channel/UCVNN--MVpDcwCJ7vwjo0KDw)
+* Jul 18th (Mon) - Recording [Comedians On ... podcast](https://www.youtube.com/channel/UCVNN--MVpDcwCJ7vwjo0KDw)
   - Guest: [J Amobire](https://www.instagram.com/dj.jace/)
 * Jul 21st (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/)
   - Doors 7:00, Show from 7:30
   - No Such Place bar, 190 New North Road, Islington, N1 7BJ
+* Jul 28th (Thu) [Tokyo Comedy Bar](https://www.tokyocomedybar.com/) (8m)
+  - Doors 7:30, Show from 8:00
+  - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
+* Jul 29th (Fri) [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)  (8m)
+  - Doors 7:30, Show from 8:00
+  - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
 
 * Sep 5th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
@@ -50,6 +55,9 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Jun 30th (Thu) - [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon) (MC)
+  - Doors 7:30, Show from 8:00
+  - Upstairs in the Queen's Keep. The Paxtons Head, 153 Knightsbridge, SW1X 7PA
 * Jun 26th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m)
   - 10m "Competitions"
   - Doors 6:00, Show from 6:30
