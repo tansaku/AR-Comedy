@@ -1,7 +1,7 @@
 Free Drink Offer!
 =================
 
-Follow me on [instagram](instagram.com/tansaku) and attend one of my comedy gigs (see below) and I will buy you a drink 
+Follow me on [instagram](https://instagram.com/tansaku) and attend one of my comedy gigs (see below) and I will buy you a drink 
 
 Terms & Conditions
 ------------------
