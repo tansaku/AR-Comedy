@@ -11,9 +11,6 @@ Drink purchased up to max value of £10.  Two drinks if you can attend a show ma
 Upcoming Gigs
 =============
 
-* Jul 3rd (Sun) - [Laughter Lab](https://www.facebook.com/profile.php?id=100073704168673)
-  - Doors 7:00, Show from 7:30
-  - The Three Compasses - 62 High St, London N8 7NX
 * Jul 7th (Thu) - [Hope and Anchor Comedy Cup](https://www.facebook.com/events/485871346627227)
   - Doors 7:30, Show from 8:00
   - 123 Acre Lane, London, SW2 5
@@ -38,7 +35,7 @@ Upcoming Gigs
   - Doors 7:30, Show from 8:00
   - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
 
-* Sep 5th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
+* Sep 5th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters)
   - Doors 7:30, Show from 8:00
   - The Betsey Trotwood, 56 Farringdon Road
 * Sep 22nd (Thu) - [Winchmore Hill Comedy](https://www.facebook.com/groups/1131205987733768/about/) (7m)
@@ -55,6 +52,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Jul 3rd (Sun) - [Laughter Lab](https://www.facebook.com/profile.php?id=100073704168673)
+  - 5m "Guy in the Chair"
+  - Doors 7:00, Show from 7:30
+  - The Three Compasses - 62 High St, London N8 7NX
 * Jun 30th (Thu) - [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon) (MC)
   - Doors 7:30, Show from 8:00
   - Upstairs in the Queen's Keep. The Paxtons Head, 153 Knightsbridge, SW1X 7PA
@@ -249,7 +250,7 @@ Past Gigs
 * Dec 12th (Sun) - [Amused Mooses](https://www.amusedmoose.com)
   - 5m "Trouble Communicating"
   - Show 6:30
-  - Karma Sanctum, 20 Warwick Street, Soho, London, W1B 5NF.
+  - Karma Sanctum, 20 Warwick Street, Soho, London, W1B 5NF
 
 Podcasts Recorded
 -----------------
@@ -260,7 +261,7 @@ Podcasts Recorded
 Gigs Attended as a Bringer
 --------------------------
 
-* Jun 7th (Tue) - [TNT Comedy Club](https://www.facebook.com/groups/341746814250) (being a bringer)
+* Jun 7th (Tue) - [TNT Comedy Club](https://www.facebook.com/groups/341746814250) (being a bringer for Sophie Wilson)
   - Doors 7:45, Show from 8:00
   - The Vine Pub, 86 Highgate Rd, London, NW5 1PB  
 * May 9th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (being a bringer for [Lizzie Simpson](https://www.instagram.com/lizziethesimp/))
