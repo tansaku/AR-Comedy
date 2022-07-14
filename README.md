@@ -11,9 +11,6 @@ Drink purchased up to max value of £10.  Two drinks if you can attend a show ma
 Upcoming Gigs
 =============
 
-* Jul 11th (Mon) [Tooting Comedy](https://www.facebook.com/Selkirk.Tooting)
-  - Doors 7:15, Show from 7:45
-  - The Selkirk, 60 Selkirk Rd, London SW17 0ES
 * Jul 14th (Thu) [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon)
   - Doors 7:30, Show from 8:00
   - Upstairs in the Queen's Keep. The Paxtons Head, 153 Knightsbridge, SW1X 7PA
@@ -51,6 +48,11 @@ Find The AR Comedian on:
 
 Past Gigs
 =========
+
+* Jul 11th (Mon) [Tooting Comedy](https://www.facebook.com/Selkirk.Tooting)
+  - 7m "Tribute Comics"
+  - Doors 7:15, Show from 7:45
+  - The Selkirk, 60 Selkirk Rd, London SW17 0ES
 * Jul 7th (Thu) - [Hope and Anchor Comedy Cup](https://www.facebook.com/events/485871346627227)
   - 5m "Guy in the Chair"
   - Doors 7:30, Show from 8:00
