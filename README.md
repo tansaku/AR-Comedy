@@ -11,9 +11,6 @@ Drink purchased up to max value of £10.  Two drinks if you can attend a show ma
 Upcoming Gigs
 =============
 
-* Jul 14th (Thu) [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon)
-  - Doors 7:30, Show from 8:00
-  - Upstairs in the Queen's Keep. The Paxtons Head, 153 Knightsbridge, SW1X 7PA
 * Jul 17th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer) 
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
@@ -49,6 +46,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Jul 14th (Thu) [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon)
+  - MC (Tribute Comics & Guy in the Chair)
+  - Doors 7:30, Show from 8:00
+  - Upstairs in the Queen's Keep. The Paxtons Head, 153 Knightsbridge, SW1X 7PA
 * Jul 11th (Mon) [Tooting Comedy](https://www.facebook.com/Selkirk.Tooting)
   - 7m "Tribute Comics"
   - Doors 7:15, Show from 7:45
@@ -61,7 +62,8 @@ Past Gigs
   - 5m "Guy in the Chair"
   - Doors 7:00, Show from 7:30
   - The Three Compasses - 62 High St, London N8 7NX
-* Jun 30th (Thu) - [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon) (MC)
+* Jun 30th (Thu) - [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon) 
+  - MC (Competitions & Laughter Yoga)
   - Doors 7:30, Show from 8:00
   - Upstairs in the Queen's Keep. The Paxtons Head, 153 Knightsbridge, SW1X 7PA
 * Jun 26th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m)
