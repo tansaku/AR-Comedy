@@ -11,7 +11,7 @@ Drink purchased up to max value of £10.  Two drinks if you can attend a show ma
 Upcoming Gigs
 =============
 
-* Jul 17th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer) 
+* Jul 17th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (bringer found) 
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
 * Jul 18th (Mon) - Recording [Comedians On ... podcast](https://www.youtube.com/channel/UCVNN--MVpDcwCJ7vwjo0KDw)
