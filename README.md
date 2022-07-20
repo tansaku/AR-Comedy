@@ -45,7 +45,7 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
-* Jul 17th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (bringer found)
+* Jul 17th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (Thanks to bringee Nick Joseph)
   - 5m "Silent Retreat"
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
