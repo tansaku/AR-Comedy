@@ -11,11 +11,6 @@ Drink purchased up to max value of £10.  Two drinks if you can attend a show ma
 Upcoming Gigs
 =============
 
-* Jul 17th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (bringer found) 
-  - Doors 6:30, Show from 7:00
-  - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
-* Jul 18th (Mon) - Recording [Comedians On ... podcast](https://www.youtube.com/channel/UCVNN--MVpDcwCJ7vwjo0KDw)
-  - Guest: [J Amobire](https://www.instagram.com/dj.jace/)
 * Jul 21st (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/)
   - Doors 7:00, Show from 7:30
   - No Such Place bar, 190 New North Road, Islington, N1 7BJ
@@ -46,6 +41,10 @@ Find The AR Comedian on:
 Past Gigs
 =========
 
+* Jul 17th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (bringer found)
+  - 5m "Silent Retreat"
+  - Doors 6:30, Show from 7:00
+  - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
 * Jul 14th (Thu) [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon)
   - MC (Tribute Comics & Guy in the Chair)
   - Doors 7:30, Show from 8:00
@@ -264,6 +263,9 @@ Podcasts Recorded
 
 * Jun 12th (Sun) - Recorded  [Comedians On ... podcast](https://www.youtube.com/channel/UCVNN--MVpDcwCJ7vwjo0KDw)
   - Guest: [Wes Defoe](https://www.instagram.com/wesdefoe/)
+
+* Jul 18th (Mon) - Recorded [Comedians On ... podcast](https://www.youtube.com/channel/UCVNN--MVpDcwCJ7vwjo0KDw)
+  - Guest: [J Amobire](https://www.instagram.com/dj.jace/)
 
 Gigs Attended as a Bringer
 --------------------------
