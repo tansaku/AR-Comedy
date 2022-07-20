@@ -30,6 +30,11 @@ Upcoming Gigs
 * Sep 22nd (Thu) - [Winchmore Hill Comedy](https://www.facebook.com/groups/1131205987733768/about/) (7m)
   - Doors 6:30, Show from 7:00
   - Winchmore Pub, 235 Winchmore Hill Rd, London N21 1QA
+* Sep 26th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
+  - 5m "Recurring Dreams"
+  - Doors 7:00, Show from 7:30
+  - The Regent Pub in Angel Islington, 201-203 Liverpool Rd, London N1 1LX
+
 
 Find The AR Comedian on:
 
