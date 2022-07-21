@@ -11,9 +11,7 @@ Drink purchased up to max value of £10.  Two drinks if you can attend a show ma
 Upcoming Gigs
 =============
 
-* Jul 21st (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/)
-  - Doors 7:00, Show from 7:30
-  - No Such Place bar, 190 New North Road, Islington, N1 7BJ
+
 * Jul 28th (Thu) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/) (8m)
   - Doors 7:30, Show from 8:00
   - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
@@ -30,10 +28,12 @@ Upcoming Gigs
 * Sep 22nd (Thu) - [Winchmore Hill Comedy](https://www.facebook.com/groups/1131205987733768/about/) (7m)
   - Doors 6:30, Show from 7:00
   - Winchmore Pub, 235 Winchmore Hill Rd, London N21 1QA
-* Sep 26th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy) (TBC)
+* Sep 26th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
   - Doors 7:00, Show from 7:30
   - The Regent Pub in Angel Islington, 201-203 Liverpool Rd, London N1 1LX
-
+* Oct 3rd (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
+  - Doors 6:30, Show from 7:00
+  - The Comedy Pub, 7 Oxendon Street, London, SW1Y 4EE
 
 Find The AR Comedian on:
 
@@ -44,7 +44,10 @@ Find The AR Comedian on:
 
 Past Gigs
 =========
-
+* Jul 21st (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/)
+  - 5m "Silent Retreat"
+  - Doors 7:00, Show from 7:30
+  - No Such Place bar, 190 New North Road, Islington, N1 7BJ
 * Jul 17th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (Thanks to bringee Nick Joseph)
   - 5m "Silent Retreat"
   - Doors 6:30, Show from 7:00
