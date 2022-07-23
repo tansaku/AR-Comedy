@@ -1,7 +1,7 @@
 Free Drink Offer!
 =================
 
-Follow me on [instagram](https://instagram.com/tansaku) and attend one of my comedy gigs (see below) and I will buy you a drink 
+Follow me on [instagram](https://instagram.com/tansaku) and attend one of my comedy gigs (see below) and I will buy you a drink! 
 
 Terms & Conditions
 ------------------
@@ -15,22 +15,28 @@ Upcoming Gigs
 * Jul 28th (Thu) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/) (8m)
   - Doors 7:30, Show from 8:00
   - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
-* Jul 29th (Fri) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)  (8m)
+* Jul 29th (Fri) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/) (8m)
   - Doors 7:30, Show from 8:00
   - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
 
 * Sep 5th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters)
   - Doors 7:30, Show from 8:00
   - The Betsey Trotwood, 56 Farringdon Road
-* Sep 8th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer) (TBC)
+* Sep 8th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - The Railway Tavern, 18 Clapham High St, London, SW4 7UR
+* Sep 11/12th (Sun/Mon) Lotta/Laughter Lab???  
+* Sep 15th (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/) (MC)
+  - Doors 7:00, Show from 7:30
+  - No Such Place bar, 190 New North Road, Islington, N1 7BJ
+* Sep 18/19th (Sun/Mon) Lotta/Laughter Lab???
 * Sep 22nd (Thu) - [Winchmore Hill Comedy](https://www.facebook.com/groups/1131205987733768/about/) (7m)
   - Doors 6:30, Show from 7:00
   - Winchmore Pub, 235 Winchmore Hill Rd, London N21 1QA
 * Sep 26th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
   - Doors 7:00, Show from 7:30
   - The Regent Pub in Angel Islington, 201-203 Liverpool Rd, London N1 1LX
+* Sep 29th (Thu) - Comedy Rumblings/Laugh Tracks???
 * Oct 3rd (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 6:30, Show from 7:00
   - The Comedy Pub, 7 Oxendon Street, London, SW1Y 4EE
@@ -270,7 +276,6 @@ Podcasts Recorded
 
 * Jun 12th (Sun) - Recorded  [Comedians On ... podcast](https://www.youtube.com/channel/UCVNN--MVpDcwCJ7vwjo0KDw)
   - Guest: [Wes Defoe](https://www.instagram.com/wesdefoe/)
-
 * Jul 18th (Mon) - Recorded [Comedians On ... podcast](https://www.youtube.com/channel/UCVNN--MVpDcwCJ7vwjo0KDw)
   - Guest: [J Amobire](https://www.instagram.com/dj.jace/)
 
