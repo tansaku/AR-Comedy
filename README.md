@@ -11,14 +11,25 @@ Drink purchased up to max value of £10.  Two drinks if you can attend a show ma
 Upcoming Gigs
 =============
 
-
-* Jul 28th (Thu) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/) (8m)
+* Aug 4th (Thu) - [Get on the Mic! SU Tokyo](https://www.facebook.com/events/1032412524131543)
+  - Doors 7:50, Show from 8:00 (UTC+9)
+  - [Google Meet](https://meet.google.com/kfq-azax-yxg)
+* Aug 8th (Mon) - Get on the Mic! SU Tokyo
+  - Doors 7:50, Show from 8:00 (UTC+9)
+  - [Google Meet](https://meet.google.com/kfq-azax-yxg)
+* Aug 11th (Thu): Get on the Mic! SU Tokyo
+  - Doors 7:50, Show from 8:00 (UTC+9)
+  - [Google Meet](https://meet.google.com/kfq-azax-yxg)
+* Aug 15th (Mon): Get on the Mic! SU Tokyo
+  - Doors 7:50, Show from 8:00 (UTC+9)
+  - [Google Meet](https://meet.google.com/kfq-azax-yxg)
+* Aug 17th (Wed) - Osaka Open Mic (TBC)
+* Aug 25th (Thu) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/) (TBC)
   - Doors 7:30, Show from 8:00
   - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
-* Jul 29th (Fri) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/) (8m)
+* Aug 27th (Sat) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/) (TBC)
   - Doors 7:30, Show from 8:00
   - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
-
 * Sep 5th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters)
   - Doors 7:30, Show from 8:00
   - The Betsey Trotwood, 56 Farringdon Road
@@ -50,6 +61,18 @@ Find The AR Comedian on:
 
 Past Gigs
 =========
+* Aug 4th (Thu) - [Get on the Mic! SU Tokyo](https://www.facebook.com/events/2299962356825729)
+  - 5m "Behind the Mask"
+  - Doors 7:50, Show from 8:00 (UTC+9)
+  - [Google Meet](https://meet.google.com/kfq-azax-yxg)
+* Jul 28th (Thu) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/) 
+  - 8m "Big in Japan"
+  - Doors 7:30, Show from 8:00 (UTC+9)
+  - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
+* Jul 29th (Fri) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
+  - 9m "Big in Japan"
+  - Doors 7:30, Show from 8:00 (UTC+9)
+  - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
 * Jul 21st (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/)
   - 5m "Silent Retreat"
   - Doors 7:00, Show from 7:30
