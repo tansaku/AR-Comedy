@@ -1,12 +1,11 @@
 Free Drink Offer!
 =================
 
-Follow me on [instagram](https://instagram.com/tansaku) and attend one of my comedy gigs (see below) and I will buy you a drink! 
+[FOLLOW ME ON INSTAGRAM!](https://instagram.com/tansaku) 
+----------------- 
+and attend one of my comedy gigs (see below) and I will buy you a drink!
 
-Terms & Conditions
-------------------
-
-Drink purchased up to max value of £10.  Two drinks if you can attend a show marked "seeking bringer".  Alcoholic drinks only bought for those who are above the legal age limit in the territory the gig occurs in.  Max three free drinks redeemable per gig.  Attending a show means seeing my entire performance from start to finish and I will buy you a drink after the show once instagram follow confirmed.
+[T&Cs apply](#Terms-and-Conditions)
 
 Upcoming Gigs
 =============
@@ -17,6 +16,9 @@ Upcoming Gigs
 * Aug 8th (Mon) - Get on the Mic! SU Tokyo
   - Doors 7:50, Show from 8:00 (UTC+9)
   - [Google Meet](https://meet.google.com/kfq-azax-yxg)
+* Aug 9th (Tue) - [Bullsht LiveFeed Redux](https://www.facebook.com/watch/DavidHabelsBullshtlivefeedcomedyopenmic/)
+  - Doors 9:20, Show from 9:30 (UTC+9)
+  - Zoom    
 * Aug 11th (Thu): Get on the Mic! SU Tokyo
   - Doors 7:50, Show from 8:00 (UTC+9)
   - [Google Meet](https://meet.google.com/kfq-azax-yxg)
@@ -24,6 +26,7 @@ Upcoming Gigs
   - Doors 7:50, Show from 8:00 (UTC+9)
   - [Google Meet](https://meet.google.com/kfq-azax-yxg)
 * Aug 17th (Wed) - Osaka Open Mic (TBC)
+
 * Aug 25th (Thu) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/) (TBC)
   - Doors 7:30, Show from 8:00
   - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
@@ -36,11 +39,13 @@ Upcoming Gigs
 * Sep 8th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - The Railway Tavern, 18 Clapham High St, London, SW4 7UR
-* Sep 11/12th (Sun/Mon) Lotta/Laughter Lab???  
+* Sep 11/12th (Sun/Mon) Lotta/Laughter Lab??? (TBC)
+
 * Sep 15th (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/) (MC)
   - Doors 7:00, Show from 7:30
   - No Such Place bar, 190 New North Road, Islington, N1 7BJ
-* Sep 18/19th (Sun/Mon) Lotta/Laughter Lab???
+* Sep 18/19th (Sun/Mon) Lotta/Laughter Lab??? (TBC)
+
 * Sep 22nd (Thu) - [Winchmore Hill Comedy](https://www.facebook.com/groups/1131205987733768/about/) (7m)
   - Doors 6:30, Show from 7:00
   - Winchmore Pub, 235 Winchmore Hill Rd, London N21 1QA
@@ -61,7 +66,11 @@ Find The AR Comedian on:
 
 Past Gigs
 =========
-* Aug 4th (Thu) - [Get on the Mic! SU Tokyo](https://www.facebook.com/events/2299962356825729)
+* Aug 2nd (Tue) - [Bullsht LiveFeed Redux](https://www.facebook.com/watch/DavidHabelsBullshtlivefeedcomedyopenmic/)
+  - 5m "Meditative Standup"
+  - Doors 9:20, Show from 9:30 (UTC+9)
+  - Zoom
+* Aug 1st (Mon) - [Get on the Mic! SU Tokyo](https://www.facebook.com/events/2299962356825729)
   - 5m "Behind the Mask"
   - Doors 7:50, Show from 8:00 (UTC+9)
   - [Google Meet](https://meet.google.com/kfq-azax-yxg)
@@ -326,3 +335,10 @@ Gigs Attended as a Bringer
 * Mar 17th (Thu) - [Joker Comedy](https://www.facebook.com/jokercomedyearlscourt) (being a bringer for Will Davies)
   - Doors 7, Show from 7:30
   - The Bolton Pub & Proeflokaal Rembrandt, 326 Earls Ct Rd, Earl's Court, London, SW5 9BQ
+
+
+Terms and Conditions
+------------------
+
+Drink purchased up to max value of £10.  Two drinks if you can attend a show marked "seeking bringer".  Alcoholic drinks only bought for those who are above the legal age limit in the territory the gig occurs in.  Max three free drinks redeemable per gig.  Attending a show means seeing my entire performance from start to finish and I will buy you a drink after the show once instagram follow confirmed.
+
