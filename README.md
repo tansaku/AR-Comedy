@@ -5,7 +5,7 @@ Free Drink Offer!
 ----------------- 
 and attend one of my comedy gigs (see below) and I will buy you a drink!
 
-[T&Cs apply](#Terms-and-Conditions)
+[T&Cs apply](#Terms-and-Conditions) (see bottom of page)
 
 Upcoming Gigs
 =============
@@ -346,8 +346,13 @@ Gigs Attended as a Bringer
   - The Bolton Pub & Proeflokaal Rembrandt, 326 Earls Ct Rd, Earl's Court, London, SW5 9BQ
 
 
-Terms and Conditions
-------------------
+# Terms and Conditions
 
-Drink purchased up to max value of £10.  Two drinks if you can attend a show marked "seeking bringer".  Alcoholic drinks only bought for those who are above the legal age limit in the territory the gig occurs in.  Max three free drinks redeemable per gig.  Attending a show means seeing my entire performance from start to finish and I will buy you a drink after the show once instagram follow confirmed.
-
+* Drink purchased up to max value of £10
+* Two drinks if you can attend a show marked "seeking bringer"
+* Otherwise max one drink per person per gig
+* Alcoholic drinks only bought for those who are above the legal age limit in the territory the gig occurs in
+* Attending a show means seeing my entire performance from start to finish
+* I will buy you a drink after the show once instagram follow confirmed
+* Yes I am totally serious :-) 
+* How else can I build an audience? Please send ideas to tansaku@gmail.com
