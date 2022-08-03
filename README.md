@@ -62,6 +62,15 @@ Find The AR Comedian on:
 * [Instagram!](https://www.instagram.com/tansaku/)
 * [Twitter!](https://www.twitter.com/tansakuu/)
 
+Impressions
+===========
+
+* _"Superb"_ - Pete Dickenson
+* _"Very creative"_ - George Tothill
+* _"Strangely watchable"_ - Gordana Mićić
+* _"Like a geek, grown up"_ - Markus Birdman
+* _"Brilliant"_ - Joseph Vaughan 
+
 ----
 
 Past Gigs
