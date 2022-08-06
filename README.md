@@ -22,8 +22,9 @@ Upcoming Gigs
 * Aug 15th (Mon): Get on the Mic! SU Tokyo
   - Doors 7:50, Show from 8:00 (UTC+9)
   - [Google Meet](https://meet.google.com/kfq-azax-yxg)
-* Aug 17th (Wed) - Osaka Open Mic (TBC)
-
+* Aug 17th (Wed) - Osaka Open Mic
+  - Doors 8:30, Show from 9:00 (UTC+9)
+  - The Sound Garden Café & Bar Osaka
 * Aug 25th (Thu) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/) (TBC)
   - Doors 7:30, Show from 8:00
   - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
