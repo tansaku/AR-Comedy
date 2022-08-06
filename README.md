@@ -10,9 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Aug 4th (Thu) - [Get on the Mic! SU Tokyo](https://www.facebook.com/events/1032412524131543)
-  - Doors 7:50, Show from 8:00 (UTC+9)
-  - [Google Meet](https://meet.google.com/kfq-azax-yxg)
 * Aug 8th (Mon) - Get on the Mic! SU Tokyo
   - Doors 7:50, Show from 8:00 (UTC+9)
   - [Google Meet](https://meet.google.com/kfq-azax-yxg)
@@ -33,6 +30,8 @@ Upcoming Gigs
 * Aug 27th (Sat) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/) (TBC)
   - Doors 7:30, Show from 8:00
   - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
+* Aug 28th (Sun) - Ginza Comedy (TBC)
+
 * Sep 5th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters)
   - Doors 7:30, Show from 8:00
   - The Betsey Trotwood, 56 Farringdon Road
@@ -75,6 +74,10 @@ Impressions
 
 Past Gigs
 =========
+* Aug 4th (Thu) - [Get on the Mic! SU Tokyo](https://www.facebook.com/events/1032412524131543)
+  - 5m "Mindful Standup"
+  - Doors 7:50, Show from 8:00 (UTC+9)
+  - [Google Meet](https://meet.google.com/kfq-azax-yxg)
 * Aug 2nd (Tue) - [Bullsht LiveFeed Redux](https://www.facebook.com/watch/DavidHabelsBullshtlivefeedcomedyopenmic/)
   - 5m "Meditative Standup"
   - Doors 9:20, Show from 9:30 (UTC+9)
