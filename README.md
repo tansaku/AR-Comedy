@@ -9,10 +9,7 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 
 Upcoming Gigs
 =============
-
-* Aug 9th (Tue) - [Bullsht LiveFeed Redux](https://www.facebook.com/watch/DavidHabelsBullshtlivefeedcomedyopenmic/)
-  - Doors 9:20, Show from 9:30 (UTC+9)
-  - Zoom    
+  
 * Aug 11th (Thu): Get on the Mic! SU Tokyo
   - Doors 7:50, Show from 8:00 (UTC+9)
   - [Google Meet](https://meet.google.com/kfq-azax-yxg)
@@ -22,6 +19,9 @@ Upcoming Gigs
 * Aug 17th (Wed) - Osaka Open Mic
   - Doors 8:30, Show from 9:00 (UTC+9)
   - The Sound Garden Café & Bar Osaka
+* Aug 24th (Wed) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/) (TBC)
+  - Doors 7:30, Show from 8:00
+  - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
 * Aug 25th (Thu) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
   - Doors 7:30, Show from 8:00
   - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
@@ -72,6 +72,10 @@ Impressions
 
 Past Gigs
 =========
+* Aug 9th (Tue) - [Bullsht LiveFeed Redux](https://www.facebook.com/watch/DavidHabelsBullshtlivefeedcomedyopenmic/)
+  - 5m "Mindful Standup"
+  - Doors 9:20, Show from 9:30 (UTC+9)
+  - Zoom  
 * Aug 8th (Mon) - Get on the Mic! SU Tokyo
   - 5m "Mindful Standup"
   - Doors 7:50, Show from 8:00 (UTC+9)
