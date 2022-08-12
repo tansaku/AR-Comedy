@@ -9,16 +9,19 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 
 Upcoming Gigs
 =============
-  
-* Aug 11th (Thu): Get on the Mic! SU Tokyo
-  - Doors 7:50, Show from 8:00 (UTC+9)
-  - [Google Meet](https://meet.google.com/kfq-azax-yxg)
+
 * Aug 15th (Mon): Get on the Mic! SU Tokyo
   - Doors 7:50, Show from 8:00 (UTC+9)
   - [Google Meet](https://meet.google.com/kfq-azax-yxg)
+* Aug 16th (Tue) - [Bullsht LiveFeed Redux](https://www.facebook.com/watch/DavidHabelsBullshtlivefeedcomedyopenmic/)
+  - Doors 9:20, Show from 9:30 (UTC+9)
+  - Zoom  
 * Aug 17th (Wed) - Osaka Open Mic
   - Doors 8:30, Show from 9:00 (UTC+9)
   - The Sound Garden Café & Bar Osaka
+* Aug 18th (Thu): Get on the Mic! SU Tokyo
+  - Doors 7:50, Show from 8:00 (UTC+9)
+  - [Google Meet](https://meet.google.com/kfq-azax-yxg)  
 * Aug 24th (Wed) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/) (TBC)
   - Doors 7:30, Show from 8:00
   - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
@@ -72,6 +75,10 @@ Impressions
 
 Past Gigs
 =========
+* Aug 11th (Thu): Get on the Mic! SU Tokyo
+  - 5m "Women"
+  - Doors 7:50, Show from 8:00 (UTC+9)
+  - [Google Meet](https://meet.google.com/kfq-azax-yxg)
 * Aug 9th (Tue) - [Bullsht LiveFeed Redux](https://www.facebook.com/watch/DavidHabelsBullshtlivefeedcomedyopenmic/)
   - 5m "Mindful Standup"
   - Doors 9:20, Show from 9:30 (UTC+9)
@@ -80,7 +87,7 @@ Past Gigs
   - 5m "Mindful Standup"
   - Doors 7:50, Show from 8:00 (UTC+9)
   - [Google Meet](https://meet.google.com/kfq-azax-yxg)
-* Aug 4th (Thu) - [Get on the Mic! SU Tokyo](https://www.facebook.com/events/1032412524131543)
+* Aug 4th (Thu) - [Get on the Mic! SU Tokyo](https://www.facebook.com/events/1032412524131543) (LX)
   - 5m "Mindful Standup"
   - Doors 7:50, Show from 8:00 (UTC+9)
   - [Google Meet](https://meet.google.com/kfq-azax-yxg)
@@ -120,7 +127,7 @@ Past Gigs
   - 5m "Guy in the Chair"
   - Doors 7:30, Show from 8:00
   - 123 Acre Lane, London, SW2 5
-* Jul 3rd (Sun) - [Laughter Lab](https://www.facebook.com/profile.php?id=100073704168673)
+* Jul 3rd (Sun) - [Laughter Lab](https://www.facebook.com/profile.php?id=100073704168673) (L)
   - 5m "Guy in the Chair"
   - Doors 7:00, Show from 7:30
   - The Three Compasses - 62 High St, London N8 7NX
@@ -160,7 +167,7 @@ Past Gigs
   - 5m "High Libido Boosters"
   - Doors 7:30 Show from 8:00
   - The Powerplant, 89 Chalk Farm Rd, Chalk Farm, London, NW1 8AR
-* May 30th (Mon) - [Virtue](https://www.facebook.com/virtuecomedy1)
+* May 30th (Mon) - [Virtue](https://www.facebook.com/virtuecomedy1) (XL)
   - 5m "High Libido"
   - Doors 7:30, Show from 8:00
   - The North Star pub, 104 Finchley Road, London, NW3 5JJ
@@ -199,7 +206,7 @@ Past Gigs
   - 5m "High Libido"
   - Doors 6:30 Show from 7:00
   - The Retro Bar, 2 George CT, Charing Cross, London
-* Apr 28th (Thu) - [Free Cockerel of Berkshire Comedy Night](https://www.facebook.com/NMCCSportsBar) (10m)
+* Apr 28th (Thu) - [Free Cockerel of Berkshire Comedy Night](https://www.facebook.com/NMCCSportsBar) (10m) (XXX)
   - 10m "Foreign Travel and High Libido"
   - Doors 7:00 Show 7:30
   - NMCC Sports Bar, Summerleaze Park, Summerleaze Road, Maidenhead, Berkshire, SL6 8SP  
@@ -239,7 +246,7 @@ Past Gigs
   - 5m "Identity"
   - Doors 7:00, Show from 7:30
   - The Old Crown, Holborn, London, WC1A 1BH
-* Mar 13th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy)
+* Mar 13th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (XX)
   - 10m "Identity and Supermarket-fu"
   - Show from 6:30
   - The Castle Pub, King Charles Road, Surbiton Surrey KT5 8SB
@@ -279,7 +286,7 @@ Past Gigs
   - 15m "Mid-life Crisis & Super Ego"
   - Show from 2:00 (till 6:00)  
   - 378-380 Station Road, Harrow, London, HA1 2DE
-* Jan 27th (Thu) - [Monkey Business](http://www.monkeybusinesscomedyclub.co.uk/)
+* Jan 27th (Thu) - [Monkey Business](http://www.monkeybusinesscomedyclub.co.uk/) (X)
   - 8m "Mid-life Crisis"
   - 5m "Trouble Communicating"
   - Doors 7:00, Show from 8:00
