@@ -10,9 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Aug 15th (Mon): Get on the Mic! SU Tokyo
-  - Doors 7:50, Show from 8:00 (UTC+9)
-  - [Google Meet](https://meet.google.com/kfq-azax-yxg)
 * Aug 16th (Tue) - [Bullsht LiveFeed Redux](https://www.facebook.com/watch/DavidHabelsBullshtlivefeedcomedyopenmic/)
   - Doors 9:20, Show from 9:30 (UTC+9)
   - Zoom  
@@ -21,7 +18,10 @@ Upcoming Gigs
   - The Sound Garden Café & Bar Osaka
 * Aug 18th (Thu): Get on the Mic! SU Tokyo
   - Doors 7:50, Show from 8:00 (UTC+9)
-  - [Google Meet](https://meet.google.com/kfq-azax-yxg)  
+  - [Google Meet](https://meet.google.com/kfq-azax-yxg)
+* Aug 22nd (Mon): Get on the Mic! SU Tokyo
+  - Doors 7:50, Show from 8:00 (UTC+9)
+  - [Google Meet](https://meet.google.com/kfq-azax-yxg)    
 * Aug 24th (Wed) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/) (TBC)
   - Doors 7:30, Show from 8:00
   - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
@@ -75,6 +75,10 @@ Impressions
 
 Past Gigs
 =========
+* Aug 15th (Mon): Get on the Mic! SU Tokyo
+  - 5m "Women"
+  - Doors 7:50, Show from 8:00 (UTC+9)
+  - [Google Meet](https://meet.google.com/kfq-azax-yxg)
 * Aug 11th (Thu): Get on the Mic! SU Tokyo
   - 5m "Women"
   - Doors 7:50, Show from 8:00 (UTC+9)
