@@ -10,21 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Aug 16th (Tue) - [Bullsht LiveFeed Redux](https://www.facebook.com/watch/DavidHabelsBullshtlivefeedcomedyopenmic/)
-  - Doors 9:20, Show from 9:30 (UTC+9)
-  - Zoom  
-* Aug 17th (Wed) - Osaka Open Mic
-  - Doors 8:30, Show from 9:00 (UTC+9)
-  - The Sound Garden Café & Bar Osaka
-* Aug 18th (Thu): Get on the Mic! SU Tokyo
-  - Doors 7:50, Show from 8:00 (UTC+9)
-  - [Google Meet](https://meet.google.com/kfq-azax-yxg)
-* Aug 22nd (Mon): Get on the Mic! SU Tokyo
-  - Doors 7:50, Show from 8:00 (UTC+9)
-  - [Google Meet](https://meet.google.com/kfq-azax-yxg)    
-* Aug 24th (Wed) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/) (TBC)
-  - Doors 7:30, Show from 8:00
-  - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
 * Aug 25th (Thu) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
   - Doors 7:30, Show from 8:00
   - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
@@ -39,11 +24,13 @@ Upcoming Gigs
 * Sep 8th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - The Railway Tavern, 18 Clapham High St, London, SW4 7UR
+
 * Sep 11/12th (Sun/Mon) Lotta/Laughter Lab??? (TBC)
 
 * Sep 15th (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/) (MC)
   - Doors 7:00, Show from 7:30
   - No Such Place bar, 190 New North Road, Islington, N1 7BJ
+  
 * Sep 18/19th (Sun/Mon) Lotta/Laughter Lab??? (TBC)
 
 * Sep 22nd (Thu) - [Winchmore Hill Comedy](https://www.facebook.com/groups/1131205987733768/about/) (7m)
@@ -75,6 +62,15 @@ Impressions
 
 Past Gigs
 =========
+
+* Aug 17th (Wed) - Osaka Open Mic
+  - 5m "Women"
+  - Doors 8:30, Show from 9:00 (UTC+9)
+  - The Sound Garden Café & Bar Osaka
+* Aug 16th (Tue) - [Bullsht LiveFeed Redux](https://www.facebook.com/watch/DavidHabelsBullshtlivefeedcomedyopenmic/)
+  - 5m "Women"
+  - Doors 9:20, Show from 9:30 (UTC+9)
+  - Zoom  
 * Aug 15th (Mon): Get on the Mic! SU Tokyo
   - 5m "Women"
   - Doors 7:50, Show from 8:00 (UTC+9)
