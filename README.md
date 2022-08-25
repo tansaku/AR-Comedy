@@ -10,9 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Aug 25th (Thu) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
-  - Doors 7:30, Show from 8:00
-  - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
 * Aug 27th (Sat) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
   - Doors 7:30, Show from 8:00
   - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
@@ -63,6 +60,14 @@ Impressions
 Past Gigs
 =========
 
+* Aug 25th (Thu) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
+  - 4m "Painfully Shallow"
+  - Doors 7:30, Show from 8:00
+  - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
+* Aug 25th (Thu) - [Tokyo Comedy Bar (in Japanse)](https://www.tokyocomedybar.com/)
+  - 4m "Ohayo"
+  - Doors 6:00, Show from 7:00
+  - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
 * Aug 17th (Wed) - Osaka Open Mic
   - 5m "Women"
   - Doors 8:30, Show from 9:00 (UTC+9)
