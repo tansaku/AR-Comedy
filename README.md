@@ -10,15 +10,10 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Aug 27th (Sat) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
-  - Doors 7:30, Show from 8:00
-  - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
-* Aug 28th (Sun) - Ginza Comedy (TBC)
-
 * Sep 5th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters)
   - Doors 7:30, Show from 8:00
   - The Betsey Trotwood, 56 Farringdon Road
-* Sep 8th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer)
+* Sep 8th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (bringer found)
   - Doors 7:00, Show from 7:30
   - The Railway Tavern, 18 Clapham High St, London, SW4 7UR
 
@@ -27,16 +22,16 @@ Upcoming Gigs
 * Sep 15th (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/) (MC)
   - Doors 7:00, Show from 7:30
   - No Such Place bar, 190 New North Road, Islington, N1 7BJ
-  
-* Sep 18/19th (Sun/Mon) Lotta/Laughter Lab??? (TBC)
-
+* Sep 19th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (TBC)
+  - Doors 7:00, Show from 7:30
+  - The Old Crown, Holborn, London, WC1A 1BH(TBC)
 * Sep 22nd (Thu) - [Winchmore Hill Comedy](https://www.facebook.com/groups/1131205987733768/about/) (7m)
   - Doors 6:30, Show from 7:00
   - Winchmore Pub, 235 Winchmore Hill Rd, London N21 1QA
 * Sep 26th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
   - Doors 7:00, Show from 7:30
   - The Regent Pub in Angel Islington, 201-203 Liverpool Rd, London N1 1LX
-* Sep 29th (Thu) - Comedy Rumblings/Laugh Tracks???
+* Sep 29th (Thu) - Comedy Rumblings (TBC)
 * Oct 3rd (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 6:30, Show from 7:00
   - The Comedy Pub, 7 Oxendon Street, London, SW1Y 4EE
@@ -60,6 +55,10 @@ Impressions
 Past Gigs
 =========
 
+* Aug 27th (Sat) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
+  - 9m "Lost in Translation"
+  - Doors 6:00, Show from 7:00
+  - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
 * Aug 25th (Thu) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
   - 4m "Painfully Shallow"
   - Doors 7:30, Show from 8:00
