@@ -35,6 +35,9 @@ Upcoming Gigs
 * Oct 3rd (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 6:30, Show from 7:00
   - The Comedy Pub, 7 Oxendon Street, London, SW1Y 4EE
+* Oct 6th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
+  - Doors 7:30, Show from 8:00
+  - The Tram Depot, 5 Dover St, Cambridge CB1 1DY
 
 Find The AR Comedian on:
 
