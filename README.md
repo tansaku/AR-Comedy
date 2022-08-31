@@ -9,22 +9,25 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 
 Upcoming Gigs
 =============
-
+* Sep 3rd (Sat) - [Comedy Cat](https://www.comedycatopenmike.com/)
+  - Doors 7:00, Show from 7:3
+  - The Betsey Trotwood, 56 Farringdon Road
 * Sep 5th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters)
   - Doors 7:30, Show from 8:00
   - The Betsey Trotwood, 56 Farringdon Road
-* Sep 8th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (bringer found)
+* Sep 8th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (bringer found) (LXX)
   - Doors 7:00, Show from 7:30
   - The Railway Tavern, 18 Clapham High St, London, SW4 7UR
-
-* Sep 11/12th (Sun/Mon) Lotta/Laughter Lab??? (TBC)
-
+* Sep 11th (Sun) Lotta/Laughter Lab??? (TBC)  
+* Sep 12th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (being a bringer)
+  - Doors 7:00, Show from 7:30
+  - The Old Crown, Holborn, London, WC1A 1BH(TBC)
 * Sep 15th (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/) (MC)
   - Doors 7:00, Show from 7:30
   - No Such Place bar, 190 New North Road, Islington, N1 7BJ
-* Sep 19th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (TBC)
+* Sep 19th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/)
   - Doors 7:00, Show from 7:30
-  - The Old Crown, Holborn, London, WC1A 1BH(TBC)
+  - The Old Crown, Holborn, London, WC1A 1BH
 * Sep 22nd (Thu) - [Winchmore Hill Comedy](https://www.facebook.com/groups/1131205987733768/about/) (7m)
   - Doors 6:30, Show from 7:00
   - Winchmore Pub, 235 Winchmore Hill Rd, London N21 1QA
