@@ -9,13 +9,10 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 
 Upcoming Gigs
 =============
-* Sep 3rd (Sat) - [Comedy Cat](https://www.comedycatopenmike.com/)
-  - Doors 7:00, Show from 7:30
-  - BeerKat 38-39 The Broadway, London W5 2NP
-* Sep 5th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters)
+* Sep 5th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (LXX)
   - Doors 7:30, Show from 8:00
   - The Betsey Trotwood, 56 Farringdon Road
-* Sep 8th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (bringer found) (LXX)
+* Sep 8th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (bringer found)
   - Doors 7:00, Show from 7:30
   - The Railway Tavern, 18 Clapham High St, London, SW4 7UR
 * Sep 11th (Sun) Lotta/Laughter Lab??? (TBC)  
@@ -61,6 +58,10 @@ Impressions
 Past Gigs
 =========
 
+* Sep 3rd (Sat) - [Comedy Cat](https://www.comedycatopenmike.com/)
+  - 5m "What Men Need"
+  - Doors 7:00, Show from 7:30
+  - BeerKat 38-39 The Broadway, London W5 2NP
 * Aug 27th (Sat) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
   - 9m "Lost in Translation"
   - Doors 6:00, Show from 7:00
