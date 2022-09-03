@@ -10,8 +10,8 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 * Sep 3rd (Sat) - [Comedy Cat](https://www.comedycatopenmike.com/)
-  - Doors 7:00, Show from 7:3
-  - The Betsey Trotwood, 56 Farringdon Road
+  - Doors 7:00, Show from 7:30
+  - BeerKat 38-39 The Broadway, London W5 2NP
 * Sep 5th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters)
   - Doors 7:30, Show from 8:00
   - The Betsey Trotwood, 56 Farringdon Road
