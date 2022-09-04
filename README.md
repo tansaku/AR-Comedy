@@ -1,7 +1,7 @@
 Free Drink Offer!
 =================
 
-[FOLLOW ME ON INSTAGRAM!](https://instagram.com/tansaku) 
+[CLICK HERE TO FOLLOW ME ON INSTAGRAM!](https://instagram.com/tansaku) 
 ----------------- 
 and attend one of my comedy gigs (see below) and I will buy you a drink!
 
@@ -15,7 +15,9 @@ Upcoming Gigs
 * Sep 8th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (bringer found)
   - Doors 7:00, Show from 7:30
   - The Railway Tavern, 18 Clapham High St, London, SW4 7UR
-* Sep 11th (Sun) Lotta/Laughter Lab??? (TBC)  
+* Sep 11th (Sun) [Laughter Lab](https://www.facebook.com/profile.php?id=100073704168673)
+  - Doors 7:00, Show from 7:30
+  - The Three Compasses - 62 High St, London N8 7NX
 * Sep 12th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (being a bringer)
   - Doors 7:00, Show from 7:30
   - The Old Crown, Holborn, London, WC1A 1BH(TBC)
