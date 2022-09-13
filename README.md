@@ -9,9 +9,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 
 Upcoming Gigs
 =============
-* Sep 12th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (being a bringer)
-  - Doors 7:00, Show from 7:30
-  - The Old Crown, Holborn, London, WC1A 1BH(TBC)
 * Sep 15th (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/) (MC)
   - Doors 7:00, Show from 7:30
   - No Such Place bar, 190 New North Road, Islington, N1 7BJ
@@ -353,7 +350,9 @@ Podcasts Recorded
 
 Gigs Attended as a Bringer
 --------------------------
-
+* Sep 12th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (being a bringer for myself)
+  - Doors 7:00, Show from 7:30
+  - The Old Crown, Holborn, London, WC1A 1BH(TBC)
 * Jun 7th (Tue) - [TNT Comedy Club](https://www.facebook.com/groups/341746814250) (being a bringer for Sophie Wilson)
   - Doors 7:45, Show from 8:00
   - The Vine Pub, 86 Highgate Rd, London, NW5 1PB  
