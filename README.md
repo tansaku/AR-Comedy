@@ -9,25 +9,44 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 
 Upcoming Gigs
 =============
-* Sep 15th (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/) (MC)
+
+* Sep 24th (Sat) - [Comedy Cat](https://www.comedycatopenmike.com/) (TBC)
   - Doors 7:00, Show from 7:30
-  - No Such Place bar, 190 New North Road, Islington, N1 7BJ
-* Sep 19th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/)
-  - Doors 7:00, Show from 7:30
-  - The Old Crown, Holborn, London, WC1A 1BH
-* Sep 22nd (Thu) - [Winchmore Hill Comedy](https://www.facebook.com/groups/1131205987733768/about/) (7m)
-  - Doors 6:30, Show from 7:00
-  - Winchmore Pub, 235 Winchmore Hill Rd, London N21 1QA
+  - BeerKat 38-39 The Broadway, London W5 2NP
 * Sep 26th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
   - Doors 7:00, Show from 7:30
   - The Regent Pub in Angel Islington, 201-203 Liverpool Rd, London N1 1LX
 * Sep 29th (Thu) - Comedy Rumblings (TBC)
+
 * Oct 3rd (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 6:30, Show from 7:00
   - The Comedy Pub, 7 Oxendon Street, London, SW1Y 4EE
 * Oct 6th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
   - Doors 7:30, Show from 8:00
   - The Tram Depot, 5 Dover St, Cambridge CB1 1DY
+
+* Oct 10th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
+  - Doors 7:30, Show from 8:00
+  - The Betsey Trotwood, 56 Farringdon Road
+* Oct 14th (Thu) - ?
+* Oct 17th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (TBC)
+  - Doors 7:00, Show from 7:30
+  - The Old Crown, Holborn, London, WC1A 1BH
+* Oct 20th (Thu) - ?
+* Oct 24th (Mon) - ? HT
+* Oct 27th (Thu) - ? HT
+* Oct 31st (Mon) - ?
+
+* Nov 3rd (Thu) - ?
+* Nov 7th (Mon) - ?
+* Nov 10th (Thu) - ?
+* Nov 14th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
+  - Doors 7:30, Show from 8:00
+  - The Betsey Trotwood, 56 Farringdon Road
+* Nov 17th (Thu) - ?
+* Nov 21st (Mon) - ?
+* Nov 24th (Thu) - ?
+* Nov 28th (Mon) - ?
 
 Find The AR Comedian on:
 
@@ -47,6 +66,10 @@ Impressions
 
 Past Gigs
 =========
+* Sep 15th (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/) (MC)
+  - 5m "Lost in Translation" 5m "En Route" + Sushi!
+  - Doors 7:00, Show from 7:30
+  - No Such Place bar, 190 New North Road, Islington, N1 7BJ
 * Sep 11th (Sun) [Laughter Lab](https://www.facebook.com/profile.php?id=100073704168673)
   - 5m "En Route"
   - Doors 7:00, Show from 7:30
@@ -376,6 +399,14 @@ Gigs Attended as a Bringer
   - The Bolton Pub & Proeflokaal Rembrandt, 326 Earls Ct Rd, Earl's Court, London, SW5 9BQ
 
 
+# Cancelled Gigs
+
+* Sep 19th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/)
+  - Doors 7:00, Show from 7:30
+  - The Old Crown, Holborn, London, WC1A 1BH
+* Sep 22nd (Thu) - [Winchmore Hill Comedy](https://www.facebook.com/groups/1131205987733768/about/) (7m)
+  - Doors 6:30, Show from 7:00
+  - Winchmore Pub, 235 Winchmore Hill Rd, London N21 1QA
 # Terms and Conditions
 
 * Drink purchased up to max value of £10
