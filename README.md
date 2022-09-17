@@ -38,7 +38,9 @@ Upcoming Gigs
 * Oct 31st (Mon) - ?
 
 * Nov 3rd (Thu) - ?
-* Nov 7th (Mon) - ?
+* Nov 7th (Mon) - [Lewis Schafer's Comedy Open Mic](https://www.facebook.com/LewisSchaffersComedyOpenMic/)
+  - Doors 6:30, Show from 7:00
+  - King's Arms 65 Newcomen Street, Borough, SE1 1YT, London, UK 
 * Nov 10th (Thu) - ?
 * Nov 14th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
