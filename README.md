@@ -10,7 +10,7 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Sep 24th (Sat) - [Comedy Cat](https://www.comedycatopenmike.com/) (TBC)
+* Sep 24th (Sat) - [Comedy Cat](https://www.comedycatopenmike.com/)
   - Doors 7:00, Show from 7:30
   - BeerKat 38-39 The Broadway, London W5 2NP
 * Sep 26th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
@@ -33,8 +33,10 @@ Upcoming Gigs
   - Doors 7:00, Show from 7:30
   - The Old Crown, Holborn, London, WC1A 1BH
 * Oct 20th (Thu) - ?
+* Oct 23rd (Sun) - [DingDongGongShow](https://vauxhallcomedyclub.com/) (TBC)
 * Oct 24th (Mon) - ? HT
 * Oct 27th (Thu) - ? HT
+
 * Oct 31st (Mon) - ?
 
 * Nov 3rd (Thu) - ?
@@ -45,10 +47,15 @@ Upcoming Gigs
 * Nov 14th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
   - The Betsey Trotwood, 56 Farringdon Road
-* Nov 17th (Thu) - ?
+* Nov 17th (Thu) - [Up the Creek](https://up-the-creek.com) (TBC)
+  - Doors 7:00, Show from 8:00
+  - 302 Creek Rd, London, SE10 9SW
 * Nov 21st (Mon) - ?
 * Nov 24th (Thu) - ?
 * Nov 28th (Mon) - ?
+* Dec 5th (Mon) - [Jollies at the George](https://www.facebook.com/jolliesatthegeorge) (TBC)
+  - Doors 7:30, Show from 8:00
+  - 373 Commercial Road, London, E1 0LA
 
 Find The AR Comedian on:
 
