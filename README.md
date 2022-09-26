@@ -10,9 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Sep 24th (Sat) - [Comedy Cat](https://www.comedycatopenmike.com/)
-  - Doors 7:00, Show from 7:30
-  - BeerKat 38-39 The Broadway, London W5 2NP
 * Sep 26th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
   - Doors 7:00, Show from 7:30
   - The Regent Pub in Angel Islington, 201-203 Liverpool Rd, London N1 1LX
@@ -24,7 +21,6 @@ Upcoming Gigs
 * Oct 6th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
   - Doors 7:30, Show from 8:00
   - The Tram Depot, 5 Dover St, Cambridge CB1 1DY
-
 * Oct 10th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
   - The Betsey Trotwood, 56 Farringdon Road
@@ -34,9 +30,8 @@ Upcoming Gigs
   - The Old Crown, Holborn, London, WC1A 1BH
 * Oct 20th (Thu) - ?
 * Oct 23rd (Sun) - [DingDongGongShow](https://vauxhallcomedyclub.com/) (TBC)
-* Oct 24th (Mon) - ? HT
-* Oct 27th (Thu) - ? HT
-
+* Oct 24th (Mon) - HT WC
+* Oct 27th (Thu) - HT WC
 * Oct 31st (Mon) - ?
 
 * Nov 3rd (Thu) - ?
@@ -75,6 +70,10 @@ Impressions
 
 Past Gigs
 =========
+* Sep 24th (Sat) - [Comedy Cat](https://www.comedycatopenmike.com/)
+  - 5m "Government by Random"
+  - Doors 7:00, Show from 7:30
+  - BeerKat 38-39 The Broadway, London W5 2NP
 * Sep 15th (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/) (MC)
   - 5m "Lost in Translation" 5m "En Route" + Sushi!
   - Doors 7:00, Show from 7:30
