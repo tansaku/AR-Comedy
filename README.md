@@ -10,11 +10,9 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Sep 26th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
-  - Doors 7:00, Show from 7:30
-  - The Regent Pub in Angel Islington, 201-203 Liverpool Rd, London N1 1LX
-* Sep 29th (Thu) - Comedy Rumblings (TBC)
-
+* Sep 29th (Thu) - [Chuckle Deli](https://www.facebook.com/ChuckleDeliComedy) (TBC)
+  - Doors 7:15, Show from 7:45
+  - The Lucas Arms, 245A Grays Inn Rd, London, WC1X 8QY
 * Oct 3rd (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 6:30, Show from 7:00
   - The Comedy Pub, 7 Oxendon Street, London, SW1Y 4EE
@@ -70,6 +68,9 @@ Impressions
 
 Past Gigs
 =========
+* Sep 26th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
+  - Doors 7:00, Show from 7:30
+  - The Regent Pub in Angel Islington, 201-203 Liverpool Rd, London N1 1LX
 * Sep 24th (Sat) - [Comedy Cat](https://www.comedycatopenmike.com/)
   - 5m "Government by Random"
   - Doors 7:00, Show from 7:30
