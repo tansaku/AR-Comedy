@@ -22,30 +22,30 @@ Upcoming Gigs
 * Oct 10th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
   - The Betsey Trotwood, 56 Farringdon Road
-* Oct 14th (Thu) - ?
+* Oct 14th (Thu) - open, please book me 🙂 🙏
 * Oct 17th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (TBC)
   - Doors 7:00, Show from 7:30
   - The Old Crown, Holborn, London, WC1A 1BH
-* Oct 20th (Thu) - ?
+* Oct 20th (Thu) - open, please book me 🙂 🙏
 * Oct 23rd (Sun) - [DingDongGongShow](https://vauxhallcomedyclub.com/) (TBC)
 * Oct 24th (Mon) - HT WC
 * Oct 27th (Thu) - HT WC
-* Oct 31st (Mon) - ?
+* Oct 31st (Mon) - open, please book me 🙂 🙏
 
-* Nov 3rd (Thu) - ?
+* Nov 3rd (Thu) - open, please book me 🙂 🙏
 * Nov 7th (Mon) - [Lewis Schafer's Comedy Open Mic](https://www.facebook.com/LewisSchaffersComedyOpenMic/)
   - Doors 6:30, Show from 7:00
   - King's Arms 65 Newcomen Street, Borough, SE1 1YT, London, UK 
-* Nov 10th (Thu) - ?
+* Nov 10th (Thu) - open, please book me 🙂 🙏
 * Nov 14th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
   - The Betsey Trotwood, 56 Farringdon Road
 * Nov 17th (Thu) - [Up the Creek](https://up-the-creek.com) (TBC)
   - Doors 7:00, Show from 8:00
   - 302 Creek Rd, London, SE10 9SW
-* Nov 21st (Mon) - ?
-* Nov 24th (Thu) - ?
-* Nov 28th (Mon) - ?
+* Nov 21st (Mon) - open, please book me 🙂 🙏
+* Nov 24th (Thu) - open, please book me 🙂 🙏
+* Nov 28th (Mon) - open, please book me 🙂 🙏
 * Dec 5th (Mon) - [Jollies at the George](https://www.facebook.com/jolliesatthegeorge) (TBC)
   - Doors 7:30, Show from 8:00
   - 373 Commercial Road, London, E1 0LA
