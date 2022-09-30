@@ -10,9 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Sep 29th (Thu) - [Chuckle Deli](https://www.facebook.com/ChuckleDeliComedy) (TBC)
-  - Doors 7:15, Show from 7:45
-  - The Lucas Arms, 245A Grays Inn Rd, London, WC1X 8QY
 * Oct 3rd (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 6:30, Show from 7:00
   - The Comedy Pub, 7 Oxendon Street, London, SW1Y 4EE
@@ -22,14 +19,12 @@ Upcoming Gigs
 * Oct 10th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
   - The Betsey Trotwood, 56 Farringdon Road
-* Oct 14th (Thu) - open, please book me 🙂 🙏
+* Oct 13th (Thu) - open, please book me 🙂 🙏
 * Oct 17th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (TBC)
   - Doors 7:00, Show from 7:30
   - The Old Crown, Holborn, London, WC1A 1BH
 * Oct 20th (Thu) - open, please book me 🙂 🙏
 * Oct 23rd (Sun) - [DingDongGongShow](https://vauxhallcomedyclub.com/) (TBC)
-* Oct 24th (Mon) - HT WC
-* Oct 27th (Thu) - HT WC
 * Oct 31st (Mon) - open, please book me 🙂 🙏
 
 * Nov 3rd (Thu) - open, please book me 🙂 🙏
@@ -44,7 +39,9 @@ Upcoming Gigs
   - Doors 7:00, Show from 8:00
   - 302 Creek Rd, London, SE10 9SW
 * Nov 21st (Mon) - open, please book me 🙂 🙏
-* Nov 24th (Thu) - open, please book me 🙂 🙏
+* Nov 24th (Thu) - [Chuckle Deli](https://www.facebook.com/ChuckleDeliComedy) (TBC)
+  - Doors 7:15, Show from 7:45
+  - The Lucas Arms, 245A Grays Inn Rd, London, WC1X 8QY
 * Nov 28th (Mon) - open, please book me 🙂 🙏
 * Dec 5th (Mon) - [Jollies at the George](https://www.facebook.com/jolliesatthegeorge) (TBC)
   - Doors 7:30, Show from 8:00
@@ -69,6 +66,7 @@ Impressions
 Past Gigs
 =========
 * Sep 26th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
+  - 5m "High Libido"
   - Doors 7:00, Show from 7:30
   - The Regent Pub in Angel Islington, 201-203 Liverpool Rd, London N1 1LX
 * Sep 24th (Sat) - [Comedy Cat](https://www.comedycatopenmike.com/)
