@@ -25,6 +25,9 @@ Upcoming Gigs
   - The Old Crown, Holborn, London WC1A 1BH
 * Oct 20th (Thu) - open, please book me 🙂 🙏
 * Oct 23rd (Sun) - [DingDongGongShow](https://vauxhallcomedyclub.com/) (TBC)
+* Oct 28th (Fri) - [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon) (MC)
+  - Doors 7:30, Show from 8:00 (Halloween Theme)
+  - The Crown, 49 Tranquil Vale, Blackheath, London, SE3 0BS
 * Oct 31st (Mon) - [Pegasus Comedy Club](https://www.facebook.com/groups/PegasusComedy)
   - Doors 7:00, Show from 7:30
   - The Rose and Crown, 71-73 Torriano Avenue, Kentish Town, London NW5 2SG
