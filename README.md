@@ -20,7 +20,9 @@ Upcoming Gigs
 * Oct 17th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/)
   - Doors 7:00, Show from 7:30
   - The Old Crown, Holborn, London WC1A 1BH
-* Oct 20th (Thu) - open, please book me 🙂 🙏
+* Oct 21st (Fri) - [Havana Comedy](https://www.facebook.com/havana.laugh)
+  - Doors 7:00, Show from 7:30
+  - The Lion Brewery, 104 Guildford Rd, Ash, Aldershot GU12 6BT
 * Oct 23rd (Sun) - [DingDongGongShow](https://vauxhallcomedyclub.com/) (TBC)
 * Oct 28th (Fri) - [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon) (MC)
   - Doors 7:30, Show from 8:00 (Halloween Theme)
