@@ -10,9 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Oct 6th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
-  - Doors 7:30, Show from 8:00
-  - The Tram Depot, 5 Dover St, Cambridge CB1 1DY
 * Oct 10th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
   - The Betsey Trotwood, 56 Farringdon Road, London
@@ -69,6 +66,10 @@ Impressions
 
 Past Gigs
 =========
+* Oct 6th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
+  - 10m "High Libido & Silent Retreat"
+  - Doors 7:30, Show from 8:00
+  - The Tram Depot, 5 Dover St, Cambridge CB1 1DY
 * Oct 3rd (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - 10m "High Libido & Silent Retreat"
   - Doors 7:30, Show from 8:00
