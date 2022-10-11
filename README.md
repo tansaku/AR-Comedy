@@ -10,9 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Oct 10th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
-  - Doors 7:30, Show from 8:00
-  - The Betsey Trotwood, 56 Farringdon Road, London
 * Oct 13th (Thu) - [Groovie Comedy](https://grooviecomedy.org/)
   - Doors 7:30, Show from 8:00
   - The Grove Bar & Restaurant, 83 Hammersmith Grove W6 0NQ London, UK
