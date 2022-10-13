@@ -10,19 +10,14 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Oct 13th (Thu) - [Groovie Comedy](https://grooviecomedy.org/)
-  - Doors 7:30, Show from 8:00
-  - The Grove Bar & Restaurant, 83 Hammersmith Grove W6 0NQ London, UK
 * Oct 17th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/)
   - Doors 7:00, Show from 7:30
   - The Old Crown, Holborn, London WC1A 1BH
-* Oct 21st (Fri) - [Havana Comedy](https://www.facebook.com/havana.laugh)
+* Oct 21st (Fri) - [Havana Comedy](https://www.facebook.com/havana.laugh) (LXXX)
   - Doors 7:00, Show from 7:30
   - The Lion Brewery, 104 Guildford Rd, Ash, Aldershot GU12 6BT
 * Oct 23rd (Sun) - [DingDongGongShow](https://vauxhallcomedyclub.com/) (TBC)
-* Oct 28th (Fri) - [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon) (MC)
-  - Doors 7:30, Show from 8:00 (Halloween Theme)
-  - The Crown, 49 Tranquil Vale, Blackheath, London, SE3 0BS
+
 * Oct 31st (Mon) - [Pegasus Comedy Club](https://www.facebook.com/groups/PegasusComedy)
   - Doors 7:00, Show from 7:30
   - The Rose and Crown, 71-73 Torriano Avenue, Kentish Town, London NW5 2SG
@@ -65,6 +60,10 @@ Impressions
 
 Past Gigs
 =========
+* Oct 13th (Thu) - [Groovie Comedy](https://grooviecomedy.org/)
+  - 10m "High Libido & Silent Retreat"
+  - Doors 7:30, Show from 8:00
+  - The Grove Bar & Restaurant, 83 Hammersmith Grove W6 0NQ London, UK
 * Oct 6th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
   - 10m "High Libido & Silent Retreat"
   - Doors 7:30, Show from 8:00
@@ -414,14 +413,21 @@ Gigs Attended as a Bringer
   - The Bolton Pub & Proeflokaal Rembrandt, 326 Earls Ct Rd, Earl's Court, London, SW5 9BQ
 
 
-# Cancelled Gigs
+# Cancelled or Withdrawn Gigs
 
+* Oct 28th (Fri) - [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon) (MC)
+  - Doors 7:30, Show from 8:00 (Halloween Theme)
+  - The Crown, 49 Tranquil Vale, Blackheath, London, SE3 0BS
+* Oct 10th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
+  - Doors 7:30, Show from 8:00
+  - The Betsey Trotwood, 56 Farringdon Road, London
 * Sep 19th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/)
   - Doors 7:00, Show from 7:30
   - The Old Crown, Holborn, London, WC1A 1BH
 * Sep 22nd (Thu) - [Winchmore Hill Comedy](https://www.facebook.com/groups/1131205987733768/about/) (7m)
   - Doors 6:30, Show from 7:00
   - Winchmore Pub, 235 Winchmore Hill Rd, London N21 1QA
+
 # Terms and Conditions
 
 * Drink purchased up to max value of £10
