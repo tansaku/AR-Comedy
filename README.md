@@ -1,8 +1,8 @@
 Free Drink Offer!
 =================
 
-[CLICK HERE TO FOLLOW ME ON INSTAGRAM!](https://instagram.com/tansaku) 
------------------ 
+[CLICK HERE TO FOLLOW ME ON INSTAGRAM!](https://instagram.com/tansaku)
+-----------------
 and attend one of my comedy gigs (see below) and I will buy you a drink!
 
 [T&Cs apply](#Terms-and-Conditions) (see bottom of page)
@@ -10,14 +10,9 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Oct 17th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/)
-  - Doors 7:00, Show from 7:30
-  - The Old Crown, Holborn, London WC1A 1BH
 * Oct 21st (Fri) - [Havana Comedy](https://www.facebook.com/havana.laugh) (LXXX)
   - Doors 7:00, Show from 7:30
   - The Lion Brewery, 104 Guildford Rd, Ash, Aldershot GU12 6BT
-* Oct 23rd (Sun) - [DingDongGongShow](https://vauxhallcomedyclub.com/) (TBC)
-
 * Oct 31st (Mon) - [Pegasus Comedy Club](https://www.facebook.com/groups/PegasusComedy)
   - Doors 7:00, Show from 7:30
   - The Rose and Crown, 71-73 Torriano Avenue, Kentish Town, London NW5 2SG
@@ -25,7 +20,7 @@ Upcoming Gigs
 * Nov 3rd (Thu) - open, please book me 🙂 🙏
 * Nov 7th (Mon) - [Lewis Schafer's Comedy Open Mic](https://www.facebook.com/LewisSchaffersComedyOpenMic/)
   - Doors 6:30, Show from 7:00
-  - King's Arms 65 Newcomen Street, Borough, SE1 1YT London 
+  - King's Arms 65 Newcomen Street, Borough, SE1 1YT London
 * Nov 10th (Thu) - open, please book me 🙂 🙏
 * Nov 14th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
@@ -41,6 +36,9 @@ Upcoming Gigs
 * Dec 5th (Mon) - [Jollies at the George](https://www.facebook.com/jolliesatthegeorge) (TBC)
   - Doors 7:30, Show from 8:00
   - 373 Commercial Road, London E1 0LA
+* Dec 8th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
+  - Doors 7:30, Show from 8:00
+  - The Tram Depot, 5 Dover St, Cambridge CB1 1DY
 
 Find The AR Comedian on:
 
@@ -54,12 +52,16 @@ Impressions
 * _"Very creative"_ - George Tothill
 * _"Strangely watchable"_ - Gordana Mićić
 * _"Like a geek, grown up"_ - Markus Birdman
-* _"Brilliant"_ - Joseph Vaughan 
+* _"Brilliant"_ - Joseph Vaughan
 
 ----
 
 Past Gigs
 =========
+* Oct 17th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/)
+  - 5m "High Libido"
+  - Doors 7:00, Show from 7:30
+  - The Old Crown, Holborn, London WC1A 1BH
 * Oct 13th (Thu) - [Groovie Comedy](https://grooviecomedy.org/)
   - 10m "High Libido & Silent Retreat"
   - Doors 7:30, Show from 8:00
@@ -119,7 +121,7 @@ Past Gigs
 * Aug 16th (Tue) - [Bullsht LiveFeed Redux](https://www.facebook.com/watch/DavidHabelsBullshtlivefeedcomedyopenmic/)
   - 5m "Women"
   - Doors 9:20, Show from 9:30 (UTC+9)
-  - Zoom  
+  - Zoom
 * Aug 15th (Mon): Get on the Mic! SU Tokyo
   - 5m "Women"
   - Doors 7:50, Show from 8:00 (UTC+9)
@@ -131,7 +133,7 @@ Past Gigs
 * Aug 9th (Tue) - [Bullsht LiveFeed Redux](https://www.facebook.com/watch/DavidHabelsBullshtlivefeedcomedyopenmic/)
   - 5m "Mindful Standup"
   - Doors 9:20, Show from 9:30 (UTC+9)
-  - Zoom  
+  - Zoom
 * Aug 8th (Mon) - Get on the Mic! SU Tokyo
   - 5m "Mindful Standup"
   - Doors 7:50, Show from 8:00 (UTC+9)
@@ -148,7 +150,7 @@ Past Gigs
   - 5m "Behind the Mask"
   - Doors 7:50, Show from 8:00 (UTC+9)
   - [Google Meet](https://meet.google.com/kfq-azax-yxg)
-* Jul 28th (Thu) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/) 
+* Jul 28th (Thu) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
   - 8m "Big in Japan"
   - Doors 7:30, Show from 8:00 (UTC+9)
   - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
@@ -180,7 +182,7 @@ Past Gigs
   - 5m "Guy in the Chair"
   - Doors 7:00, Show from 7:30
   - The Three Compasses - 62 High St, London N8 7NX
-* Jun 30th (Thu) - [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon) 
+* Jun 30th (Thu) - [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon)
   - MC (Competitions & Laughter Yoga)
   - Doors 7:30, Show from 8:00
   - Upstairs in the Queen's Keep. The Paxtons Head, 153 Knightsbridge, SW1X 7PA
@@ -195,7 +197,7 @@ Past Gigs
 * Jun 20th (Mon) - [The £25 Clap Off](https://www.facebook.com/groups/1095201041050460) (Thanks to bringee Alan Moss)
   - 5m "Bully Camping"
   - Doors 7:00, Show from 7:30
-  - The Carpenter's Arms, 68-70 Whitfield St, Greater, London W1T 4EY  
+  - The Carpenter's Arms, 68-70 Whitfield St, Greater, London W1T 4EY
 * Jun 16th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
   - 5m "Bully Camping"
   - Doors 7:30, Show from 8:00
@@ -208,7 +210,7 @@ Past Gigs
   - 5m "Bully Camping"
   - Doors 7:00, Show from 7:30
   - The Railway Tavern, 18 Clapham High St, London, SW4 7UR
-* Jun 6th (Mon) - [First showcase round of So You Think You’re Funny? 2022](https://soyouthinkyourefunny.co.uk/) 
+* Jun 6th (Mon) - [First showcase round of So You Think You’re Funny? 2022](https://soyouthinkyourefunny.co.uk/)
   - 7m "High Libido Boosters"
   - Doors 6:30, Show from 7:30
   - Zoom
@@ -220,14 +222,14 @@ Past Gigs
   - 5m "High Libido"
   - Doors 7:30, Show from 8:00
   - The North Star pub, 104 Finchley Road, London, NW3 5JJ
-* May 29th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (Thanks to bringee Joe Bonfield) 
+* May 29th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (Thanks to bringee Joe Bonfield)
   - 5m "High Libido"
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London, NW5 2SG
 * May 27th (Fri) - [Cuddles for Troubles - ALT NIGHT](http://www.facebook.com/CuddlesforTroubles) (Thanks to bringee Will Davies)
   - 5m "Recurring Dreams"
   - Doors 7:30, Show from 8:00
-  - The Trinity Pub, Borough, London, SE1 1JX  
+  - The Trinity Pub, Borough, London, SE1 1JX
 * May 29th (Thu) - [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon)
   - 7m "Recurring Dreams"
   - Doors 7:30, Show from 8:00
@@ -244,21 +246,21 @@ Past Gigs
   - 5m "Sound in Body and Mind"
   - Doors 7:30 Show from 8:00
   - 177 Grove St, London, SE8 3QQ
-* May 8th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) 
+* May 8th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy)
   - 10m "High Libido and All or Nothing"
   - Show from 6:30
   - The Castle Pub, King Charles Road, Surbiton Surrey KT5 8SB
-* May 5th (Thu) - [Quintessential Comedy](https://www.facebook.com/quinntessentialcomedy) (Thanks to bringee [Lizzie Simpson](https://www.instagram.com/lizziethesimp/)!) 
+* May 5th (Thu) - [Quintessential Comedy](https://www.facebook.com/quinntessentialcomedy) (Thanks to bringee [Lizzie Simpson](https://www.instagram.com/lizziethesimp/)!)
   - Doors 7:30 Show from 8:00
   - Quinn's Pub, 65 Kentish Town Road, London, GB NW1 8NY
-* May 2nd (Mon) - [The Ping Pong Club](https://www.retrobarlondon.co.uk/london)  (Thanks to bringee [Joe Vaughan](https://www.instagram.com/soulstone1971)!) 
+* May 2nd (Mon) - [The Ping Pong Club](https://www.retrobarlondon.co.uk/london)  (Thanks to bringee [Joe Vaughan](https://www.instagram.com/soulstone1971)!)
   - 5m "High Libido"
   - Doors 6:30 Show from 7:00
   - The Retro Bar, 2 George CT, Charing Cross, London
 * Apr 28th (Thu) - [Free Cockerel of Berkshire Comedy Night](https://www.facebook.com/NMCCSportsBar) (10m) (XXX)
   - 10m "Foreign Travel and High Libido"
   - Doors 7:00 Show 7:30
-  - NMCC Sports Bar, Summerleaze Park, Summerleaze Road, Maidenhead, Berkshire, SL6 8SP  
+  - NMCC Sports Bar, Summerleaze Park, Summerleaze Road, Maidenhead, Berkshire, SL6 8SP
 * Apr 25th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (Thanks to bringee [Elvin Mensa](https://www.instagram.com/elvinmensah)!)
   - 5m "Foreign Travel"
   - Doors 7:00, Show from 7:30
@@ -333,7 +335,7 @@ Past Gigs
   - 302 Creek Rd, London, SE10 9SW
 * Jan 30th (Sun) - [Trinity Open Mic](https://www.facebook.com/Trinity-Sunday-Sessions-Open-Mic-108196944960106)
   - 15m "Mid-life Crisis & Super Ego"
-  - Show from 2:00 (till 6:00)  
+  - Show from 2:00 (till 6:00)
   - 378-380 Station Road, Harrow, London, HA1 2DE
 * Jan 27th (Thu) - [Monkey Business](http://www.monkeybusinesscomedyclub.co.uk/) (X)
   - 8m "Mid-life Crisis"
@@ -392,7 +394,7 @@ Gigs Attended as a Bringer
   - The Old Crown, Holborn, London, WC1A 1BH(TBC)
 * Jun 7th (Tue) - [TNT Comedy Club](https://www.facebook.com/groups/341746814250) (being a bringer for Sophie Wilson)
   - Doors 7:45, Show from 8:00
-  - The Vine Pub, 86 Highgate Rd, London, NW5 1PB  
+  - The Vine Pub, 86 Highgate Rd, London, NW5 1PB
 * May 9th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (being a bringer for [Lizzie Simpson](https://www.instagram.com/lizziethesimp/))
   - Doors 7:00, Show from 7:30
   - The Old Crown, Holborn, London, WC1A 1BH
@@ -415,6 +417,7 @@ Gigs Attended as a Bringer
 
 # Cancelled or Withdrawn Gigs
 
+* Oct 23rd (Sun) - [DingDongGongShow](https://vauxhallcomedyclub.com/) (TBC)
 * Oct 28th (Fri) - [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon) (MC)
   - Doors 7:30, Show from 8:00 (Halloween Theme)
   - The Crown, 49 Tranquil Vale, Blackheath, London, SE3 0BS
@@ -436,5 +439,5 @@ Gigs Attended as a Bringer
 * Alcoholic drinks only bought for those who are above the legal age limit in the territory the gig occurs in
 * Attending a show means seeing my entire performance from start to finish
 * I will buy you a drink after the show once instagram follow confirmed
-* Yes I am totally serious :-) 
+* Yes I am totally serious :-)
 * How else can I build an audience? Please send ideas to tansaku@gmail.com
