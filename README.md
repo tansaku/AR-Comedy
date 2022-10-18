@@ -22,24 +22,34 @@ Upcoming Gigs
 * Nov 7th (Mon) - [Lewis Schafer's Comedy Open Mic](https://www.facebook.com/LewisSchaffersComedyOpenMic/)
   - Doors 6:30, Show from 7:00
   - King's Arms 65 Newcomen Street, Borough, SE1 1YT London
-* Nov 10th (Thu) - open, please book me 🙂 🙏
+* Nov 10th (Thu) - [Groovie Comedy](https://grooviecomedy.org/) (TBC)
+  - Doors 7:30, Show from 8:00
+  - The Grove Bar & Restaurant, 83 Hammersmith Grove W6 0NQ London, UK
 * Nov 14th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
   - The Betsey Trotwood, 56 Farringdon Road, London
 * Nov 17th (Thu) - [Up the Creek](https://up-the-creek.com) (TBC)
   - Doors 7:00, Show from 8:00
   - 302 Creek Rd, London SE10 9SW
-* Nov 21st (Mon) - open, please book me 🙂 🙏
+* Nov 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (TBC)
+  - Doors 7:00, Show from 7:30
+  - The Old Crown, Holborn, London WC1A 1BH
 * Nov 24th (Thu) - [Chuckle Deli](https://www.facebook.com/ChuckleDeliComedy) (TBC)
   - Doors 7:15, Show from 7:45
   - The Lucas Arms, 245A Grays Inn Rd, London WC1X 8QY
-* Nov 28th (Mon) - open, please book me 🙂 🙏
+* Nov 28th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (TBC)
+  - Doors 7:00, Show from 7:30
+  - The Old Crown, Holborn, London WC1A 1BH
 * Dec 5th (Mon) - [Jollies at the George](https://www.facebook.com/jolliesatthegeorge) (TBC)
   - Doors 7:30, Show from 8:00
   - 373 Commercial Road, London E1 0LA
 * Dec 8th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
   - Doors 7:30, Show from 8:00
   - The Tram Depot, 5 Dover St, Cambridge CB1 1DY
+* Dec 12th (Mon) - open, please book me 🙂 🙏
+* Dec 15/16th (Thu/Fri) - open, please book me 🙂 🙏
+* Dec 19th (Mon) - open, please book me 🙂 🙏
+* Dec 21st/22nd/23rd (Wed/Thu/Fri) - open, please book me 🙂 🙏
 
 Find The AR Comedian on:
 
