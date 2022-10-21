@@ -40,6 +40,9 @@ Upcoming Gigs
 * Nov 28th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (TBC)
   - Doors 7:00, Show from 7:30
   - The Old Crown, Holborn, London WC1A 1BH
+* Dec 1st (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
+  - Doors 7:30, Show from 8:00
+  - The King's Head, 2 Crouch End Hill, London, N8 8AA
 * Dec 5th (Mon) - [Jollies at the George](https://www.facebook.com/jolliesatthegeorge) (TBC)
   - Doors 7:30, Show from 8:00
   - 373 Commercial Road, London E1 0LA
