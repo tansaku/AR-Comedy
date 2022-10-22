@@ -10,9 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Oct 21st (Fri) - [Havana Comedy](https://www.facebook.com/havana.laugh) (LXXX)
-  - Doors 7:00, Show from 7:30
-  - The Lion Brewery, 104 Guildford Rd, Ash, Aldershot GU12 6BT
 * Oct 31st (Mon) - [Pegasus Comedy Club](https://www.facebook.com/groups/PegasusComedy)
   - Doors 7:00, Show from 7:30
   - The Rose and Crown, 71-73 Torriano Avenue, Kentish Town, London NW5 2SG
@@ -31,13 +28,11 @@ Upcoming Gigs
 * Nov 17th (Thu) - [Up the Creek](https://up-the-creek.com) (TBC)
   - Doors 7:00, Show from 8:00
   - 302 Creek Rd, London SE10 9SW
-* Nov 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (TBC)
-  - Doors 7:00, Show from 7:30
-  - The Old Crown, Holborn, London WC1A 1BH
+* Nov 21st (Mon) - open, please book me 🙂 🙏
 * Nov 24th (Thu) - [Chuckle Deli](https://www.facebook.com/ChuckleDeliComedy) (TBC)
   - Doors 7:15, Show from 7:45
   - The Lucas Arms, 245A Grays Inn Rd, London WC1X 8QY
-* Nov 28th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (TBC)
+* Nov 28th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/)
   - Doors 7:00, Show from 7:30
   - The Old Crown, Holborn, London WC1A 1BH
 * Dec 1st (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
@@ -72,6 +67,11 @@ Impressions
 
 Past Gigs
 =========
+
+* Oct 21st (Fri) - [Havana Comedy](https://www.facebook.com/havana.laugh) (LXXX)
+  - 5m "High Libido"
+  - Doors 7:00, Show from 7:30
+  - The Lion Brewery, 104 Guildford Rd, Ash, Aldershot GU12 6BT
 * Oct 17th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/)
   - 5m "High Libido"
   - Doors 7:00, Show from 7:30
