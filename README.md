@@ -28,13 +28,15 @@ Upcoming Gigs
 * Nov 17th (Thu) - [Up the Creek](https://up-the-creek.com) (TBC)
   - Doors 7:00, Show from 8:00
   - 302 Creek Rd, London SE10 9SW
-* Nov 21st (Mon) - open, please book me 🙂 🙏
+* Nov 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/)
+  - Doors 7:00, Show from 7:30
+  - The Old Crown, Holborn, London WC1A 1BH
 * Nov 24th (Thu) - [Chuckle Deli](https://www.facebook.com/ChuckleDeliComedy) (TBC)
   - Doors 7:15, Show from 7:45
   - The Lucas Arms, 245A Grays Inn Rd, London WC1X 8QY
-* Nov 28th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/)
-  - Doors 7:00, Show from 7:30
-  - The Old Crown, Holborn, London WC1A 1BH
+* Nov 27th (Mon) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m?) (TBC)
+  - Doors ???, Show from ???
+  - ...
 * Dec 1st (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
   - Doors 7:30, Show from 8:00
   - The King's Head, 2 Crouch End Hill, London, N8 8AA
