@@ -10,9 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Oct 29th (Sat) - [Comedy Cat](https://www.comedycatopenmike.com/)
-  - Doors 7:00, Show from 7:30
-  - BeerKat 38-39 The Broadway, London W5 2NP
 * Oct 31st (Mon) - [Pegasus Comedy Club](https://www.facebook.com/groups/PegasusComedy)
   - Doors 7:00, Show from 7:30
   - The Rose and Crown, 71-73 Torriano Avenue, Kentish Town, London NW5 2SG
@@ -71,6 +68,10 @@ Impressions
 Past Gigs
 =========
 
+* Oct 29th (Sat) - [Comedy Cat](https://www.comedycatopenmike.com/)
+  - 5m "High Libido"
+  - Doors 7:00, Show from 7:30
+  - BeerKat 38-39 The Broadway, London W5 2NP
 * Oct 21st (Fri) - [Havana Comedy](https://www.facebook.com/havana.laugh) (LXXX)
   - 5m "High Libido"
   - Doors 7:00, Show from 7:30
