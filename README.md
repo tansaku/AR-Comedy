@@ -10,10 +10,7 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Oct 31st (Mon) - [Pegasus Comedy Club](https://www.facebook.com/groups/PegasusComedy)
-  - Doors 7:00, Show from 7:30
-  - The Rose and Crown, 71-73 Torriano Avenue, Kentish Town, London NW5 2SG
-* Nov 4th (Fri) - [The Asylum](https://www.craftunionpubs.com/hill-pub-forest-hill) (TBC)
+* Nov 4th (Fri) - [The Asylum](https://www.craftunionpubs.com/hill-pub-forest-hill)
   - Doors ???, Show from ???
   - 45-47 Dartmouth Road, Forest Hill London, SE23 3HN
 * Nov 7th (Mon) - [Lewis Schafer's Comedy Open Mic](https://www.facebook.com/LewisSchaffersComedyOpenMic/)
@@ -35,8 +32,8 @@ Upcoming Gigs
   - Doors 7:15, Show from 7:45
   - The Lucas Arms, 245A Grays Inn Rd, London WC1X 8QY
 * Nov 27th (Mon) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m?) (TBC)
-  - Doors ???, Show from ???
-  - ...
+  - Doors 6:00, Show from 7:00
+  - The Swan, Hampton Wick, Kingston Upon Thames, KT1 4DB
 * Dec 1st (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
   - Doors 7:30, Show from 8:00
   - The King's Head, 2 Crouch End Hill, London, N8 8AA
@@ -70,6 +67,10 @@ Impressions
 Past Gigs
 =========
 
+* Oct 31st (Mon) - [Pegasus Comedy Club](https://www.facebook.com/groups/PegasusComedy)
+  - 5m "High Libido"
+  - Doors 7:00, Show from 7:30
+  - The Rose and Crown, 71-73 Torriano Avenue, Kentish Town, London NW5 2SG
 * Oct 29th (Sat) - [Comedy Cat](https://www.comedycatopenmike.com/)
   - 5m "High Libido"
   - Doors 7:00, Show from 7:30
