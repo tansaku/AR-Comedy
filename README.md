@@ -48,6 +48,10 @@ Upcoming Gigs
 * Dec 19th (Mon) - open, please book me 🙂 🙏
 * Dec 21st/22nd/23rd (Wed/Thu/Fri) - open, please book me 🙂 🙏
 
+* Jan 2nd (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
+  - Doors 7:30, Show from 8:00
+  - The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE
+
 Find The AR Comedian on:
 
 * [Instagram!](https://www.instagram.com/tansaku/)
