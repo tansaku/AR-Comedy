@@ -11,7 +11,7 @@ Upcoming Gigs
 =============
 
 * Nov 4th (Fri) - [The Asylum](https://www.craftunionpubs.com/hill-pub-forest-hill)
-  - Doors ???, Show from ???
+  - Doors 7:30, Show from 8:00
   - 45-47 Dartmouth Road, Forest Hill London, SE23 3HN
 * Nov 7th (Mon) - [Lewis Schafer's Comedy Open Mic](https://www.facebook.com/LewisSchaffersComedyOpenMic/)
   - Doors 6:30, Show from 7:00
