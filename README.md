@@ -10,9 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Nov 4th (Fri) - [The Asylum](https://www.craftunionpubs.com/hill-pub-forest-hill)
-  - Doors 7:30, Show from 8:00
-  - 45-47 Dartmouth Road, Forest Hill London, SE23 3HN
 * Nov 7th (Mon) - [Lewis Schafer's Comedy Open Mic](https://www.facebook.com/LewisSchaffersComedyOpenMic/)
   - Doors 6:30, Show from 7:00
   - King's Arms 65 Newcomen Street, Borough, SE1 1YT London
@@ -71,6 +68,10 @@ Impressions
 Past Gigs
 =========
 
+* Nov 4th (Fri) - [The Asylum](https://www.craftunionpubs.com/hill-pub-forest-hill)
+  - 10m "High Libido & Silent Retreat"
+  - Doors 7:30, Show from 8:00
+  - 45-47 Dartmouth Road, Forest Hill London, SE23 3HN
 * Oct 31st (Mon) - [Pegasus Comedy Club](https://www.facebook.com/groups/PegasusComedy)
   - 5m "High Libido"
   - Doors 7:00, Show from 7:30
