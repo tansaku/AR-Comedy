@@ -10,9 +10,9 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Nov 7th (Mon) - [Lewis Schafer's Comedy Open Mic](https://www.facebook.com/LewisSchaffersComedyOpenMic/)
-  - Doors 6:30, Show from 7:00
-  - King's Arms 65 Newcomen Street, Borough, London SE1 1YT
+* Nov 7th (Mon) - [Pegasus Comedy Club](https://www.facebook.com/groups/PegasusComedy)
+  - Doors 7:00, Show from 7:30
+  - The Rose and Crown, 71-73 Torriano Avenue, Kentish Town, London NW5 2SG
 * Nov 10th (Thu) - [Improbotics](https://improbotics.org/)
   - Rehearsal from 7:30
   - Theatre Deli Studios, 107 Leadenhall St, London EC3A 4AF
@@ -43,7 +43,9 @@ Upcoming Gigs
 * Dec 8th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
   - Doors 7:30, Show from 8:00
   - The Tram Depot, 5 Dover St, Cambridge CB1 1DY
-* Dec 12th (Mon) - open, please book me 🙂 🙏
+* Dec 12th (Mon) -[Lewis Schafer's Comedy Open Mic](https://www.facebook.com/LewisSchaffersComedyOpenMic/) (TBC)
+  - Doors 6:30, Show from 7:00
+  - King's Arms 65 Newcomen Street, Borough, London SE1 1YT
 * Dec 15/16th (Thu/Fri) - open, please book me 🙂 🙏
 * Dec 19th (Mon) - open, please book me 🙂 🙏
 * Dec 21st/22nd/23rd (Wed/Thu/Fri) - open, please book me 🙂 🙏
