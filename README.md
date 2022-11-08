@@ -44,7 +44,9 @@ Upcoming Gigs
   - Doors 6:30, Show from 7:00
   - King's Arms 65 Newcomen Street, Borough, London SE1 1YT
 * Dec 15/16th (Thu/Fri) - open, please book me 🙂 🙏
-* Dec 19th (Mon) - open, please book me 🙂 🙏
+* Dec 19th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
+  - Doors 7:00, Show from 7:30
+  - The Regent Pub in Angel Islington, 201-203 Liverpool Rd, London N1 1LX
 * Dec 21st/22nd/23rd (Wed/Thu/Fri) - open, please book me 🙂 🙏
 
 * Jan 2nd (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
