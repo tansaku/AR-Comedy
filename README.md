@@ -10,9 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Nov 7th (Mon) - [Pegasus Comedy Club](https://www.facebook.com/groups/PegasusComedy)
-  - Doors 7:00, Show from 7:30
-  - The Rose and Crown, 71-73 Torriano Avenue, Kentish Town, London NW5 2SG
 * Nov 10th (Thu) - [Improbotics](https://improbotics.org/)
   - Rehearsal from 7:30
   - Theatre Deli Studios, 107 Leadenhall St, London EC3A 4AF
@@ -73,6 +70,10 @@ Impressions
 Past Gigs
 =========
 
+* Nov 7th (Mon) - [Pegasus Comedy Club](https://www.facebook.com/groups/PegasusComedy)
+  - 5m "Silent Retreat"
+  - Doors 7:00, Show from 7:30
+  - The Rose and Crown, 71-73 Torriano Avenue, Kentish Town, London NW5 2SG
 * Nov 4th (Fri) - [The Asylum](https://www.craftunionpubs.com/hill-pub-forest-hill)
   - 10m "High Libido & Silent Retreat"
   - Doors 7:30, Show from 8:00
