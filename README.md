@@ -28,7 +28,7 @@ Upcoming Gigs
 * Nov 24th (Thu) - [Chuckle Deli](https://www.facebook.com/ChuckleDeliComedy) (TBC)
   - Doors 7:15, Show from 7:45
   - The Lucas Arms, 245A Grays Inn Rd, London WC1X 8QY
-* Nov 27th (Mon) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m?)
+* Nov 27th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m?)
   - Doors 6:00, Show from 7:00
   - The Swan, Hampton Wick, Kingston Upon Thames KT1 4DB
 * Dec 1st (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
