@@ -10,9 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Nov 10th (Thu) - [Improbotics](https://improbotics.org/)
-  - Rehearsal from 7:30
-  - Theatre Deli Studios, 107 Leadenhall St, London EC3A 4AF
 * Nov 14th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters)
   - Doors 7:30, Show from 8:00
   - The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL
@@ -72,6 +69,9 @@ Impressions
 Past Gigs
 =========
 
+* Nov 10th (Thu) - [Improbotics](https://improbotics.org/)
+  - Rehearsal from 7:30
+  - Theatre Deli Studios, 107 Leadenhall St, London EC3A 4AF
 * Nov 7th (Mon) - [Pegasus Comedy Club](https://www.facebook.com/groups/PegasusComedy)
   - 5m "Silent Retreat"
   - Doors 7:00, Show from 7:30
