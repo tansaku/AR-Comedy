@@ -10,9 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Nov 17th (Thu) - [Up the Creek](https://up-the-creek.com)
-  - Doors 7:00, Show from 8:00
-  - 302 Creek Rd, Greenwich, London SE10 9SW
 * Nov 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/)
   - Doors 7:00, Show from 7:30
   - The Old Crown, Holborn, London WC1A 1BH
@@ -46,6 +43,14 @@ Upcoming Gigs
 * Jan 2nd (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 7:30, Show from 8:00
   - The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE
+* Jan 5th (Thu) - open, please book me 🙂 🙏
+* Jan 9th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
+  - Doors 7:30, Show from 8:00
+  - The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL
+
+* Feb 6th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
+  - Doors 7:30, Show from 8:00
+  - The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL
 
 Find The AR Comedian on:
 
@@ -66,8 +71,12 @@ Impressions
 Past Gigs
 =========
 
+* Nov 17th (Thu) - [Up the Creek](https://up-the-creek.com)
+  - 2m "High Libido"
+  - Doors 7:00, Show from 8:00
+  - 302 Creek Rd, Greenwich, London SE10 9SW
 * Nov 14th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters)
-  - 5m "Silent Retreat"
+  - 5m "High Libido"
   - Doors 7:30, Show from 8:00
   - The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL
 * Nov 10th (Thu) - [Improbotics](https://improbotics.org/)
