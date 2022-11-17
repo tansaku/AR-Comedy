@@ -10,9 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Nov 14th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters)
-  - Doors 7:30, Show from 8:00
-  - The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL
 * Nov 17th (Thu) - [Up the Creek](https://up-the-creek.com)
   - Doors 7:00, Show from 8:00
   - 302 Creek Rd, Greenwich, London SE10 9SW
@@ -69,6 +66,10 @@ Impressions
 Past Gigs
 =========
 
+* Nov 14th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters)
+  - 5m "Silent Retreat"
+  - Doors 7:30, Show from 8:00
+  - The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL
 * Nov 10th (Thu) - [Improbotics](https://improbotics.org/)
   - Rehearsal from 7:30
   - Theatre Deli Studios, 107 Leadenhall St, London EC3A 4AF
@@ -471,7 +472,8 @@ Gigs Attended as a Bringer
 * Two drinks if you can attend a show marked "seeking bringer"
 * Otherwise max one drink per person per gig
 * Alcoholic drinks only bought for those who are above the legal age limit in the territory the gig occurs in
-* Attending a show means seeing my entire performance from start to finish
+* Attending a show means seeing my entire performance from start to finish (minimum 5 minutes)
+* If audience receives three warnings for poor behaviour offer is rescinded
 * I will buy you a drink after the show once instagram follow confirmed
 * Yes I am totally serious :-)
 * How else can I build an audience? Please send ideas to tansaku@gmail.com
