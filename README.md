@@ -31,6 +31,9 @@ Upcoming Gigs
 * Dec 8th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
   - Doors 7:30, Show from 8:00
   - The Tram Depot, 5 Dover St, Cambridge CB1 1DY
+* Dec 10th (Sat) - [Top Secret Gong show](https://www.facebook.com/topsecretcomedy) (TBC)
+  - Doors 11:00, Show from 11:30
+  - The Top Secret Comedy Club, 170 Drury Lane, London WC2B 5PD
 * Dec 12th (Mon) -[Lewis Schafer's Comedy Open Mic](https://www.facebook.com/LewisSchaffersComedyOpenMic/) (TBC)
   - Doors 6:30, Show from 7:00
   - King's Arms 65 Newcomen Street, Borough, London SE1 1YT
@@ -49,6 +52,10 @@ Upcoming Gigs
 * Jan 9th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
   - The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL
+
+* Jan 30th (Mon) - [King Gong](www.facebook.com/TheComedyStoreLondon) (TBC)
+  - Doors 6:30, Show from 7:00
+  - The Comedy Store, London. 1a Oxendon Street, SW1Y 4EE
 
 * Feb 6th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
