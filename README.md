@@ -43,7 +43,9 @@ Upcoming Gigs
 * Jan 2nd (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 7:30, Show from 8:00
   - The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE
-* Jan 5th (Thu) - open, please book me 🙂 🙏
+* Jan 5th (Thu) - [Up the Creek](https://up-the-creek.com)
+  - Doors 7:00, Show from 8:00
+  - 302 Creek Rd, Greenwich, London SE10 9SW
 * Jan 9th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
   - The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL
