@@ -10,18 +10,13 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Nov 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/)
-  - Doors 7:00, Show from 7:30
-  - The Old Crown, Holborn, London WC1A 1BH
 * Nov 24th (Wed) - [JEST Another Comedy Club](https://www.facebook.com/profile.php?id=100057587225412)
   - Doors 7:15, Show from 7:45
   - The Crown, 144-146 Hatfield Rd, St Albans AL1 4JA
 * Nov 24th (Thu) - [Chuckle Deli](https://www.facebook.com/ChuckleDeliComedy) (TBC)
   - Doors 7:15, Show from 7:45
   - The Lucas Arms, 245A Grays Inn Rd, London WC1X 8QY
-* Nov 27th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m?)
-  - Doors 6:00, Show from 7:00
-  - The Swan, Hampton Wick, Kingston Upon Thames KT1 4DB
+* Nov 27th/28th (Sun/Mon) - open, please book me 🙂 🙏
 * Dec 1st (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
   - Doors 7:30, Show from 8:00
   - The King's Head, 2 Crouch End Hill, London N8 8AA
@@ -53,6 +48,10 @@ Upcoming Gigs
   - Doors 7:30, Show from 8:00
   - The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL
 
+* Jan 22nd (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m?)
+  - Doors 6:00, Show from 7:00
+  - The Swan, Hampton Wick, Kingston Upon Thames KT1 4DB
+
 * Jan 30th (Mon) - [King Gong](www.facebook.com/TheComedyStoreLondon) (TBC)
   - Doors 6:30, Show from 7:00
   - The Comedy Store, London. 1a Oxendon Street, SW1Y 4EE
@@ -80,6 +79,10 @@ Impressions
 Past Gigs
 =========
 
+* Nov 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/)
+  - 5m "How are we?"
+  - Doors 7:00, Show from 7:30
+  - The Old Crown, Holborn, London WC1A 1BH
 * Nov 17th (Thu) - [Up the Creek](https://up-the-creek.com)
   - 2m "High Libido"
   - Doors 7:00, Show from 8:00
@@ -483,6 +486,9 @@ Gigs Attended as a Bringer
 * Sep 22nd (Thu) - [Winchmore Hill Comedy](https://www.facebook.com/groups/1131205987733768/about/) (7m)
   - Doors 6:30, Show from 7:00
   - Winchmore Pub, 235 Winchmore Hill Rd, London N21 1QA
+* Nov 27th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m?)
+  - Doors 6:00, Show from 7:00
+  - The Swan, Hampton Wick, Kingston Upon Thames KT1 4DB
 
 # Terms and Conditions
 
