@@ -10,10 +10,9 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Nov 24th (Thu) - [Chuckle Deli](https://www.facebook.com/ChuckleDeliComedy) XC
-  - Doors 7:15, Show from 7:45
-  - The Lucas Arms, 245A Grays Inn Rd, London WC1X 8QY
-* Nov 27th/28th (Sun/Mon) - open, please book me 🙂 🙏
+* Nov 27th (Sun) - [All You Need Are Laughs](https://www.craftunionpubs.com/hill-pub-forest-hill)
+  - Doors 6:00, Show from 6:30
+  - 45-47 Dartmouth Road, Forest Hill, London SE23 3HN
 * Dec 1st (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
   - Doors 7:30, Show from 8:00
   - The King's Head, 2 Crouch End Hill, London N8 8AA
@@ -76,7 +75,12 @@ Impressions
 Past Gigs
 =========
 
+* Nov 24th (Thu) - [Chuckle Deli](https://www.facebook.com/ChuckleDeliComedy) XC
+  - 10m "How are we?"
+  - Doors 7:15, Show from 7:45
+  - The Lucas Arms, 245A Grays Inn Rd, London WC1X 8QY
 * Nov 23rd (Wed) - [JEST Another Comedy Club](https://www.facebook.com/profile.php?id=100057587225412)
+  - 10m "How are we?"
   - Doors 7:30, Show from 8:00
   - The Crown, 144-146 Hatfield Rd, St Albans AL1 4JA
 * Nov 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/)
