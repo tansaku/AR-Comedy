@@ -10,10 +10,7 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Nov 24th (Wed) - [JEST Another Comedy Club](https://www.facebook.com/profile.php?id=100057587225412)
-  - Doors 7:15, Show from 7:45
-  - The Crown, 144-146 Hatfield Rd, St Albans AL1 4JA
-* Nov 24th (Thu) - [Chuckle Deli](https://www.facebook.com/ChuckleDeliComedy) (TBC)
+* Nov 24th (Thu) - [Chuckle Deli](https://www.facebook.com/ChuckleDeliComedy) XC
   - Doors 7:15, Show from 7:45
   - The Lucas Arms, 245A Grays Inn Rd, London WC1X 8QY
 * Nov 27th/28th (Sun/Mon) - open, please book me 🙂 🙏
@@ -79,6 +76,9 @@ Impressions
 Past Gigs
 =========
 
+* Nov 23rd (Wed) - [JEST Another Comedy Club](https://www.facebook.com/profile.php?id=100057587225412)
+  - Doors 7:30, Show from 8:00
+  - The Crown, 144-146 Hatfield Rd, St Albans AL1 4JA
 * Nov 21st (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/)
   - 5m "How are we?"
   - Doors 7:00, Show from 7:30
