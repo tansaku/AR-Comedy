@@ -10,9 +10,9 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Nov 27th (Sun) - [All You Need Are Laughs](https://www.craftunionpubs.com/hill-pub-forest-hill)
+* Nov 27th (Sun) - [Forest Hill Comedy Club](https://www.craftunionpubs.com/hill-pub-forest-hill)
   - Doors 6:00, Show from 6:30
-  - 45-47 Dartmouth Road, Forest Hill, London SE23 3HN
+  - The Hill Pub, 45-47 Dartmouth Road, Forest Hill, London SE23 3HN
 * Dec 1st (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
   - Doors 7:30, Show from 8:00
   - The King's Head, 2 Crouch End Hill, London N8 8AA
@@ -105,7 +105,7 @@ Past Gigs
 * Nov 4th (Fri) - [The Asylum](https://www.craftunionpubs.com/hill-pub-forest-hill)
   - 10m "High Libido & Silent Retreat"
   - Doors 7:30, Show from 8:00
-  - 45-47 Dartmouth Road, Forest Hill, London SE23 3HN
+  - The Hill Pub, 45-47 Dartmouth Road, Forest Hill, London SE23 3HN
 * Oct 31st (Mon) - [Pegasus Comedy Club](https://www.facebook.com/groups/PegasusComedy)
   - 5m "High Libido"
   - Doors 7:00, Show from 7:30
