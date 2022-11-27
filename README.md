@@ -10,9 +10,9 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Nov 27th (Sun) - [Forest Hill Comedy Club](https://www.craftunionpubs.com/hill-pub-forest-hill)
-  - Doors 6:00, Show from 6:30
-  - The Hill Pub, 45-47 Dartmouth Road, Forest Hill, London SE23 3HN
+* Nov 28th (Mon) - [0596]([https://www.craftunionpubs.com/hill-pub-forest-hill](https://www.facebook.com/profile.php?id=100086378253917))
+  - Doors 7:30, Show from 8:00
+  - The Finsbury, 336 Green Lanes, Finsbury Park, London N4 1BY
 * Dec 1st (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
   - Doors 7:30, Show from 8:00
   - The King's Head, 2 Crouch End Hill, London N8 8AA
@@ -25,9 +25,9 @@ Upcoming Gigs
 * Dec 10th (Sat) - [Top Secret Gong show](https://www.facebook.com/topsecretcomedy) (TBC)
   - Doors 11:00, Show from 11:30
   - The Top Secret Comedy Club, 170 Drury Lane, London WC2B 5PD
-* Dec 12th (Mon) -[Lewis Schafer's Comedy Open Mic](https://www.facebook.com/LewisSchaffersComedyOpenMic/) (TBC)
-  - Doors 6:30, Show from 7:00
-  - King's Arms 65 Newcomen Street, Borough, London SE1 1YT
+* Dec 12th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
+  - Doors 7:30, Show from 8:00
+  - The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL
 * Dec 15/16th (Thu/Fri) - open, please book me 🙂 🙏
 * Dec 19th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
   - Doors 7:00, Show from 7:30
@@ -477,6 +477,12 @@ Gigs Attended as a Bringer
 
 # Cancelled or Withdrawn Gigs
 
+* Dec 12th (Mon) -[Lewis Schafer's Comedy Open Mic](https://www.facebook.com/LewisSchaffersComedyOpenMic/) (TBC)
+  - Doors 6:30, Show from 7:00
+  - King's Arms 65 Newcomen Street, Borough, London SE1 1YT
+* Nov 27th (Sun) - [Forest Hill Comedy Club](https://www.craftunionpubs.com/hill-pub-forest-hill)
+  - Doors 6:00, Show from 6:30
+  - The Hill Pub, 45-47 Dartmouth Road, Forest Hill, London SE23 3HN
 * Oct 23rd (Sun) - [DingDongGongShow](https://vauxhallcomedyclub.com/) (TBC)
 * Oct 28th (Fri) - [Comedy Rumblings](https://www.facebook.com/mcpromotionslondon) (MC)
   - Doors 7:30, Show from 8:00 (Halloween Theme)
