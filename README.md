@@ -52,6 +52,9 @@ Upcoming Gigs
 * Feb 6th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
   - The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL
+* Feb 9th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer)
+  - Doors 7:00, Show from 7:30
+  - The Railway Tavern, 18 Clapham High St, London SW4 7UR
 
 Find The AR Comedian on:
 
