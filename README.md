@@ -12,16 +12,16 @@ Upcoming Gigs
 
 * Dec 5th (Mon) - [Jollies at the George](https://www.facebook.com/jolliesatthegeorge) (TBC)
   - Doors 7:30, Show from 8:00
-  - [373 Commercial Road, London E1 0LA](https://goo.gl/maps/vkeBTwy4Lbk1R5yb8)
+  - [The George, 373 Commercial Road, London E1 0LA](https://goo.gl/maps/vkeBTwy4Lbk1R5yb8)
 * Dec 8th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
   - Doors 7:30, Show from 8:00
-  - The Tram Depot, 5 Dover St, Cambridge CB1 1DY
+  - [The Tram Depot, 5 Dover St, Cambridge CB1 1DY](https://goo.gl/maps/JzfawUkHPtFKzFa88)
 * Dec 10th (Sat) - [Top Secret Gong show](https://www.facebook.com/topsecretcomedy) (TBC)
   - Doors 11:00, Show from 11:30
-  - The Top Secret Comedy Club, 170 Drury Lane, London WC2B 5PD
+  - [The Top Secret Comedy Club, 170 Drury Lane, London WC2B 5PD](https://goo.gl/maps/W29SW6ozpkNbFyQx6)
 * Dec 12th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
-  - The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL
+  - [The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL](https://goo.gl/maps/GvnsCwBJYzkFZzTU9)
 
 * Dec 15/16th (Thu/Fri) - open, please book me 🙂 🙏
 
