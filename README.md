@@ -12,7 +12,7 @@ Upcoming Gigs
 
 * Dec 5th (Mon) - [Jollies at the George](https://www.facebook.com/jolliesatthegeorge) (TBC)
   - Doors 7:30, Show from 8:00
-  - 373 Commercial Road, London E1 0LA
+  - [373 Commercial Road, London E1 0LA](https://goo.gl/maps/vkeBTwy4Lbk1R5yb8)
 * Dec 8th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
   - Doors 7:30, Show from 8:00
   - The Tram Depot, 5 Dover St, Cambridge CB1 1DY
