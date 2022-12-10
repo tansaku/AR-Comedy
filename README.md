@@ -10,12 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Dec 5th (Mon) - [Jollies at the George](https://www.facebook.com/jolliesatthegeorge) (TBC)
-  - Doors 7:30, Show from 8:00
-  - [The George, 373 Commercial Road, London E1 0LA](https://goo.gl/maps/vkeBTwy4Lbk1R5yb8)
-* Dec 8th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
-  - Doors 7:30, Show from 8:00
-  - [The Tram Depot, 5 Dover St, Cambridge CB1 1DY](https://goo.gl/maps/JzfawUkHPtFKzFa88)
 * Dec 10th (Sat) - [Top Secret Gong show](https://www.facebook.com/topsecretcomedy) (TBC)
   - Doors 11:00, Show from 11:30
   - [The Top Secret Comedy Club, 170 Drury Lane, London WC2B 5PD](https://goo.gl/maps/W29SW6ozpkNbFyQx6)
@@ -40,12 +34,19 @@ Upcoming Gigs
 * Jan 9th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
   - The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL
-
+* Jan 15th (Sun) - [Angel Raw](https://www.angelcomedy.co.uk/)
+  - Doors 7:30, Show from 8:00 (TBC)
+  - The Camden Head, 2 Camden Walk, London, N1 8DY (TBC)
+* Jan 19th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight) (TBC)
+  - Doors 7:30, Show from 8:00
+  - [The Tram Depot, 5 Dover St, Cambridge CB1 1DY](https://goo.gl/maps/JzfawUkHPtFKzFa88)
 * Jan 22nd (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m?)
   - Doors 6:00, Show from 7:00
   - The Swan, Hampton Wick, Kingston Upon Thames KT1 4DB
 
-* Jan 30th (Mon) - [King Gong](www.facebook.com/TheComedyStoreLondon) (TBC)
+* Jan 26th (Thu) - open, please book me 🙂 🙏
+
+* Jan 30th (Mon) - [King Gong](www.facebook.com/TheComedyStoreLondon)
   - Doors 6:30, Show from 7:00
   - The Comedy Store, London. 1a Oxendon Street, SW1Y 4EE
 
@@ -75,6 +76,10 @@ Impressions
 Past Gigs
 =========
 
+* Dec 5th (Mon) - [Jollies at the George](https://www.facebook.com/jolliesatthegeorge)
+  - 5m "How are we?"
+  - Doors 7:30, Show from 8:00
+  - [The George, 373 Commercial Road, London E1 0LA](https://goo.gl/maps/vkeBTwy4Lbk1R5yb8)
 * Dec 1st (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
   - 5m "How are we?"
   - Doors 7:30, Show from 8:00
@@ -485,6 +490,9 @@ Gigs Attended as a Bringer
 
 # Cancelled or Withdrawn Gigs
 
+* Dec 8th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
+  - Doors 7:30, Show from 8:00
+  - [The Tram Depot, 5 Dover St, Cambridge CB1 1DY](https://goo.gl/maps/JzfawUkHPtFKzFa88)
 * Dec 12th (Mon) -[Lewis Schafer's Comedy Open Mic](https://www.facebook.com/LewisSchaffersComedyOpenMic/) (TBC)
   - Doors 6:30, Show from 7:00
   - King's Arms 65 Newcomen Street, Borough, London SE1 1YT
