@@ -10,20 +10,17 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Dec 10th (Sat) - [Top Secret Gong show](https://www.facebook.com/topsecretcomedy) (TBC)
-  - Doors 11:00, Show from 11:30
-  - [The Top Secret Comedy Club, 170 Drury Lane, London WC2B 5PD](https://goo.gl/maps/W29SW6ozpkNbFyQx6)
-* Dec 12th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
+* Dec 12th (Mon) - [0596]([https://www.craftunionpubs.com/hill-pub-forest-hill](https://www.facebook.com/profile.php?id=100086378253917)) (seeking bringer)
   - Doors 7:30, Show from 8:00
-  - [The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL](https://goo.gl/maps/GvnsCwBJYzkFZzTU9)
+  - The Finsbury, 336 Green Lanes, Finsbury Park, London N4 1BY
 
 * Dec 15/16th (Thu/Fri) - open, please book me 🙂 🙏
 
 * Dec 19th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
   - Doors 7:00, Show from 7:30
-  - The Regent Pub in Angel Islington, 201-203 Liverpool Rd, London N1 1LX
+  - [The Regent Pub, Angel Islington, 201-203 Liverpool Rd, London N1 1LX](https://goo.gl/maps/wgvdu1HyRg2m9u237)
 
-* Dec 21st/22nd/23rd (Wed/Thu/Fri) - open, please book me 🙂 🙏
+* Dec 21st/22nd (Wed/Thu) - open, please book me 🙂 🙏
 
 * Jan 2nd (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 7:30, Show from 8:00
@@ -490,6 +487,9 @@ Gigs Attended as a Bringer
 
 # Cancelled or Withdrawn Gigs
 
+* Dec 10th (Sat) - [Top Secret Gong show](https://www.facebook.com/topsecretcomedy) (TBC)
+  - Doors 11:00, Show from 11:30
+  - [The Top Secret Comedy Club, 170 Drury Lane, London WC2B 5PD](https://goo.gl/maps/W29SW6ozpkNbFyQx6)
 * Dec 8th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
   - Doors 7:30, Show from 8:00
   - [The Tram Depot, 5 Dover St, Cambridge CB1 1DY](https://goo.gl/maps/JzfawUkHPtFKzFa88)
