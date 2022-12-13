@@ -10,10 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Dec 12th (Mon) - [0596]([https://www.craftunionpubs.com/hill-pub-forest-hill](https://www.facebook.com/profile.php?id=100086378253917)) (seeking bringer)
-  - Doors 7:30, Show from 8:00
-  - The Finsbury, 336 Green Lanes, Finsbury Park, London N4 1BY
-
 * Dec 15/16th (Thu/Fri) - open, please book me 🙂 🙏
 
 * Dec 19th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
@@ -31,6 +27,9 @@ Upcoming Gigs
 * Jan 9th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
   - The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL
+
+* Jan 12th (Thu) - open, please book me 🙂 🙏
+
 * Jan 15th (Sun) - [Angel Raw](https://www.angelcomedy.co.uk/)
   - Doors 7:30, Show from 8:00 (TBC)
   - The Camden Head, 2 Camden Walk, London, N1 8DY (TBC)
@@ -54,6 +53,10 @@ Upcoming Gigs
   - Doors 7:00, Show from 7:30
   - The Railway Tavern, 18 Clapham High St, London SW4 7UR
 
+* Feb 23rd (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
+  - Doors 7:30, Show from 8:00
+  - The King's Head, 2 Crouch End Hill, London N8 8AA
+
 Find The AR Comedian on:
 
 * [Instagram!](https://www.instagram.com/tansaku/)
@@ -73,6 +76,9 @@ Impressions
 Past Gigs
 =========
 
+* Dec 12th (Mon) - [0596]([https://www.craftunionpubs.com/hill-pub-forest-hill](https://www.facebook.com/profile.php?id=100086378253917)) (seeking bringer)
+  - 10m "How are we?"
+  - The Gunners, 204 Blackstock Rd, London N5 1EN
 * Dec 5th (Mon) - [Jollies at the George](https://www.facebook.com/jolliesatthegeorge)
   - 5m "How are we?"
   - Doors 7:30, Show from 8:00
