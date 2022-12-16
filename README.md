@@ -10,13 +10,15 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Dec 15/16th (Thu/Fri) - open, please book me 🙂 🙏
-
 * Dec 19th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
   - Doors 7:00, Show from 7:30
   - [The Regent Pub, Angel Islington, 201-203 Liverpool Rd, London N1 1LX](https://goo.gl/maps/wgvdu1HyRg2m9u237)
 
 * Dec 21st/22nd (Wed/Thu) - open, please book me 🙂 🙏
+
+* Dec 29th (Thu) - [0596 Gong Show](https://www.facebook.com/profile.php?id=100086378253917)
+  - Doors ???, Show from ???
+  - [The Gunners, 204 Blackstock Rd, London N5 1EN](https://goo.gl/maps/iWTXAbh1tTTPcmn66)
 
 * Jan 2nd (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 7:30, Show from 8:00
@@ -76,9 +78,10 @@ Impressions
 Past Gigs
 =========
 
-* Dec 12th (Mon) - [0596]([https://www.craftunionpubs.com/hill-pub-forest-hill](https://www.facebook.com/profile.php?id=100086378253917)) (seeking bringer)
+* Dec 12th (Mon) - [0596](https://www.facebook.com/profile.php?id=100086378253917)
   - 10m "How are we?"
-  - The Gunners, 204 Blackstock Rd, London N5 1EN
+  - Doors 7:30, Show from 8:00
+  - [The Gunners, 204 Blackstock Rd, London N5 1EN](https://goo.gl/maps/iWTXAbh1tTTPcmn66)
 * Dec 5th (Mon) - [Jollies at the George](https://www.facebook.com/jolliesatthegeorge)
   - 5m "How are we?"
   - Doors 7:30, Show from 8:00
