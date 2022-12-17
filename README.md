@@ -35,7 +35,7 @@ Upcoming Gigs
 * Jan 15th (Sun) - [Angel Raw](https://www.angelcomedy.co.uk/)
   - Doors 7:30, Show from 8:00 (TBC)
   - The Camden Head, 2 Camden Walk, London, N1 8DY (TBC)
-* Jan 19th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight) (TBC)
+* Jan 19th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
   - Doors 7:30, Show from 8:00
   - [The Tram Depot, 5 Dover St, Cambridge CB1 1DY](https://goo.gl/maps/JzfawUkHPtFKzFa88)
 * Jan 22nd (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m?)
