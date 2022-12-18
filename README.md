@@ -22,28 +22,28 @@ Upcoming Gigs
   - [The Gunners, 204 Blackstock Rd, London N5 1EN](https://goo.gl/maps/iWTXAbh1tTTPcmn66)
 * Jan 2nd (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 7:30, Show from 8:00
-  - The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE
+  - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
 * Jan 5th (Thu) - [Up the Creek](https://up-the-creek.com)
   - Doors 7:00, Show from 8:00
-  - 302 Creek Rd, Greenwich, London SE10 9SW
+  - [302 Creek Rd, Greenwich, London SE10 9SW](https://goo.gl/maps/R2TNsYGA3VkpWEFP7)
 * Jan 9th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
-  - The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL
+  - [The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL](https://goo.gl/maps/R9CQ65NXuMd9eCRU9)
 
 * Jan 12th (Thu) - open, please book me 🙂 🙏
 
 * Jan 15th (Sun) - [Angel Raw](https://www.angelcomedy.co.uk/)
   - Doors 7:30, Show from 8:00 (TBC)
-  - The Camden Head, 2 Camden Walk, London, N1 8DY (TBC)
+  - [The Camden Head, 2 Camden Walk, London, N1 8DY](https://goo.gl/maps/m1Uh38KEXpqyiLd47) (TBC)
 * Jan 19th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
   - Doors 7:30, Show from 8:00
   - [The Tram Depot, 5 Dover St, Cambridge CB1 1DY](https://goo.gl/maps/JzfawUkHPtFKzFa88)
 * Jan 22nd (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m?)
   - Doors 6:00, Show from 7:00
-  - The Swan, Hampton Wick, Kingston Upon Thames KT1 4DB
-
-* Jan 26th (Thu) - open, please book me 🙂 🙏
-
+  - [The Swan, Hampton Wick, Kingston Upon Thames KT1 4DB](https://goo.gl/maps/SmfAaKSFgWyi5yM19)
+* Jan 26th (Thu) - [Comedy night at Symbiosia](https://www.facebook.com/events/664608422044874)
+  - Doors 7:30, Show from 8:00
+  - [The Swan, 2-4 High St, West Wickham BR4 0NJ](https://goo.gl/maps/xUATzY9FSqzbNNDz8)
 * Jan 30th (Mon) - [King Gong](www.facebook.com/TheComedyStoreLondon)
   - Doors 6:30, Show from 7:00
   - The Comedy Store, London. 1a Oxendon Street, SW1Y 4EE
