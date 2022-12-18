@@ -90,7 +90,7 @@ Past Gigs
   - 5m "How are we?"
   - Doors 7:30, Show from 8:00
   - The King's Head, 2 Crouch End Hill, London N8 8AA
-* Nov 28th (Mon) - [0596]([https://www.craftunionpubs.com/hill-pub-forest-hill](https://www.facebook.com/profile.php?id=100086378253917))
+* Nov 28th (Mon) - [0596](https://www.facebook.com/profile.php?id=100086378253917)
   - 5m "How are we?"
   - Doors 7:30, Show from 8:00
   - The Finsbury, 336 Green Lanes, Finsbury Park, London N4 1BY
