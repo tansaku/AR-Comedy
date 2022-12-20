@@ -10,9 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Dec 19th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
-  - Doors 7:00, Show from 7:30
-  - [The Regent Pub, Angel Islington, 201-203 Liverpool Rd, London N1 1LX](https://goo.gl/maps/wgvdu1HyRg2m9u237)
 * Dec 21st (Wed) - [Comedy Rumblings, BlackHeath](https://www.facebook.com/mcpromotionslondon/)
   - Doors 7:00, Show 8:00
   - [The Crown, 49 Tranquil Vale, Blackheath SE3 0BS](https://goo.gl/maps/uNFw44ZMZygy5GG68)
@@ -21,7 +18,7 @@ Upcoming Gigs
   - Doors ???, Show from ???
   - [The Gunners, 204 Blackstock Rd, London N5 1EN](https://goo.gl/maps/iWTXAbh1tTTPcmn66)
 * Jan 2nd (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
-  - Doors 7:30, Show from 8:00
+  - Doors 4:30, Show from 5:00
   - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
 * Jan 5th (Thu) - [Up the Creek](https://up-the-creek.com)
   - Doors 7:00, Show from 8:00
@@ -78,6 +75,10 @@ Impressions
 Past Gigs
 =========
 
+* Dec 19th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
+  - 5m "How are we?"
+  - Doors 7:00, Show from 7:30
+  - [The Regent Pub, Angel Islington, 201-203 Liverpool Rd, London N1 1LX](https://goo.gl/maps/wgvdu1HyRg2m9u237)
 * Dec 12th (Mon) - [0596](https://www.facebook.com/profile.php?id=100086378253917)
   - 10m "How are we?"
   - Doors 7:30, Show from 8:00
