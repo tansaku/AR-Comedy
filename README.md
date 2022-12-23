@@ -10,9 +10,9 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Nov 28th (Mon) - [0596](https://www.facebook.com/profile.php?id=100086378253917)
+* Dec 26th (Mon) - [0596](https://www.facebook.com/profile.php?id=100086378253917)
   - Doors 7:30, Show from 8:00
-  - The Finsbury, 336 Green Lanes, Finsbury Park, London N4 1BY
+  - [The Finsbury, 336 Green Lanes, Finsbury Park, London N4 1BY](https://goo.gl/maps/LtASExYS22qu3eVE7)
 * Dec 29th (Thu) - [0596 Gong Show](https://www.facebook.com/profile.php?id=100086378253917)
   - Doors 7:00, Show from 7:30
   - [The Gunners, 204 Blackstock Rd, London N5 1EN](https://goo.gl/maps/iWTXAbh1tTTPcmn66)
