@@ -12,7 +12,7 @@ Upcoming Gigs
 
 * Dec 29th (Thu) - [0596 Gong Show](https://www.facebook.com/profile.php?id=100086378253917)
   - Doors 7:00, Show from 7:30
-  - [The Gunners, 204 Blackstock Rd, London N5 1EN](https://goo.gl/maps/iWTXAbh1tTTPcmn66)
+  - [The Finsbury, 336 Green Lanes, Finsbury Park, London N4 1BY](https://goo.gl/maps/LtASExYS22qu3eVE7)
 * Jan 2nd (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 4:30, Show from 5:00
   - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
