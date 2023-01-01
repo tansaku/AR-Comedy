@@ -38,7 +38,7 @@ Upcoming Gigs
   - Doors 6:30, Show from 7:00
   - The Comedy Store, London. 1a Oxendon Street, SW1Y 4EE
 
-* Feb 2nd (Thu) - open, please book me 🙂 🙏
+* Feb 2nd/3rd (Thu/Fri) - open, please book me 🙂 🙏
 
 * Feb 6th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
