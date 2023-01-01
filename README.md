@@ -13,6 +13,9 @@ Upcoming Gigs
 * Jan 2nd (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 4:30, Show from 5:00
   - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
+* Jan 2nd (Mon) - [0596 ](https://www.facebook.com/profile.php?id=100086378253917)
+  - Doors 7:00, Show from 7:30
+  - [The Finsbury, 336 Green Lanes, Finsbury Park, London N4 1BY](https://goo.gl/maps/LtASExYS22qu3eVE7)
 * Jan 5th (Thu) - [Up the Creek](https://up-the-creek.com)
   - Doors 7:00, Show from 8:00
   - [302 Creek Rd, Greenwich, London SE10 9SW](https://goo.gl/maps/R2TNsYGA3VkpWEFP7)
