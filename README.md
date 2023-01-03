@@ -10,12 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Jan 2nd (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
-  - Doors 4:30, Show from 5:00
-  - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
-* Jan 2nd (Mon) - [0596 ](https://www.facebook.com/profile.php?id=100086378253917)
-  - Doors 7:00, Show from 7:30
-  - [The Finsbury, 336 Green Lanes, Finsbury Park, London N4 1BY](https://goo.gl/maps/LtASExYS22qu3eVE7)
 * Jan 5th (Thu) - [Up the Creek](https://up-the-creek.com)
   - Doors 7:00, Show from 8:00
   - [302 Creek Rd, Greenwich, London SE10 9SW](https://goo.gl/maps/R2TNsYGA3VkpWEFP7)
@@ -62,6 +56,11 @@ Upcoming Gigs
   - Doors 7:30, Show from 8:00
   - The Trinity Pub, Borough, London SE1 1JX
 
+
+* Apr 12th (Wed) - [JEST Another Comedy Club](https://www.facebook.com/profile.php?id=100057587225412)
+  - Doors 7:30, Show from 8:00
+  - The Crown, 144-146 Hatfield Rd, St Albans AL1 4JA
+
 Find The AR Comedian on:
 
 * [Instagram!](https://www.instagram.com/tansaku/)
@@ -81,6 +80,14 @@ Impressions
 Past Gigs
 =========
 
+* Jan 2nd (Mon) - [0596 ](https://www.facebook.com/profile.php?id=100086378253917) C
+  - 5m "Mixed Race"
+  - Doors 7:00, Show from 7:30
+  - [The Finsbury, 336 Green Lanes, Finsbury Park, London N4 1BY](https://goo.gl/maps/LtASExYS22qu3eVE7)
+* Jan 2nd (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
+  - 12m "Mixed Race"
+  - Doors 4:30, Show from 5:00
+  - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
 * Dec 29th (Thu) - [0596 Gong Show](https://www.facebook.com/profile.php?id=100086378253917)
   - 3m "How are we?"
   - Doors 7:00, Show from 7:30
