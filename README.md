@@ -10,9 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Jan 5th (Thu) - [Up the Creek](https://up-the-creek.com)
-  - Doors 7:00, Show from 8:00
-  - [302 Creek Rd, Greenwich, London SE10 9SW](https://goo.gl/maps/R2TNsYGA3VkpWEFP7)
 * Jan 9th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 7:30, Show from 8:00
   - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
@@ -22,18 +19,18 @@ Upcoming Gigs
 * Jan 15th (Sun) - [Angel Raw](https://www.angelcomedy.co.uk/)
   - Doors 7:30, Show from 8:00 (TBC)
   - [The Camden Head, 2 Camden Walk, London, N1 8DY](https://goo.gl/maps/m1Uh38KEXpqyiLd47) (TBC)
-* Jan 19th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
-  - Doors 7:30, Show from 8:00
-  - [The Tram Depot, 5 Dover St, Cambridge CB1 1DY](https://goo.gl/maps/JzfawUkHPtFKzFa88)
 * Jan 22nd (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m?)
   - Doors 6:00, Show from 7:00
   - [The Swan, Hampton Wick, Kingston Upon Thames KT1 4DB](https://goo.gl/maps/SmfAaKSFgWyi5yM19)
+* Jan 25th (Wed) - [0596](https://www.facebook.com/profile.php?id=100086378253917) (MC)
+  - Doors 7:00, Show from 7:30
+  - [The Gunners, 204 Blackstock Rd, London N5 1EN](https://goo.gl/maps/iWTXAbh1tTTPcmn66)
 * Jan 26th (Thu) - [Comedy night at Symbiosia](https://www.facebook.com/events/664608422044874)
   - Doors 7:30, Show from 8:00
   - [The Swan, 2-4 High St, West Wickham BR4 0NJ](https://goo.gl/maps/xUATzY9FSqzbNNDz8)
 * Jan 30th (Mon) - [King Gong](www.facebook.com/TheComedyStoreLondon)
   - Doors 6:30, Show from 7:00
-  - The Comedy Store, London. 1a Oxendon Street, SW1Y 4EE
+  - [The Comedy Store, London. 1a Oxendon Street, SW1Y 4EE](https://goo.gl/maps/4sg6pqUPJugcR6k97)
 
 * Feb 2nd/3rd (Thu/Fri) - open, please book me 🙂 🙏
 
@@ -42,25 +39,28 @@ Upcoming Gigs
   - [The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL](https://goo.gl/maps/R9CQ65NXuMd9eCRU9)
 * Feb 9th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer)
   - Doors 7:00, Show from 7:30
-  - The Railway Tavern, 18 Clapham High St, London SW4 7UR
+  - [The Railway Tavern, 18 Clapham High St, London SW4 7UR](https://goo.gl/maps/fvV4NNTGyMLeqeGN7)
 
 * Feb 20th (Mon) - open, please book me 🙂 🙏
 
 * Feb 23rd (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
   - Doors 7:30, Show from 8:00
-  - The King's Head, 2 Crouch End Hill, London N8 8AA
+  - [The King's Head, 2 Crouch End Hill, London N8 8AA](https://goo.gl/maps/3Y9DS1Zj1DdMYcYB6)
 * Feb 27th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 7:30, Show from 8:00
   - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
 
 * Mar 3rd (Fri) - [Cuddles for Troubles - ALT NIGHT](http://www.facebook.com/CuddlesforTroubles) (seeking bringer)
   - Doors 7:30, Show from 8:00
-  - The Trinity Pub, Borough, London SE1 1JX
+  - [The Trinity Pub, Borough, London SE1 1JX](https://goo.gl/maps/H2L8PiAD4pnGoBSN8)
 
 
+* Apr 10th (Mon) - [SofaSoFunny](https://www.facebook.com/SofaSoFunny)
+  - Doors 7:00, Show from 7:30
+  - [The Flying Horse, Wilson Street, London, EC2A 2ER](https://goo.gl/maps/A3WAMSQHXCX9fgH96)
 * Apr 12th (Wed) - [JEST Another Comedy Club](https://www.facebook.com/profile.php?id=100057587225412)
   - Doors 7:30, Show from 8:00
-  - The Crown, 144-146 Hatfield Rd, St Albans AL1 4JA
+  - [The Crown, 144-146 Hatfield Rd, St Albans AL1 4JA](https://goo.gl/maps/92ug6CjRF3Gfnr8J9)
 
 Find The AR Comedian on:
 
@@ -81,6 +81,10 @@ Impressions
 Past Gigs
 =========
 
+* Jan 5th (Thu) - [Up the Creek](https://up-the-creek.com)
+  - 2.5m "Mixed Race"
+  - Doors 7:00, Show from 8:00
+  - [302 Creek Rd, Greenwich, London SE10 9SW](https://goo.gl/maps/R2TNsYGA3VkpWEFP7)
 * Jan 2nd (Mon) - [0596 ](https://www.facebook.com/profile.php?id=100086378253917) C
   - 5m "Mixed Race"
   - Doors 7:00, Show from 7:30
@@ -523,6 +527,9 @@ Gigs Attended as a Bringer
 
 # Cancelled or Withdrawn Gigs
 
+* Jan 19th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
+  - Doors 7:30, Show from 8:00
+  - [The Tram Depot, 5 Dover St, Cambridge CB1 1DY](https://goo.gl/maps/JzfawUkHPtFKzFa88)
 * Dec 10th (Sat) - [Top Secret Gong show](https://www.facebook.com/topsecretcomedy) (TBC)
   - Doors 11:00, Show from 11:30
   - [The Top Secret Comedy Club, 170 Drury Lane, London WC2B 5PD](https://goo.gl/maps/W29SW6ozpkNbFyQx6)
