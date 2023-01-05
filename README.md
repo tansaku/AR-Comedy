@@ -13,9 +13,9 @@ Upcoming Gigs
 * Jan 5th (Thu) - [Up the Creek](https://up-the-creek.com)
   - Doors 7:00, Show from 8:00
   - [302 Creek Rd, Greenwich, London SE10 9SW](https://goo.gl/maps/R2TNsYGA3VkpWEFP7)
-* Jan 9th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
+* Jan 9th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 7:30, Show from 8:00
-  - [The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL](https://goo.gl/maps/R9CQ65NXuMd9eCRU9)
+  - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
 
 * Jan 12th (Thu) - open, please book me 🙂 🙏
 
@@ -43,14 +43,15 @@ Upcoming Gigs
 * Feb 9th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - The Railway Tavern, 18 Clapham High St, London SW4 7UR
-  
+
 * Feb 20th (Mon) - open, please book me 🙂 🙏
 
 * Feb 23rd (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
   - Doors 7:30, Show from 8:00
   - The King's Head, 2 Crouch End Hill, London N8 8AA
-
-* Feb 27th (Mon) - open, please book me 🙂 🙏
+* Feb 27th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
+  - Doors 7:30, Show from 8:00
+  - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
 
 * Mar 3rd (Fri) - [Cuddles for Troubles - ALT NIGHT](http://www.facebook.com/CuddlesforTroubles) (seeking bringer)
   - Doors 7:30, Show from 8:00
