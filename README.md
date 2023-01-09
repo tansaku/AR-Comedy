@@ -13,9 +13,9 @@ Upcoming Gigs
 * Jan 9th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 7:30, Show from 8:00
   - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
-
-* Jan 12th (Thu) - open, please book me 🙂 🙏
-
+* Jan 11th (Wed) - [Zodiac](https://zodiacbar.co.uk/)
+  - Doors 6:45, Show from 7:00
+  - [Zodiac, Bar and Club, 119 Hampstead Rd, London NW1 3EE](https://goo.gl/maps/mJVQQSPcdrceb9NN9)
 * Jan 15th (Sun) - [Angel Raw](https://www.angelcomedy.co.uk/)
   - Doors 7:30, Show from 8:00 (TBC)
   - [The Camden Head, 2 Camden Walk, London, N1 8DY](https://goo.gl/maps/m1Uh38KEXpqyiLd47) (TBC)
@@ -41,8 +41,9 @@ Upcoming Gigs
   - Doors 7:00, Show from 7:30
   - [The Railway Tavern, 18 Clapham High St, London SW4 7UR](https://goo.gl/maps/fvV4NNTGyMLeqeGN7)
 
-* Feb 20th (Mon) - open, please book me 🙂 🙏
-
+* Feb 20th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
+  - Doors 7:00, Show from 7:30
+  - [The Regent Pub, Angel Islington, 201-203 Liverpool Rd, London N1 1LX](https://goo.gl/maps/wgvdu1HyRg2m9u237)
 * Feb 23rd (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
   - Doors 7:30, Show from 8:00
   - [The King's Head, 2 Crouch End Hill, London N8 8AA](https://goo.gl/maps/3Y9DS1Zj1DdMYcYB6)
