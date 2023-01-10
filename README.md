@@ -10,9 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Jan 9th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
-  - Doors 7:30, Show from 8:00
-  - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
 * Jan 11th (Wed) - [Zodiac](https://zodiacbar.co.uk/)
   - Doors 6:45, Show from 7:00
   - [Zodiac, Bar and Club, 119 Hampstead Rd, London NW1 3EE](https://goo.gl/maps/mJVQQSPcdrceb9NN9)
@@ -86,6 +83,9 @@ Impressions
 Past Gigs
 =========
 
+* Jan 9th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
+  - Doors 7:30, Show from 8:00
+  - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
 * Jan 5th (Thu) - [Up the Creek](https://up-the-creek.com)
   - 2.5m "Mixed Race"
   - Doors 7:00, Show from 8:00
