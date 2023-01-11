@@ -14,7 +14,7 @@ Upcoming Gigs
   - Doors 6:45, Show from 7:00
   - [Zodiac, Bar and Club, 119 Hampstead Rd, London NW1 3EE](https://goo.gl/maps/mJVQQSPcdrceb9NN9)
 * Jan 15th (Sun) - [Angel Raw](https://www.angelcomedy.co.uk/)
-  - Doors 7:30, Show from 8:00 (TBC)
+  - Doors 7:00, Show from 7:30
   - [The Camden Head, 2 Camden Walk, London, N1 8DY](https://goo.gl/maps/m1Uh38KEXpqyiLd47) (TBC)
 * Jan 22nd (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m?)
   - Doors 6:00, Show from 7:00
@@ -52,7 +52,7 @@ Upcoming Gigs
   - Doors 7:30, Show from 8:00
   - [Matthews Yard Arts Centre, Croydon, CR0 1UF](https://goo.gl/maps/sG43iPShUoebUEVX7)
 
-* Mar 24th (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles) (seeking bringer) (TBC)
+* Mar 24th (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles) (seeking bringer)
   - Doors 7:30, Show from 8:00
   - [The Trinity Pub, Borough, London SE1 1JX](https://goo.gl/maps/H2L8PiAD4pnGoBSN8)
 
