@@ -11,7 +11,7 @@ Upcoming Gigs
 =============
 
 * Jan 15th (Sun) - [Angel Raw](https://www.angelcomedy.co.uk/)
-  - Doors 7:00, Show from 7:30
+  - Checkin 7:00, Doors 7:30, Show from 8:00
   - [The Camden Head, 2 Camden Walk, London, N1 8DY](https://goo.gl/maps/m1Uh38KEXpqyiLd47) (TBC)
 * Jan 22nd (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m?)
   - Doors 6:00, Show from 7:00
