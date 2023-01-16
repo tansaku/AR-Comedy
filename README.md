@@ -10,9 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Jan 15th (Sun) - [Angel Raw](https://www.angelcomedy.co.uk/)
-  - Checkin 7:00, Doors 7:30, Show from 8:00
-  - [The Camden Head, 2 Camden Walk, London, N1 8DY](https://goo.gl/maps/m1Uh38KEXpqyiLd47) (TBC)
 * Jan 22nd (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m?)
   - Doors 6:00, Show from 7:00
   - [The Swan, Hampton Wick, Kingston Upon Thames KT1 4DB](https://goo.gl/maps/SmfAaKSFgWyi5yM19)
@@ -26,8 +23,9 @@ Upcoming Gigs
   - Doors 6:30, Show from 7:00
   - [The Comedy Store, London. 1a Oxendon Street, SW1Y 4EE](https://goo.gl/maps/4sg6pqUPJugcR6k97)
 
-* Feb 2nd/3rd (Thu/Fri) - open, please book me 🙂 🙏
-
+* Feb 2nd (Thu) - [BFF Comedy Club](https://www.facebook.com/bffcomedyclub)
+  - Doors 7:00, Show from 7:30
+  - [Owl & Hitchhiker, 471 Holloway Rd, N7 6LE](https://goo.gl/maps/4fZVtHykJZ5U5pPn8)
 * Feb 6th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
   - [The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL](https://goo.gl/maps/R9CQ65NXuMd9eCRU9)
@@ -80,10 +78,16 @@ Impressions
 Past Gigs
 =========
 
+* Jan 15th (Sun) - [Angel Raw](https://www.angelcomedy.co.uk/)
+  - 5m "Best Bits"
+  - Checkin 7:00, Doors 7:30, Show from 8:00
+  - [The Camden Head, 2 Camden Walk, London, N1 8DY](https://goo.gl/maps/m1Uh38KEXpqyiLd47)
 * Jan 11th (Wed) - [Zodiac](https://zodiacbar.co.uk/)
+  - 5m "Best Bits"
   - Doors 6:45, Show from 7:00
   - [Zodiac, Bar and Club, 119 Hampstead Rd, London NW1 3EE](https://goo.gl/maps/mJVQQSPcdrceb9NN9)
 * Jan 9th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
+  - 10m "Best Bits"
   - Doors 7:30, Show from 8:00
   - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
 * Jan 5th (Thu) - [Up the Creek](https://up-the-creek.com)
