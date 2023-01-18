@@ -11,8 +11,8 @@ Upcoming Gigs
 =============
 
 * Jan 22nd (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m?)
-  - Doors 6:00, Show from 7:00
-  - [The Swan, Hampton Wick, Kingston Upon Thames KT1 4DB](https://goo.gl/maps/SmfAaKSFgWyi5yM19)
+  - Doors 6:00, Show from 6:30
+  - [The Swan, 22 High Street, Hampton Wick, Kingston Upon Thames KT1 4DB](https://goo.gl/maps/SmfAaKSFgWyi5yM19)
 * Jan 25th (Wed) - [0596](https://www.facebook.com/profile.php?id=100086378253917) (MC)
   - Doors 7:00, Show from 7:30
   - [The Gunners, 204 Blackstock Rd, London N5 1EN](https://goo.gl/maps/iWTXAbh1tTTPcmn66)
