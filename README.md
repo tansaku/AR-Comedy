@@ -23,7 +23,7 @@ Upcoming Gigs
   - Doors 6:30, Show from 7:00
   - [The Comedy Store, London. 1a Oxendon Street, SW1Y 4EE](https://goo.gl/maps/4sg6pqUPJugcR6k97)
 
-* Feb 2nd (Thu) - [BFF Comedy Club](https://www.facebook.com/bffcomedyclub)
+* Feb 2nd (Thu) - [BFF Comedy Club](https://www.facebook.com/bffcomedyclub) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - [Owl & Hitchhiker, 471 Holloway Rd, N7 6LE](https://goo.gl/maps/4fZVtHykJZ5U5pPn8)
 * Feb 6th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
