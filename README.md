@@ -10,12 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Jan 25th (Wed) - [0596](https://www.facebook.com/profile.php?id=100086378253917) (MC)
-  - Doors 7:00, Show from 7:30
-  - [The Gunners, 204 Blackstock Rd, London N5 1EN](https://goo.gl/maps/iWTXAbh1tTTPcmn66)
-* Jan 26th (Thu) - [Comedy night at Symbiosia](https://www.facebook.com/events/664608422044874)
-  - Doors 7:30, Show from 8:00
-  - [The Swan, 2-4 High St, West Wickham BR4 0NJ](https://goo.gl/maps/xUATzY9FSqzbNNDz8)
 * Jan 30th (Mon) - [King Gong](www.facebook.com/TheComedyStoreLondon)
   - Doors 6:30, Show from 7:00
   - [The Comedy Store, London. 1a Oxendon Street, SW1Y 4EE](https://goo.gl/maps/4sg6pqUPJugcR6k97)
@@ -59,6 +53,10 @@ Upcoming Gigs
   - Doors 7:30, Show from 8:00
   - [The Crown, 144-146 Hatfield Rd, St Albans AL1 4JA](https://goo.gl/maps/92ug6CjRF3Gfnr8J9)
 
+* May 15th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
+  - Doors 7:30, Show from 8:00
+  - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
+
 Find The AR Comedian on:
 
 * [Instagram!](https://www.instagram.com/tansaku/)
@@ -78,6 +76,10 @@ Impressions
 Past Gigs
 =========
 
+* Jan 26th (Thu) - [Comedy night at Symbiosia](https://www.facebook.com/events/664608422044874)
+  - 10m "Best Bits"
+  - Doors 7:30, Show from 8:00
+  - [The Swan, 2-4 High St, West Wickham BR4 0NJ](https://goo.gl/maps/xUATzY9FSqzbNNDz8)
 * Jan 22nd (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m)
   - 10m "Best Bits"
   - Doors 6:00, Show from 6:30
@@ -540,6 +542,9 @@ Gigs Attended as a Bringer
 
 # Cancelled or Withdrawn Gigs
 
+* Jan 25th (Wed) - [0596](https://www.facebook.com/profile.php?id=100086378253917) (MC)
+  - Doors 7:00, Show from 7:30
+  - [The Gunners, 204 Blackstock Rd, London N5 1EN](https://goo.gl/maps/iWTXAbh1tTTPcmn66)
 * Jan 19th (Thu) - [Laugh Tracks](https://www.facebook.com/laughtracks.comedynight)
   - Doors 7:30, Show from 8:00
   - [The Tram Depot, 5 Dover St, Cambridge CB1 1DY](https://goo.gl/maps/JzfawUkHPtFKzFa88)
