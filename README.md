@@ -10,10 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Jan 30th (Mon) - [King Gong](www.facebook.com/TheComedyStoreLondon)
-  - Doors 6:30, Show from 7:00
-  - [The Comedy Store, London. 1a Oxendon Street, SW1Y 4EE](https://goo.gl/maps/4sg6pqUPJugcR6k97)
-
 * Feb 2nd (Thu) - [BFF Comedy Club](https://www.facebook.com/bffcomedyclub) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - [Owl & Hitchhiker, 471 Holloway Rd, N7 6LE](https://goo.gl/maps/4fZVtHykJZ5U5pPn8)
@@ -76,6 +72,10 @@ Impressions
 Past Gigs
 =========
 
+* Jan 30th (Mon) - [King Gong](www.facebook.com/TheComedyStoreLondon)
+  - 43s "Best Bits"
+  - Doors 6:30, Show from 7:00
+  - [The Comedy Store, London. 1a Oxendon Street, SW1Y 4EE](https://goo.gl/maps/4sg6pqUPJugcR6k97
 * Jan 26th (Thu) - [Comedy night at Symbiosia](https://www.facebook.com/events/664608422044874)
   - 10m "Best Bits"
   - Doors 7:30, Show from 8:00
