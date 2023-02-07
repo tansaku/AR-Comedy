@@ -10,13 +10,8 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Feb 2nd (Thu) - [BFF Comedy Club](https://www.facebook.com/bffcomedyclub) (seeking bringer)
-  - Doors 7:00, Show from 7:30
-  - [Owl & Hitchhiker, 471 Holloway Rd, N7 6LE](https://goo.gl/maps/4fZVtHykJZ5U5pPn8)
-* Feb 6th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
-  - Doors 7:30, Show from 8:00
-  - [The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL](https://goo.gl/maps/R9CQ65NXuMd9eCRU9)
-* Feb 9th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer)
+
+* Feb 9th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer) CX
   - Doors 7:00, Show from 7:30
   - [The Railway Tavern, 18 Clapham High St, London SW4 7UR](https://goo.gl/maps/fvV4NNTGyMLeqeGN7)
 
@@ -72,6 +67,14 @@ Impressions
 Past Gigs
 =========
 
+* Feb 6th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
+  - 5m "Best Bits"
+  - Doors 7:30, Show from 8:00
+  - [The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL](https://goo.gl/maps/R9CQ65NXuMd9eCRU9)
+* Feb 2nd (Thu) - [BFF Comedy Club](https://www.facebook.com/bffcomedyclub) (Thanks for bringer Jonathan James)
+  - 5m "Best Bits"
+  - Doors 7:00, Show from 7:30
+  - [Owl & Hitchhiker, 471 Holloway Rd, N7 6LE](https://goo.gl/maps/4fZVtHykJZ5U5pPn8)
 * Jan 30th (Mon) - [King Gong](www.facebook.com/TheComedyStoreLondon)
   - 43s "Best Bits"
   - Doors 6:30, Show from 7:00
