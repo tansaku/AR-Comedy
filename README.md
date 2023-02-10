@@ -10,10 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Feb 9th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer) CX
-  - Doors 7:00, Show from 7:30
-  - [The Railway Tavern, 18 Clapham High St, London SW4 7UR](https://goo.gl/maps/fvV4NNTGyMLeqeGN7)
-
 * Feb 20th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
   - Doors 7:00, Show from 7:30
   - [The Regent Pub, Angel Islington, 201-203 Liverpool Rd, London N1 1LX](https://goo.gl/maps/wgvdu1HyRg2m9u237)
@@ -73,11 +69,15 @@ Impressions
 Past Gigs
 =========
 
-* Feb 6th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
+* Feb 9th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (Thanks to bringer Andy C.) CX
+  - 5m "Best Bits"
+  - Doors 7:00, Show from 7:30
+  - [The Railway Tavern, 18 Clapham High St, London SW4 7UR](https://goo.gl/maps/fvV4NNTGyMLeqeGN7)
+* Feb 6th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters)
   - 5m "Best Bits"
   - Doors 7:30, Show from 8:00
   - [The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL](https://goo.gl/maps/R9CQ65NXuMd9eCRU9)
-* Feb 2nd (Thu) - [BFF Comedy Club](https://www.facebook.com/bffcomedyclub) (Thanks for bringer Jonathan James)
+* Feb 2nd (Thu) - [BFF Comedy Club](https://www.facebook.com/bffcomedyclub) (Thanks to bringer Jonathan James)
   - 5m "Best Bits"
   - Doors 7:00, Show from 7:30
   - [Owl & Hitchhiker, 471 Holloway Rd, N7 6LE](https://goo.gl/maps/4fZVtHykJZ5U5pPn8)
