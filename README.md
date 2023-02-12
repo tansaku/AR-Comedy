@@ -23,28 +23,31 @@ Upcoming Gigs
 * Mar 3rd (Fri) - [Big Smoke Comedy](https://www.facebook.com/BigSmokeComedy)
   - Doors 7:30, Show from 8:00
   - [Matthews Yard Arts Centre, Croydon, CR0 1UF](https://goo.gl/maps/sG43iPShUoebUEVX7)
-
+* Mar 6th (Mon) - Open, please book me! 😄🙏
 * Mar 9th (Thu) - [Up the Creek](https://up-the-creek.com)
   - Doors 7:00, Show from 8:00
   - [302 Creek Rd, Greenwich, London SE10 9SW](https://goo.gl/maps/R2TNsYGA3VkpWEFP7)
-* Mar 13th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
+* Mar 13th (Mon) - [Double Bubble Comedy](https://www.facebook.com/doublebubblecomedy)
+  - Doors 7:00, Show from 7:30
+  - [The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL](https://goo.gl/maps/R9CQ65NXuMd9eCRU9)
+* Mar 16th (Thu) - Open, please book me! 😄🙏
+* Mar 20th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
   - [The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL](https://goo.gl/maps/R9CQ65NXuMd9eCRU9)
-
-
 * Mar 24th (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles) (seeking bringer)
   - Doors 7:30, Show from 8:00
   - [The Trinity Pub, Borough, London SE1 1JX](https://goo.gl/maps/H2L8PiAD4pnGoBSN8)
+* Mar 27th (Mon) - Open, please book me! 😄🙏
 
-* Apr 3rd (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
-  - Doors 7:30, Show from 8:00
-  - [The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL](https://goo.gl/maps/R9CQ65NXuMd9eCRU9)
 * Apr 10th (Mon) - [SofaSoFunny](https://www.facebook.com/SofaSoFunny)
   - Doors 7:00, Show from 7:30
   - [The Flying Horse, Wilson Street, London, EC2A 2ER](https://goo.gl/maps/A3WAMSQHXCX9fgH96)
 * Apr 12th (Wed) - [JEST Another Comedy Club](https://www.facebook.com/profile.php?id=100057587225412)
   - Doors 7:30, Show from 8:00
   - [The Crown, 144-146 Hatfield Rd, St Albans AL1 4JA](https://goo.gl/maps/92ug6CjRF3Gfnr8J9)
+* Apr 17th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
+  - Doors 7:30, Show from 8:00
+  - [The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL](https://goo.gl/maps/R9CQ65NXuMd9eCRU9)
 
 * May 15th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 7:30, Show from 8:00
