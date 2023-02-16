@@ -48,6 +48,9 @@ Upcoming Gigs
 * Apr 17th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
   - [The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL](https://goo.gl/maps/R9CQ65NXuMd9eCRU9)
+* Apr 24th (Mon) - [Too Far Comedy](https://www.facebook.com/profile.php?id=100089181955335) (bringer)
+  - Doors 7:00, Show from 7:30
+  - [Artillery Arms, 102 Bunhill Row, London EC1Y 8N](https://goo.gl/maps/sgCKvpvhpF8kCF2S7)
 
 * May 15th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 7:30, Show from 8:00
