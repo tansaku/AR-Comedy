@@ -39,6 +39,10 @@ Upcoming Gigs
   - [The Trinity Pub, Borough, London SE1 1JX](https://goo.gl/maps/H2L8PiAD4pnGoBSN8)
 * Mar 27th (Mon) - Open, please book me! 😄🙏
 
+* Apr 2nd (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer)
+  - Doors 6:30, Show from 7:00
+  - The Rose & Crown, 71-73 Torriano Ave, London NW5 2SG
+
 * Apr 10th (Mon) - [SofaSoFunny](https://www.facebook.com/SofaSoFunny)
   - Doors 7:00, Show from 7:30
   - [The Flying Horse, Wilson Street, London, EC2A 2ER](https://goo.gl/maps/A3WAMSQHXCX9fgH96)
