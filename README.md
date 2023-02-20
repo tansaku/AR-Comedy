@@ -10,9 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Feb 20th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
-  - Doors 7:00, Show from 7:30
-  - [The Regent Pub, Angel Islington, 201-203 Liverpool Rd, London N1 1LX](https://goo.gl/maps/wgvdu1HyRg2m9u237)
 * Feb 23rd (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
   - Doors 7:30, Show from 8:00
   - [The King's Head, 2 Crouch End Hill, London N8 8AA](https://goo.gl/maps/3Y9DS1Zj1DdMYcYB6)
@@ -82,6 +79,10 @@ Impressions
 Past Gigs
 =========
 
+* Feb 20th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
+  - 5m "Best Bits"
+  - Doors 7:00, Show from 7:30
+  - [The Regent Pub, Angel Islington, 201-203 Liverpool Rd, London N1 1LX](https://goo.gl/maps/wgvdu1HyRg2m9u237)
 * Feb 9th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (Thanks to bringer Andy C.) CX
   - 5m "Best Bits"
   - Doors 7:00, Show from 7:30
