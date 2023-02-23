@@ -11,7 +11,7 @@ Upcoming Gigs
 =============
 
 * Feb 23rd (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
-  - Doors 7:30, Show from 8:00
+  - Doors 8:00, Show from 8:30
   - [The King's Head, 2 Crouch End Hill, London N8 8AA](https://goo.gl/maps/3Y9DS1Zj1DdMYcYB6)
 * Feb 27th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 7:30, Show from 8:00
@@ -159,7 +159,7 @@ Past Gigs
   - [The George, 373 Commercial Road, London E1 0LA](https://goo.gl/maps/vkeBTwy4Lbk1R5yb8)
 * Dec 1st (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
   - 5m "How are we?"
-  - Doors 7:30, Show from 8:00
+  - Doors 8:00, Show from 8:30
   - The King's Head, 2 Crouch End Hill, London N8 8AA
 * Nov 28th (Mon) - [0596](https://www.facebook.com/profile.php?id=100086378253917)
   - 5m "How are we?"
