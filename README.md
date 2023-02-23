@@ -20,7 +20,9 @@ Upcoming Gigs
 * Mar 3rd (Fri) - [Big Smoke Comedy](https://www.facebook.com/BigSmokeComedy)
   - Doors 7:30, Show from 8:00
   - [Matthews Yard Arts Centre, Croydon, CR0 1UF](https://goo.gl/maps/sG43iPShUoebUEVX7)
-* Mar 6th (Mon) - Open, please book me! 😄🙏
+* Mar 6th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (seeking bringer)
+  - Doors 7:00, Show from 7:30
+  - The Old Crown, Holborn, London WC1A 1BH
 * Mar 9th (Thu) - [Up the Creek](https://up-the-creek.com)
   - Doors 7:00, Show from 8:00
   - [302 Creek Rd, Greenwich, London SE10 9SW](https://goo.gl/maps/R2TNsYGA3VkpWEFP7)
