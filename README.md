@@ -10,9 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Feb 23rd (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
-  - Doors 8:00, Show from 8:30
-  - [The King's Head, 2 Crouch End Hill, London N8 8AA](https://goo.gl/maps/3Y9DS1Zj1DdMYcYB6)
 * Feb 27th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 7:30, Show from 8:00
   - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
@@ -58,6 +55,10 @@ Upcoming Gigs
   - Doors ???, Show from ???
   - [Boathouse Pub, 14 Chesterton Rd, Cambridge CB4 3AX](https://goo.gl/maps/MEeViJJ8JXaYL7i56)
 
+* May 4th (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
+  - Doors 8:00, Show from 8:30
+  - [The King's Head, 2 Crouch End Hill, London N8 8AA](https://goo.gl/maps/3Y9DS1Zj1DdMYcYB6)
+
 * May 15th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 7:30, Show from 8:00
   - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
@@ -81,6 +82,9 @@ Impressions
 Past Gigs
 =========
 
+* Feb 23rd (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
+  - Doors 8:00, Show from 8:30
+  - [The King's Head, 2 Crouch End Hill, London N8 8AA](https://goo.gl/maps/3Y9DS1Zj1DdMYcYB6)
 * Feb 20th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
   - 5m "Best Bits"
   - Doors 7:00, Show from 7:30
