@@ -34,6 +34,7 @@ Upcoming Gigs
   - Doors 7:30, Show from 8:00
   - [The Trinity Pub, Borough, London SE1 1JX](https://goo.gl/maps/H2L8PiAD4pnGoBSN8)
 * Mar 27th (Mon) - Open, please book me! 😄🙏
+* Mar 30th (Thu) - Open, please book me! 😄🙏
 
 * Apr 2nd (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer)
   - Doors 6:30, Show from 7:00
