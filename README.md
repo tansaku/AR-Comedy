@@ -11,7 +11,7 @@ Upcoming Gigs
 =============
 
 * Feb 27th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
-  - Doors 7:30, Show from 8:00
+  - Doors 7:00, Show from 7:30
   - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
 
 * Mar 3rd (Fri) - [Big Smoke Comedy](https://www.facebook.com/BigSmokeComedy)
