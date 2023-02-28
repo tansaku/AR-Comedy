@@ -10,10 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Feb 27th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
-  - Doors 7:00, Show from 7:30
-  - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
-
 * Mar 3rd (Fri) - [Big Smoke Comedy](https://www.facebook.com/BigSmokeComedy)
   - Doors 7:30, Show from 8:00
   - [Matthews Yard Arts Centre, Croydon, CR0 1UF](https://goo.gl/maps/sG43iPShUoebUEVX7)
@@ -26,14 +22,19 @@ Upcoming Gigs
 * Mar 13th (Mon) - [Double Bubble Comedy](https://www.facebook.com/doublebubblecomedy)
   - Doors 7:00, Show from 7:30
   - [The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL](https://goo.gl/maps/R9CQ65NXuMd9eCRU9)
+
 * Mar 16th (Thu) - Open, please book me! 😄🙏
+
 * Mar 20th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
   - [The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL](https://goo.gl/maps/R9CQ65NXuMd9eCRU9)
 * Mar 24th (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles) (seeking bringer)
   - Doors 7:30, Show from 8:00
   - [The Trinity Pub, Borough, London SE1 1JX](https://goo.gl/maps/H2L8PiAD4pnGoBSN8)
-* Mar 27th (Mon) - Open, please book me! 😄🙏
+* Mar 27th (Mon) - [0596](https://www.facebook.com/profile.php?id=100086378253917) (TBC) (seeking bringer)
+  - Doors 7:00, Show from 7:30
+  - [The Finsbury, 336 Green Lanes, Finsbury Park, London N4 1BY](https://goo.gl/maps/LtASExYS22qu3eVE7)
+
 * Mar 30th (Thu) - Open, please book me! 😄🙏
 
 * Apr 2nd (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer)
@@ -83,6 +84,9 @@ Impressions
 Past Gigs
 =========
 
+* Feb 27th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
+  - Doors 7:00, Show from 7:30
+  - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
 * Feb 23rd (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
   - Doors 8:00, Show from 8:30
   - [The King's Head, 2 Crouch End Hill, London N8 8AA](https://goo.gl/maps/3Y9DS1Zj1DdMYcYB6)
@@ -130,7 +134,7 @@ Past Gigs
   - 2.5m "Mixed Race"
   - Doors 7:00, Show from 8:00
   - [302 Creek Rd, Greenwich, London SE10 9SW](https://goo.gl/maps/R2TNsYGA3VkpWEFP7)
-* Jan 2nd (Mon) - [0596 ](https://www.facebook.com/profile.php?id=100086378253917) C
+* Jan 2nd (Mon) - [0596](https://www.facebook.com/profile.php?id=100086378253917) C
   - 5m "Mixed Race"
   - Doors 7:00, Show from 7:30
   - [The Finsbury, 336 Green Lanes, Finsbury Park, London N4 1BY](https://goo.gl/maps/LtASExYS22qu3eVE7)
