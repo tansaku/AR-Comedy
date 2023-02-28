@@ -41,6 +41,8 @@ Upcoming Gigs
   - Doors 6:30, Show from 7:00
   - The Rose & Crown, 71-73 Torriano Ave, London NW5 2SG
 
+* Apr 6th (Thu) - Open, please book me! 😄🙏
+
 * Apr 10th (Mon) - [SofaSoFunny](https://www.facebook.com/SofaSoFunny)
   - Doors 7:00, Show from 7:30
   - [The Flying Horse, Wilson Street, London, EC2A 2ER](https://goo.gl/maps/A3WAMSQHXCX9fgH96)
@@ -50,6 +52,9 @@ Upcoming Gigs
 * Apr 17th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
   - [The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL](https://goo.gl/maps/R9CQ65NXuMd9eCRU9)
+
+* Apr 20th (Thu) - Open, please book me! 😄🙏
+
 * Apr 24th (Mon) - [Too Far Comedy](https://www.facebook.com/profile.php?id=100089181955335) (bringer)
   - Doors 7:00, Show from 7:30
   - [Artillery Arms, 102 Bunhill Row, London EC1Y 8N](https://goo.gl/maps/sgCKvpvhpF8kCF2S7)
@@ -60,6 +65,10 @@ Upcoming Gigs
 * May 4th (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
   - Doors 8:00, Show from 8:30
   - [The King's Head, 2 Crouch End Hill, London N8 8AA](https://goo.gl/maps/3Y9DS1Zj1DdMYcYB6)
+
+* May 8th (Mon) - Open, please book me! 😄🙏
+
+* May 11th (Thu) - Open, please book me! 😄🙏
 
 * May 15th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 7:30, Show from 8:00
