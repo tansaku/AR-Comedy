@@ -21,7 +21,7 @@ Upcoming Gigs
   - [302 Creek Rd, Greenwich, London SE10 9SW](https://goo.gl/maps/R2TNsYGA3VkpWEFP7)
 * Mar 13th (Mon) - [Double Bubble Comedy](https://www.facebook.com/doublebubblecomedy)
   - Doors 7:00, Show from 7:30
-  - [The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL](https://goo.gl/maps/R9CQ65NXuMd9eCRU9)
+  - [The Victoria, 451 Queensbridge Rd, London E8 3AS](https://goo.gl/maps/S2TuQ4dhTzPTGMdA9)
 
 * Mar 16th (Thu) - Open, please book me! 😄🙏
 
