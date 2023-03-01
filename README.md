@@ -39,10 +39,10 @@ Upcoming Gigs
 
 * Apr 2nd (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer)
   - Doors 6:30, Show from 7:00
-  - The Rose & Crown, 71-73 Torriano Ave, London NW5 2SG
-
-* Apr 6th (Thu) - Open, please book me! 😄🙏
-
+  - [The Rose & Crown, 71-73 Torriano Ave, London NW5 2SG](https://goo.gl/maps/fXaRncR7JSdJdRrL7)
+* Apr 6th (Thu)  - [Victoria Comedy Cup](https://www.victoriapubse8.co.uk/)
+  - Doors 7:30 Show from 8:00
+  - [177 Grove St, London SE8 3QQ](https://goo.gl/maps/T2DV7C5pj3rHZdm7A)
 * Apr 10th (Mon) - [SofaSoFunny](https://www.facebook.com/SofaSoFunny)
   - Doors 7:00, Show from 7:30
   - [The Flying Horse, Wilson Street, London, EC2A 2ER](https://goo.gl/maps/A3WAMSQHXCX9fgH96)
@@ -59,14 +59,15 @@ Upcoming Gigs
   - Doors 7:00, Show from 7:30
   - [Artillery Arms, 102 Bunhill Row, London EC1Y 8N](https://goo.gl/maps/sgCKvpvhpF8kCF2S7)
 * Apr 27th (Thu) - [Think Too Funny](https://www.facebook.com/Think2Funny)
-  - Doors ???, Show from ???
+  - Doors 6:00, Show from 6:30
   - [Boathouse Pub, 14 Chesterton Rd, Cambridge CB4 3AX](https://goo.gl/maps/MEeViJJ8JXaYL7i56)
 
 * May 4th (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
   - Doors 8:00, Show from 8:30
   - [The King's Head, 2 Crouch End Hill, London N8 8AA](https://goo.gl/maps/3Y9DS1Zj1DdMYcYB6)
-
-* May 8th (Mon) - Open, please book me! 😄🙏
+* May 7th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m)
+  - Doors ???, Show from ???
+  - [Waggon & Horses Surbiton, 1 Surbiton Hill Rd, Surbiton KT6 4TW](https://goo.gl/maps/tQjwFKni9sq1fh2P9)
 
 * May 11th (Thu) - Open, please book me! 😄🙏
 
