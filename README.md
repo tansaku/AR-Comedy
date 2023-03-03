@@ -22,9 +22,9 @@ Upcoming Gigs
 * Mar 13th (Mon) - [Double Bubble Comedy](https://www.facebook.com/doublebubblecomedy)
   - Doors 7:00, Show from 7:30
   - [The Victoria, 451 Queensbridge Rd, London E8 3AS](https://goo.gl/maps/S2TuQ4dhTzPTGMdA9)
-
-* Mar 16th (Thu) - Open, please book me! 😄🙏
-
+* Mar 16th (Thu) - [Victoria Comedy Cup](https://www.victoriapubse8.co.uk/)
+  - Doors 7:30 Show from 8:00
+  - [177 Grove St, London SE8 3QQ](https://goo.gl/maps/CZNjKcShrikUP3V57)
 * Mar 20th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
   - [The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL](https://goo.gl/maps/R9CQ65NXuMd9eCRU9)
@@ -40,7 +40,7 @@ Upcoming Gigs
 * Apr 2nd (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer)
   - Doors 6:30, Show from 7:00
   - [The Rose & Crown, 71-73 Torriano Ave, London NW5 2SG](https://goo.gl/maps/fXaRncR7JSdJdRrL7)
-* Apr 6th (Thu)  - [Victoria Comedy Cup](https://www.victoriapubse8.co.uk/)
+* Apr 6th (Thu) - [Victoria Comedy Cup](https://www.victoriapubse8.co.uk/) (TBC)
   - Doors 7:30 Show from 8:00
   - [177 Grove St, London SE8 3QQ](https://goo.gl/maps/T2DV7C5pj3rHZdm7A)
 * Apr 10th (Mon) - [SofaSoFunny](https://www.facebook.com/SofaSoFunny)
