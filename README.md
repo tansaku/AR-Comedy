@@ -10,9 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Mar 3rd (Fri) - [Big Smoke Comedy](https://www.facebook.com/BigSmokeComedy)
-  - Doors 7:30, Show from 8:00
-  - [Matthews Yard Arts Centre, Croydon, CR0 1UF](https://goo.gl/maps/sG43iPShUoebUEVX7)
 * Mar 6th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - [The Old Crown, Holborn, London WC1A 1BH](https://goo.gl/maps/A8LqXwqxGo8ax3qTA)
@@ -98,10 +95,16 @@ Impressions
 Past Gigs
 =========
 
+* Mar 3rd (Fri) - [Big Smoke Comedy](https://www.facebook.com/BigSmokeComedy)
+  - 10m "Best Bits + Broken Hand"
+  - Doors 7:30, Show from 8:00
+  - [Matthews Yard Arts Centre, Croydon, CR0 1UF](https://goo.gl/maps/sG43iPShUoebUEVX7)
 * Feb 27th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
+  - 10m "Best Bits + Broken Hand"
   - Doors 7:00, Show from 7:30
   - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
 * Feb 23rd (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
+  - 5m "Best Bits"
   - Doors 8:00, Show from 8:30
   - [The King's Head, 2 Crouch End Hill, London N8 8AA](https://goo.gl/maps/3Y9DS1Zj1DdMYcYB6)
 * Feb 20th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
