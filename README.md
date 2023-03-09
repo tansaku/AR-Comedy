@@ -10,12 +10,6 @@ and attend one of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Mar 6th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (seeking bringer)
-  - Doors 7:00, Show from 7:30
-  - [The Old Crown, Holborn, London WC1A 1BH](https://goo.gl/maps/A8LqXwqxGo8ax3qTA)
-* Mar 9th (Thu) - [Up the Creek](https://up-the-creek.com)
-  - Doors 7:00, Show from 8:00
-  - [302 Creek Rd, Greenwich, London SE10 9SW](https://goo.gl/maps/R2TNsYGA3VkpWEFP7)
 * Mar 13th (Mon) - [Double Bubble Comedy](https://www.facebook.com/doublebubblecomedy)
   - Doors 7:00, Show from 7:30
   - [The Victoria, 451 Queensbridge Rd, London E8 3AS](https://goo.gl/maps/S2TuQ4dhTzPTGMdA9)
@@ -95,6 +89,18 @@ Impressions
 Past Gigs
 =========
 
+* Mar 9th (Thu) - [Convent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
+  - 7m "Best Bits"
+  - Doors 8:00, Show from 9:00
+  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
+* Mar 9th (Thu) - [Up the Creek](https://up-the-creek.com)
+  - 2m "Best Bits"
+  - Doors 7:00, Show from 8:00
+  - [302 Creek Rd, Greenwich, London SE10 9SW](https://goo.gl/maps/R2TNsYGA3VkpWEFP7)
+* Mar 6th (Mon) - [Rising Star Comedy Club](https://www.facebook.com/RisingStarComedy/) (Thanks to Bringer Ali)
+  - 7m "Best Bits"
+  - Doors 7:00, Show from 7:30
+  - [The Old Crown, Holborn, London WC1A 1BH](https://goo.gl/maps/A8LqXwqxGo8ax3qTA)
 * Mar 3rd (Fri) - [Big Smoke Comedy](https://www.facebook.com/BigSmokeComedy)
   - 10m "Best Bits + Broken Hand"
   - Doors 7:30, Show from 8:00
