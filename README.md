@@ -3,16 +3,16 @@ Free Drink Offer!
 
 [CLICK HERE TO FOLLOW ME ON INSTAGRAM!](https://instagram.com/tansaku)
 -----------------
-and attend one of my comedy gigs (see below) and I will buy you a drink!
+and attend two of my comedy gigs (see below) and I will buy you a drink!
 
 [T&Cs apply](#Terms-and-Conditions) (see bottom of page)
 
 Upcoming Gigs
 =============
 
-* Mar 13th (Mon) - [Double Bubble Comedy](https://www.facebook.com/doublebubblecomedy)
+* Mar 16th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer)
   - Doors 7:00, Show from 7:30
-  - [The Victoria, 451 Queensbridge Rd, London E8 3AS](https://goo.gl/maps/S2TuQ4dhTzPTGMdA9)
+  - [The Railway Tavern, 18 Clapham High St, London SW4 7UR](https://goo.gl/maps/fvV4NNTGyMLeqeGN7)
 * Mar 16th (Thu) - [Victoria Comedy Cup](https://www.victoriapubse8.co.uk/)
   - Doors 7:30 Show from 8:00
   - [177 Grove St, London SE8 3QQ](https://goo.gl/maps/CZNjKcShrikUP3V57)
@@ -31,7 +31,7 @@ Upcoming Gigs
 * Apr 2nd (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer)
   - Doors 6:30, Show from 7:00
   - [The Rose & Crown, 71-73 Torriano Ave, London NW5 2SG](https://goo.gl/maps/fXaRncR7JSdJdRrL7)
-* Apr 6th (Thu) - [Victoria Comedy Cup](https://www.victoriapubse8.co.uk/) (TBC)
+* Apr 6th (Thu) - [Victoria Comedy Cup](https://www.victoriapubse8.co.uk/)
   - Doors 7:30 Show from 8:00
   - [177 Grove St, London SE8 3QQ](https://goo.gl/maps/T2DV7C5pj3rHZdm7A)
 * Apr 10th (Mon) - [SofaSoFunny](https://www.facebook.com/SofaSoFunny)
@@ -89,6 +89,10 @@ Impressions
 Past Gigs
 =========
 
+* Mar 13th (Mon) - [Double Bubble Comedy](https://www.facebook.com/doublebubblecomedy)
+  - 7m "Best Bits"
+  - Doors 7:00, Show from 7:30
+  - [The Victoria, 451 Queensbridge Rd, London E8 3AS](https://goo.gl/maps/S2TuQ4dhTzPTGMdA9)
 * Mar 9th (Thu) - [Convent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
   - 7m "Best Bits"
   - Doors 8:00, Show from 9:00
@@ -637,11 +641,10 @@ Gigs Attended as a Bringer
 # Terms and Conditions
 
 * Drink purchased up to max value of £10
-* Two drinks if you can attend a show marked "seeking bringer"
-* Otherwise max one drink per person per gig
+* Otherwise max one drink per person per double gig attendance
 * Alcoholic drinks only bought for those who are above the legal age limit in the territory the gig occurs in
 * Attending a show means seeing my entire performance from start to finish (minimum 5 minutes)
 * If audience receives three warnings for poor behaviour offer is rescinded
-* I will buy you a drink after the show once instagram follow confirmed
+* I will buy you a drink after the second show once instagram follow confirmed
 * Yes I am totally serious :-)
 * How else can I build an audience? Please send ideas to tansaku@gmail.com
