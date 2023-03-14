@@ -3,7 +3,7 @@ Free Drink Offer!
 
 [CLICK HERE TO FOLLOW ME ON INSTAGRAM!](https://instagram.com/tansaku)
 -----------------
-and attend two of my comedy gigs (see below) and I will buy you a drink!
+and attend **two** of my comedy gigs (see below) and I will buy you a drink!
 
 [T&Cs apply](#Terms-and-Conditions) (see bottom of page)
 
