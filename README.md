@@ -13,7 +13,7 @@ Upcoming Gigs
 * Mar 16th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - [The Railway Tavern, 18 Clapham High St, London SW4 7UR](https://goo.gl/maps/fvV4NNTGyMLeqeGN7)
-* Mar 16th (Thu) - [Victoria Comedy Cup](https://www.victoriapubse8.co.uk/)
+* Mar 16th (Thu) - [Victoria Comedy Cup](https://www.victoriapubse8.co.uk/) CXX
   - Doors 7:30 Show from 8:00
   - [177 Grove St, London SE8 3QQ](https://goo.gl/maps/CZNjKcShrikUP3V57)
 * Mar 20th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
@@ -28,6 +28,9 @@ Upcoming Gigs
 
 * Mar 30th (Thu) - Open, please book me! 😄🙏
 
+* Apr 1st (Sat) - [Convent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
+  - Doors 8:00, Show from 9:00
+  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
 * Apr 2nd (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer)
   - Doors 6:30, Show from 7:00
   - [The Rose & Crown, 71-73 Torriano Ave, London NW5 2SG](https://goo.gl/maps/fXaRncR7JSdJdRrL7)
