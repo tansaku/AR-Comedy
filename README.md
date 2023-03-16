@@ -22,11 +22,9 @@ Upcoming Gigs
 * Mar 24th (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles) (seeking bringer)
   - Doors 7:30, Show from 8:00
   - [The Trinity Pub, Borough, London SE1 1JX](https://goo.gl/maps/H2L8PiAD4pnGoBSN8)
-* Mar 27th (Mon) - [0596](https://www.facebook.com/profile.php?id=100086378253917) (TBC) (seeking bringer)
+* Mar 27th (Mon) - [0596](https://www.facebook.com/profile.php?id=100086378253917) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - [The Finsbury, 336 Green Lanes, Finsbury Park, London N4 1BY](https://goo.gl/maps/LtASExYS22qu3eVE7)
-
-* Mar 30th (Thu) - Open, please book me! 😄🙏
 
 * Apr 1st (Sat) - [Convent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
   - Doors 8:00, Show from 9:00
@@ -46,15 +44,17 @@ Upcoming Gigs
 * Apr 17th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
   - Doors 7:30, Show from 8:00
   - [The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL](https://goo.gl/maps/R9CQ65NXuMd9eCRU9)
-
-* Apr 20th (Thu) - Open, please book me! 😄🙏
-
-* Apr 24th (Mon) - [Too Far Comedy](https://www.facebook.com/profile.php?id=100089181955335) (bringer)
+* Apr 20th (Thu) - [BFF Comedy Club](https://www.facebook.com/bffcomedyclub) (seeking bringer)
+  - Doors 7:00, Show from 7:30
+  - [Owl & Hitchhiker, 471 Holloway Rd, N7 6LE](https://goo.gl/maps/4fZVtHykJZ5U5pPn8)
+* Apr 24th (Mon) - [Too Far Comedy](https://www.facebook.com/profile.php?id=100089181955335) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - [Artillery Arms, 102 Bunhill Row, London EC1Y 8N](https://goo.gl/maps/sgCKvpvhpF8kCF2S7)
 * Apr 27th (Thu) - [Think Too Funny](https://www.facebook.com/Think2Funny)
   - Doors 6:00, Show from 6:30
   - [Boathouse Pub, 14 Chesterton Rd, Cambridge CB4 3AX](https://goo.gl/maps/MEeViJJ8JXaYL7i56)
+
+* May 1st (Mon) - Open, please book me! 😄🙏
 
 * May 4th (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
   - Doors 8:00, Show from 8:30
@@ -68,6 +68,8 @@ Upcoming Gigs
 * May 15th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 7:30, Show from 8:00
   - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
+
+* May 18th (Thu) - Open, please book me! 😄🙏
 
 * May 22nd (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
   - Doors 7:00, Show from 7:30
