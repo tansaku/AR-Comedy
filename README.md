@@ -10,9 +10,9 @@ and attend **TWO** of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Mar 20th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
-  - Doors 7:30, Show from 8:00
-  - [The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL](https://goo.gl/maps/R9CQ65NXuMd9eCRU9)
+* Mar 20th (Mon) - [Compering and Improv for Stand-up Workshop](https://www.tickettailor.com/events/goodshipcomedy/808971) (TBC)
+  - 6:00 - 10:00
+  - [107 Leadenhall St, London, EC3A 4AF, England](https://goo.gl/maps/1jh6QwJQ7ieeGXvVA)
 * Mar 24th (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles) (seeking bringer)
   - Doors 7:30, Show from 8:00
   - [The Trinity Pub, Borough, London SE1 1JX](https://goo.gl/maps/H2L8PiAD4pnGoBSN8)
