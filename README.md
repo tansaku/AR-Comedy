@@ -19,6 +19,9 @@ Upcoming Gigs
 * Mar 27th (Mon) - [0596](https://www.facebook.com/profile.php?id=100086378253917) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - [The Finsbury, 336 Green Lanes, Finsbury Park, London N4 1BY](https://goo.gl/maps/LtASExYS22qu3eVE7)
+* Mar 30th (Thu) - [Power Corners Alternative and Stand Up open mic](https://www.facebook.com/powercorners)
+  - Doors 7:00, Show from 7:30
+  - [Presuming Ed, 114-115 London Rd, Brighton BN1 4JG](https://goo.gl/maps/MvaATK7y13T9z8Pw7)
 
 * Apr 1st (Sat) - [Convent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
   - Doors 8:00, Show from 9:00
