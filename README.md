@@ -10,9 +10,6 @@ and attend **TWO** of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Mar 20th (Mon) - [Compering and Improv for Stand-up Workshop](https://www.tickettailor.com/events/goodshipcomedy/808971) (TBC)
-  - 6:00 - 10:00
-  - [107 Leadenhall St, London, EC3A 4AF, England](https://goo.gl/maps/1jh6QwJQ7ieeGXvVA)
 * Mar 24th (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles) (seeking bringer)
   - Doors 7:30, Show from 8:00
   - [The Trinity Pub, Borough, London SE1 1JX](https://goo.gl/maps/H2L8PiAD4pnGoBSN8)
@@ -91,6 +88,10 @@ Impressions
 Past Gigs
 =========
 
+* Mar 20th (Mon) - [Compering and Improv for Stand-up Workshop](https://www.tickettailor.com/events/goodshipcomedy/808971)
+  - 2m "Goats, Ballet and the Universe"
+  - 6:00 - 10:00
+  - [107 Leadenhall St, London, EC3A 4AF, England](https://goo.gl/maps/1jh6QwJQ7ieeGXvVA)
 * Mar 16th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (Thanks to bringer Ali)
   - 5m "Best Bits"
   - Doors 7:00, Show from 7:30
