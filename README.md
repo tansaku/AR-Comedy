@@ -5,6 +5,8 @@ Free Drink Offer!
 -----------------
 and attend **TWO** of my comedy gigs (see below) and I will buy you a drink!
 
+If you don't do instagram you can [subscribe to my low volume comedy mailing list](subscribe.html)
+
 [T&Cs apply](#Terms-and-Conditions) (see bottom of page)
 
 Upcoming Gigs
@@ -657,6 +659,6 @@ Gigs Attended as a Bringer
 * Alcoholic drinks only bought for those who are above the legal age limit in the territory the gig occurs in
 * Attending a show means seeing my entire performance from start to finish (minimum 5 minutes)
 * If audience receives three warnings for poor behaviour offer is rescinded
-* I will buy you a drink after the second show once instagram follow confirmed
+* I will buy you a drink after the second show once instagram follow, or mailing list subscription, confirmed
 * Yes I am totally serious :-)
 * How else can I build an audience? Please send ideas to tansaku@gmail.com
