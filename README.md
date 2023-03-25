@@ -10,9 +10,6 @@ and attend **TWO** of my comedy gigs (see below) and I will buy you a drink!
 Upcoming Gigs
 =============
 
-* Mar 24th (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles) (seeking bringer)
-  - Doors 7:30, Show from 8:00
-  - [The Trinity Pub, Borough, London SE1 1JX](https://goo.gl/maps/H2L8PiAD4pnGoBSN8)
 * Mar 27th (Mon) - [0596](https://www.facebook.com/profile.php?id=100086378253917) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - [The Finsbury, 336 Green Lanes, Finsbury Park, London N4 1BY](https://goo.gl/maps/LtASExYS22qu3eVE7)
@@ -56,9 +53,9 @@ Upcoming Gigs
 * May 7th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m)
   - Doors ???, Show from ???
   - [Waggon & Horses Surbiton, 1 Surbiton Hill Rd, Surbiton KT6 4TW](https://goo.gl/maps/tQjwFKni9sq1fh2P9)
-
-* May 11th (Thu) - Open, please book me! 😄🙏
-
+* May 11th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer)
+  - Doors 7:00, Show from 7:30
+  - [The Railway Tavern, 18 Clapham High St, London SW4 7UR](https://goo.gl/maps/fvV4NNTGyMLeqeGN7)
 * May 15th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
   - Doors 7:30, Show from 8:00
   - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
@@ -88,6 +85,10 @@ Impressions
 Past Gigs
 =========
 
+* Mar 24th (Fri) - [Cuddles for Troubles](http://www.facebook.com/CuddlesforTroubles) (thanks to bringer Sal)
+  - 5m "Best Bits"
+  - Doors 7:30, Show from 8:00
+  - [The Trinity Pub, Borough, London SE1 1JX](https://goo.gl/maps/H2L8PiAD4pnGoBSN8)
 * Mar 20th (Mon) - [Compering and Improv for Stand-up Workshop](https://www.tickettailor.com/events/goodshipcomedy/808971)
   - 2m "Goats, Ballet and the Universe"
   - 6:00 - 10:00
