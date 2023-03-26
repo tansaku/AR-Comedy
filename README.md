@@ -72,7 +72,7 @@ Upcoming Gigs
   - Doors 7:00, Show from 7:30
   - [The Regent Pub, Angel Islington, 201-203 Liverpool Rd, London N1 1LX](https://goo.gl/maps/wgvdu1HyRg2m9u237)
 
-* May 25th (Mon) - Open, please book me! 😄🙏
+* May 25th (Thu) - Open, please book me! 😄🙏
 
 * May 29th (Mon) - Open, please book me! 😄🙏
 
