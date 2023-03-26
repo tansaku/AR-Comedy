@@ -43,12 +43,16 @@ Upcoming Gigs
 * Apr 24th (Mon) - [Too Far Comedy](https://www.facebook.com/profile.php?id=100089181955335) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - [Artillery Arms, 102 Bunhill Row, London EC1Y 8N](https://goo.gl/maps/sgCKvpvhpF8kCF2S7)
+* Apr 25th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 * Apr 27th (Thu) - [Think Too Funny](https://www.facebook.com/Think2Funny)
   - Doors 6:00, Show from 6:30
   - [Boathouse Pub, 14 Chesterton Rd, Cambridge CB4 3AX](https://goo.gl/maps/MEeViJJ8JXaYL7i56)
 
-* May 1st (Mon) - Open, please book me! 😄🙏
-
+* May 1st (Mon) - [Compulsive Comedy](https://linktr.ee/compulsivecomedy) (seeking bringer)
+  - Doors 7:00, Show from 7:30
+  - The Carlton Tavern, London NW5 5EU
 * May 4th (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
   - Doors 8:00, Show from 8:30
   - [The King's Head, 2 Crouch End Hill, London N8 8AA](https://goo.gl/maps/3Y9DS1Zj1DdMYcYB6)
@@ -67,6 +71,10 @@ Upcoming Gigs
 * May 22nd (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
   - Doors 7:00, Show from 7:30
   - [The Regent Pub, Angel Islington, 201-203 Liverpool Rd, London N1 1LX](https://goo.gl/maps/wgvdu1HyRg2m9u237)
+
+* May 25th (Mon) - Open, please book me! 😄🙏
+
+* May 29th (Mon) - Open, please book me! 😄🙏
 
 Find The AR Comedian on:
 
