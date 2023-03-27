@@ -74,7 +74,9 @@ Upcoming Gigs
 
 * May 25th (Thu) - Open, please book me! 😄🙏
 
-* May 29th (Mon) - Open, please book me! 😄🙏
+* May 28th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer) (7)
+  - Doors 6:30, Show from 7:00
+  - [The Rose & Crown, 71-73 Torriano Ave, London NW5 2SG](https://goo.gl/maps/fXaRncR7JSdJdRrL7)
 
 Find The AR Comedian on:
 
