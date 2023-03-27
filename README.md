@@ -34,9 +34,9 @@ Upcoming Gigs
 * Apr 12th (Wed) - [JEST Another Comedy Club](https://www.facebook.com/profile.php?id=100057587225412)
   - Doors 7:30, Show from 8:00
   - [The Crown, 144-146 Hatfield Rd, St Albans AL1 4JA](https://goo.gl/maps/92ug6CjRF3Gfnr8J9)
-* Apr 17th (Mon) - [Jester Jesters](https://www.facebook.com/jjesters) (TBC)
-  - Doors 7:30, Show from 8:00
-  - [The Betsey Trotwood, 56 Farringdon Road, London EC1R 3BL](https://goo.gl/maps/R9CQ65NXuMd9eCRU9)
+* Apr 17th (Mon) - [Comedy Hackney Den](https://www.facebook.com/groups/726993875633603) (seeking bringer)
+  - Doors 7:00, Show from 7:30
+  - [Hackney Den, 97 Stoke Newington Rd, London N16 8BX](https://goo.gl/maps/vjcvF1rwhQTR9ncM7)
 * Apr 20th (Thu) - [BFF Comedy Club](https://www.facebook.com/bffcomedyclub) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - [Owl & Hitchhiker, 471 Holloway Rd, N7 6LE](https://goo.gl/maps/4fZVtHykJZ5U5pPn8)
