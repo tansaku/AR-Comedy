@@ -12,10 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Mar 30th (Thu) - [Power Corners Alternative and Stand Up open mic](https://www.facebook.com/powercorners)
-  - Doors 7:00, Show from 7:30
-  - [Presuming Ed, 114-115 London Rd, Brighton BN1 4JG](https://goo.gl/maps/MvaATK7y13T9z8Pw7)
-
 * Apr 1st (Sat) - [Convent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
   - Doors 8:00, Show from 9:00
   - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
@@ -94,6 +90,10 @@ Impressions
 Past Gigs
 =========
 
+* Mar 30th (Thu) - [Power Corners Alternative and Stand Up open mic](https://www.facebook.com/powercorners)
+  - 5m "Best Bits"
+  - Doors 7:00, Show from 7:30
+  - [Presuming Ed, 114-115 London Rd, Brighton BN1 4JG](https://goo.gl/maps/MvaATK7y13T9z8Pw7)
 * Mar 27th (Mon) - [0596](https://www.facebook.com/profile.php?id=100086378253917) (thanks to bringer Boris and friends)
   - 7m "Best Bits + cousins"
   - Doors 7:00, Show from 7:30
