@@ -21,6 +21,9 @@ Upcoming Gigs
 * Apr 6th (Thu) - [Victoria Comedy Cup](https://www.victoriapubse8.co.uk/)
   - Doors 7:30 Show from 8:00
   - [177 Grove St, London SE8 3QQ](https://goo.gl/maps/T2DV7C5pj3rHZdm7A)
+* Apr 8th (Sat) - [Comedy Cat](https://www.comedycatopenmike.com/)
+  - Doors 7:00, Show from 7:30
+  - BeerKat 38-39 The Broadway, London W5 2NP
 * Apr 10th (Mon) - [SofaSoFunny](https://www.facebook.com/SofaSoFunny)
   - Doors 7:00, Show from 7:30
   - [The Flying Horse, Wilson Street, London, EC2A 2ER](https://goo.gl/maps/A3WAMSQHXCX9fgH96)
@@ -30,6 +33,9 @@ Upcoming Gigs
 * Apr 17th (Mon) - [Comedy Hackney Den](https://www.facebook.com/groups/726993875633603) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - [Hackney Den, 97 Stoke Newington Rd, London N16 8BX](https://goo.gl/maps/vjcvF1rwhQTR9ncM7)
+* Apr 18th (Tue) - [Unknown Theatre](???)
+  - Doors 8:00, Show from 8:30
+  - [Metaverse](???)
 * Apr 20th (Thu) - [BFF Comedy Club](https://www.facebook.com/bffcomedyclub) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - [Owl & Hitchhiker, 471 Holloway Rd, N7 6LE](https://goo.gl/maps/4fZVtHykJZ5U5pPn8)
