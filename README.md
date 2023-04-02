@@ -56,7 +56,7 @@ Upcoming Gigs
   - Doors 8:00, Show from 8:30
   - [The King's Head, 2 Crouch End Hill, London N8 8AA](https://goo.gl/maps/3Y9DS1Zj1DdMYcYB6)
 * May 7th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m)
-  - Doors ???, Show from ???
+  - Doors 6:00, Show from 6:30
   - [Waggon & Horses Surbiton, 1 Surbiton Hill Rd, Surbiton KT6 4TW](https://goo.gl/maps/tQjwFKni9sq1fh2P9)
 * May 11th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer)
   - Doors 7:00, Show from 7:30
