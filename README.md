@@ -24,9 +24,6 @@ Upcoming Gigs
 * Apr 12th (Wed) - [JEST Another Comedy Club](https://www.facebook.com/profile.php?id=100057587225412)
   - Doors 7:30, Show from 8:00
   - [The Crown, 144-146 Hatfield Rd, St Albans AL1 4JA](https://goo.gl/maps/92ug6CjRF3Gfnr8J9)
-* Apr 17th (Mon) - [Comedy Hackney Den](https://www.facebook.com/groups/726993875633603) (seeking bringer)
-  - Doors 7:00, Show from 7:30
-  - [Hackney Den, 97 Stoke Newington Rd, London N16 8BX](https://goo.gl/maps/vjcvF1rwhQTR9ncM7)
 * Apr 18th (Tue) - [Unknown Theatre](???)
   - Doors 8:00, Show from 8:30
   - [Metaverse](???)
@@ -641,6 +638,9 @@ Gigs Attended as a Bringer
 * Apr 24th (Mon) - [Too Far Comedy](https://www.facebook.com/profile.php?id=100089181955335) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - [Artillery Arms, 102 Bunhill Row, London EC1Y 8N](https://goo.gl/maps/sgCKvpvhpF8kCF2S7)
+* Apr 17th (Mon) - [Comedy Hackney Den](https://www.facebook.com/groups/726993875633603) (seeking bringer)
+  - Doors 7:00, Show from 7:30
+  - [Hackney Den, 97 Stoke Newington Rd, London N16 8BX](https://goo.gl/maps/vjcvF1rwhQTR9ncM7)
 * Jan 25th (Wed) - [0596](https://www.facebook.com/profile.php?id=100086378253917) (MC)
   - Doors 7:00, Show from 7:30
   - [The Gunners, 204 Blackstock Rd, London N5 1EN](https://goo.gl/maps/iWTXAbh1tTTPcmn66)
