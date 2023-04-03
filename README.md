@@ -12,12 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Apr 1st (Sat) - [Convent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
-  - Doors 8:00, Show from 9:00
-  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
-* Apr 2nd (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer)
-  - Doors 6:30, Show from 7:00
-  - [The Rose & Crown, 71-73 Torriano Ave, London NW5 2SG](https://goo.gl/maps/fXaRncR7JSdJdRrL7)
 * Apr 6th (Thu) - [Victoria Comedy Cup](https://www.victoriapubse8.co.uk/)
   - Doors 7:30 Show from 8:00
   - [177 Grove St, London SE8 3QQ](https://goo.gl/maps/T2DV7C5pj3rHZdm7A)
@@ -36,12 +30,12 @@ Upcoming Gigs
 * Apr 18th (Tue) - [Unknown Theatre](???)
   - Doors 8:00, Show from 8:30
   - [Metaverse](???)
-* Apr 20th (Thu) - [BFF Comedy Club](https://www.facebook.com/bffcomedyclub) (seeking bringer)
+* Apr 20th (Thu) - [BFF Comedy Club](https://www.facebook.com/bffcomedyclub) (thanks in advance to bringer Jonathan J.)
   - Doors 7:00, Show from 7:30
   - [Owl & Hitchhiker, 471 Holloway Rd, N7 6LE](https://goo.gl/maps/4fZVtHykJZ5U5pPn8)
-* Apr 24th (Mon) - [Too Far Comedy](https://www.facebook.com/profile.php?id=100089181955335) (seeking bringer)
-  - Doors 7:00, Show from 7:30
-  - [Artillery Arms, 102 Bunhill Row, London EC1Y 8N](https://goo.gl/maps/sgCKvpvhpF8kCF2S7)
+* Apr 24th (Mon) - [Compering and Improv for Stand-up Workshop II](https://www.tickettailor.com/events/goodshipcomedy/808971)
+  - 6:00 - 10:00
+  - [107 Leadenhall St, London, EC3A 4AF, England](https://goo.gl/maps/1jh6QwJQ7ieeGXvVA)
 * Apr 25th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
@@ -76,6 +70,9 @@ Upcoming Gigs
 * May 28th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer) (7)
   - Doors 6:30, Show from 7:00
   - [The Rose & Crown, 71-73 Torriano Ave, London NW5 2SG](https://goo.gl/maps/fXaRncR7JSdJdRrL7)
+* Jun 1st (Thu) - [Up the Creek](https://up-the-creek.com)
+  - Doors 7:00, Show from 8:00
+  - [302 Creek Rd, Greenwich, London SE10 9SW](https://goo.gl/maps/R2TNsYGA3VkpWEFP7)
 
 Find The AR Comedian on:
 
@@ -95,7 +92,14 @@ Impressions
 
 Past Gigs
 =========
-
+* Apr 2nd (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (thanks to bringer Thomas G.)
+  - 5m "Best Bits"
+  - Doors 6:30, Show from 7:00
+  - [The Rose & Crown, 71-73 Torriano Ave, London NW5 2SG](https://goo.gl/maps/fXaRncR7JSdJdRrL7)
+* Apr 1st (Sat) - [Convent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
+  - 10m "Best Bits + meditation + cousins"
+  - Doors 8:00, Show from 9:00
+  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
 * Mar 30th (Thu) - [Power Corners Alternative and Stand Up open mic](https://www.facebook.com/powercorners)
   - 5m "Best Bits"
   - Doors 7:00, Show from 7:30
@@ -634,6 +638,9 @@ Gigs Attended as a Bringer
 
 # Cancelled or Withdrawn Gigs
 
+* Apr 24th (Mon) - [Too Far Comedy](https://www.facebook.com/profile.php?id=100089181955335) (seeking bringer)
+  - Doors 7:00, Show from 7:30
+  - [Artillery Arms, 102 Bunhill Row, London EC1Y 8N](https://goo.gl/maps/sgCKvpvhpF8kCF2S7)
 * Jan 25th (Wed) - [0596](https://www.facebook.com/profile.php?id=100086378253917) (MC)
   - Doors 7:00, Show from 7:30
   - [The Gunners, 204 Blackstock Rd, London N5 1EN](https://goo.gl/maps/iWTXAbh1tTTPcmn66)
