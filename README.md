@@ -17,7 +17,7 @@ Upcoming Gigs
   - [177 Grove St, London SE8 3QQ](https://goo.gl/maps/T2DV7C5pj3rHZdm7A)
 * Apr 8th (Sat) - [Comedy Cat](https://www.comedycatopenmike.com/)
   - Doors 7:00, Show from 7:30
-  - BeerKat 38-39 The Broadway, London W5 2NP
+  - [BeerKat 38-39 The Broadway, London W5 2NP](https://goo.gl/maps/36dGLYL6jv146Wox7)
 * Apr 10th (Mon) - [SofaSoFunny](https://www.facebook.com/SofaSoFunny)
   - Doors 7:00, Show from 7:30
   - [The Flying Horse, Wilson Street, London, EC2A 2ER](https://goo.gl/maps/A3WAMSQHXCX9fgH96)
@@ -64,6 +64,7 @@ Upcoming Gigs
 * May 23rd (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC?10?)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+  - 
 * May 25th (Thu) - Open, please book me! 😄🙏
 
 * May 28th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer) (7)
@@ -72,6 +73,10 @@ Upcoming Gigs
 * Jun 1st (Thu) - [Up the Creek](https://up-the-creek.com)
   - Doors 7:00, Show from 8:00
   - [302 Creek Rd, Greenwich, London SE10 9SW](https://goo.gl/maps/R2TNsYGA3VkpWEFP7)
+
+* Jun 11th (Sun) - [Balls Up Comedy](https://www.facebook.com/ballsupcomedy)
+  - Doors 6:30, Show from 7:00
+  - [Shoreditch Balls 333 Old Street London EC1V 9LE](https://goo.gl/maps/mAzuz3qbhAUKmfij6)
 
 * Jun 27th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC?10?)
   - Doors 7:30, Show from 8:00
