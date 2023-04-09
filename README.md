@@ -12,12 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Apr 6th (Thu) - [Victoria Comedy Cup](https://www.victoriapubse8.co.uk/)
-  - Doors 7:30 Show from 8:00
-  - [177 Grove St, London SE8 3QQ](https://goo.gl/maps/T2DV7C5pj3rHZdm7A)
-* Apr 8th (Sat) - [Comedy Cat](https://www.comedycatopenmike.com/)
-  - Doors 7:00, Show from 7:30
-  - [BeerKat 38-39 The Broadway, London W5 2NP](https://goo.gl/maps/36dGLYL6jv146Wox7)
 * Apr 10th (Mon) - [SofaSoFunny](https://www.facebook.com/SofaSoFunny)
   - Doors 7:00, Show from 7:30
   - [The Flying Horse, Wilson Street, London, EC2A 2ER](https://goo.gl/maps/A3WAMSQHXCX9fgH96)
@@ -106,6 +100,14 @@ Impressions
 
 Past Gigs
 =========
+* Apr 8th (Sat) - [Comedy Cat](https://www.comedycatopenmike.com/)
+  - 5m "Best Bits"
+  - Doors 7:00, Show from 7:30
+  - [BeerKat 38-39 The Broadway, London W5 2NP](https://goo.gl/maps/36dGLYL6jv146Wox7)
+* Apr 6th (Thu) - [Victoria Comedy Cup](https://www.victoriapubse8.co.uk/)
+  - 5m "Best Bits"
+  - Doors 7:30 Show from 8:00
+  - [177 Grove St, London SE8 3QQ](https://goo.gl/maps/T2DV7C5pj3rHZdm7A)
 * Apr 2nd (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (thanks to bringer Thomas G.)
   - 5m "Best Bits"
   - Doors 6:30, Show from 7:00
