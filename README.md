@@ -12,15 +12,9 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Apr 10th (Mon) - [SofaSoFunny](https://www.facebook.com/SofaSoFunny)
-  - Doors 7:00, Show from 7:30
-  - [The Flying Horse, Wilson Street, London, EC2A 2ER](https://goo.gl/maps/A3WAMSQHXCX9fgH96)
-* Apr 12th (Wed) - [JEST Another Comedy Club](https://www.facebook.com/profile.php?id=100057587225412)
-  - Doors 7:30, Show from 8:00
-  - [The Crown, 144-146 Hatfield Rd, St Albans AL1 4JA](https://goo.gl/maps/92ug6CjRF3Gfnr8J9)
-* Apr 18th (Tue) - [Unknown Theatre](???)
+* Apr 18th (Tue) - [Unknown Theatre](https://discord.gg/kbS4r5tv?event=1094823172945223800)
   - Doors 8:00, Show from 8:30
-  - [Metaverse](???)
+  - [Uncommon Wealth Comedy Show on Horizon Worlds (Oculus app link)](https://hz.me/e/1473621809837178)
 * Apr 20th (Thu) - [BFF Comedy Club](https://www.facebook.com/bffcomedyclub) (thanks in advance to bringer Jonathan J.)
   - Doors 7:00, Show from 7:30
   - [Owl & Hitchhiker, 471 Holloway Rd, N7 6LE](https://goo.gl/maps/4fZVtHykJZ5U5pPn8)
@@ -58,7 +52,7 @@ Upcoming Gigs
 * May 23rd (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC?10?)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
- 
+
 * May 25th (Thu) - Open, please book me! 😄🙏
 
 * May 28th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer) (7)
@@ -100,6 +94,14 @@ Impressions
 
 Past Gigs
 =========
+* Apr 12th (Wed) - [JEST Another Comedy Club](https://www.facebook.com/profile.php?id=100057587225412)
+  - 10m "Best Bits + med + cousins"
+  - Doors 7:30, Show from 8:00
+  - [The Crown, 144-146 Hatfield Rd, St Albans AL1 4JA](https://goo.gl/maps/92ug6CjRF3Gfnr8J9)
+* Apr 10th (Mon) - [SofaSoFunny](https://www.facebook.com/SofaSoFunny) CXXX
+  - 5m "Best Bits"
+  - Doors 7:00, Show from 7:30
+  - [The Flying Horse, Wilson Street, London, EC2A 2ER](https://goo.gl/maps/A3WAMSQHXCX9fgH96)
 * Apr 8th (Sat) - [Comedy Cat](https://www.comedycatopenmike.com/)
   - 5m "Best Bits"
   - Doors 7:00, Show from 7:30
