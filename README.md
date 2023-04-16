@@ -12,7 +12,10 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Apr 18th (Tue) - [Unknown Theatre](https://discord.gg/kbS4r5tv?event=1094823172945223800)
+* Apr 17th (Mon) - [Full Frontal Comedy](https://www.facebook.com/events/891675972090850) (10)
+  - Doors 7:30, Show from 8:00
+  - [The Watermans Arms, Brocas St, Windsor, SL4 6BW](https://goo.gl/maps/AwPHsbnxNFgWJrM28)
+* Apr 18th (Tue) - [Unknown Theatre](www.unknowntheater.world) (10)
   - Doors 8:00, Show from 8:30
   - [Uncommon Wealth Comedy Show on Horizon Worlds (Oculus app link)](https://hz.me/e/1473621809837178)
 * Apr 20th (Thu) - [BFF Comedy Club](https://www.facebook.com/bffcomedyclub) (thanks in advance to bringer Jonathan J.)
@@ -28,9 +31,10 @@ Upcoming Gigs
   - Doors 6:00, Show from 6:30
   - [Boathouse Pub, 14 Chesterton Rd, Cambridge CB4 3AX](https://goo.gl/maps/MEeViJJ8JXaYL7i56)
 
-* May 1st (Mon) - [Compulsive Comedy](https://linktr.ee/compulsivecomedy) (seeking bringer)
+
+* May 1st (Mon) - [Double Bubble Comedy](https://www.facebook.com/doublebubblecomedy) (10)
   - Doors 7:00, Show from 7:30
-  - The Carlton Tavern, London NW5 5EU
+  - [The Victoria, 451 Queensbridge Rd, London E8 3AS](https://goo.gl/maps/S2TuQ4dhTzPTGMdA9)
 * May 4th (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
   - Doors 8:00, Show from 8:30
   - [The King's Head, 2 Crouch End Hill, London N8 8AA](https://goo.gl/maps/3Y9DS1Zj1DdMYcYB6)
@@ -40,10 +44,10 @@ Upcoming Gigs
 * May 11th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - [The Railway Tavern, 18 Clapham High St, London SW4 7UR](https://goo.gl/maps/fvV4NNTGyMLeqeGN7)
-* May 15th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy)
+* May 15th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy) (10)
   - Doors 7:30, Show from 8:00
   - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
-* May 19th (Fri)  - [Big Smoke Comedy](https://www.facebook.com/BigSmokeComedy)
+* May 19th (Fri)  - [Big Smoke Comedy](https://www.facebook.com/BigSmokeComedy) (10)
   - Doors 7:30, Show from 8:00
   - [Matthews Yard Arts Centre, Croydon, CR0 1UF](https://goo.gl/maps/sG43iPShUoebUEVX7)
 * May 22nd (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
@@ -656,6 +660,9 @@ Gigs Attended as a Bringer
 
 # Cancelled or Withdrawn Gigs
 
+* May 1st (Mon) - [Compulsive Comedy](https://linktr.ee/compulsivecomedy) (seeking bringer)
+  - Doors 7:00, Show from 7:30
+  - The Carlton Tavern, London NW5 5EU
 * Apr 24th (Mon) - [Too Far Comedy](https://www.facebook.com/profile.php?id=100089181955335) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - [Artillery Arms, 102 Bunhill Row, London EC1Y 8N](https://goo.gl/maps/sgCKvpvhpF8kCF2S7)
