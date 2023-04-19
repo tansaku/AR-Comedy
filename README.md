@@ -12,12 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Apr 17th (Mon) - [Full Frontal Comedy](https://www.facebook.com/events/891675972090850) (10)
-  - Doors 7:30, Show from 8:00
-  - [The Watermans Arms, Brocas St, Windsor, SL4 6BW](https://goo.gl/maps/AwPHsbnxNFgWJrM28)
-* Apr 18th (Tue) - [Unknown Theatre](www.unknowntheater.world) (10)
-  - Doors 8:00, Show from 8:30
-  - [Uncommon Wealth Comedy Show on Horizon Worlds (Oculus app link)](https://hz.me/e/1473621809837178)
 * Apr 20th (Thu) - [BFF Comedy Club](https://www.facebook.com/bffcomedyclub) (thanks in advance to bringer Jonathan J.)
   - Doors 7:00, Show from 7:30
   - [Owl & Hitchhiker, 471 Holloway Rd, N7 6LE](https://goo.gl/maps/4fZVtHykJZ5U5pPn8)
@@ -33,7 +27,7 @@ Upcoming Gigs
 
 
 * May 1st (Mon) - [Double Bubble Comedy](https://www.facebook.com/doublebubblecomedy) (10)
-  - Doors 7:00, Show from 7:30
+  - Doors 7:30, Show from 8:00
   - [The Victoria, 451 Queensbridge Rd, London E8 3AS](https://goo.gl/maps/S2TuQ4dhTzPTGMdA9)
 * May 4th (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
   - Doors 8:00, Show from 8:30
@@ -98,6 +92,15 @@ Impressions
 
 Past Gigs
 =========
+* Apr 18th (Tue) - [Unknown Theatre](www.unknowntheater.world)
+  - 12m "Best Bits + med + cousins"
+  - Doors 8:00, Show from 8:30
+  - [Uncommon Wealth Comedy Show on Horizon Worlds (Oculus app link)](https://hz.me/e/1473621809837178)
+* Apr 17th (Mon) - [Full Frontal Comedy](https://www.facebook.com/events/891675972090850)
+  - 10m "Best Bits + med + cousins"
+  - Doors 7:30, Show from 8:00
+  - [The Watermans Arms, Brocas St, Windsor, SL4 6BW](https://goo.gl/maps/AwPHsbnxNFgWJrM28)
+  - 10m "Best Bits + med + cousins"
 * Apr 12th (Wed) - [JEST Another Comedy Club](https://www.facebook.com/profile.php?id=100057587225412)
   - 10m "Best Bits + med + cousins"
   - Doors 7:30, Show from 8:00
