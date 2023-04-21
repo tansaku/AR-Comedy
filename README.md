@@ -12,9 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Apr 20th (Thu) - [BFF Comedy Club](https://www.facebook.com/bffcomedyclub) (thanks in advance to bringer Jonathan J.)
-  - Doors 7:00, Show from 7:30
-  - [Owl & Hitchhiker, 471 Holloway Rd, N7 6LE](https://goo.gl/maps/4fZVtHykJZ5U5pPn8)
 * Apr 24th (Mon) - [Compering and Improv for Stand-up Workshop II](https://www.tickettailor.com/events/goodshipcomedy/808971)
   - 6:00 - 10:00
   - [107 Leadenhall St, London, EC3A 4AF, England](https://goo.gl/maps/1jh6QwJQ7ieeGXvVA)
@@ -92,6 +89,10 @@ Impressions
 
 Past Gigs
 =========
+* Apr 20th (Thu) - [BFF Comedy Club](https://www.facebook.com/bffcomedyclub) (thanks to bringer Jonathan J.)
+  - 10m "Best Bits + med + cousins"
+  - Doors 7:00, Show from 7:30
+  - [Owl & Hitchhiker, 471 Holloway Rd, N7 6LE](https://goo.gl/maps/4fZVtHykJZ5U5pPn8)
 * Apr 18th (Tue) - [Unknown Theatre](www.unknowntheater.world)
   - 12m "Best Bits + med + cousins"
   - Doors 8:00, Show from 8:30
