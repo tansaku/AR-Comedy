@@ -56,11 +56,14 @@ Upcoming Gigs
 * Jun 1st (Thu) - [Up the Creek](https://up-the-creek.com)
   - Doors 7:00, Show from 8:00
   - [302 Creek Rd, Greenwich, London SE10 9SW](https://goo.gl/maps/R2TNsYGA3VkpWEFP7)
-
+* Jun 4th (Sun) - PyData
 * Jun 11th (Sun) - [Balls Up Comedy](https://www.facebook.com/ballsupcomedy)
   - Doors 6:30, Show from 7:00
   - [Shoreditch Balls 333 Old Street London EC1V 9LE](https://goo.gl/maps/mAzuz3qbhAUKmfij6)
 
+* Jun 25th (Sun) - [Ding Dong Gong Show][https://www.facebook.com/DingDongGongShow]
+  - Doors 6:00, Show from 7:00
+  - [6 S Lambeth Pl, London, SW8 1SP](https://goo.gl/maps/s1Jvyfzxsi6s5vdY7)
 * Jun 27th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC?10?)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
