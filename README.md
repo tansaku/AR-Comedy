@@ -12,9 +12,7 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Apr 24th (Mon) - [Compering and Improv for Stand-up Workshop II](https://www.tickettailor.com/events/goodshipcomedy/808971)
-  - 6:00 - 10:00
-  - [107 Leadenhall St, London, EC3A 4AF, England](https://goo.gl/maps/1jh6QwJQ7ieeGXvVA)
+
 * Apr 25th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
@@ -61,7 +59,7 @@ Upcoming Gigs
   - Doors 6:30, Show from 7:00
   - [Shoreditch Balls 333 Old Street London EC1V 9LE](https://goo.gl/maps/mAzuz3qbhAUKmfij6)
 
-* Jun 25th (Sun) - [Ding Dong Gong Show][https://www.facebook.com/DingDongGongShow]
+* Jun 25th (Sun) - [Ding Dong Gong Show](https://www.facebook.com/DingDongGongShow)
   - Doors 6:00, Show from 7:00
   - [6 S Lambeth Pl, London, SW8 1SP](https://goo.gl/maps/s1Jvyfzxsi6s5vdY7)
 * Jun 27th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC?10?)
@@ -92,6 +90,10 @@ Impressions
 
 Past Gigs
 =========
+* Apr 24th (Mon) - [Compering and Improv for Stand-up Workshop II](https://www.tickettailor.com/events/goodshipcomedy/808971)
+  - 5m "Beaker, Psychedelic Socks, Gnomes & Bears"
+  - 6:00 - 10:00
+  - [107 Leadenhall St, London, EC3A 4AF, England](https://goo.gl/maps/1jh6QwJQ7ieeGXvVA)
 * Apr 20th (Thu) - [BFF Comedy Club](https://www.facebook.com/bffcomedyclub) (thanks to bringer Jonathan J.)
   - 10m "Best Bits + med + cousins"
   - Doors 7:00, Show from 7:30
