@@ -13,11 +13,8 @@ Upcoming Gigs
 =============
 
 
-* Apr 25th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
-  - Doors 7:30, Show from 8:00
-  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 * Apr 27th (Thu) - [Think Too Funny](https://www.facebook.com/Think2Funny)
-  - Doors 6:00, Show from 6:30
+  - Doors 7:30, Show from 8:00
   - [Boathouse Pub, 14 Chesterton Rd, Cambridge CB4 3AX](https://goo.gl/maps/MEeViJJ8JXaYL7i56)
 
 
@@ -90,6 +87,10 @@ Impressions
 
 Past Gigs
 =========
+* Apr 25th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - 10m "Best Bits + med + cousins"
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 * Apr 24th (Mon) - [Compering and Improv for Stand-up Workshop II](https://www.tickettailor.com/events/goodshipcomedy/808971)
   - 5m "Beaker, Psychedelic Socks, Gnomes & Bears"
   - 6:00 - 10:00
