@@ -12,9 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* May 1st (Mon) - [Double Bubble Comedy](https://www.facebook.com/doublebubblecomedy) (10)
-  - Doors 7:30, Show from 8:00
-  - [The Victoria, 451 Queensbridge Rd, London E8 3AS](https://goo.gl/maps/S2TuQ4dhTzPTGMdA9)
 * May 4th (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
   - Doors 8:00, Show from 8:30
   - [The King's Head, 2 Crouch End Hill, London N8 8AA](https://goo.gl/maps/3Y9DS1Zj1DdMYcYB6)
@@ -82,7 +79,12 @@ Impressions
 Past Gigs
 =========
 
+* May 1st (Mon) - [Double Bubble Comedy](https://www.facebook.com/doublebubblecomedy) (10)
+  - 10m "Best Bits + med + cousins"
+  - Doors 7:30, Show from 8:00
+  - [The Victoria, 451 Queensbridge Rd, London E8 3AS](https://goo.gl/maps/S2TuQ4dhTzPTGMdA9)
 * Apr 27th (Thu) - [Think Too Funny](https://www.facebook.com/Think2Funny)
+  - 10m "Best Bits + med + cousins"
   - Doors 7:30, Show from 8:00
   - [Boathouse Pub, 14 Chesterton Rd, Cambridge CB4 3AX](https://goo.gl/maps/MEeViJJ8JXaYL7i56)
 * Apr 25th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
