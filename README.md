@@ -12,9 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* May 4th (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
-  - Doors 8:00, Show from 8:30
-  - [The King's Head, 2 Crouch End Hill, London N8 8AA](https://goo.gl/maps/3Y9DS1Zj1DdMYcYB6)
 * May 7th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m)
   - Doors 6:00, Show from 6:30
   - [Waggon & Horses Surbiton, 1 Surbiton Hill Rd, Surbiton KT6 4TW](https://goo.gl/maps/tQjwFKni9sq1fh2P9)
@@ -79,6 +76,10 @@ Impressions
 Past Gigs
 =========
 
+* May 4th (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
+  - 5m "Best Bits intro + med + cousins"
+  - Doors 8:00, Show from 8:30
+  - [The King's Head, 2 Crouch End Hill, London N8 8AA](https://goo.gl/maps/3Y9DS1Zj1DdMYcYB6)
 * May 1st (Mon) - [Double Bubble Comedy](https://www.facebook.com/doublebubblecomedy) (10)
   - 10m "Best Bits + med + cousins"
   - Doors 7:30, Show from 8:00
