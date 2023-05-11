@@ -12,12 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* May 7th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m)
-  - Doors 6:00, Show from 6:30
-  - [Waggon & Horses Surbiton, 1 Surbiton Hill Rd, Surbiton KT6 4TW](https://goo.gl/maps/tQjwFKni9sq1fh2P9)
-* May 11th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer)
-  - Doors 7:00, Show from 7:30
-  - [The Railway Tavern, 18 Clapham High St, London SW4 7UR](https://goo.gl/maps/fvV4NNTGyMLeqeGN7)
 * May 15th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy) (10)
   - Doors 7:30, Show from 8:00
   - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
@@ -41,6 +35,9 @@ Upcoming Gigs
   - Doors 7:00, Show from 8:00
   - [302 Creek Rd, Greenwich, London SE10 9SW](https://goo.gl/maps/R2TNsYGA3VkpWEFP7)
 * Jun 4th (Sun) - PyData
+* Jun 9th (Fri) - [Backstreet Comedy Club](https://giggagcomedy.com/uk/comedy-club/London/Hammersmith/backstreet-comedy-club-30-04-2023)
+  - Doors 8:00, Show from 8:30
+  - [The Cross Keys, 57 Black Lion Lane, London, W6 9BG](https://goo.gl/maps/o9DoysL1AuJY1NTQ8)
 * Jun 11th (Sun) - [Balls Up Comedy](https://www.facebook.com/ballsupcomedy)
   - Doors 6:30, Show from 7:00
   - [Shoreditch Balls 333 Old Street London EC1V 9LE](https://goo.gl/maps/mAzuz3qbhAUKmfij6)
@@ -77,7 +74,15 @@ Impressions
 Past Gigs
 =========
 
-* May 4th (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/)
+* May 11th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer)
+  - 5m "Best Bits intro + med + cousins"
+  - Doors 7:00, Show from 7:30
+  - [The Railway Tavern, 18 Clapham High St, London SW4 7UR](https://goo.gl/maps/fvV4NNTGyMLeqeGN7)
+* May 7th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m)
+  - 10m "Best Bits intro + med ext + cousins"
+  - Doors 6:00, Show from 6:30
+  - [Waggon & Horses Surbiton, 1 Surbiton Hill Rd, Surbiton KT6 4TW](https://goo.gl/maps/tQjwFKni9sq1fh2P9)
+* May 4th (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/) CXL
   - 5m "Best Bits intro + med + cousins"
   - Doors 8:00, Show from 8:30
   - [The King's Head, 2 Crouch End Hill, London N8 8AA](https://goo.gl/maps/3Y9DS1Zj1DdMYcYB6)
