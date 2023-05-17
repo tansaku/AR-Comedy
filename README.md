@@ -12,9 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* May 15th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy) (10)
-  - Doors 7:30, Show from 8:00
-  - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
 * May 19th (Fri)  - [Big Smoke Comedy](https://www.facebook.com/BigSmokeComedy) (10)
   - Doors 7:30, Show from 8:00
   - [Matthews Yard Arts Centre, Croydon, CR0 1UF](https://goo.gl/maps/sG43iPShUoebUEVX7)
@@ -41,6 +38,10 @@ Upcoming Gigs
 * Jun 11th (Sun) - [Balls Up Comedy](https://www.facebook.com/ballsupcomedy)
   - Doors 6:30, Show from 7:00
   - [Shoreditch Balls 333 Old Street London EC1V 9LE](https://goo.gl/maps/mAzuz3qbhAUKmfij6)
+
+* Jun 17th (Sat) - [Convent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
+  - Doors 8:00, Show from 9:00
+  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
 
 * Jun 25th (Sun) - [Ding Dong Gong Show](https://www.facebook.com/DingDongGongShow)
   - Doors 6:00, Show from 7:00
@@ -74,6 +75,10 @@ Impressions
 Past Gigs
 =========
 
+* May 15th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy) (10)
+  - 10m "Best Bits intro + med ext + cousins"
+  - Doors 7:30, Show from 8:00
+  - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
 * May 11th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer)
   - 5m "Best Bits intro + med + cousins"
   - Doors 7:00, Show from 7:30
