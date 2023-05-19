@@ -12,9 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* May 19th (Fri)  - [Big Smoke Comedy](https://www.facebook.com/BigSmokeComedy) (10)
-  - Doors 7:30, Show from 8:00
-  - [Matthews Yard Arts Centre, Croydon, CR0 1UF](https://goo.gl/maps/sG43iPShUoebUEVX7)
 * May 22nd (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
   - Doors 7:00, Show from 7:30
   - [The Regent Pub, Angel Islington, 201-203 Liverpool Rd, London N1 1LX](https://goo.gl/maps/wgvdu1HyRg2m9u237)
@@ -75,6 +72,10 @@ Impressions
 Past Gigs
 =========
 
+* May 19th (Fri) - [Big Smoke Comedy](https://www.facebook.com/BigSmokeComedy) (10)
+  - 10m "Best Bits intro + med ext + cousins"
+  - Doors 7:30, Show from 8:00
+  - [Matthews Yard Arts Centre, Croydon, CR0 1UF](https://goo.gl/maps/sG43iPShUoebUEVX7)
 * May 15th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy) (10)
   - 10m "Best Bits intro + med ext + cousins"
   - Doors 7:30, Show from 8:00
@@ -83,7 +84,7 @@ Past Gigs
   - 5m "Best Bits intro + med + cousins"
   - Doors 7:00, Show from 7:30
   - [The Railway Tavern, 18 Clapham High St, London SW4 7UR](https://goo.gl/maps/fvV4NNTGyMLeqeGN7)
-* May 7th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10m)
+* May 7th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10)
   - 10m "Best Bits intro + med ext + cousins"
   - Doors 6:00, Show from 6:30
   - [Waggon & Horses Surbiton, 1 Surbiton Hill Rd, Surbiton KT6 4TW](https://goo.gl/maps/tQjwFKni9sq1fh2P9)
