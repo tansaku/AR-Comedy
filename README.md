@@ -12,9 +12,7 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* May 22nd (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
-  - Doors 7:00, Show from 7:30
-  - [The Regent Pub, Angel Islington, 201-203 Liverpool Rd, London N1 1LX](https://goo.gl/maps/wgvdu1HyRg2m9u237)
+
 * May 23rd (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
@@ -29,6 +27,9 @@ Upcoming Gigs
   - Doors 7:00, Show from 8:00
   - [302 Creek Rd, Greenwich, London SE10 9SW](https://goo.gl/maps/R2TNsYGA3VkpWEFP7)
 * Jun 4th (Sun) - PyData
+
+* Jun 5th/6th (Mon/Tues) - Open, please book me!
+
 * Jun 9th (Fri) - [Backstreet Comedy Club](https://giggagcomedy.com/uk/comedy-club/London/Hammersmith/backstreet-comedy-club-30-04-2023)
   - Doors 8:00, Show from 8:30
   - [The Cross Keys, 57 Black Lion Lane, London, W6 9BG](https://goo.gl/maps/o9DoysL1AuJY1NTQ8)
@@ -36,9 +37,13 @@ Upcoming Gigs
   - Doors 6:30, Show from 7:00
   - [Shoreditch Balls 333 Old Street London EC1V 9LE](https://goo.gl/maps/mAzuz3qbhAUKmfij6)
 
+* Jun 13th (Tue) - Frenzy
+
 * Jun 17th (Sat) - [Convent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
   - Doors 8:00, Show from 9:00
   - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
+
+* Jun 19th/20th (Mon/Tues) - Open, please book me!
 
 * Jun 25th (Sun) - [Ding Dong Gong Show](https://www.facebook.com/DingDongGongShow)
   - Doors 6:00, Show from 7:00
@@ -72,6 +77,10 @@ Impressions
 Past Gigs
 =========
 
+* May 22nd (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
+  - 5m "MC mix"
+  - Doors 7:00, Show from 7:30
+  - [The Regent Pub, Angel Islington, 201-203 Liverpool Rd, London N1 1LX](https://goo.gl/maps/wgvdu1HyRg2m9u237)
 * May 19th (Fri) - [Big Smoke Comedy](https://www.facebook.com/BigSmokeComedy) (10)
   - 10m "Best Bits intro + med ext + cousins"
   - Doors 7:30, Show from 8:00
