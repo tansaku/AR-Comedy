@@ -12,10 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-
-* May 23rd (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
-  - Doors 7:30, Show from 8:00
-  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 * May 28th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer) (7)
   - Doors 6:30, Show from 7:00
   - [The Rose & Crown, 71-73 Torriano Ave, London NW5 2SG](https://goo.gl/maps/fXaRncR7JSdJdRrL7)
@@ -52,9 +48,14 @@ Upcoming Gigs
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 
+* Jul 11th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC?10?)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+
 * Jul 17th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
   - Doors 7:00, Show from 7:30
   - [The Regent Pub, Angel Islington, 201-203 Liverpool Rd, London N1 1LX](https://goo.gl/maps/wgvdu1HyRg2m9u237)
+
 * Jul 25th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC?10?)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
@@ -79,6 +80,10 @@ Impressions
 Past Gigs
 =========
 
+* May 23rd (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub)
+  - MC
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 * May 22nd (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
   - 5m "MC mix"
   - Doors 7:00, Show from 7:30
