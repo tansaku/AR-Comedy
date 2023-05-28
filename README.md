@@ -12,9 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* May 28th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (seeking bringer) (7)
-  - Doors 6:30, Show from 7:00
-  - [The Rose & Crown, 71-73 Torriano Ave, London NW5 2SG](https://goo.gl/maps/fXaRncR7JSdJdRrL7)
 * May 30th (Tue) - [Frosty's Comedy Night](https://www.facebook.com/frostysbarkenton/) (10)
   - Doors 7:30, Show from 8:00
   - [Frosty's Bar, 404 Kenton Road, Harrow HA3 9DW](https://goo.gl/maps/fE85ZXgU5vLNBVJT7)
@@ -80,6 +77,10 @@ Impressions
 Past Gigs
 =========
 
+* May 28th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (thanks to bringer Jonathan J.)
+  - 7m "Best Bits intro + med ext + cousins"
+  - Doors 6:30, Show from 7:00
+  - [The Rose & Crown, 71-73 Torriano Ave, London NW5 2SG](https://goo.gl/maps/fXaRncR7JSdJdRrL7)
 * May 23rd (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub)
   - MC
   - Doors 7:30, Show from 8:00
