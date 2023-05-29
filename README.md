@@ -30,13 +30,11 @@ Upcoming Gigs
   - Doors 6:30, Show from 7:00
   - [Shoreditch Balls 333 Old Street London EC1V 9LE](https://goo.gl/maps/mAzuz3qbhAUKmfij6)
 
-* Jun 13th (Tue) - Frenzy
-
 * Jun 17th (Sat) - [Convent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
   - Doors 8:00, Show from 9:00
   - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
 
-* Jun 19th/20th (Mon/Tues) - Open, please book me!
+* Jun 20th (Tue) - Frenzy
 
 * Jun 25th (Sun) - [Ding Dong Gong Show](https://www.facebook.com/DingDongGongShow)
   - Doors 6:00, Show from 7:00
