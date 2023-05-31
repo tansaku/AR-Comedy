@@ -12,30 +12,24 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* May 30th (Tue) - [Frosty's Comedy Night](https://www.facebook.com/frostysbarkenton/) (10)
-  - Doors 7:30, Show from 8:00
-  - [Frosty's Bar, 404 Kenton Road, Harrow HA3 9DW](https://goo.gl/maps/fE85ZXgU5vLNBVJT7)
-
-* Jun 1st (Thu) - [Up the Creek](https://up-the-creek.com)
-  - Doors 7:00, Show from 8:00
-  - [302 Creek Rd, Greenwich, London SE10 9SW](https://goo.gl/maps/R2TNsYGA3VkpWEFP7)
-* Jun 4th (Sun) - PyData
-
-* Jun 5th/6th (Mon/Tues) - Open, please book me!
-
+* Jun 4th (Sun) - [PyData](https://pydata.org/london2023/schedule#2023-06-04) (40m)
+  - Show from 4:30pm
+  - [Leonardo Royal Hotel London Tower Bridge, 45 Prescot St, London E1 8GP, United Kingdom](https://goo.gl/maps/AvJT1ct6JiPP6s8i8?coh=178571&entry=tt)
 * Jun 9th (Fri) - [Backstreet Comedy Club](https://giggagcomedy.com/uk/comedy-club/London/Hammersmith/backstreet-comedy-club-30-04-2023)
   - Doors 8:00, Show from 8:30
   - [The Cross Keys, 57 Black Lion Lane, London, W6 9BG](https://goo.gl/maps/o9DoysL1AuJY1NTQ8)
 * Jun 11th (Sun) - [Balls Up Comedy](https://www.facebook.com/ballsupcomedy)
   - Doors 6:30, Show from 7:00
   - [Shoreditch Balls 333 Old Street London EC1V 9LE](https://goo.gl/maps/mAzuz3qbhAUKmfij6)
-
+* Jun 12th (Mon) - [Do You Belong on TV Comedy Club](https://giggagcomedy.com/uk/stand-up-comedy/London/Borough/do-you-belong-on-tv-comedy-club-33064857)
+  - Doors 7:00, Show from 7:30
+  - [St James of Bermondsey, 72 St James Road SE16 4QZ](https://goo.gl/maps/7YowBZZNBQ7P9pPi8)
 * Jun 17th (Sat) - [Convent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
   - Doors 8:00, Show from 9:00
   - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
-
-* Jun 20th (Tue) - Frenzy
-
+* Jun 20th (Tue) - [Frenzy Comedy](https://www.facebook.com/FrenzyComedyuk)
+  - Doors ???, Show from ???
+  - [1 Navigator street, The Archway Tavern. , London Borough of Islington, United Kingdom](https://goo.gl/maps/sJyDxsHmxHSbHMtd8)
 * Jun 25th (Sun) - [Ding Dong Gong Show](https://www.facebook.com/DingDongGongShow)
   - Doors 6:00, Show from 7:00
   - [6 S Lambeth Pl, London, SW8 1SP](https://goo.gl/maps/s1Jvyfzxsi6s5vdY7)
@@ -75,6 +69,10 @@ Impressions
 Past Gigs
 =========
 
+* May 30th (Tue) - [Frosty's Comedy Night](https://www.facebook.com/frostysbarkenton/)
+  - 12m "Best Bits intro + med ext + cousins"
+  - Doors 7:30, Show from 8:00
+  - [Frosty's Bar, 404 Kenton Road, Harrow HA3 9DW](https://goo.gl/maps/fE85ZXgU5vLNBVJT7)
 * May 28th (Sun) - [Sunday Shtick](https://www.facebook.com/SundayShtick) (thanks to bringer Jonathan J.)
   - 7m "Best Bits intro + med ext + cousins"
   - Doors 6:30, Show from 7:00
@@ -95,7 +93,7 @@ Past Gigs
   - 10m "Best Bits intro + med ext + cousins"
   - Doors 7:30, Show from 8:00
   - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
-* May 11th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (seeking bringer)
+* May 11th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (thanks to bringer Daria)
   - 5m "Best Bits intro + med + cousins"
   - Doors 7:00, Show from 7:30
   - [The Railway Tavern, 18 Clapham High St, London SW4 7UR](https://goo.gl/maps/fvV4NNTGyMLeqeGN7)
@@ -698,6 +696,9 @@ Gigs Attended as a Bringer
 
 # Cancelled or Withdrawn Gigs
 
+* Jun 1st (Thu) - [Up the Creek](https://up-the-creek.com)
+  - Doors 7:00, Show from 8:00
+  - [302 Creek Rd, Greenwich, London SE10 9SW](https://goo.gl/maps/R2TNsYGA3VkpWEFP7)
 * May 1st (Mon) - [Compulsive Comedy](https://linktr.ee/compulsivecomedy) (seeking bringer)
   - Doors 7:00, Show from 7:30
   - The Carlton Tavern, London NW5 5EU
