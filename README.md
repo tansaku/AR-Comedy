@@ -12,13 +12,11 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Jun 4th (Sun) - [PyData](https://pydata.org/london2023/schedule#2023-06-04) (40m)
-  - Show from 4:30pm
-  - [Leonardo Royal Hotel London Tower Bridge, 45 Prescot St, London E1 8GP, United Kingdom](https://goo.gl/maps/AvJT1ct6JiPP6s8i8?coh=178571&entry=tt)
-* Jun 9th (Fri) - [Backstreet Comedy Club](https://giggagcomedy.com/uk/comedy-club/London/Hammersmith/backstreet-comedy-club-30-04-2023)
+
+* Jun 9th (Fri) - [Backstreet Comedy Club](https://giggagcomedy.com/uk/comedy-club/London/Hammersmith/backstreet-comedy-club-30-04-2023) (Thanks to bringee Parham A.)
   - Doors 8:00, Show from 8:30
   - [The Cross Keys, 57 Black Lion Lane, London, W6 9BG](https://goo.gl/maps/o9DoysL1AuJY1NTQ8)
-* Jun 11th (Sun) - [Balls Up Comedy](https://www.facebook.com/ballsupcomedy)
+* Jun 11th (Sun) - [Balls Up Comedy](https://www.facebook.com/ballsupcomedy) CL
   - Doors 6:30, Show from 7:00
   - [Shoreditch Balls 333 Old Street London EC1V 9LE](https://goo.gl/maps/mAzuz3qbhAUKmfij6)
 * Jun 12th (Mon) - [Do You Belong on TV Comedy Club](https://giggagcomedy.com/uk/stand-up-comedy/London/Borough/do-you-belong-on-tv-comedy-club-33064857)
@@ -30,9 +28,9 @@ Upcoming Gigs
 * Jun 20th (Tue) - [Frenzy Comedy](https://www.facebook.com/FrenzyComedyuk)
   - Doors ???, Show from ???
   - [1 Navigator street, The Archway Tavern. , London Borough of Islington, United Kingdom](https://goo.gl/maps/sJyDxsHmxHSbHMtd8)
-* Jun 25th (Sun) - [Ding Dong Gong Show](https://www.facebook.com/DingDongGongShow)
-  - Doors 6:00, Show from 7:00
-  - [6 S Lambeth Pl, London, SW8 1SP](https://goo.gl/maps/s1Jvyfzxsi6s5vdY7)
+* Jun 25th (Sun) - [Farnborough Open Mic Night](https://www.instagram.com/murphycomedyclub/)
+  - Doors 6:30, Show from 7:00
+  - [Swan Pub, 91 Farnborough Road, Farnborough, GU14 6TL](https://goo.gl/maps/3i73ixh6mPJngiYMA)
 * Jun 27th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC?10?)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
@@ -69,6 +67,10 @@ Impressions
 Past Gigs
 =========
 
+* Jun 4th (Sun) - [PyData](https://pydata.org/london2023/schedule#2023-06-04)
+  - 40m "The 11 Types of Comedy and Large Language Models (LLMs)"
+  - Show from 4:30pm
+  - [Leonardo Royal Hotel London Tower Bridge, 45 Prescot St, London E1 8GP, United Kingdom](https://goo.gl/maps/AvJT1ct6JiPP6s8i8?coh=178571&entry=tt)
 * May 30th (Tue) - [Frosty's Comedy Night](https://www.facebook.com/frostysbarkenton/)
   - 12m "Best Bits intro + med ext + cousins"
   - Doors 7:30, Show from 8:00
@@ -696,6 +698,9 @@ Gigs Attended as a Bringer
 
 # Cancelled or Withdrawn Gigs
 
+* Jun 25th (Sun) - [Ding Dong Gong Show](https://www.facebook.com/DingDongGongShow)
+  - Doors 6:00, Show from 7:00
+  - [6 S Lambeth Pl, London, SW8 1SP](https://goo.gl/maps/s1Jvyfzxsi6s5vdY7)
 * Jun 1st (Thu) - [Up the Creek](https://up-the-creek.com)
   - Doors 7:00, Show from 8:00
   - [302 Creek Rd, Greenwich, London SE10 9SW](https://goo.gl/maps/R2TNsYGA3VkpWEFP7)
