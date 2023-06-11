@@ -12,17 +12,13 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-
-* Jun 9th (Fri) - [Backstreet Comedy Club](https://giggagcomedy.com/uk/comedy-club/London/Hammersmith/backstreet-comedy-club-30-04-2023) (Thanks to bringee Parham A.)
-  - Doors 8:00, Show from 8:30
-  - [The Cross Keys, 57 Black Lion Lane, London, W6 9BG](https://goo.gl/maps/o9DoysL1AuJY1NTQ8)
-* Jun 11th (Sun) - [Balls Up Comedy](https://www.facebook.com/ballsupcomedy) CL
+* Jun 11th (Sun) - [Balls Up Comedy](https://www.facebook.com/ballsupcomedy)
   - Doors 6:30, Show from 7:00
   - [Shoreditch Balls 333 Old Street London EC1V 9LE](https://goo.gl/maps/mAzuz3qbhAUKmfij6)
 * Jun 12th (Mon) - [Do You Belong on TV Comedy Club](https://giggagcomedy.com/uk/stand-up-comedy/London/Borough/do-you-belong-on-tv-comedy-club-33064857)
   - Doors 7:00, Show from 7:30
   - [St James of Bermondsey, 72 St James Road SE16 4QZ](https://goo.gl/maps/7YowBZZNBQ7P9pPi8)
-* Jun 17th (Sat) - [Convent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
+* Jun 17th (Sat) - [Covent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
   - Doors 8:00, Show from 9:00
   - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
 * Jun 20th (Tue) - [Frenzy Comedy](https://www.facebook.com/FrenzyComedyuk)
@@ -35,13 +31,21 @@ Upcoming Gigs
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 
+* Jun 30th/1st/2nd/3rd/4th (Fri/Sat/Sun/Mon/Tue) - Open please book me! 😀🙏
+
+* Jul 7/8/9th (Fri/Sat/Sun) - Open please book me! 😀🙏
+
 * Jul 11th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC?10?)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+  
+* Jul 14/15/16th (Fri/Sat/Sun) - Open please book me! 😀🙏
 
 * Jul 17th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
   - Doors 7:00, Show from 7:30
   - [The Regent Pub, Angel Islington, 201-203 Liverpool Rd, London N1 1LX](https://goo.gl/maps/wgvdu1HyRg2m9u237)
+
+* Jul 2st/22nd/23rd (Fri/Sat/Sun) - Open please book me! 😀🙏
 
 * Jul 25th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC?10?)
   - Doors 7:30, Show from 8:00
@@ -67,6 +71,10 @@ Impressions
 Past Gigs
 =========
 
+* Jun 9th (Fri) - [Backstreet Comedy Club](https://giggagcomedy.com/uk/comedy-club/London/Hammersmith/backstreet-comedy-club-30-04-2023) (Thanks to bringee Parham A.) CL
+  - 5m "Best Bits
+  - Doors 8:00, Show from 8:30
+  - [The Cross Keys, 57 Black Lion Lane, London, W6 9BG](https://goo.gl/maps/o9DoysL1AuJY1NTQ8)
 * Jun 4th (Sun) - [PyData](https://pydata.org/london2023/schedule#2023-06-04)
   - 40m "The 11 Types of Comedy and Large Language Models (LLMs)"
   - Show from 4:30pm
