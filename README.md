@@ -12,12 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Jun 11th (Sun) - [Balls Up Comedy](https://www.facebook.com/ballsupcomedy)
-  - Doors 6:30, Show from 7:00
-  - [Shoreditch Balls 333 Old Street London EC1V 9LE](https://goo.gl/maps/mAzuz3qbhAUKmfij6)
-* Jun 12th (Mon) - [Do You Belong on TV Comedy Club](https://giggagcomedy.com/uk/stand-up-comedy/London/Borough/do-you-belong-on-tv-comedy-club-33064857)
-  - Doors 7:00, Show from 7:30
-  - [St James of Bermondsey, 72 St James Road SE16 4QZ](https://goo.gl/maps/7YowBZZNBQ7P9pPi8)
 * Jun 17th (Sat) - [Covent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
   - Doors 8:00, Show from 9:00
   - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
@@ -27,7 +21,7 @@ Upcoming Gigs
 * Jun 25th (Sun) - [Farnborough Open Mic Night](https://www.instagram.com/murphycomedyclub/)
   - Doors 6:30, Show from 7:00
   - [Swan Pub, 91 Farnborough Road, Farnborough, GU14 6TL](https://goo.gl/maps/3i73ixh6mPJngiYMA)
-* Jun 27th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC?10?)
+* Jun 27th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 
@@ -35,7 +29,7 @@ Upcoming Gigs
 
 * Jul 7/8/9th (Fri/Sat/Sun) - Open please book me! 😀🙏
 
-* Jul 11th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC?10?)
+* Jul 11th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
   
@@ -47,7 +41,7 @@ Upcoming Gigs
 
 * Jul 2st/22nd/23rd (Fri/Sat/Sun) - Open please book me! 😀🙏
 
-* Jul 25th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC?10?)
+* Jul 25th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (10)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 
@@ -70,7 +64,14 @@ Impressions
 
 Past Gigs
 =========
-
+* Jun 11th (Sun) - [Balls Up Comedy](https://www.facebook.com/ballsupcomedy)
+  - 5m "Best Bits"
+  - Doors 6:30, Show from 7:00
+  - [Shoreditch Balls 333 Old Street London EC1V 9LE](https://goo.gl/maps/mAzuz3qbhAUKmfij6)
+* Jun 12th (Mon) - [Do You Belong on TV Comedy Club](https://giggagcomedy.com/uk/stand-up-comedy/London/Borough/do-you-belong-on-tv-comedy-club-33064857)
+  - 10m "Best Bits + med + cousins"
+  - Doors 7:00, Show from 7:30
+  - [St James of Bermondsey, 72 St James Road SE16 4QZ](https://goo.gl/maps/7YowBZZNBQ7P9pPi8)
 * Jun 9th (Fri) - [Backstreet Comedy Club](https://giggagcomedy.com/uk/comedy-club/London/Hammersmith/backstreet-comedy-club-30-04-2023) (Thanks to bringee Parham A.) CL
   - 5m "Best Bits
   - Doors 8:00, Show from 8:30
@@ -100,7 +101,7 @@ Past Gigs
   - Doors 7:30, Show from 8:00
   - [Matthews Yard Arts Centre, Croydon, CR0 1UF](https://goo.gl/maps/sG43iPShUoebUEVX7)
 * May 15th (Mon) - [Groovie Comedy](https://www.facebook.com/GroovieComedy) (10)
-  - 10m "Best Bits intro + med ext + cousins"
+  - 10m "Best Bits + med + cousins"
   - Doors 7:30, Show from 8:00
   - [The Comedy Pub, 7 Oxendon Street, London SW1Y 4EE](https://goo.gl/maps/7GbXGB799ZkTeCQP7)
 * May 11th (Thu) - [Comedy Bandits](https://www.facebook.com/comedybandits) (thanks to bringer Daria)
@@ -108,7 +109,7 @@ Past Gigs
   - Doors 7:00, Show from 7:30
   - [The Railway Tavern, 18 Clapham High St, London SW4 7UR](https://goo.gl/maps/fvV4NNTGyMLeqeGN7)
 * May 7th (Sun) - [Whole Lotta Comedy](https://www.facebook.com/wholelottacomedy) (10)
-  - 10m "Best Bits intro + med ext + cousins"
+  - 10m "Best Bits intro + med extended + cousins"
   - Doors 6:00, Show from 6:30
   - [Waggon & Horses Surbiton, 1 Surbiton Hill Rd, Surbiton KT6 4TW](https://goo.gl/maps/tQjwFKni9sq1fh2P9)
 * May 4th (Thu) - [Downstairs at the Kings Head](https://www.downstairsatthekingshead.com/) CXL
