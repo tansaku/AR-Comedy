@@ -25,7 +25,7 @@ Upcoming Gigs
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 
-* Jun 30th/2nd/3rd/4th (Fri/Sun/Mon/Tue) - Open please book me! 😀🙏
+* Jul 2nd/3rd/4th (Sun/Mon/Tue) - Open please book me! 😀🙏
 
 * Jul 7/8/9th (Fri/Sat/Sun) - Open please book me! 😀🙏
 
