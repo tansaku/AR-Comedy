@@ -33,7 +33,7 @@ Upcoming Gigs
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
   
-* Jul 14/15/16th (Fri/Sat/Sun) - Open please book me! 😀🙏
+* Jul 15/16th (Sat/Sun) - Open please book me! 😀🙏
 
 * Jul 17th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
   - Doors 7:00, Show from 7:30
