@@ -12,12 +12,10 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Jun 17th (Sat) - [Covent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
-  - Doors 8:00, Show from 9:00
-  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
+
 * Jun 20th (Tue) - [Frenzy Comedy](https://www.facebook.com/FrenzyComedyuk)
-  - Doors ???, Show from ???
-  - [1 Navigator street, The Archway Tavern. , London Borough of Islington, United Kingdom](https://goo.gl/maps/sJyDxsHmxHSbHMtd8)
+  - Doors 6:00, Show from 7:00
+  - [1 Navigator street, The Archway Tavern, Islington N19 3TD](https://goo.gl/maps/sJyDxsHmxHSbHMtd8)
 * Jun 25th (Sun) - [Farnborough Open Mic Night](https://www.instagram.com/murphycomedyclub/)
   - Doors 6:30, Show from 7:00
   - [Swan Pub, 91 Farnborough Road, Farnborough, GU14 6TL](https://goo.gl/maps/3i73ixh6mPJngiYMA)
@@ -25,14 +23,18 @@ Upcoming Gigs
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 
-* Jul 2nd/3rd/4th (Sun/Mon/Tue) - Open please book me! 😀🙏
+* Jul 2nd (Sun) - [Anything Goes](https://giggagcomedy.com/uk/stand-up-comedy/London/Hoxton/anything-goes-comedy-11377304)
+  - Doors 4:00, Show from 4:30
+  - [he Macbeth of Hoxton, 70 Hoxton St, Shoreditch N1 6LP](https://goo.gl/maps/n86PZzyLkUwibUKNA)
+
+* Jul 3rd/4th (Mon/Tue) - Open please book me! 😀🙏
 
 * Jul 7/8/9th (Fri/Sat/Sun) - Open please book me! 😀🙏
 
 * Jul 11th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-  
+
 * Jul 15/16th (Sat/Sun) - Open please book me! 😀🙏
 
 * Jul 17th (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
@@ -64,6 +66,10 @@ Impressions
 
 Past Gigs
 =========
+* Jun 17th (Sat) - [Covent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
+  - MC "Comedian's bootcamp"
+  - Doors 8:00, Show from 9:00
+  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
 * Jun 11th (Sun) - [Balls Up Comedy](https://www.facebook.com/ballsupcomedy)
   - 5m "Best Bits"
   - Doors 6:30, Show from 7:00
