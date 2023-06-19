@@ -29,7 +29,9 @@ Upcoming Gigs
 
 * Jul 3rd/4th (Mon/Tue) - Open please book me! 😀🙏
 
-* Jul 7/8/9th (Fri/Sat/Sun) - Open please book me! 😀🙏
+* Jul 8th (Sat) - [Covent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
+  - Doors 8:00, Show from 9:00
+  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
 
 * Jul 11th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
   - Doors 7:30, Show from 8:00
