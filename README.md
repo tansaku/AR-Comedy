@@ -12,10 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-
-* Jun 20th (Tue) - [Frenzy Comedy](https://www.facebook.com/FrenzyComedyuk)
-  - Doors 6:00, Show from 7:00
-  - [1 Navigator street, The Archway Tavern, Islington N19 3TD](https://goo.gl/maps/sJyDxsHmxHSbHMtd8)
 * Jun 25th (Sun) - [Farnborough Open Mic Night](https://www.instagram.com/murphycomedyclub/)
   - Doors 6:30, Show from 7:00
   - [Swan Pub, 91 Farnborough Road, Farnborough, GU14 6TL](https://goo.gl/maps/3i73ixh6mPJngiYMA)
@@ -25,10 +21,10 @@ Upcoming Gigs
 
 * Jul 2nd (Sun) - [Anything Goes](https://giggagcomedy.com/uk/stand-up-comedy/London/Hoxton/anything-goes-comedy-11377304)
   - Doors 4:00, Show from 4:30
-  - [he Macbeth of Hoxton, 70 Hoxton St, Shoreditch N1 6LP](https://goo.gl/maps/n86PZzyLkUwibUKNA)
-
-* Jul 3rd/4th (Mon/Tue) - Open please book me! 😀🙏
-
+  - [The Macbeth of Hoxton, 70 Hoxton St, Shoreditch N1 6LP](https://goo.gl/maps/n86PZzyLkUwibUKNA)
+* Jul 7th (Fri) - [Kiss the Sky Comedy Club](https://www.facebook.com/kisstheskyN8)
+  - Doors 6:00, Show from 7:30
+  - [Kiss the Sky Bar, 11 Camden High Street, London NW1 7JE](https://goo.gl/maps/eC8XT7uJxx2UUVTe6)
 * Jul 8th (Sat) - [Covent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
   - Doors 8:00, Show from 9:00
   - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
@@ -43,7 +39,7 @@ Upcoming Gigs
   - Doors 7:00, Show from 7:30
   - [The Regent Pub, Angel Islington, 201-203 Liverpool Rd, London N1 1LX](https://goo.gl/maps/wgvdu1HyRg2m9u237)
 
-* Jul 2st/22nd/23rd (Fri/Sat/Sun) - Open please book me! 😀🙏
+* Jul 21st/22nd/23rd (Fri/Sat/Sun) - Open please book me! 😀🙏
 
 * Jul 25th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (10)
   - Doors 7:30, Show from 8:00
@@ -58,16 +54,21 @@ Find The AR Comedian on:
 Impressions
 ===========
 
-* _"Superb"_ - Pete Dickenson
-* _"Very creative"_ - George Tothill
-* _"Strangely watchable"_ - Gordana Mićić
-* _"Like a geek, grown up"_ - Markus Birdman
-* _"Brilliant"_ - Joseph Vaughan
+* _"Superb"_ - Pete Dickenson (Scriptwriter and Movie Maker)
+* _"Very creative"_ - George Tothill (Chortle Student Comedy Award Finalist 2021)
+* _"Strangely watchable"_ - Gordana Mićić (Groovie Comedy)
+* _"Like a geek, grown up"_ - Markus Birdman (Britain's Got Talent Finalist)
+* _"A breath of fresh air"_ - Travis Booth-Millard (New Forest New Comedian Finalist)
 
 ----
 
 Past Gigs
 =========
+
+* Jun 20th (Tue) - [Frenzy Comedy](https://www.facebook.com/FrenzyComedyuk)
+  - 10m "Best Bits + med + cousins"
+  - Doors 6:00, Show from 7:00
+  - [1 Navigator street, The Archway Tavern, Islington N19 3TD](https://goo.gl/maps/sJyDxsHmxHSbHMtd8)
 * Jun 17th (Sat) - [Covent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
   - MC "Comedian's bootcamp"
   - Doors 8:00, Show from 9:00
