@@ -12,13 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Jun 25th (Sun) - [Farnborough Open Mic Night](https://www.instagram.com/murphycomedyclub/)
-  - Doors 6:30, Show from 7:00
-  - [Swan Pub, 91 Farnborough Road, Farnborough, GU14 6TL](https://goo.gl/maps/3i73ixh6mPJngiYMA)
-* Jun 27th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
-  - Doors 7:30, Show from 8:00
-  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-
 * Jul 2nd (Sun) - [Anything Goes](https://giggagcomedy.com/uk/stand-up-comedy/London/Hoxton/anything-goes-comedy-11377304)
   - Doors 4:00, Show from 4:30
   - [The Macbeth of Hoxton, 70 Hoxton St, Shoreditch N1 6LP](https://goo.gl/maps/n86PZzyLkUwibUKNA)
@@ -65,6 +58,14 @@ Impressions
 Past Gigs
 =========
 
+* Jun 27th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub)
+  - MC "Comedian's bootcamp"
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Jun 25th (Sun) - [Farnborough Open Mic Night](https://www.instagram.com/murphycomedyclub/)
+  - 5m "Best Bits"
+  - Doors 6:30, Show from 7:00
+  - [Swan Pub, 91 Farnborough Road, Farnborough, GU14 6TL](https://goo.gl/maps/3i73ixh6mPJngiYMA)
 * Jun 20th (Tue) - [Frenzy Comedy](https://www.facebook.com/FrenzyComedyuk)
   - 10m "Best Bits + med + cousins"
   - Doors 6:00, Show from 7:00
