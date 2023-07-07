@@ -12,9 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Jul 7th (Fri) - [Kiss the Sky Comedy Club](https://www.facebook.com/kisstheskyN8)
-  - Doors 6:00, Show from 7:30
-  - [Kiss the Sky Bar, 11 Camden High Street, London NW1 7JE](https://goo.gl/maps/eC8XT7uJxx2UUVTe6)
 * Jul 8th (Sat) - [Covent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
   - Doors 8:00, Show from 9:00
   - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
@@ -54,6 +51,10 @@ Impressions
 Past Gigs
 =========
 
+* Jul 7th (Fri) - [Kiss the Sky Comedy Club](https://www.facebook.com/kisstheskyN8)
+  - 12m "Best Bits + med + cousins"
+  - Doors 6:00, Show from 7:30
+  - [Kiss the Sky Bar, 11 Camden High Street, London NW1 7JE](https://goo.gl/maps/eC8XT7uJxx2UUVTe6)
 * Jul 2nd (Sun) - [Anything Goes](https://giggagcomedy.com/uk/stand-up-comedy/London/Hoxton/anything-goes-comedy-11377304)
   - 5m "Best Bits"
   - Doors 4:00, Show from 4:30
