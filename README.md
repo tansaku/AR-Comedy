@@ -12,9 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Jul 2nd (Sun) - [Anything Goes](https://giggagcomedy.com/uk/stand-up-comedy/London/Hoxton/anything-goes-comedy-11377304)
-  - Doors 4:00, Show from 4:30
-  - [The Macbeth of Hoxton, 70 Hoxton St, Shoreditch N1 6LP](https://goo.gl/maps/n86PZzyLkUwibUKNA)
 * Jul 7th (Fri) - [Kiss the Sky Comedy Club](https://www.facebook.com/kisstheskyN8)
   - Doors 6:00, Show from 7:30
   - [Kiss the Sky Bar, 11 Camden High Street, London NW1 7JE](https://goo.gl/maps/eC8XT7uJxx2UUVTe6)
@@ -57,6 +54,10 @@ Impressions
 Past Gigs
 =========
 
+* Jul 2nd (Sun) - [Anything Goes](https://giggagcomedy.com/uk/stand-up-comedy/London/Hoxton/anything-goes-comedy-11377304)
+  - 5m "Best Bits"
+  - Doors 4:00, Show from 4:30
+  - [The Macbeth of Hoxton, 70 Hoxton St, Shoreditch N1 6LP](https://goo.gl/maps/n86PZzyLkUwibUKNA)
 * Jun 27th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub)
   - MC "Comedian's bootcamp"
   - Doors 7:30, Show from 8:00
