@@ -30,7 +30,12 @@ Upcoming Gigs
 * Jul 25th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (10)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-
+* Jul 28th (Fri) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
+  - Doors 7:30, Show from 8:00 (UTC+9)
+  - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
+* Jul 29th (Sat) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
+  - Doors 7:30, Show from 8:00 (UTC+9)
+  - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
 
 Find The AR Comedian on:
 
@@ -451,14 +456,6 @@ Past Gigs
   - 5m "Behind the Mask"
   - Doors 7:50, Show from 8:00 (UTC+9)
   - [Google Meet](https://meet.google.com/kfq-azax-yxg)
-* Jul 28th (Thu) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
-  - 8m "Big in Japan"
-  - Doors 7:30, Show from 8:00 (UTC+9)
-  - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
-* Jul 29th (Fri) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
-  - 9m "Big in Japan"
-  - Doors 7:30, Show from 8:00 (UTC+9)
-  - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
 * Jul 21st (Thu) - [No Such Place Comedy Club](https://nosuchplace.bar/comedy-club/)
   - 5m "Silent Retreat"
   - Doors 7:00, Show from 7:30
