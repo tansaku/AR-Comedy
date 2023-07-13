@@ -12,9 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Jul 11th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
-  - Doors 7:30, Show from 8:00
-  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 * Jul 15th (Sat) - [Comedy Cat](https://www.comedycatopenmike.com/)
   - Doors 7:00, Show from 7:30
   - [BeerKat 38-39 The Broadway, London W5 2NP](https://goo.gl/maps/36dGLYL6jv146Wox7)
@@ -53,6 +50,9 @@ Impressions
 Past Gigs
 =========
 
+* Jul 11th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 * Jul 8th (Sat) - [Covent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
   - 10m "Best Bits + med + cousins"
   - Doors 8:00, Show from 9:00
