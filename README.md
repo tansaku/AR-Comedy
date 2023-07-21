@@ -13,7 +13,7 @@ Upcoming Gigs
 =============
 
 * Jul 21st (Fri) - [The Fox Comedy Club](https://giggagcomedy.com/uk/comedy-club/London/Palmers-Green/the-fox-comedy-club-05-06-2023) seeking bringer
-  - Doors 6:30, Show from 7:00
+  - Doors 7:30, Show from 8:00
   - [The Fox, 413 Green Lanes, London, N13 4JD](https://goo.gl/maps/7PmwP2mZREXZTBLf9)
 * Jul 25th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (10)
   - Doors 7:30, Show from 8:00
