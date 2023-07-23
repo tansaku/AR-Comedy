@@ -22,6 +22,14 @@ Upcoming Gigs
   - Doors 7:30, Show from 8:00 (UTC+9)
   - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
 
+* Sep 12th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+
+* Sep 26th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+
 Find The AR Comedian on:
 
 * [Instagram!](https://www.instagram.com/tansaku/)
