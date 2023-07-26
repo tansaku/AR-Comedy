@@ -12,21 +12,35 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Jul 25th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (10)
-  - Doors 7:30, Show from 8:00
-  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+
 * Jul 28th (Fri) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
   - Doors 7:30, Show from 8:00 (UTC+9)
-  - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
+  - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
 * Jul 29th (Sat) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
   - Doors 7:30, Show from 8:00 (UTC+9)
-  - 3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043
+  - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
+
+* Aug 31st (Thu) - [Folk at Palm House](https://www.facebook.com/SunsetComedyClub)
+  - Doors 7:30, Show from 8:00
+  - [Palm House, 55-59 Palmerston Rd, Harrow HA3 7RR](https://goo.gl/maps/18BiUdUzSA1zNqR16)
 
 * Sep 12th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 
 * Sep 26th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+
+* Oct 2nd (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
+  - Doors 7:00, Show from 7:30
+  - [The Regent Pub, Angel Islington, 201-203 Liverpool Rd, London N1 1LX](https://goo.gl/maps/wgvdu1HyRg2m9u237)
+
+* Oct 10th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+
+* Oct 24th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 
@@ -49,6 +63,11 @@ Impressions
 Past Gigs
 =========
 
+* Jul 25th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub)
+  - 10m "Best Bits + med + cousins"
+  - MC "Tell my wife I'm doing Karate"
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 * Jul 21st (Fri) - [The Fox Comedy Club](https://giggagcomedy.com/uk/comedy-club/London/Palmers-Green/the-fox-comedy-club-05-06-2023)
   - 5m "Best Bits"
   - Doors 7:30, Show from 8:00
