@@ -20,9 +20,13 @@ Upcoming Gigs
   - Doors 7:30, Show from 8:00 (UTC+9)
   - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
 
-* Aug 31st (Thu) - [Folk at Palm House](https://www.facebook.com/SunsetComedyClub)
+* Aug 31st (Thu) - Folk at Palm House
   - Doors 7:30, Show from 8:00
   - [Palm House, 55-59 Palmerston Rd, Harrow HA3 7RR](https://goo.gl/maps/18BiUdUzSA1zNqR16)
+
+* Sep 4th (Mon) - American Style Open Mic
+  - Doors 7:30, Show from 8:00
+  - [62 Rivington St, London EC2A 3AY](https://goo.gl/maps/Pnyd9WDnb6jYAAJG7)
 
 * Sep 12th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
   - Doors 7:30, Show from 8:00
