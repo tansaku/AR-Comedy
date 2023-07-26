@@ -32,6 +32,10 @@ Upcoming Gigs
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 
+* Sep 17th (Sun) - O.M. Comedy Club
+  - Doors 6:30, Show from 7:00
+  - [North Nineteen Pub, 194-196, Sussex Way, London N19 4HZ](https://goo.gl/maps/hNdHsQg9dpagwvLb9)
+
 * Sep 26th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
