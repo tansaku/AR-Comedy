@@ -14,10 +14,10 @@ Upcoming Gigs
 
 
 * Jul 28th (Fri) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
-  - Doors 7:30, Show from 8:00 (UTC+9)
+  - Doors 7:00, Show from 7:30 (UTC+9)
   - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
 * Jul 29th (Sat) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
-  - Doors 7:30, Show from 8:00 (UTC+9)
+  - Doors 7:00, Show from 7:30 (UTC+9)
   - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
 
 * Aug 31st (Thu) - Folk at Palm House
