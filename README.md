@@ -23,11 +23,12 @@ Upcoming Gigs
 * Aug 31st (Thu) - Folk at Palm House
   - Doors 7:30, Show from 8:00
   - [Palm House, 55-59 Palmerston Rd, Harrow HA3 7RR](https://goo.gl/maps/18BiUdUzSA1zNqR16)
-
 * Sep 4th (Mon) - American Style Open Mic
   - Doors 7:30, Show from 8:00
   - [62 Rivington St, London EC2A 3AY](https://goo.gl/maps/Pnyd9WDnb6jYAAJG7)
-
+* Sep 9th (Sat) - [Covent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
+  - Doors 8:00, Show from 9:00
+  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
 * Sep 12th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
