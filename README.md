@@ -12,14 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-
-* Jul 28th (Fri) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
-  - Doors 7:00, Show from 7:30 (UTC+9)
-  - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
-* Jul 29th (Sat) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
-  - Doors 7:00, Show from 7:30 (UTC+9)
-  - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
-
 * Aug 31st (Thu) - Folk at Palm House
   - Doors 7:30, Show from 8:00
   - [Palm House, 55-59 Palmerston Rd, Harrow HA3 7RR](https://goo.gl/maps/18BiUdUzSA1zNqR16)
@@ -72,6 +64,10 @@ Impressions
 Past Gigs
 =========
 
+* Jul 28th (Fri) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
+  - 8m "Best Bits + cousins"
+  - Doors 7:00, Show from 7:30 (UTC+9)
+  - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
 * Jul 25th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub)
   - 10m "Best Bits + med + cousins"
   - MC "Tell my wife I'm doing Karate"
@@ -756,6 +752,9 @@ Gigs Attended as a Bringer
 
 # Cancelled or Withdrawn Gigs
 
+* Jul 29th (Sat) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
+  - Doors 7:00, Show from 7:30 (UTC+9)
+  - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
 * Jun 25th (Sun) - [Ding Dong Gong Show](https://www.facebook.com/DingDongGongShow)
   - Doors 6:00, Show from 7:00
   - [6 S Lambeth Pl, London, SW8 1SP](https://goo.gl/maps/s1Jvyfzxsi6s5vdY7)
