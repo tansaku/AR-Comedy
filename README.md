@@ -45,6 +45,10 @@ Upcoming Gigs
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 
+* Nov 6th (Mon) - [Comedy Junkies](https://www.facebook.com/groups/665186701207171)
+  - Doors ???, Show from ???
+  - [Arch 645, 301-303 Railton Road, Herne Hill SE24 0JN](https://goo.gl/maps/A4fuuUjBNe3tpDmG9)
+
 Find The AR Comedian on:
 
 * [Instagram!](https://www.instagram.com/tansaku/)
