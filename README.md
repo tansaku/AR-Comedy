@@ -12,6 +12,12 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
+* Aug 24th (Thu) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/) (2 sets)
+  - Doors 7:00, Show from 7:30 (UTC+9)
+  - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
+* Aug 26th (Sat) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
+  - Doors 7:00, Show from 7:30 (UTC+9)
+  - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
 * Aug 31st (Thu) - Folk at Palm House
   - Doors 7:30, Show from 8:00
   - [Palm House, 55-59 Palmerston Rd, Harrow HA3 7RR](https://goo.gl/maps/18BiUdUzSA1zNqR16)
@@ -45,7 +51,7 @@ Upcoming Gigs
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 
-* Nov 6th (Mon) - [Comedy Junkies](https://www.facebook.com/groups/665186701207171)
+* Nov 6th (Mon) - [Comedy Junkies](https://www.facebook.com/groups/665186701207171) (TBC)
   - Doors ???, Show from ???
   - [Arch 645, 301-303 Railton Road, Herne Hill SE24 0JN](https://goo.gl/maps/A4fuuUjBNe3tpDmG9)
 
