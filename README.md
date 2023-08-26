@@ -13,7 +13,7 @@ Upcoming Gigs
 =============
 
 * Aug 24th (Thu) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/) (2 sets)
-  - Doors 7:00, Show from 7:30 (UTC+9)
+  - Doors 6:30, Show from 7:00 (UTC+9)
   - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
 * Aug 26th (Sat) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
   - Doors 7:00, Show from 7:30 (UTC+9)
