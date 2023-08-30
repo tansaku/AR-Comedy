@@ -12,10 +12,7 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Aug 26th (Sat) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
-  - Doors 6:30, Show from 7:00 (UTC+9)
-  - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
-* Aug 31st (Thu) - Folk at Palm House
+* Aug 31st (Thu) - Folk at Palm House CLXX
   - Doors 7:30, Show from 8:00
   - [Palm House, 55-59 Palmerston Rd, Harrow HA3 7RR](https://goo.gl/maps/18BiUdUzSA1zNqR16)
 * Sep 4th (Mon) - American Style Open Mic
@@ -71,15 +68,21 @@ Impressions
 Past Gigs
 =========
 
-* Aug 24th (Thu) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/) (2 sets)
+* Aug 26th (Sat) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
+  - 4m "Bald Curious"
+  - 10m "Comedy Japanese Bootcamp"
+  - Doors 6:30, Show from 7:00 (UTC+9)
+  - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
+* Aug 24th (Thu) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
+  - 8m "Comedian's bootcamp"
+  - 8m "Big in Japan"
   - Doors 7:00, Show from 7:30 (UTC+9)
   - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
-
 * Jul 28th (Fri) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
   - 8m "Best Bits + cousins"
   - Doors 7:00, Show from 7:30 (UTC+9)
   - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
-* Jul 25th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub)
+* Jul 25th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (1/2 MC)
   - 10m "Best Bits + med + cousins"
   - MC "Tell my wife I'm doing Karate"
   - Doors 7:30, Show from 8:00
