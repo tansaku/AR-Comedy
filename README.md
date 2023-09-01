@@ -12,9 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Aug 31st (Thu) - Folk at Palm House CLXX
-  - Doors 7:30, Show from 8:00
-  - [Palm House, 55-59 Palmerston Rd, Harrow HA3 7RR](https://goo.gl/maps/18BiUdUzSA1zNqR16)
 * Sep 4th (Mon) - American Style Open Mic
   - Doors 7:30, Show from 8:00
   - [62 Rivington St, London EC2A 3AY](https://goo.gl/maps/Pnyd9WDnb6jYAAJG7)
@@ -62,12 +59,17 @@ Impressions
 * _"Strangely watchable"_ - Gordana Mićić (Groovie Comedy)
 * _"Like a geek, grown up"_ - Markus Birdman (Britain's Got Talent Finalist)
 * _"A breath of fresh air"_ - Travis Booth-Millard (New Forest New Comedian Finalist)
+* _"Hilarious"_ - Beth Fox (Full Time Yorkshire Pudding)
 
 ----
 
 Past Gigs
 =========
 
+* Aug 31st (Thu) - Folk at Palm House CLXX
+  - 10m "White Privilege"
+  - Doors 7:30, Show from 8:00
+  - [Palm House, 55-59 Palmerston Rd, Harrow HA3 7RR](https://goo.gl/maps/18BiUdUzSA1zNqR16)
 * Aug 26th (Sat) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
   - 4m "Bald Curious"
   - 10m "Comedy Japanese Bootcamp"
