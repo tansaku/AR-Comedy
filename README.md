@@ -12,7 +12,7 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Sep 4th (Mon) - American Style Open Mic
+* Sep 4th (Mon) - [American Style Open Mic](https://giggagcomedy.com/uk/stand-up-comedy/London/Shoreditch/american-style-open-mic-32299725)
   - Doors 7:30, Show from 8:00
   - [62 Rivington St, London EC2A 3AY](https://goo.gl/maps/Pnyd9WDnb6jYAAJG7)
 * Sep 9th (Sat) - [Covent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
