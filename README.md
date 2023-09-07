@@ -12,9 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Sep 4th (Mon) - [American Style Open Mic](https://giggagcomedy.com/uk/stand-up-comedy/London/Shoreditch/american-style-open-mic-32299725)
-  - Doors 7:30, Show from 8:00
-  - [The Lighthouse, 62 Rivington St, London EC2A 3AY](https://goo.gl/maps/Pnyd9WDnb6jYAAJG7)
 * Sep 9th (Sat) - [Covent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
   - Doors 8:00, Show from 9:00
   - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
@@ -66,6 +63,10 @@ Impressions
 Past Gigs
 =========
 
+* Sep 5th (Tue) - [European Open Mic](https://www.youtube.com/live/XpXdvL14yWY)
+  - 10m "White Privilege"
+  - Doors 7:30, Show from 8:00
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
 * Aug 31st (Thu) - Folk at Palm House CLXX
   - 10m "White Privilege"
   - Doors 7:30, Show from 8:00
@@ -768,6 +769,9 @@ Gigs Attended as a Bringer
 
 # Cancelled or Withdrawn Gigs
 
+* Sep 4th (Mon) - [American Style Open Mic](https://giggagcomedy.com/uk/stand-up-comedy/London/Shoreditch/american-style-open-mic-32299725)
+  - Doors 7:30, Show from 8:00
+  - [The Lighthouse, 62 Rivington St, London EC2A 3AY](https://goo.gl/maps/Pnyd9WDnb6jYAAJG7)
 * Jul 29th (Sat) - [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
   - Doors 7:00, Show from 7:30 (UTC+9)
   - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
