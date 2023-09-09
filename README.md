@@ -12,20 +12,24 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Sep 9th (Sat) - [Covent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
-  - Doors 8:00, Show from 9:00
-  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
 * Sep 12th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-
+* Sep 15th (Fri) - [Covent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/) (MC)
+  - Doors 7:30, Show from 8:00
+  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
 * Sep 17th (Sun) - O.M. Comedy Club
   - Doors 6:30, Show from 7:00
   - [North Nineteen Pub, 194-196, Sussex Way, London N19 4HZ](https://goo.gl/maps/hNdHsQg9dpagwvLb9)
-
+* Sep 22nd (Fri) - [Covent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/) (MC)
+  - Doors 7:30, Show from 8:00
+  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
 * Sep 26th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Sep 29th (Fri) - [Covent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/) (MC)
+  - Doors 7:30, Show from 8:00
+  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
 
 * Oct 2nd (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
   - Doors 7:00, Show from 7:30
@@ -63,6 +67,10 @@ Impressions
 Past Gigs
 =========
 
+* Sep 9th (Sat) - [Covent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/)
+  - 10m "White Privilege"
+  - Doors 8:00, Show from 9:00
+  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
 * Sep 5th (Tue) - [European Open Mic](https://www.youtube.com/live/XpXdvL14yWY)
   - 10m "White Privilege"
   - Doors 7:30, Show from 8:00
