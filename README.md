@@ -47,6 +47,10 @@ Upcoming Gigs
   - Doors ???, Show from ???
   - [Arch 645, 301-303 Railton Road, Herne Hill SE24 0JN](https://goo.gl/maps/A4fuuUjBNe3tpDmG9)
 
+* Jan 30th (Tue) - [SofaSoFunny](https://www.facebook.com/SofaSoFunny)
+  - Doors 7:00, Show from 7:30
+  - Venue to be confirmed
+
 Find The AR Comedian on:
 
 * [Instagram!](https://www.instagram.com/tansaku/)
