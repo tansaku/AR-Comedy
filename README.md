@@ -15,20 +15,20 @@ Upcoming Gigs
 * Sep 12th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Sep 15th (Fri) - [Covent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/) (MC)
-  - Doors 7:30, Show from 8:00
-  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
-* Sep 17th (Sun) - O.M. Comedy Club
+* Sep 15th (Fri) - [Covent Garden Comedy Cellar](https://giggagcomedy.com/uk/stand-up-comedy/London/Covent-Garden/friday-early-show-89839417) (MC)
   - Doors 6:30, Show from 7:00
-  - [North Nineteen Pub, 194-196, Sussex Way, London N19 4HZ](https://goo.gl/maps/hNdHsQg9dpagwvLb9)
-* Sep 22nd (Fri) - [Covent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/) (MC)
+  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
+* Sep 19th (Tue) - [European Open Mic](https://www.youtube.com/live/XpXdvL14yWY) (TBC)
   - Doors 7:30, Show from 8:00
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Sep 22nd (Fri) - [Covent Garden Comedy Cellar](https://giggagcomedy.com/uk/stand-up-comedy/London/Covent-Garden/friday-early-show-58097974) (MC)
+  - Doors 6:30, Show from 7:00
   - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
 * Sep 26th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Sep 29th (Fri) - [Covent Garden Comedy Cellar](https://coventgardencomedycellar.co.uk/) (MC)
-  - Doors 7:30, Show from 8:00
+* Sep 29th (Fri) - [Covent Garden Comedy Cellar](https://giggagcomedy.com/uk/stand-up-comedy/London/Covent-Garden/friday-early-show-96287745) (MC)
+  - Doors 6:30, Show from 7:00
   - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
 
 * Oct 2nd (Mon) - [Nice and Spiky New Jokes Monday](https://www.facebook.com/nicenspikycomedy)
@@ -781,6 +781,9 @@ Gigs Attended as a Bringer
 
 # Cancelled or Withdrawn Gigs
 
+* Sep 17th (Sun) - O.M. Comedy Club
+  - Doors 6:30, Show from 7:00
+  - [North Nineteen Pub, 194-196, Sussex Way, London N19 4HZ](https://goo.gl/maps/hNdHsQg9dpagwvLb9)
 * Sep 4th (Mon) - [American Style Open Mic](https://giggagcomedy.com/uk/stand-up-comedy/London/Shoreditch/american-style-open-mic-32299725)
   - Doors 7:30, Show from 8:00
   - [The Lighthouse, 62 Rivington St, London EC2A 3AY](https://goo.gl/maps/Pnyd9WDnb6jYAAJG7)
