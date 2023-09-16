@@ -43,7 +43,7 @@ Upcoming Gigs
 
 * Jan 30th (Tue) - [SofaSoFunny](https://www.facebook.com/SofaSoFunny)
   - Doors 7:00, Show from 7:30
-  - Venue to be confirmed
+  - [Upstairs at The Angelic, 57 Liverpool Road, London N1 0RJ](https://maps.app.goo.gl/pbX3pPEVTnpmjYjX9)
 
 Find The AR Comedian on:
 
