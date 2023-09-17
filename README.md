@@ -58,7 +58,7 @@ Impressions
 * _"Strangely watchable"_ - Gordana Mićić (Groovie Comedy)
 * _"Like a geek, grown up"_ - Markus Birdman (Britain's Got Talent Finalist)
 * _"A breath of fresh air"_ - Travis Booth-Millard (New Forest New Comedian Finalist)
-* _"Hilarious"_ - Beth Fox (Full Time Yorkshire Pudding)
+* _"Hilarious"_ - Beth Fox (Full Time Yorkshire Pudding and Very Funny Person)
 
 ----
 
