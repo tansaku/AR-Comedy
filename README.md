@@ -21,7 +21,7 @@ Upcoming Gigs
 * Oct 10th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC) CLXXX
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Oct 14th (Fri) - [Covent Garden Comedy Cellar](https://giggagcomedy.com/uk/stand-up-comedy/London/Covent-Garden/friday-early-show-96287745) (MC)
+* Oct 13th (Fri) - [Covent Garden Comedy Cellar](https://giggagcomedy.com/uk/stand-up-comedy/London/Covent-Garden/friday-early-show-96287745) (MC)
   - Doors 6:30, Show from 7:00
   - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
 * Oct 17th (Tue) - [European Open Mic](https://www.youtube.com/watch?v=eL7HEy0oTVY)
