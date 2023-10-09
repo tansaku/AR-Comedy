@@ -12,7 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-
 * Oct 10th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC) CLXXX
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
@@ -31,11 +30,17 @@ Upcoming Gigs
 * Oct 27th (Fri) - [Covent Garden Comedy Cellar](https://giggagcomedy.com/uk/stand-up-comedy/London/Covent-Garden/friday-early-show-96287745) (Callum MC)
   - Doors 6:30, Show from 7:00
   - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
-* Nov 3rd (Tues) Pydata
+
+* Nov 3rd (Fri) - Covent Garden Comedy Cellar
 * Nov 6th (Mon) - [Comedy Junkies](https://www.facebook.com/groups/665186701207171) (TBC)
   - Doors ???, Show from ???
   - [Arch 645, 301-303 Railton Road, Herne Hill SE24 0JN](https://goo.gl/maps/A4fuuUjBNe3tpDmG9)
-
+* Nov 7th (Tues) Pydata
+* Nov 10th (Fri) Covent Garden Comedy Cellar (MC)
+* Nov 14th (Tues) Sunset Comedy
+* Nov 17th (Fri) Covent Garden Comedy Cellar (MC)
+* Nov 24th (Fri) Covent Garden Comedy Cellar (Callum MC)
+* Nov 28th (Tues) Sunset Comedy
 * Jan 30th (Tue) - [SofaSoFunny](https://www.facebook.com/SofaSoFunny)
   - Doors 7:00, Show from 7:30
   - [Upstairs at The Angelic, 57 Liverpool Road, London N1 0RJ](https://maps.app.goo.gl/pbX3pPEVTnpmjYjX9)
