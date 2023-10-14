@@ -12,12 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Oct 10th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC) CLXXX
-  - Doors 7:30, Show from 8:00
-  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Oct 13th (Fri) - [Covent Garden Comedy Cellar](https://giggagcomedy.com/uk/stand-up-comedy/London/Covent-Garden/friday-early-show-96287745) (MC)
-  - Doors 6:30, Show from 7:00
-  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
 * Oct 17th (Tue) - [European Open Mic](https://www.youtube.com/watch?v=eL7HEy0oTVY)
   - Doors 7:30, Show from 8:00
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
@@ -65,6 +59,14 @@ Impressions
 Past Gigs
 =========
 
+* Oct 13th (Fri) - [Covent Garden Comedy Cellar](https://giggagcomedy.com/uk/stand-up-comedy/London/Covent-Garden/friday-early-show-96287745) (MC)
+  - "Best Dream Ever" (MC)
+  - Doors 6:30, Show from 7:00
+  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
+* Oct 10th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC) CLXXX
+  - "Road Rage" (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 * Oct 3rd (Tue) - [European Open Mic](https://www.youtube.com/watch?v=eL7HEy0oTVY)
   - "The Undead" (MC)
   - Doors 7:30, Show from 8:00
