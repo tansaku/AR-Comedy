@@ -12,20 +12,28 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Oct 31st (Tue) - [European Open Mic](https://www.youtube.com/watch?v=eL7HEy0oTVY) (MC)
+* Nov 7th (Tues) [PyData London](https://www.meetup.com/pydata-london-meetup/events/296513974/)
+  - Doors 6:00, Show from 7:00
+  - [1 Angel Lane, EC4R 3AB](https://maps.app.goo.gl/KewmB2sejdRF98Mx9)
+* Nov 10th (Fri) [Covent Garden Comedy Cellar Early Show](https://www.facebook.com/coventgardencomedycellar.early) (MC)
+  - Doors 6:30, Show from 7:00
+  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
+* Nov 14th (Tues) Sunset Comedy (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Nov 17th (Fri) [Covent Garden Comedy Cellar Early Show](https://www.facebook.com/coventgardencomedycellar.early) (MC)
+  - Doors 6:30, Show from 7:00
+  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
+* Nov 21st (Tues) European Open Mic (MC)
   - Doors 7:30, Show from 8:00
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Nov 24th (Fri)  [Covent Garden Comedy Cellar Early Show](https://www.facebook.com/coventgardencomedycellar.early) (Booker)
+  - Doors 6:30, Show from 7:00
+  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
+* Nov 28th (Tues) Sunset Comedy (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 
-* Nov 3rd (Fri) - Covent Garden Comedy Cellar
-* Nov 6th (Mon) - [Comedy Junkies](https://www.facebook.com/groups/665186701207171) (TBC)
-  - Doors ???, Show from ???
-  - [Arch 645, 301-303 Railton Road, Herne Hill SE24 0JN](https://goo.gl/maps/A4fuuUjBNe3tpDmG9)
-* Nov 7th (Tues) Pydata
-* Nov 10th (Fri) Covent Garden Comedy Cellar (MC)
-* Nov 14th (Tues) Sunset Comedy
-* Nov 17th (Fri) Covent Garden Comedy Cellar (MC)
-* Nov 24th (Fri) Covent Garden Comedy Cellar (Callum MC)
-* Nov 28th (Tues) Sunset Comedy
 * Jan 30th (Tue) - [SofaSoFunny](https://www.facebook.com/SofaSoFunny)
   - Doors 7:00, Show from 7:30
   - [Upstairs at The Angelic, 57 Liverpool Road, London N1 0RJ](https://maps.app.goo.gl/pbX3pPEVTnpmjYjX9)
@@ -50,7 +58,15 @@ Impressions
 Past Gigs
 =========
 
-* Oct 20th (Fri) - [Covent Garden Comedy Cellar](https://giggagcomedy.com/uk/stand-up-comedy/London/Covent-Garden/friday-early-show-96287745) (MC)
+* Nov 3rd (Fri) - [Covent Garden Comedy Cellar Early Show](https://www.facebook.com/coventgardencomedycellar.early) (MC)
+  - "Historic Apologies" (MC)
+  - Doors 6:30, Show from 7:00
+  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
+* Oct 31st (Tue) - [European Open Mic](https://www.youtube.com/watch?v=eL7HEy0oTVY)
+  - 10m "Coping Mechanism"
+  - Doors 7:30, Show from 8:00
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Oct 20th (Fri) - [Covent Garden Comedy Cellar](https://www.facebook.com/coventgardencomedycellar.early) (MC)
   - "Animal Noises" (MC)
   - Doors 6:30, Show from 7:00
   - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
@@ -58,7 +74,7 @@ Past Gigs
   - "..." (MC)
   - Doors 7:30, Show from 8:00
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Oct 13th (Fri) - [Covent Garden Comedy Cellar](https://giggagcomedy.com/uk/stand-up-comedy/London/Covent-Garden/friday-early-show-96287745) (MC)
+* Oct 13th (Fri) - [Covent Garden Comedy Cellar](https://www.facebook.com/coventgardencomedycellar.early) (MC)
   - "Best Dream Ever" (MC)
   - Doors 6:30, Show from 7:00
   - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
@@ -74,7 +90,7 @@ Past Gigs
   - 5m "Low Energy"
   - Doors 7:00, Show from 7:30
   - [The Regent Pub, Angel Islington, 201-203 Liverpool Rd, London N1 1LX](https://goo.gl/maps/wgvdu1HyRg2m9u237)
-* Sep 29th (Fri) - [Covent Garden Comedy Cellar](https://giggagcomedy.com/uk/stand-up-comedy/London/Covent-Garden/friday-early-show-96287745) (MC)
+* Sep 29th (Fri) - [Covent Garden Comedy Cellar](https://www.facebook.com/coventgardencomedycellar.early) (MC)
   - "VR with Z-Dog" (MC)
   - Doors 6:30, Show from 7:00
   - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
@@ -803,7 +819,7 @@ Gigs Attended as a Bringer
 
 # Gigs as Booker
 
-* Oct 27th (Fri) - [Covent Garden Comedy Cellar](https://giggagcomedy.com/uk/stand-up-comedy/London/Covent-Garden/friday-early-show-96287745) (Callum MC)
+* Oct 27th (Fri) - [Covent Garden Comedy Cellar](https://www.facebook.com/coventgardencomedycellar.early) (Callum MC)
   - Doors 6:30, Show from 7:00
   - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
 * Oct 24th (Tue) - [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
@@ -816,7 +832,10 @@ Gigs Attended as a Bringer
 
 # Cancelled or Withdrawn Gigs
 
-* Oct 6th (Fri) - [Covent Garden Comedy Cellar](https://giggagcomedy.com/uk/stand-up-comedy/London/Covent-Garden/friday-early-show-96287745) (MC)
+* Nov 6th (Mon) - [Comedy Junkies](https://www.facebook.com/groups/665186701207171) (TBC)
+  - Doors ???, Show from ???
+  - [Arch 645, 301-303 Railton Road, Herne Hill SE24 0JN](https://goo.gl/maps/A4fuuUjBNe3tpDmG9)
+* Oct 6th (Fri) - [Covent Garden Comedy Cellar](https://www.facebook.com/coventgardencomedycellar.early) (MC)
   - Doors 6:30, Show from 7:00
   - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
 * Sep 17th (Sun) - O.M. Comedy Club
