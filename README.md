@@ -12,25 +12,11 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Nov 7th (Tues) [PyData London](https://www.meetup.com/pydata-london-meetup/events/296513974/)
-  - Doors 6:00, Show from 7:00
-  - [1 Angel Lane, EC4R 3AB](https://maps.app.goo.gl/KewmB2sejdRF98Mx9)
-* Nov 10th (Fri) [Covent Garden Comedy Cellar Early Show](https://www.facebook.com/coventgardencomedycellar.early) (MC)
-  - Doors 6:30, Show from 7:00
-  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
-* Nov 14th (Tues) Sunset Comedy (MC)
-  - Doors 7:30, Show from 8:00
-  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Nov 17th (Fri) [Covent Garden Comedy Cellar Early Show](https://www.facebook.com/coventgardencomedycellar.early) (MC)
-  - Doors 6:30, Show from 7:00
-  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
+
 * Nov 21st (Tues) European Open Mic (MC)
   - Doors 7:30, Show from 8:00
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Nov 24th (Fri)  [Covent Garden Comedy Cellar Early Show](https://www.facebook.com/coventgardencomedycellar.early) (Booker)
-  - Doors 6:30, Show from 7:00
-  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
-* Nov 28th (Tues) Sunset Comedy (MC)
+* Nov 28th (Tues) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub)  (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 
@@ -58,6 +44,19 @@ Impressions
 Past Gigs
 =========
 
+* Nov 17th (Fri) [Covent Garden Comedy Cellar Early Show](https://www.facebook.com/coventgardencomedycellar.early) (MC)
+  - Doors 6:30, Show from 7:00
+  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
+* Nov 14th (Tues) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub)  (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Nov 10th (Fri) [Covent Garden Comedy Cellar Early Show](https://www.facebook.com/coventgardencomedycellar.early) (MC)
+  - Doors 6:30, Show from 7:00
+  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
+* Nov 7th (Tues) [PyData London](https://www.meetup.com/pydata-london-meetup/events/296513974/)
+  - 30m "Transformers - inside out!"
+  - Doors 6:00, Show from 7:00
+  - [1 Angel Lane, EC4R 3AB](https://maps.app.goo.gl/KewmB2sejdRF98Mx9)
 * Nov 3rd (Fri) - [Covent Garden Comedy Cellar Early Show](https://www.facebook.com/coventgardencomedycellar.early) (MC)
   - "Historic Apologies" (MC)
   - Doors 6:30, Show from 7:00
@@ -832,6 +831,9 @@ Gigs Attended as a Bringer
 
 # Cancelled or Withdrawn Gigs
 
+* Nov 24th (Fri)  [Covent Garden Comedy Cellar Early Show](https://www.facebook.com/coventgardencomedycellar.early) (Booker)
+  - Doors 6:30, Show from 7:00
+  - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
 * Nov 6th (Mon) - [Comedy Junkies](https://www.facebook.com/groups/665186701207171) (TBC)
   - Doors ???, Show from ???
   - [Arch 645, 301-303 Railton Road, Herne Hill SE24 0JN](https://goo.gl/maps/A4fuuUjBNe3tpDmG9)
