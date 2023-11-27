@@ -12,11 +12,20 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
+* Nov 28th (Tues) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub)  (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 
-* Nov 21st (Tues) European Open Mic (MC)
+* Dec 1st (Fri) - [Comedy Cat](https://www.comedycatopenmike.com/) (MC)
+  - Doors 7:30, Show from 8:00
+  - [BeerKat 38-39 The Broadway, London W5 2NP](https://goo.gl/maps/36dGLYL6jv146Wox7)
+* Dec 5th (Tues) European Open Mic (MC)
   - Doors 7:30, Show from 8:00
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Nov 28th (Tues) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub)  (MC)
+* Dec 8th (Fri) - [Comedy Cat](https://www.comedycatopenmike.com/) (MC)
+  - Doors 7:30, Show from 8:00
+  - [BeerKat 38-39 The Broadway, London W5 2NP](https://goo.gl/maps/36dGLYL6jv146Wox7)
+* Dec 12th (Tues) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub)  (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 
@@ -44,6 +53,9 @@ Impressions
 Past Gigs
 =========
 
+* Nov 21st (Tues) European Open Mic (MC) CXC
+  - Doors 7:30, Show from 8:00
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
 * Nov 17th (Fri) [Covent Garden Comedy Cellar Early Show](https://www.facebook.com/coventgardencomedycellar.early) (MC)
   - Doors 6:30, Show from 7:00
   - [Cafe Mode, 59 Endell Street, Camden, London, WC2H 9AJ](https://maps.app.goo.gl/gb8akL1Bi7JPUpm2A)
