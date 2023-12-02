@@ -12,9 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Dec 1st (Fri) - [Comedy Cat](https://www.comedycatopenmike.com/) (MC)
-  - Doors 7:30, Show from 8:00
-  - [BeerKat 38-39 The Broadway, London W5 2NP](https://goo.gl/maps/36dGLYL6jv146Wox7)
 * Dec 5th (Tues) European Open Mic (MC)
   - Doors 7:30, Show from 8:00
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
@@ -61,6 +58,10 @@ Impressions
 Past Gigs
 =========
 
+* Dec 1st (Fri) - [Comedy Cat](https://www.comedycatopenmike.com/) (MC)
+  - "Government Mandated Comedy"
+  - Doors 7:30, Show from 8:00
+  - [BeerKat 38-39 The Broadway, London W5 2NP](https://goo.gl/maps/36dGLYL6jv146Wox7)
 * Nov 28th (Tues) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub)  (MC)
   - "Whatsapp my precious!"
   - Doors 7:30, Show from 8:00
