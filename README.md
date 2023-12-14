@@ -12,28 +12,24 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Dec 5th (Tues) European Open Mic (MC)
-  - Doors 7:30, Show from 8:00
-  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Dec 8th (Fri) - [Comedy Cat](https://www.comedycatopenmike.com/) (MC)
-  - Doors 7:30, Show from 8:00
-  - [BeerKat 38-39 The Broadway, London W5 2NP](https://goo.gl/maps/36dGLYL6jv146Wox7)
-* Dec 12th (Tues) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub)  (MC)
-  - Doors 7:30, Show from 8:00
-  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Dec 15th (Fri) - [Comedy Cat](https://www.comedycatopenmike.com/) (MC) (TBC)
+
+* Dec 15th (Fri) - [Comedy Cat](https://www.comedycatopenmike.com/) (MC)
   - Doors 7:30, Show from 8:00
   - [BeerKat 38-39 The Broadway, London W5 2NP](https://goo.gl/maps/36dGLYL6jv146Wox7)
 * Dec 19th (Tues) European Open Mic (MC)
   - Doors 7:30, Show from 8:00
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Dec 22nd (Fri) - [Comedy Cat](https://www.comedycatopenmike.com/) (MC) (TBC)
-  - Doors 7:30, Show from 8:00
-  - [BeerKat 38-39 The Broadway, London W5 2NP](https://goo.gl/maps/36dGLYL6jv146Wox7)
-* Dec 26th (Tues) European Open Mic (MC)
+
+* Dec 26th (Tues) European Open Mic (MC) (TBC)
   - Doors 7:30, Show from 8:00
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
 
+* Jan 9th (Tues) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub)  (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Jan 23rd (Tues) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub)  (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 * Jan 30th (Tue) - [SofaSoFunny](https://www.facebook.com/SofaSoFunny)
   - Doors 7:00, Show from 7:30
   - [Upstairs at The Angelic, 57 Liverpool Road, London N1 0RJ](https://maps.app.goo.gl/pbX3pPEVTnpmjYjX9)
@@ -57,7 +53,15 @@ Impressions
 
 Past Gigs
 =========
-
+* Dec 12th (Tues) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub)  (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Dec 8th (Fri) - [Comedy Cat](https://www.comedycatopenmike.com/) (MC)
+  - Doors 7:30, Show from 8:00
+  - [BeerKat 38-39 The Broadway, London W5 2NP](https://goo.gl/maps/36dGLYL6jv146Wox7)
+* Dec 5th (Tues) European Open Mic (MC)
+  - Doors 7:30, Show from 8:00
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
 * Dec 1st (Fri) - [Comedy Cat](https://www.comedycatopenmike.com/) (MC)
   - "Government Mandated Comedy"
   - Doors 7:30, Show from 8:00
