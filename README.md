@@ -15,6 +15,9 @@ Upcoming Gigs
 * Jan 9th (Tues) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub)  (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Jan 13th (Sat) [Square Go Comedy](https://www.facebook.com/profile.php?id=61553368376246)  (TBC)
+  - Doors ???, Show from ???
+  - [???](???)
 * Jan 23rd (Tues) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub)  (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
