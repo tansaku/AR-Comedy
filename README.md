@@ -15,12 +15,18 @@ Upcoming Gigs
 * Jan 9th (Tues) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub)  (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Jan 13th (Sat) [Square Go Comedy](https://www.facebook.com/profile.php?id=61553368376246)  (TBC)
-  - Doors ???, Show from ???
-  - [???](???)
+* Jan 13th (Sat) [Square Go Comedy](https://www.facebook.com/profile.php?id=61553368376246)
+  - Doors 6:15, Show from 6:45
+  - [Blightly, 35-37 Blackstock Rd, Finsbury Park, London N4 2JF](https://maps.app.goo.gl/T2oW8N54Dkh8eFGR9)
+* Jan 19th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
 * Jan 23rd (Tues) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub)  (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Jan 26th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
 * Jan 30th (Tue) - [SofaSoFunny](https://www.facebook.com/SofaSoFunny)
   - Doors 7:00, Show from 7:30
   - [Upstairs at The Angelic, 57 Liverpool Road, London N1 0RJ](https://maps.app.goo.gl/pbX3pPEVTnpmjYjX9)
