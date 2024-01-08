@@ -18,6 +18,9 @@ Upcoming Gigs
 * Jan 13th (Sat) [Square Go Comedy](https://www.facebook.com/profile.php?id=61553368376246)
   - Doors 6:15, Show from 6:45
   - [Blightly, 35-37 Blackstock Rd, Finsbury Park, London N4 2JF](https://maps.app.goo.gl/T2oW8N54Dkh8eFGR9)
+* Jan 16th (Tue) [Loose Laughs](https://www.instagram.com/looselaughs/)
+  - Doors 7:00 Show from 7:30
+  - [Oak & Pastor, 86 Junction Rd, Archway, London N19 5QZ](https://maps.app.goo.gl/qaHrKZMgUuUhPSA99)
 * Jan 19th (Fri) You're Up! (MC)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
