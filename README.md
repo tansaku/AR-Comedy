@@ -12,9 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Jan 9th (Tues) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub)  (MC)
-  - Doors 7:30, Show from 8:00
-  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 * Jan 13th (Sat) [Square Go Comedy](https://www.facebook.com/profile.php?id=61553368376246)
   - Doors 6:15, Show from 6:45
   - [Blightly, 35-37 Blackstock Rd, Finsbury Park, London N4 2JF](https://maps.app.goo.gl/T2oW8N54Dkh8eFGR9)
@@ -53,6 +50,9 @@ Impressions
 
 Past Gigs
 =========
+* Jan 9th (Tues) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub)  (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 * Dec 19th (Tues) European Open Mic (MC)
   - Doors 7:30, Show from 8:00
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
