@@ -12,24 +12,24 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Jan 13th (Sat) [Square Go Comedy](https://www.facebook.com/profile.php?id=61553368376246)
-  - Doors 6:15, Show from 6:45
-  - [Blightly, 35-37 Blackstock Rd, Finsbury Park, London N4 2JF](https://maps.app.goo.gl/T2oW8N54Dkh8eFGR9)
-* Jan 16th (Tue) [Loose Laughs](https://www.instagram.com/looselaughs/)
-  - Doors 7:00 Show from 7:30
-  - [Oak & Pastor, 86 Junction Rd, Archway, London N19 5QZ](https://maps.app.goo.gl/qaHrKZMgUuUhPSA99)
-* Jan 19th (Fri) You're Up! (MC)
+* Feb 2nd (Fri) You're Up! (MC)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Jan 23rd (Tues) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub)  (MC)
+* Feb 9th (Fri) You're Up! (Booker)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Feb 13th (Tues) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Jan 26th (Fri) You're Up! (MC)
+* Feb 16th (Fri) You're Up! (Booker)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Jan 30th (Tue) - [SofaSoFunny](https://www.facebook.com/SofaSoFunny)
-  - Doors 7:00, Show from 7:30
-  - [Upstairs at The Angelic, 57 Liverpool Road, London N1 0RJ](https://maps.app.goo.gl/pbX3pPEVTnpmjYjX9)
+* Feb 23rd (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Feb 27th (Tues) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 
 Find The AR Comedian on:
 
@@ -50,6 +50,18 @@ Impressions
 
 Past Gigs
 =========
+* Jan 30th (Tue) - [SofaSoFunny](https://www.facebook.com/SofaSoFunny)
+  - Doors 7:00, Show from 7:30
+  - [Upstairs at The Angelic, 57 Liverpool Road, London N1 0RJ](https://maps.app.goo.gl/pbX3pPEVTnpmjYjX9)
+* Jan 26th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Jan 23rd (Tues) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC) CC
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Jan 19th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
 * Jan 9th (Tues) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub)  (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
@@ -866,7 +878,12 @@ Gigs Attended as a Bringer
 
 # Cancelled or Withdrawn Gigs
 
-
+* Jan 16th (Tue) [Loose Laughs](https://www.instagram.com/looselaughs/)
+  - Doors 7:00 Show from 7:30
+  - [Oak & Pastor, 86 Junction Rd, Archway, London N19 5QZ](https://maps.app.goo.gl/qaHrKZMgUuUhPSA99)
+* Jan 13th (Sat) [Square Go Comedy](https://www.facebook.com/profile.php?id=61553368376246)
+  - Doors 6:15, Show from 6:45
+  - [Blightly, 35-37 Blackstock Rd, Finsbury Park, London N4 2JF](https://maps.app.goo.gl/T2oW8N54Dkh8eFGR9)
 * Dec 26th (Tues) European Open Mic (MC) (TBC)
   - Doors 7:30, Show from 8:00
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
