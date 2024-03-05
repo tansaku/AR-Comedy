@@ -12,13 +12,13 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Mar 8th (Fri) You're Up! (MC)
+* Mar 8th (Fri) You're Up! (Booker)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Mar 12th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
+* Mar 12th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Mar 15th (Fri) You're Up! (Booker)
+* Mar 15th (Fri) You're Up! (MC)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
 * Mar 19th (Tue) [PyData Southampton](https://www.meetup.com/pydata-southampton/events/298930338/)
