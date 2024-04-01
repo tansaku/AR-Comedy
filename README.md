@@ -12,27 +12,28 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Mar 8th (Fri) You're Up! (Booker)
+* Apr 5th (Fri) You're Up! (Booker)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Mar 12th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+* Apr 9th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Mar 15th (Fri) You're Up! (MC)
+* Apr 12th (Fri) You're Up! (MC)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Mar 19th (Tue) [PyData Southampton](https://www.meetup.com/pydata-southampton/events/298930338/)
-  - Doors 6:30, Show from 7:00
-  - [Carnival House, 100 Harbour Parade, Southampton, SO15 1ST](https://maps.app.goo.gl/LZGnUPMoiB5sP91x7)
-* Mar 22nd (Fri) You're Up! (MC)
+* Apr 19th (Fri) You're Up! (MC)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Mar 26th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+* Apr 23rd (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Mar 29th (Fri) You're Up! (MC)
+* Apr 26th (Fri) You're Up! (MC)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+
+* Jun 19th (Wed) Comedy Rattle (10m)
+  - Doors ??? Show from ???
+  - Wood Green
 
 Find The AR Comedian on:
 
@@ -54,6 +55,27 @@ Impressions
 Past Gigs
 =========
 
+* Mar 29th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Mar 26th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Mar 22nd (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Mar 19th (Tue) [PyData Southampton](https://www.meetup.com/pydata-southampton/events/298930338/)
+  - Doors 6:30, Show from 7:00
+  - [Carnival House, 100 Harbour Parade, Southampton, SO15 1ST](https://maps.app.goo.gl/LZGnUPMoiB5sP91x7)
+* Mar 15th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Mar 12th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Mar 8th (Fri) You're Up! (Booker)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
 * Mar 1st (Fri) You're Up! (MC)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
