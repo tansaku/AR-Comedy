@@ -31,9 +31,9 @@ Upcoming Gigs
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
 
-* Jun 19th (Wed) Comedy Rattle (10m)
-  - Doors ??? Show from ???
-  - Wood Green
+* Jun 19th (Wed) [Comedy Rattle](https://www.facebook.com/comedyrattle) (10m)
+  - Doors 7:00 Show from 7:30
+  - [Rattle & Hum Pub, 232 High Rd,Wood Green, London N22 8HH](https://maps.app.goo.gl/rpA1khX8H3X1DpQT6)
 
 Find The AR Comedian on:
 
