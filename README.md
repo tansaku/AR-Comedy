@@ -12,35 +12,28 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* May 3rd (Fri) You're Up! (MC)
-  - Doors 10:00, Show from 10:30
-  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* May 10th (Fri) You're Up! (MC)
-  - Doors 10:00, Show from 10:30
-  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* May 14th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+* Jun 4th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* May 17th (Fri) You're Up! (MC)
+* Jun 7th (Fri) You're Up! (MC)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* May 21st (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+* Jun 11th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* May 24th (Fri) You're Up! (MC)
+* Jun 14th (Fri) You're Up! (MC)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* May 28th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+* Jun 18th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (10)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* May 31st (Fri) You're Up! (MC)
+* Jun 21st (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Jun 28th (Fri) You're Up! (MC)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
 
-
-* Jun 19th (Wed) [Comedy Rattle](https://www.facebook.com/comedyrattle) (10m)
-  - Doors 7:00 Show from 7:30
-  - [Rattle & Hum Pub, 232 High Rd,Wood Green, London N22 8HH](https://maps.app.goo.gl/rpA1khX8H3X1DpQT6)
 
 Find The AR Comedian on:
 
@@ -62,6 +55,33 @@ Impressions
 Past Gigs
 =========
 
+* May 31st (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* May 26th (Sun) [Logan Murray's MC Explosion](https://loganmurray.com/)
+  - Doors 12:00, Show from 12:30
+  - [Museum of Comedy, The Undercroft, St George's Church, Bloomsbury Way, London, WC1A 2SR](https://maps.app.goo.gl/VLr2BPraFy74o2cF9)
+* May 28th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* May 24th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* May 21st (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* May 17th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* May 14th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* May 10th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* May 3rd (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
 * Apr 29th (Mon) Extended Comedy Booby Trap! (40)
   - Doors 10:00, Show from 10:15
   - [Churchills, Horizon Meta Worlds](https://discord.gg/mScRu8e8P8)
@@ -953,6 +973,9 @@ Gigs Attended as a Bringer
 
 # Cancelled or Withdrawn Gigs
 
+* Jun 19th (Wed) [Comedy Rattle](https://www.facebook.com/comedyrattle) (10m)
+  - Doors 7:00 Show from 7:30
+  - [Rattle & Hum Pub, 232 High Rd,Wood Green, London N22 8HH](https://maps.app.goo.gl/rpA1khX8H3X1DpQT6)
 * Jan 16th (Tue) [Loose Laughs](https://www.instagram.com/looselaughs/)
   - Doors 7:00 Show from 7:30
   - [Oak & Pastor, 86 Junction Rd, Archway, London N19 5QZ](https://maps.app.goo.gl/qaHrKZMgUuUhPSA99)
