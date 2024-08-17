@@ -12,31 +12,19 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Jul 1st (Mon) Soapstone Comedy Club
-  - Doors 6:30, Show from 7:00
-  - Soapstone Comedy Club, MetaVerse
-* Jul 2nd (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+* Aug 23rd (Thu) [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
+  - Doors 7:00, Show from 7:30 (UTC+9)
+  - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
+* Aug 24th (Fri) [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
+  - Doors 7:00, Show from 7:30 (UTC+9)
+  - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
+* Aug 25th (Sat) [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
+  - Doors 7:00, Show from 7:30 (UTC+9)
+  - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
+* Aug 27th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Jul 5th (Fri) You're Up! (Booker)
-  - Doors 10:00, Show from 10:30
-  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Jul 9th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (10)
-  - Doors 7:30, Show from 8:00
-  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Jul 12th (Fri) You're Up! (MC)
-  - Doors 10:00, Show from 10:30
-  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Jul 16th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
-  - Doors 7:30, Show from 8:00
-  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Jul 19th (Fri) You're Up! (10)
-  - Doors 10:00, Show from 10:30
-  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Jul 23rd (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
-  - Doors 7:30, Show from 8:00
-  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Jun 26th (Fri) You're Up! (Booker)
+* Aug 30th (Fri) You're Up! (MC)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
 
@@ -61,6 +49,39 @@ Impressions
 Past Gigs
 =========
 
+* Jul 26th (Fri) You're Up! (Booker)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Jul 26th (Fri) [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
+  - Doors 7:00, Show from 7:30 (UTC+9)
+  - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
+* Jul 25th (Thu) [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
+  - Doors 7:00, Show from 7:30 (UTC+9)
+  - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
+* Jul 23rd (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Jul 19th (Fri) You're Up! (10)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Jul 16th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Jul 12th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Jul 9th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (10)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Jul 5th (Fri) You're Up! (Booker)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Jul 2nd (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Jul 1st (Mon) Soapstone Comedy Club
+  - Doors 6:30, Show from 7:00
+  - Soapstone Comedy Club, MetaVerse
 * Jun 28th (Fri) You're Up! (MC)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
@@ -85,9 +106,6 @@ Past Gigs
 * Jun 4th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-
-
-
 * May 31st (Fri) You're Up! (MC)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
