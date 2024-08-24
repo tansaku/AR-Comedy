@@ -12,15 +12,6 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Aug 23rd (Thu) [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
-  - Doors 7:00, Show from 7:30 (UTC+9)
-  - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
-* Aug 24th (Fri) [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
-  - Doors 7:00, Show from 7:30 (UTC+9)
-  - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
-* Aug 25th (Sat) [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
-  - Doors 7:00, Show from 7:30 (UTC+9)
-  - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
 * Aug 27th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
@@ -49,6 +40,12 @@ Impressions
 Past Gigs
 =========
 
+* Aug 24th (Fri) [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
+  - Doors 7:00, Show from 7:30 (UTC+9)
+  - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
+* Aug 23rd (Thu) [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
+  - Doors 7:00, Show from 7:30 (UTC+9)
+  - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
 * Jul 26th (Fri) You're Up! (Booker)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
