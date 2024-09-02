@@ -12,12 +12,33 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Aug 27th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
+* Sep 3rd (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Aug 30th (Fri) You're Up! (MC)
+* Sep 6th (Fri) You're Up! (MC)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Sep 10th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (10)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Sep 13th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Sep 17th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Sep 20th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Sep 24th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Sep 27th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Sep 30th (Mon) Extended Comedy Booby Trap (40)
+  - Doors 10:00, Show from 10:15
+  - [Soapstone Comedy Club, Horizon Meta Worlds](https://www.facebook.com/thesoapstone)
 
 
 Find The AR Comedian on:
@@ -40,6 +61,12 @@ Impressions
 Past Gigs
 =========
 
+* Aug 30th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Aug 27th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 * Aug 24th (Fri) [Tokyo Comedy Bar](https://www.tokyocomedybar.com/)
   - Doors 7:00, Show from 7:30 (UTC+9)
   - [3rd floor, 1-chōme-5-9 Dogenzaka, Shibuya City, Tokyo 150-0043](https://goo.gl/maps/TcBDsXx7DsVLZDNL8)
