@@ -998,6 +998,16 @@ Past Gigs
   - Show 6:30
   - Karma Sanctum, 20 Warwick Street, Soho, London W1B 5NF
 
+Upcoming Podcasts
+-----------------
+
+* Sep 29th (Sun) - Comedians On ...
+  - Guest: Daniel Cohen TBC
+* Oct 6th (Sun) - Comedians On ...
+  - Guest: Imran Yusuf TBC
+* Oct 13th (Sun) - Comedians On ...
+  - Guest: Simon Josh TBC
+
 Podcasts Recorded
 -----------------
 
@@ -1138,3 +1148,8 @@ Gigs Attended as a Bringer
 * I will buy you a drink after the second show once instagram follow, or mailing list subscription, confirmed
 * Yes I am totally serious :-)
 * How else can I build an audience? Please send ideas to tansaku@gmail.com
+
+
+
+
+
