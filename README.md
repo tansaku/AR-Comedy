@@ -36,7 +36,8 @@ Upcoming Gigs
 * Sep 27th (Fri) You're Up! (MC)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Sep 30th (Mon) Extended Comedy Booby Trap (40)
+
+* Oct 7th (Mon) Extended Comedy Booby Trap (40)
   - Doors 10:00, Show from 10:15
   - [Soapstone Comedy Club, Horizon Meta Worlds](https://www.facebook.com/thesoapstone)
 
