@@ -12,34 +12,41 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Sep 3rd (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+* Oct 1st (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Sep 6th (Fri) You're Up! (MC)
+* Oct 5th (Fri) You're Up! (MC)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Sep 10th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (10)
-  - Doors 7:30, Show from 8:00
-  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Sep 13th (Fri) You're Up! (MC)
-  - Doors 10:00, Show from 10:30
-  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Sep 17th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
-  - Doors 7:30, Show from 8:00
-  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Sep 20th (Fri) You're Up! (MC)
-  - Doors 10:00, Show from 10:30
-  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Sep 24th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
-  - Doors 7:30, Show from 8:00
-  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Sep 27th (Fri) You're Up! (MC)
-  - Doors 10:00, Show from 10:30
-  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-
-* Oct 7th (Mon) Extended Comedy Booby Trap (40)
+* Oct 7th (Mon) Extended Comedy Booby Trap (45)
   - Doors 10:00, Show from 10:15
   - [Soapstone Comedy Club, Horizon Meta Worlds](https://www.facebook.com/thesoapstone)
+* Oct 8th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (10)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Oct 11th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Oct 15th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Oct 15th (Tue) [Fortnight Club](https://www.facebook.com/FortnightClub) (Producer)
+  - Doors 7:00, Show from 7:30
+  - [The Coach House, 7 Oxendon St London SW1Y 4EE](https://maps.app.goo.gl/1SM2SmzZAnQJq7aD9)
+* Oct 18th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Oct 22nd (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Oct 25th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Oct 29th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+
+
 
 
 Find The AR Comedian on:
@@ -61,6 +68,31 @@ Impressions
 
 Past Gigs
 =========
+
+* Sep 27th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Sep 24th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Sep 20th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Sep 17th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Sep 13th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Sep 10th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (10)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Sep 6th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Sep 3rd (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 
 * Aug 30th (Fri) You're Up! (MC)
   - Doors 10:00, Show from 10:30
@@ -1008,6 +1040,8 @@ Upcoming Podcasts
   - Guest: Imran Yusuf TBC
 * Oct 13th (Sun) - Comedians On ...
   - Guest: Simon Josh TBC
+* Oct 20th (Sun) - Comedians On ...
+  - Guest: Jordan McDonald
 
 Podcasts Recorded
 -----------------
