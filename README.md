@@ -1034,14 +1034,14 @@ Past Gigs
 Upcoming Podcasts
 -----------------
 
-* Sep 29th (Sun) - Comedians On ...
-  - Guest: Daniel Cohen TBC
 * Oct 6th (Sun) - Comedians On ...
-  - Guest: Imran Yusuf TBC
+  - Guest: Daniel Cohen
 * Oct 13th (Sun) - Comedians On ...
-  - Guest: Simon Josh TBC
+  - Guest: Simon Josh
 * Oct 20th (Sun) - Comedians On ...
   - Guest: Jordan McDonald
+* Oct 27th (Sun) - Comedians On ...
+  - Guest: Imran Yusuf TBC
 
 Podcasts Recorded
 -----------------
