@@ -1034,17 +1034,28 @@ Past Gigs
 Upcoming Podcasts
 -----------------
 
-* Oct 6th (Sun) - Comedians On ...
-  - Guest: Daniel Cohen
-* Oct 13th (Sun) - Comedians On ...
-  - Guest: Simon Josh
-* Oct 20th (Sun) - Comedians On ...
-  - Guest: Jordan McDonald
 * Oct 27th (Sun) - Comedians On ...
-  - Guest: Imran Yusuf TBC
+  - Guest: [Dr. Helen](https://www.instagram.com/drhelen33/)
+* Nov 3rd (Sun) - Comedians On ...
+  - Guest: TBC
+* Nov 10th (Sun) - Comedians On ...
+  - Guest: TBC
+* Nov 17th (Sun) - Comedians On ...
+  - Guest: [Rodney Ramsey](https://www.instagram.com/rodneyvramsey/)
 
 Podcasts Recorded
 -----------------
+
+2024
+
+* Oct 20th (Sun) - [Comedians On ... spotify](https://open.spotify.com/episode/5ooZZMrrvHy8fkSErR7cOx?si=feabb73e97274867)
+  - Guest: [Jordan McDonald](https://www.instagram.com/jordantheunixorn/)
+* Oct 13th (Sun) - [Comedians On ... spotify](https://open.spotify.com/episode/2bnLAq94WlCRp080ytDMXO?si=cb2093bfd22145f2)
+  - Guest: [Simon Josh](https://www.instagram.com/simonjoshcomedy/)
+* Oct 6th (Sun) - [Comedians On ... spotify](https://open.spotify.com/episode/2ZJy2lLGWWvhzZ6syW5sn3?si=2d8e4f72c9c14a5c)
+  - Guest: [Daniel Cohen](https://www.instagram.com/dcdoescomedy/)
+
+2022
 
 * Jun 12th (Sun) - Recorded  [Comedians On ... podcast](https://www.youtube.com/channel/UCVNN--MVpDcwCJ7vwjo0KDw)
   - Guest: [Wes Defoe](https://www.instagram.com/wesdefoe/)
