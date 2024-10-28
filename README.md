@@ -46,6 +46,9 @@ Upcoming Gigs
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 
+* Nov 25th (Mon) Extended Comedy Booby Trap
+  - Doors 10:00, Show from 10:15
+  - Soapstone Comedy Club, MetaVerse
 
 
 
@@ -1034,14 +1037,15 @@ Past Gigs
 Upcoming Podcasts
 -----------------
 
-* Oct 27th (Sun) - Comedians On ...
-  - Guest: [Dr. Helen](https://www.instagram.com/drhelen33/)
+
 * Nov 3rd (Sun) - Comedians On ...
   - Guest: TBC
 * Nov 10th (Sun) - Comedians On ...
   - Guest: TBC
 * Nov 17th (Sun) - Comedians On ...
   - Guest: [Rodney Ramsey](https://www.instagram.com/rodneyvramsey/)
+* Nov 24th (Sun) - Comedians On ...
+  - Guest: [Dr. Helen](https://www.instagram.com/drhelen33/)
 
 Podcasts Recorded
 -----------------
