@@ -12,44 +12,45 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Oct 1st (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
-  - Doors 7:30, Show from 8:00
-  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Oct 5th (Fri) You're Up! (MC)
+* Nov 1st (Fri) You're Up! (Booker)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Oct 7th (Mon) Extended Comedy Booby Trap (45)
-  - Doors 10:00, Show from 10:15
-  - [Soapstone Comedy Club, Horizon Meta Worlds](https://www.facebook.com/thesoapstone)
-* Oct 8th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (10)
+* Nov 5th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Oct 11th (Fri) You're Up! (MC)
+* Mov 8th (Fri) You're Up! (MC)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Oct 15th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
+* Nov 12th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (10)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Oct 15th (Tue) [Fortnight Club](https://www.facebook.com/FortnightClub) (Producer)
+* Nov 15th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Nov 19th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Nov 19th (Tue) [Fortnight Club](https://www.facebook.com/FortnightClub) (Producer)
   - Doors 7:00, Show from 7:30
   - [The Coach House, 7 Oxendon St London SW1Y 4EE](https://maps.app.goo.gl/1SM2SmzZAnQJq7aD9)
-* Oct 18th (Fri) You're Up! (MC)
+* Nov 22nd (Fri) You're Up! (MC)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Oct 22nd (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
-  - Doors 7:30, Show from 8:00
-  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Oct 25th (Fri) You're Up! (MC)
-  - Doors 10:00, Show from 10:30
-  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Oct 29th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
-  - Doors 7:30, Show from 8:00
-  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-
 * Nov 25th (Mon) Extended Comedy Booby Trap
   - Doors 10:00, Show from 10:15
   - Soapstone Comedy Club, MetaVerse
+* Nov 26th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Nov 29th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
 
+### 2025
+
+* Feb 16th (Sun) [Extended Comedy Booby Trap, Live! £5](https://www.justthetonic.com/leicester-comedy/shows/sunday-16-feb-2025/6718/#927608216)
+  - Doors 8:00, Show from 8:30
+  - [Just the Tonic at the Exchange Bar, 50 Rutland St, Leicester LE1 1RD](https://maps.app.goo.gl/DwZSBzfw82AbH9FJ8)
 
 
 Find The AR Comedian on:
@@ -71,6 +72,40 @@ Impressions
 
 Past Gigs
 =========
+
+* Oct 29th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Oct 25th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Oct 22nd (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Oct 18th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Oct 15th (Tue) [Fortnight Club](https://www.facebook.com/FortnightClub) (Producer)
+  - Doors 7:00, Show from 7:30
+  - [The Coach House, 7 Oxendon St London SW1Y 4EE](https://maps.app.goo.gl/1SM2SmzZAnQJq7aD9)
+* Oct 15th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Oct 11th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Oct 8th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (10)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Oct 7th (Mon) Extended Comedy Booby Trap (45)
+  - Doors 10:00, Show from 10:15
+  - [Soapstone Comedy Club, Horizon Meta Worlds](https://www.facebook.com/thesoapstone)
+* Oct 5th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Oct 1st (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 
 * Sep 27th (Fri) You're Up! (MC)
   - Doors 10:00, Show from 10:30
@@ -1046,6 +1081,8 @@ Upcoming Podcasts
   - Guest: [Rodney Ramsey](https://www.instagram.com/rodneyvramsey/)
 * Nov 24th (Sun) - Comedians On ...
   - Guest: [Dr. Helen](https://www.instagram.com/drhelen33/)
+* Dec 1st: (Sun) - Comedians On ...
+  - Guest: Ogi ...
 
 Podcasts Recorded
 -----------------
