@@ -46,6 +46,10 @@ Upcoming Gigs
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
 
+* Dec 6th (Fri) [Masala Bowl Comedy](https://masalabowl.co.uk/)
+  - Doors ???, Show from 8:00
+  - [92 High St, Rickmansworth WD3 1AQ](https://maps.app.goo.gl/BfaSTN3uDSXpDVV59)
+
 ### 2025
 
 * Feb 16th (Sun) [Extended Comedy Booby Trap, Live! £5](https://www.justthetonic.com/leicester-comedy/shows/sunday-16-feb-2025/6718/#927608216)
