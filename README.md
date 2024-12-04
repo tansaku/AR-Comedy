@@ -12,43 +12,34 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Nov 1st (Fri) You're Up! (Booker)
-  - Doors 10:00, Show from 10:30
-  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Nov 5th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+* Dec 3rd (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (10)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Mov 8th (Fri) You're Up! (MC)
-  - Doors 10:00, Show from 10:30
-  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Nov 12th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (10)
-  - Doors 7:30, Show from 8:00
-  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Nov 15th (Fri) You're Up! (MC)
-  - Doors 10:00, Show from 10:30
-  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Nov 19th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
-  - Doors 7:30, Show from 8:00
-  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Nov 19th (Tue) [Fortnight Club](https://www.facebook.com/FortnightClub) (Producer)
+* Dec 5th (Thu) [Cuts Comedy](https://cutscomedy.co.uk/) (10)
   - Doors 7:00, Show from 7:30
-  - [The Coach House, 7 Oxendon St London SW1Y 4EE](https://maps.app.goo.gl/1SM2SmzZAnQJq7aD9)
-* Nov 22nd (Fri) You're Up! (MC)
+  - [Cuts, 41 Frith Street, London, W1D 5LW](https://maps.app.goo.gl/Y5DCSNJzjcBRnJxn9)
+* Dec 6th (Fri) [Masala Bowl Comedy](https://masalabowl.co.uk/)
+  - Doors 7:00, Show from 8:00
+  - [92 High St, Rickmansworth WD3 1AQ](https://maps.app.goo.gl/BfaSTN3uDSXpDVV59)
+* Dec 6th (Fri) You're Up! (Booker)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Nov 25th (Mon) Extended Comedy Booby Trap
-  - Doors 10:00, Show from 10:15
-  - Soapstone Comedy Club, MetaVerse
-* Nov 26th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+* Dec 10th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Nov 29th (Fri) You're Up! (MC)
+* Dec 13th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Dec 17th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (10)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Dec 20th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Dec 29th (Fri) You're Up! (MC)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
 
-* Dec 6th (Fri) [Masala Bowl Comedy](https://masalabowl.co.uk/)
-  - Doors ???, Show from 8:00
-  - [92 High St, Rickmansworth WD3 1AQ](https://maps.app.goo.gl/BfaSTN3uDSXpDVV59)
 
 ### 2025
 
@@ -77,6 +68,39 @@ Impressions
 Past Gigs
 =========
 
+* Nov 29th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Nov 26th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Nov 25th (Mon) Extended Comedy Booby Trap
+  - Doors 10:00, Show from 10:15
+  - Soapstone Comedy Club, MetaVerse
+* Nov 22nd (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Nov 19th (Tue) [Fortnight Club](https://www.facebook.com/FortnightClub) (Producer)
+  - Doors 7:00, Show from 7:30
+  - [The Coach House, 7 Oxendon St London SW1Y 4EE](https://maps.app.goo.gl/1SM2SmzZAnQJq7aD9)
+* Nov 19th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Nov 15th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Nov 12th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (10)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Nov 8th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Nov 5th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Nov 1st (Fri) You're Up! (Booker)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
 * Oct 29th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
@@ -1085,7 +1109,7 @@ Upcoming Podcasts
 * Dec 8th (Sun) - Comedians On ... Max Mckenzie
   - Guest: [Max Mckenzie](https://www.instagram.com/maxmckenzie/)
 * Dec 15th (Sun) - Comedians On ...
-  - Guest: [Laura Moss](https://www.instagram.com/lauraaa_comedy/) (TBC)
+  - Guest:
 * Dec 22nd (Sun) - Comedians On ...
   - Guest: Calum Brennan
 * Dec 29th (Sun) - Comedians On ...
@@ -1093,7 +1117,7 @@ Upcoming Podcasts
 * Jan 5th (Sun) - Comedians On ...
   - Guest:
 * Jan 12th (Sun) - Comedians On ...
-  - Guest:
+  - Guest: [Laura Moss](https://www.instagram.com/lauraaa_comedy/) (TBC)
 
 Podcasts Recorded
 -----------------
