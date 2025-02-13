@@ -12,41 +12,27 @@ If you don't do instagram you can [subscribe to my low volume comedy mailing lis
 Upcoming Gigs
 =============
 
-* Dec 3rd (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (10)
+* Feb 4th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Dec 5th (Thu) [Cuts Comedy](https://cutscomedy.co.uk/) (10)
-  - Doors 7:00, Show from 7:30
-  - [Cuts, 41 Frith Street, London, W1D 5LW](https://maps.app.goo.gl/Y5DCSNJzjcBRnJxn9)
-* Dec 6th (Fri) [Masala Bowl Comedy](https://masalabowl.co.uk/)
-  - Doors 7:00, Show from 8:00
-  - [92 High St, Rickmansworth WD3 1AQ](https://maps.app.goo.gl/BfaSTN3uDSXpDVV59)
-* Dec 6th (Fri) You're Up! (Booker)
-  - Doors 10:00, Show from 10:30
-  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Dec 10th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+* Feb 10th (Mon) Extended Comedy Booby Trap (45)
+  - Doors 10:00, Show from 10:15
+  - [Churchills Comedy Club, Horizon Meta Worlds](https://www.facebook.com/profile.php?id=100086957261726)
+* Feb 11th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Dec 13th (Fri) You're Up! (MC)
-  - Doors 10:00, Show from 10:30
-  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Dec 17th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (10)
-  - Doors 7:30, Show from 8:00
-  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
-* Dec 20th (Fri) You're Up! (MC)
-  - Doors 10:00, Show from 10:30
-  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-* Dec 29th (Fri) You're Up! (MC)
-  - Doors 10:00, Show from 10:30
-  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
-
-
-### 2025
-
-* Feb 16th (Sun) [Extended Comedy Booby Trap, Live! £5](https://www.justthetonic.com/leicester-comedy/shows/sunday-16-feb-2025/6718/#927608216)
+* Feb 16th (Sun) [5 for 5](https://www.justthetonic.com/leicester-comedy/shows/sunday-16-feb-2025/6718/#927608216) (10)
+  - Doors 4:00, Show from 4:30
+  - [Just the Tonic at the Exchange Bar, 50 Rutland St, Leicester LE1 1RD](https://maps.app.goo.gl/DwZSBzfw82AbH9FJ8)
+* Feb 16th (Sun) [Extended Comedy Booby Trap, Live! £5](https://www.justthetonic.com/leicester-comedy/shows/sunday-16-feb-2025/6718/#927608216) (45)
   - Doors 8:00, Show from 8:30
   - [Just the Tonic at the Exchange Bar, 50 Rutland St, Leicester LE1 1RD](https://maps.app.goo.gl/DwZSBzfw82AbH9FJ8)
-
+* Feb 18th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (10)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Feb 25th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (10)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 
 Find The AR Comedian on:
 
@@ -67,6 +53,53 @@ Impressions
 
 Past Gigs
 =========
+
+* Jan 28th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Jan 26th (Sun) [Caserta Comedy](https://www.eventbrite.co.uk/e/stand-up-comedy-night-caserta-deli-cafe-sunday-26th-january-tickets-1127526886269) (MC)
+  - Doors 7:00, Show from 7:30
+  - [Caserta Deli, Unit A, Pinnacle House, London SW18 1JE](https://maps.app.goo.gl/SGQxWxNzEYz7btFw9)
+* Jan 21st (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Jan 17th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Jan 14th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Jan 10th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Jan 7th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+
+* Dec 29th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Dec 20th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Dec 17th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (10)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Dec 13th (Fri) You're Up! (MC)
+  - Doors 10:00, Show from 10:30
+  - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+* Dec 10th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (MC)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
+* Dec 6th (Fri) [Masala Bowl Comedy](https://masalabowl.co.uk/)
+  - Doors 7:00, Show from 8:00
+  - [92 High St, Rickmansworth WD3 1AQ](https://maps.app.goo.gl/BfaSTN3uDSXpDVV59)
+* Dec 5th (Thu) [Cuts Comedy](https://cutscomedy.co.uk/) (10)
+  - Doors 7:00, Show from 7:30
+  - [Cuts, 41 Frith Street, London, W1D 5LW](https://maps.app.goo.gl/Y5DCSNJzjcBRnJxn9)
+* Dec 3rd (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (10)
+  - Doors 7:30, Show from 8:00
+  - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 
 * Nov 29th (Fri) You're Up! (MC)
   - Doors 10:00, Show from 10:30
@@ -101,6 +134,7 @@ Past Gigs
 * Nov 1st (Fri) You're Up! (Booker)
   - Doors 10:00, Show from 10:30
   - [Unknown Theater, Horizon Meta Worlds](https://unknowntheater.world)
+
 * Oct 29th (Tue) [Sunset Comedy](https://www.facebook.com/SunsetComedyClub) (Booker)
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
@@ -1100,30 +1134,27 @@ Past Gigs
 Upcoming Podcasts
 -----------------
 
-* Nov 17th (Sun) - Comedians On ... Rodney Ramsey
-  - Guest: [Rodney Ramsey](https://www.instagram.com/rodneyvramsey/)
-* Nov 24th (Sun) - Comedians On ... Dr. Helen
-  - Guest: [Dr. Helen](https://www.instagram.com/drhelen33/)
-* Dec 1st: (Sun) - Comedians On ... Ogi
-  - Guest: [Ogi](https://www.instagram.com/o1.v2b/)
-* Dec 8th (Sun) - Comedians On ... Max Mckenzie
-  - Guest: [Max Mckenzie](https://www.instagram.com/maxmckenzie/)
-* Dec 15th (Sun) - Comedians On ...
-  - Guest:
-* Dec 22nd (Sun) - Comedians On ...
-  - Guest: Calum Brennan
-* Dec 29th (Sun) - Comedians On ...
-  - Guest:
-* Jan 5th (Sun) - Comedians On ...
-  - Guest:
+
 * Jan 12th (Sun) - Comedians On ...
-  - Guest: [Laura Moss](https://www.instagram.com/lauraaa_comedy/) (TBC)
+  - Guest: Ben Bridgeman
+* Jan 19th (Sun) - Comedians On ...
+  - Guest:
+* Jan 26th (Sun) - Comedians On ... Max Mckenzie
+  - Guest: [Max Mckenzie](https://www.instagram.com/maxmckenzie/) (TBC)
 
 Podcasts Recorded
 -----------------
 
 2024
 
+* Dec 22nd (Sun) - Comedians On ...
+  - Guest: Calum Brennan
+* Dec 1st: (Sun) - Comedians On ... Ogi
+  - Guest: [Ogi](https://www.instagram.com/o1.v2b/)
+* Nov 24th (Sun) - Comedians On ... Dr. Helen
+  - Guest: [Dr. Helen](https://www.instagram.com/drhelen33/)
+* Nov 17th (Sun) - Comedians On ... Rodney Ramsey
+  - Guest: [Rodney Ramsey](https://www.instagram.com/rodneyvramsey/)
 * Oct 20th (Sun) - [Comedians On ... spotify](https://open.spotify.com/episode/5ooZZMrrvHy8fkSErR7cOx?si=feabb73e97274867)
   - Guest: [Jordan McDonald](https://www.instagram.com/jordantheunixorn/)
 * Oct 13th (Sun) - [Comedians On ... spotify](https://open.spotify.com/episode/2bnLAq94WlCRp080ytDMXO?si=cb2093bfd22145f2)
