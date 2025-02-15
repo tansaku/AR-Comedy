@@ -22,7 +22,7 @@ Upcoming Gigs
   - Doors 7:30, Show from 8:00
   - [The Junction, 9 Gayton Rd, Harrow HA1 2DH](https://goo.gl/maps/kZZQXg8SrLheXfSZ7)
 * Feb 16th (Sun) [5 for 5](https://www.justthetonic.com/leicester-comedy/shows/sunday-16-feb-2025/6718/#927608216) (10)
-  - Doors 4:00, Show from 4:30
+  - Doors 3:30, Show from 4:00
   - [Just the Tonic at the Exchange Bar, 50 Rutland St, Leicester LE1 1RD](https://maps.app.goo.gl/DwZSBzfw82AbH9FJ8)
 * Feb 16th (Sun) [Extended Comedy Booby Trap, Live! £5](https://www.justthetonic.com/leicester-comedy/shows/sunday-16-feb-2025/6718/#927608216) (45)
   - Doors 8:00, Show from 8:30
