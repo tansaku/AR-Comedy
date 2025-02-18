@@ -1134,16 +1134,44 @@ Past Gigs
 Upcoming Podcasts
 -----------------
 
+### Comedians On ...
 
-* Jan 12th (Sun) - Comedians On ...
-  - Guest: Ben Bridgeman
-* Jan 19th (Sun) - Comedians On ...
-  - Guest:
-* Jan 26th (Sun) - Comedians On ... Max Mckenzie
-  - Guest: [Max Mckenzie](https://www.instagram.com/maxmckenzie/) (TBC)
+* Mar 16th (Sun) - Comedians On ... Tom Nestor
+  - Guest: Tom Nestor
+* Mar 30th (Sun) - Comedians On ... Oli Riordan
+  - Guest: Oli Riordan
+* Apr 6th (Sun) - Comedians On ... Kyle Lucey (TBC)
+  - Guest:  Kyle Lucey
+* Apr 13th (Sun) - Comedians On ... Matt Lowes
+  - Guest: Matt Lowes
+* Apr 27th (Sun) Alan Jay Byrne  (TBC)
+  - Guest: Alan Jay Byrne
+
+* May 11th (Sun) - Comedians On ... Olly Miller
+  - Guest: Olly Miller
+* May 18th (Sun) Mariah Bowden
+  - Guest: Mariah Bowden
+
+
+### Rebel AI
+
+* Mar 7th (Fri) - Rebel AI ... Lorna Brightmore
+  - Guest: Lorna Brightmore
+
 
 Podcasts Recorded
 -----------------
+
+2025
+
+* Feb 9th (Sun) - Comedians On ... Just P
+  - Guest: Just P
+* Feb 2nd (Sun) - Comedians On ... Brooke Hoerr
+  - Guest: Brooke Hoerr
+* Jan 19th (Sun) - Comedians On ... Imran Yusuf
+  - Guest: Imran Yusuf
+* Jan 12th (Sun) - Comedians On ... Ben Bridgeman
+  - Guest: Ben Bridgeman
 
 2024
 
