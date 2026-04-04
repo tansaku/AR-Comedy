@@ -4,25 +4,41 @@ title: The AR Comedian
 description: Stand-up comedy — upcoming gigs and gig archive.
 ---
 
-# The AR Comedian
-
-Stand-up comedy with a tech twist. [Instagram](https://www.instagram.com/tansaku/) · [Twitter / X](https://www.twitter.com/tansakuu/)
+<section class="hero" aria-labelledby="hero-heading">
+  <h1 id="hero-heading" class="hero-title">The AR Comedian</h1>
+  <p class="hero-lede">Stand-up comedy with a tech twist — AR on stage, sharp writing, awkward honesty.</p>
+  <p class="hero-social">
+    <a href="https://www.instagram.com/tansaku/">Instagram</a>
+    <span class="sep" aria-hidden="true">·</span>
+    <a href="https://www.twitter.com/tansakuu/">Twitter / X</a>
+  </p>
+</section>
 
 ## Upcoming gigs
 
 {% include gigs-upcoming.html %}
 
-[Full gig archive]({{ '/archive/' | relative_url }})
+<p class="gig-archive-link"><a href="{{ '/archive/' | relative_url }}">Full gig archive →</a></p>
 
 ## Impressions
 
-* _"Superb"_ — Pete Dickenson (scriptwriter and film-maker)
-* _"Very creative"_ — George Tothill (Chortle Student Comedy Award finalist 2021)
-* _"Strangely watchable"_ — Gordana Mićić (Groovie Comedy)
-* _"Like a geek, grown up"_ — Markus Birdman (Britain's Got Talent finalist)
-* _"A breath of fresh air"_ — Travis Booth-Millard (New Forest New Comedian finalist)
-* _"Hilarious"_ — Beth Fox
+<ul class="impressions-list" markdown="0">
+  <li><em>“Superb”</em> — Pete Dickenson (scriptwriter and film-maker)</li>
+  <li><em>“Very creative”</em> — George Tothill (Chortle Student Comedy Award finalist 2021)</li>
+  <li><em>“Strangely watchable”</em> — Gordana Mićić (Groovie Comedy)</li>
+  <li><em>“Like a geek, grown up”</em> — Markus Birdman (Britain's Got Talent finalist)</li>
+  <li><em>“A breath of fresh air”</em> — Travis Booth-Millard (New Forest New Comedian finalist)</li>
+  <li><em>“Hilarious”</em> — Beth Fox</li>
+</ul>
 
 ## Podcast
 
-_**[Comedians on Technology, People and Drugs]({{ '/podcasts/' | relative_url }})**_ — interviews with comedians. [Spotify](https://open.spotify.com/show/653Py2rL5AoFNQbw7jK99b) · [Apple Podcasts](https://podcasts.apple.com/gb/podcast/comedians-on-technology-people-and-drugs/id1784130785) · [RSS](https://anchor.fm/s/fbf0949c/podcast/rss)
+<p class="podcast-blurb" markdown="0">
+  <strong class="podcast-title"><a href="{{ '/podcasts/' | relative_url }}">Comedians on Technology, People and Drugs</a></strong> — long-form chats with comedians.
+  <br>
+  <a href="https://open.spotify.com/show/653Py2rL5AoFNQbw7jK99b">Spotify</a>
+  ·
+  <a href="https://podcasts.apple.com/gb/podcast/comedians-on-technology-people-and-drugs/id1784130785">Apple Podcasts</a>
+  ·
+  <a href="https://anchor.fm/s/fbf0949c/podcast/rss">RSS</a>
+</p>

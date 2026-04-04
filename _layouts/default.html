@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+{% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    {% include head-custom.html %}
+  </head>
+  <body class="ar-site">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="site-header-inner">
+        <a class="site-brand" href="{{ '/' | relative_url }}">{{ site.title | default: 'The AR Comedian' }}</a>
+        <nav class="site-nav" aria-label="Main navigation">
+          <a href="{{ '/' | relative_url }}">Home</a>
+          <a href="{{ '/archive/' | relative_url }}">Gigs archive</a>
+          <a href="{{ '/podcasts/' | relative_url }}">Podcast</a>
+        </nav>
+        {% if site.github.repository_url %}
+        <a class="site-repo" href="{{ site.github.repository_url }}" rel="noopener noreferrer">Repo</a>
+        {% endif %}
+      </div>
+    </header>
+
+    <div class="wrapper">
+      <main id="main" class="site-main">
+        {{ content }}
+      </main>
+    </div>
+
+    <footer class="site-footer">
+      <p>{{ site.title | default: 'The AR Comedian' }} · <a href="https://www.instagram.com/tansaku/">Instagram</a></p>
+    </footer>
+  </body>
+</html>

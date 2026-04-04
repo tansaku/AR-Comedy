@@ -1,5 +1,280 @@
-/* AR Comedy — additions on top of jekyll-theme-midnight */
+/* AR Comedy — site chrome & polish (on top of jekyll-theme-midnight) */
 
+:root {
+  --bg-deep: #14121a;
+  --bg-mid: #1e1b24;
+  --surface: rgba(255, 255, 255, 0.04);
+  --text: #ebe6e0;
+  --text-muted: #9a9490;
+  --accent: #e8a54b;
+  --accent-soft: #c77d4a;
+  --border: rgba(232, 165, 75, 0.22);
+  --header-h: 3.25rem;
+  --content-max: 40rem;
+}
+
+/* --- Reset theme “README / project” feel --- */
+.ar-site {
+  font-family: "Source Sans 3", system-ui, sans-serif !important;
+  color: var(--text) !important;
+  background: var(--bg-deep) !important;
+  background-image:
+    radial-gradient(ellipse 120% 80% at 80% -20%, rgba(232, 165, 75, 0.09), transparent 55%),
+    radial-gradient(ellipse 70% 50% at 10% 40%, rgba(120, 90, 180, 0.06), transparent 45%),
+    linear-gradient(175deg, var(--bg-mid) 0%, var(--bg-deep) 48%, #100e14 100%) !important;
+  background-attachment: fixed !important;
+  min-height: 100vh;
+}
+
+.ar-site h1,
+.ar-site h2,
+.ar-site h3 {
+  font-family: "Fraunces", Georgia, serif !important;
+  font-weight: 500 !important;
+  color: var(--text) !important;
+}
+
+.ar-site a {
+  color: var(--accent) !important;
+  font-weight: 600 !important;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.ar-site a:hover {
+  color: #f4c47a !important;
+  border-bottom-color: rgba(232, 165, 75, 0.45);
+}
+
+.ar-site .wrapper {
+  max-width: var(--content-max) !important;
+  padding: 0 1.35rem !important;
+  position: relative;
+}
+
+/* Hide legacy fixed header from theme stylesheet (we replaced the layout) */
+.ar-site #header {
+  display: none !important;
+}
+
+/* --- Skip link --- */
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  z-index: 999;
+  padding: 0.5rem 1rem;
+  background: var(--accent);
+  color: #1a1410 !important;
+}
+
+.skip-link:focus {
+  left: 1rem;
+  top: 1rem;
+}
+
+/* --- Header --- */
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  border-bottom: 1px solid var(--border);
+  background: rgba(20, 18, 26, 0.88);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.site-header-inner {
+  max-width: var(--content-max);
+  margin: 0 auto;
+  padding: 0 1.35rem;
+  height: var(--header-h);
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.site-brand {
+  font-family: "Fraunces", Georgia, serif;
+  font-weight: 700;
+  font-size: 1.05rem;
+  letter-spacing: 0.02em;
+  color: var(--text) !important;
+  border: none !important;
+  margin-right: auto;
+}
+
+.site-brand:hover {
+  color: var(--accent) !important;
+}
+
+.site-nav {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem 1rem;
+  flex-wrap: wrap;
+}
+
+.site-nav a {
+  font-size: 0.92rem;
+  font-weight: 600 !important;
+  color: var(--text-muted) !important;
+  border: none !important;
+  padding: 0.2rem 0;
+}
+
+.site-nav a:hover {
+  color: var(--accent) !important;
+}
+
+.site-repo {
+  font-size: 0.75rem !important;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted) !important;
+  border: 1px solid var(--border) !important;
+  padding: 0.25rem 0.5rem !important;
+  border-radius: 3px;
+}
+
+.site-repo:hover {
+  border-color: var(--accent) !important;
+  color: var(--accent) !important;
+}
+
+/* --- Main column --- */
+.site-main {
+  margin: 0 !important;
+  padding: 2.25rem 0 3rem !important;
+  max-width: none !important;
+}
+
+.site-main > h1,
+.site-main .page-title {
+  font-size: clamp(1.65rem, 4vw, 2.1rem) !important;
+  margin: 0 0 1.25rem !important;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--border);
+  letter-spacing: -0.02em;
+}
+
+.site-main > h1:first-child,
+.site-main .hero + h2 {
+  margin-top: 0 !important;
+}
+
+/* --- Hero (home) --- */
+.hero {
+  margin: 0 0 2.5rem;
+  padding: 0 0 2rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.hero-title {
+  font-size: clamp(2rem, 6vw, 2.75rem);
+  line-height: 1.12;
+  margin: 0 0 0.5rem !important;
+  letter-spacing: -0.02em;
+  background: linear-gradient(120deg, #fff8f0 0%, var(--accent) 160%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@supports not (background-clip: text) {
+  .hero-title {
+    color: var(--text) !important;
+    -webkit-text-fill-color: unset;
+  }
+}
+
+.hero-lede {
+  font-size: 1.15rem;
+  line-height:1.45;
+  color: var(--text-muted) !important;
+  margin: 0 0 1rem !important;
+  max-width: 32em;
+}
+
+.hero-social {
+  margin: 0 !important;
+  font-size: 0.98rem;
+}
+
+.hero-social .sep {
+  margin: 0 0.45rem;
+  opacity: 0.45;
+}
+
+/* --- Section headings in flow --- */
+.site-main h2 {
+  font-size: 1.35rem !important;
+  margin: 2.25rem 0 1rem !important;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--border);
+  color: #f0ebe4 !important;
+}
+
+.site-main h2:first-of-type {
+  margin-top: 0 !important;
+}
+
+.site-main h3 {
+  font-size: 1.1rem !important;
+  color: var(--text-muted) !important;
+  margin: 1.5rem 0 0.65rem !important;
+}
+
+/* --- Impressions --- */
+.impressions-list {
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 0 1.5rem !important;
+}
+
+.impressions-list li {
+  position: relative;
+  margin: 0 0 0.85rem !important;
+  padding: 0.65rem 0 0.65rem 0.85rem !important;
+  border-left: 3px solid var(--accent-soft);
+  background: var(--surface);
+  border-radius: 0 6px 6px 0;
+}
+
+.impressions-list li::before {
+  display: none !important;
+}
+
+.impressions-list em {
+  color: #faf6f1 !important;
+  font-style: italic;
+}
+
+/* --- Podcast blurb --- */
+.podcast-blurb {
+  font-size: 1.02rem;
+  line-height: 1.55;
+  padding: 1rem 1.1rem;
+  background: var(--surface);
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  margin: 0 0 1.5rem !important;
+}
+
+.podcast-blurb .podcast-title {
+  font-family: "Fraunces", Georgia, serif !important;
+  font-weight: 600;
+  font-style: normal !important;
+}
+
+/* --- Archive link after gigs --- */
+.gig-archive-link {
+  display: inline-block;
+  margin: 0.25rem 0 0.5rem;
+  font-size: 0.95rem;
+}
+
+/* --- Gigs --- */
 .gig-list {
   list-style: none;
   padding-left: 0;
@@ -7,21 +282,28 @@
 }
 
 .gig-list > li {
-  margin-bottom: 1.25rem;
-  padding-bottom: 1rem;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
-}
-
-.gig-list > li:last-child {
+  margin-bottom: 1rem;
+  padding: 1rem 1.05rem 1.05rem;
+  background: var(--surface);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 8px;
   border-bottom: none;
 }
 
+.gig-list > li:last-child {
+  margin-bottom: 0;
+}
+
+.gig-list > li > p {
+  margin: 0 0 0.35rem !important;
+}
+
 .gig-details {
-  margin: 0.35rem 0 0 1rem;
-  padding-left: 0;
+  margin: 0.35rem 0 0 0.5rem !important;
+  padding-left: 0 !important;
   list-style: disc;
-  color: #b5b5b5;
-  font-size: 0.95em;
+  color: var(--text-muted);
+  font-size: 0.92rem;
 }
 
 .gig-details li {
@@ -29,26 +311,46 @@
 }
 
 .gig-role {
-  color: #9a9a9a;
+  color: var(--text-muted);
   font-weight: normal;
 }
 
 .gig-kind {
-  color: #c9a227;
-  font-size: 0.9em;
+  color: var(--accent-soft);
+  font-size: 0.88em;
   margin-left: 0.25rem;
 }
 
 .gig-empty {
-  opacity: 0.9;
   font-style: italic;
+  color: var(--text-muted);
 }
 
 .gig-build-note {
-  margin-top: 0.5rem;
-  opacity: 0.65;
+  margin-top: 0.75rem !important;
+  color: var(--text-muted) !important;
+  font-size: 0.85rem !important;
+  opacity: 0.95;
 }
 
 .gig-list-archive .gig-kind {
-  color: #888;
+  color: #7d776f;
+}
+
+/* --- Footer --- */
+.site-footer {
+  max-width: var(--content-max);
+  margin: 0 auto;
+  padding: 1.5rem 1.35rem 2.5rem;
+  border-top: 1px solid var(--border);
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+
+.site-footer p {
+  margin: 0 !important;
+}
+
+.site-footer a {
+  font-weight: 600 !important;
 }
