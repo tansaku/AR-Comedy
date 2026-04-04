@@ -1,0 +1,34 @@
+<li>
+  <p>
+    <strong>{{ include.gig.date | date: "%a %d %b %Y" }}</strong>
+    —
+    {% if include.gig.show_url %}
+    <a href="{{ include.gig.show_url }}">{{ include.gig.show }}</a>
+    {% else %}
+    {{ include.gig.show }}
+    {% endif %}
+    {% if include.gig.role %}<span class="gig-role">({{ include.gig.role }})</span>{% endif %}
+    {% if include.gig.kind == "cancelled" %}<span class="gig-kind">[cancelled]</span>{% endif %}
+    {% if include.gig.kind == "bringer" %}<span class="gig-kind">[bringer]</span>{% endif %}
+    {% if include.gig.kind == "booker" %}<span class="gig-kind">[booker]</span>{% endif %}
+  </p>
+  <ul class="gig-details">
+    {% if include.gig.schedule %}
+    <li>{{ include.gig.schedule }}</li>
+    {% endif %}
+    {% if include.gig.venue %}
+    <li>
+      {% if include.gig.venue_map_url %}
+      <a href="{{ include.gig.venue_map_url }}">{{ include.gig.venue }}</a>
+      {% else %}
+      {{ include.gig.venue }}
+      {% endif %}
+    </li>
+    {% endif %}
+    {% if include.gig.notes %}
+    {% for note in include.gig.notes %}
+    <li>{{ note | markdownify }}</li>
+    {% endfor %}
+    {% endif %}
+  </ul>
+</li>

@@ -1,0 +1,54 @@
+/* AR Comedy — additions on top of jekyll-theme-midnight */
+
+.gig-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 1rem 0 1.5rem;
+}
+
+.gig-list > li {
+  margin-bottom: 1.25rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.gig-list > li:last-child {
+  border-bottom: none;
+}
+
+.gig-details {
+  margin: 0.35rem 0 0 1rem;
+  padding-left: 0;
+  list-style: disc;
+  color: #b5b5b5;
+  font-size: 0.95em;
+}
+
+.gig-details li {
+  margin-bottom: 0.2rem;
+}
+
+.gig-role {
+  color: #9a9a9a;
+  font-weight: normal;
+}
+
+.gig-kind {
+  color: #c9a227;
+  font-size: 0.9em;
+  margin-left: 0.25rem;
+}
+
+.gig-empty {
+  opacity: 0.9;
+  font-style: italic;
+}
+
+.gig-build-note {
+  margin-top: 0.5rem;
+  opacity: 0.65;
+}
+
+.gig-list-archive .gig-kind {
+  color: #888;
+}

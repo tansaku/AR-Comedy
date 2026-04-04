@@ -1,0 +1,15 @@
+{% assign today = site.time | date: "%Y-%m-%d" %}
+{% assign sorted = site.data.gigs.gigs | sort: "date" %}
+{% assign found = false %}
+<ul class="gig-list">
+  {% for gig in sorted %}
+  {% if gig.date >= today and gig.kind != "cancelled" %}
+  {% assign found = true %}
+  {% include gig-list-item.html gig=gig %}
+  {% endif %}
+  {% endfor %}
+</ul>
+{% unless found %}
+<p class="gig-empty">No upcoming gigs listed. Check back soon or see the <a href="{{ '/archive/' | relative_url }}">archive</a>.</p>
+{% endunless %}
+<p class="gig-build-note"><small>Gigs with today’s date or later are shown. The list updates when the site is rebuilt (each push to GitHub).</small></p>

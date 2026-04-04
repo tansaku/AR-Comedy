@@ -1,1 +1,9 @@
 theme: jekyll-theme-midnight
+title: The AR Comedian
+description: Stand-up comedy — gigs, archive, and podcasts.
+url: https://comedy.neurogrid.com
+exclude:
+  - scripts/
+  - test_instagram_image_grab.py
+  - test_instagram_token.py
+  - README.md

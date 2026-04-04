@@ -1,1 +1,13 @@
 /**/.DS_Store
+
+# Jekyll (local build output & caches)
+/_site/
+/.jekyll-cache/
+/.sass-cache/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editor / IDE (personal workspace settings)
+.vscode/

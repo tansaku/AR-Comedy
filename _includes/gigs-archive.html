@@ -1,0 +1,9 @@
+{% assign today = site.time | date: "%Y-%m-%d" %}
+{% assign sorted = site.data.gigs.gigs | sort: "date" | reverse %}
+<ul class="gig-list gig-list-archive">
+  {% for gig in sorted %}
+  {% if gig.date < today %}
+  {% include gig-list-item.html gig=gig %}
+  {% endif %}
+  {% endfor %}
+</ul>
