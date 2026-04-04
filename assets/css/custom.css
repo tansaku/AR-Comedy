@@ -14,7 +14,7 @@
 }
 
 /* --- Reset theme “README / project” feel --- */
-.ar-site {
+.comedy-site {
   font-family: "Source Sans 3", system-ui, sans-serif !important;
   color: var(--text) !important;
   background: var(--bg-deep) !important;
@@ -26,34 +26,34 @@
   min-height: 100vh;
 }
 
-.ar-site h1,
-.ar-site h2,
-.ar-site h3 {
+.comedy-site h1,
+.comedy-site h2,
+.comedy-site h3 {
   font-family: "Fraunces", Georgia, serif !important;
   font-weight: 500 !important;
   color: var(--text) !important;
 }
 
-.ar-site a {
+.comedy-site a {
   color: var(--accent) !important;
   font-weight: 600 !important;
   text-decoration: none;
   border-bottom: 1px solid transparent;
 }
 
-.ar-site a:hover {
+.comedy-site a:hover {
   color: #f4c47a !important;
   border-bottom-color: rgba(232, 165, 75, 0.45);
 }
 
-.ar-site .wrapper {
+.comedy-site .wrapper {
   max-width: var(--content-max) !important;
   padding: 0 1.35rem !important;
   position: relative;
 }
 
 /* Hide legacy fixed header from theme stylesheet (we replaced the layout) */
-.ar-site #header {
+.comedy-site #header {
   display: none !important;
 }
 
@@ -158,9 +158,81 @@
   letter-spacing: -0.02em;
 }
 
-.site-main > h1:first-child,
-.site-main .hero + h2 {
+.site-main > h1:first-child {
   margin-top: 0 !important;
+}
+
+.home-highlights + h2 {
+  margin-top: 0.35rem !important;
+}
+
+/* --- Festival + VR highlight cards --- */
+.home-highlights {
+  margin: 0 0 2rem;
+}
+
+.highlight-cards {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr;
+}
+
+@media (min-width: 640px) {
+  .highlight-cards {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.highlight-card {
+  padding: 1.1rem 1.2rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  margin: 0 !important;
+}
+
+.home-highlights .highlight-card-heading {
+  font-size: 1.12rem !important;
+  font-family: "Fraunces", Georgia, serif !important;
+  margin: 0 0 0.6rem !important;
+  padding: 0 !important;
+  border: none !important;
+  color: #f0ebe4 !important;
+}
+
+.highlight-card-text,
+.highlight-schedule {
+  margin: 0 0 0.65rem !important;
+  font-size: 0.98rem;
+  line-height: 1.55;
+  color: var(--text-muted);
+}
+
+.highlight-schedule {
+  color: var(--text) !important;
+}
+
+.highlight-cta {
+  margin: 0.85rem 0 0 !important;
+  font-size: 0.95rem;
+}
+
+.festival-show-list {
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0.5rem 0 0.75rem !important;
+}
+
+.festival-show-list li {
+  margin: 0 0 0.45rem !important;
+  padding: 0 !important;
+  border: none !important;
+  background: none !important;
+}
+
+.festival-tag {
+  color: var(--text-muted);
+  font-size: 0.88em;
 }
 
 /* --- Hero (home) --- */

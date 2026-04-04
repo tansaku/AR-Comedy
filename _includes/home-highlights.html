@@ -1,0 +1,26 @@
+{% assign hl = site.data.highlights %}
+<section class="home-highlights" aria-label="Festivals and regular VR shows">
+  <div class="highlight-cards">
+    <article class="highlight-card">
+      <h2 class="highlight-card-heading">Brighton &amp; Edinburgh</h2>
+      <p class="highlight-card-text">{{ hl.festivals.intro }}</p>
+      {% assign nshows = hl.festivals.shows | size %}
+      {% if nshows > 0 %}
+      <ul class="festival-show-list">
+        {% for s in hl.festivals.shows %}
+        <li>
+          <strong>{{ s.name }}</strong>{% if s.festival %} <span class="festival-tag">{{ s.festival }}</span>{% endif %}{% if s.dates %} — {{ s.dates }}{% endif %}{% if s.tickets_url %} · <a href="{{ s.tickets_url }}">Tickets</a>{% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+      <p class="highlight-cta"><a href="{{ hl.festivals.instagram_url }}">Instagram — link in bio for tickets &amp; dates →</a></p>
+    </article>
+    <article class="highlight-card">
+      <h2 class="highlight-card-heading">{{ hl.regular_vr.title }}</h2>
+      <p class="highlight-card-text">{{ hl.regular_vr.blurb }}</p>
+      <p class="highlight-schedule"><strong>{{ hl.regular_vr.schedule }}</strong></p>
+      <p class="highlight-card-text"><a href="{{ hl.regular_vr.venue_url }}">{{ hl.regular_vr.venue_label }}</a> in Meta Horizon Worlds</p>
+    </article>
+  </div>
+</section>
