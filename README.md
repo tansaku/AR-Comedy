@@ -15,8 +15,9 @@ One-off migration from the old README list: `python3 scripts/migrate_readme_gigs
 
 ## Repo layout
 
-- `index.md` — main page (podcasts + impressions + upcoming include)
+- `index.md` — main page (gigs + impressions + podcast blurb)
 - `archive.md` — past gigs
+- `podcasts.md` — listen links (Spotify, Apple, RSS); URL `/podcasts/`
 - `assets/css/custom.css` — small style additions
 - `_includes/gigs-upcoming.html`, `gigs-archive.html`, `gig-list-item.html` — gig rendering
 
