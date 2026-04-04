@@ -1,20 +1,24 @@
-# Home page: festival focus + recurring VR. Instagram bio is updated first for tickets;
-# add rows under festivals.shows when you want them mirrored on the site (optional).
+# Home page: festival focus + recurring VR.
+# festivals.shows: ticket URLs should be canonical (no utm_/fbclid).
 
 festivals:
-  intro: "Brighton Fringe and Edinburgh Fringe are the main focus this year. Ticket links and dates hit my Instagram bio first — that’s the source of truth until you list rows below."
+  intro: "Two festival runs of the same show — Brighton first, then Edinburgh. Tickets on the Fringe box-office pages below; Instagram bio stays handy for anything else."
   instagram_url: "https://www.instagram.com/tansaku/"
-  # Optional — add entries to show on the site (in addition to the Instagram CTA):
-  # shows:
-  #   - name: "Show title on poster"
-  #     festival: "Brighton Fringe / Edinburgh Fringe"
-  #     dates: "Aug 2026 (example)"
-  #     tickets_url: "https://..."
-  shows: []
+  shows:
+    - name: "I Think I'm Turning Japanese (I really think so, not!)"
+      festival: Brighton Fringe 2026
+      dates: "Sun 3 May, 7:00pm · Mon 4 May, 5:45pm · Sat 24 & Sun 25 May, 5:45pm"
+      venue: "Laughing Horse @ The Walrus (Hideaway)"
+      tickets_url: "https://www.brightonfringe.org/events/i-think-im-turning-japanese-i-really-think-so-not/"
+    - name: "I Think I'm Turning Japanese (I Really Think So, Not!)"
+      festival: Edinburgh Fringe 2026
+      dates: "20–30 Aug 2026, 21:05 (50 min) — nightly run in this window"
+      venue: "Just the Tonic at The Caves — The Spare Room"
+      tickets_url: "https://edinburgh.justthetonic.com/event/88:5767/"
 
 regular_vr:
   title: "Comedy Booby Trap (VR)"
-  blurb: "The Booby Trap night, in VR — same format as the live shows, hosted in Horizon Worlds."
+  blurb: "Improv standup in VR, in Meta Horizon Worlds, at the legendary Scenic Club."
   schedule: "Every Wednesday & Saturday"
   venue_label: "Scenic Club"
   venue_url: "https://horizon.meta.com/world/151841784428637/"

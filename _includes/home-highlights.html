@@ -9,7 +9,12 @@
       <ul class="festival-show-list">
         {% for s in hl.festivals.shows %}
         <li>
-          <strong>{{ s.name }}</strong>{% if s.festival %} <span class="festival-tag">{{ s.festival }}</span>{% endif %}{% if s.dates %} — {{ s.dates }}{% endif %}{% if s.tickets_url %} · <a href="{{ s.tickets_url }}">Tickets</a>{% endif %}
+          <span class="festival-show-line">
+            <strong>{% if s.tickets_url %}<a href="{{ s.tickets_url }}">{{ s.name }}</a>{% else %}{{ s.name }}{% endif %}</strong>{% if s.festival %} <span class="festival-tag">{{ s.festival }}</span>{% endif %}
+          </span>
+          {% if s.dates %}<span class="festival-dates">{{ s.dates }}</span>{% endif %}
+          {% if s.venue %}<span class="festival-venue">{{ s.venue }}</span>{% endif %}
+          {% if s.tickets_url %}<span class="festival-tickets"><a href="{{ s.tickets_url }}">Book tickets →</a></span>{% endif %}
         </li>
         {% endfor %}
       </ul>

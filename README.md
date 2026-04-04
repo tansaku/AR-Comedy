@@ -15,7 +15,7 @@ One-off migration from the old README list: `python3 scripts/migrate_readme_gigs
 
 ## Home highlights (festivals & VR)
 
-Edit [`_data/highlights.yml`](_data/highlights.yml) for the Brighton/Edinburgh blurb and the repeating **Comedy Booby Trap (VR)** block. Optionally add rows under `festivals.shows` to mirror ticket links and dates on the site. The [Instagram bio](https://www.instagram.com/tansaku/) is still the first place you update; this stack does not pull from Instagram automatically (that would need a separate API or build step).
+Edit [`_data/highlights.yml`](_data/highlights.yml) for the Brighton/Edinburgh blurb and the repeating **Comedy Booby Trap (VR)** block. Under `festivals.shows`, each row supports `name`, `festival`, `dates`, optional `venue`, and `tickets_url` (use canonical URLs without tracking query params). The [Instagram bio](https://www.instagram.com/tansaku/) is for quick updates; this file is what the site renders.
 
 ## Repo layout
 
