@@ -5,19 +5,19 @@
 
 gigs:
   -
+    date: "2026-04-14"
+    kind: "performed"
+    show: "Healing Comedy Club"
+    schedule: "Doors 18:30, Show from 19:00"
+    venue: "The Drayton Court Pub and Hotel, 2 The Avenue, London, W13 8PH"
+    venue_map_url: "https://maps.app.goo.gl/A2b4Ev8kvNwytHCM7"
+  -
     date: "2026-04-09"
     kind: "performed"
     show: "Free Me Abeg: Comedy Playground"
     schedule: "Doors 19:30, Show from 20:00"
     venue: "The Brookmill Pub, 65 Cranbrook Rd, London, SE8 4EJ"
     venue_map_url: "https://maps.app.goo.gl/Mmc6ppKGjyxnK5JK7"
-  -
-    date: "2026-04-07"
-    kind: "performed"
-    show: "Healing Comedy Club"
-    schedule: "Doors 18:30, Show from 19:00"
-    venue: "The Drayton Court Pub and Hotel, 2 The Avenue, London, W13 8PH"
-    venue_map_url: "https://maps.app.goo.gl/A2b4Ev8kvNwytHCM7"
   -
     date: "2026-04-07"
     kind: "performed"
