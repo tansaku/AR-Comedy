@@ -5,6 +5,13 @@
 
 gigs:
   -
+    date: "2026-04-16"
+    kind: "performed"
+    show: "Virtue Comedy Club"
+    schedule: "Doors 19:00, Show from 19:30"
+    venue: "The Long Acres, 1 Upper St Martin's Lane, London, WC2H 9NY"
+    venue_map_url: "https://maps.app.goo.gl/Kc9r6wykfR5xZu1k9"
+  -
     date: "2026-04-14"
     kind: "performed"
     show: "Healing Comedy Club"
