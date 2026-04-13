@@ -24,9 +24,11 @@ Edit [`_data/highlights.yml`](_data/highlights.yml) for the Brighton/Edinburgh b
 - `archive.md` — past gigs
 - `podcasts.md` — listen links (Spotify, Apple, RSS); URL `/podcasts/`
 - `assets/css/custom.css` — small style additions
-- `_includes/gigs-upcoming.html`, `gigs-archive.html`, `gig-list-item.html`, `home-highlights.html` — gig rendering / home panels
+- `_includes/gigs-upcoming.html`, `gigs-archive.html`, `gig-list-item.html`, `poster-strip.html`, `home-showcase.html` — gig rendering / home posters + copy
 
 Other HTML assets in the repo (set lists, etc.) are unchanged.
+
+**Longer-term site plans** (posters, branding, booker flow): see [`docs/SITE-ROADMAP.md`](docs/SITE-ROADMAP.md).
 
 ## Going live (GitHub Pages)
 

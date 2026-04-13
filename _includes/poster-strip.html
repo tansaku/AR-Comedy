@@ -1,0 +1,17 @@
+{% assign hl = site.data.highlights %}
+{% assign brighton = hl.festivals.shows | where: "festival", "Brighton Fringe 2026" | first %}
+{% if brighton == nil %}{% assign brighton = hl.festivals.shows | first %}{% endif %}
+<div class="poster-strip" role="group" aria-label="Show posters">
+  <a class="poster-card" href="{% if brighton.tickets_url %}{{ brighton.tickets_url }}{% else %}#{% endif %}">
+    <span class="poster-card-visual">
+      <img class="poster-card-img" src="{{ '/assets/images/brighton-fringe-2026-turning-japanese.png' | relative_url }}" width="811" height="1024" loading="eager" decoding="async" alt="Brighton Fringe 2026 — I Think I'm Turning Japanese (I really think so, not!). Poster: Walrus Hideaway, May dates.">
+    </span>
+    <span class="poster-card-label">Brighton Fringe · tickets</span>
+  </a>
+  <a class="poster-card" href="{{ hl.regular_vr.venue_url }}">
+    <span class="poster-card-visual">
+      <img class="poster-card-img" src="{{ '/assets/images/comedy-booby-trap-vr.png' | relative_url }}" width="1024" height="1024" loading="eager" decoding="async" alt="Comedy Booby Trap with Sam Joseph — weekly in Meta Horizon Worlds, Scenic Club. Wed & Sat 10:30pm UK.">
+    </span>
+    <span class="poster-card-label">VR Booby Trap · Scenic Club</span>
+  </a>
+</div>

@@ -2,6 +2,7 @@ theme: jekyll-theme-midnight
 title: Sam Joseph
 description: Stand-up comedy, VR Comedy Booby Trap, Brighton & Edinburgh — podcasts & gig archive.
 url: https://comedy.neurogrid.com
+booking_email: tansaku@gmail.com
 exclude:
   - scripts/
   - test_instagram_image_grab.py

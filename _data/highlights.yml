@@ -2,7 +2,7 @@
 # festivals.shows: ticket URLs should be canonical (no utm_/fbclid).
 
 festivals:
-  intro: "Two festival runs of the same show — Brighton first, then Edinburgh. Tickets on the Fringe box-office pages below; Instagram bio stays handy for anything else."
+  intro: "Three festival runs of the same show — Leicester first, Brighton second, then Edinburgh. Tickets on the Fringe box-office pages below; Instagram bio stays handy for anything else."
   instagram_url: "https://www.instagram.com/tansaku/"
   shows:
     - name: "I Think I'm Turning Japanese (I really think so, not!)"
@@ -18,7 +18,7 @@ festivals:
 
 regular_vr:
   title: "Comedy Booby Trap (VR)"
-  blurb: "Improv standup in VR, in Meta Horizon Worlds, at the legendary Scenic Club."
-  schedule: "Every Wednesday & Saturday"
+  blurb: "Improv stand-up in VR in Meta Horizon Worlds, at the Scenic Club — Wed & Sat from 10:30pm UK."
+  schedule: "Every Wednesday & Saturday · 10:30pm UK"
   venue_label: "Scenic Club"
   venue_url: "https://horizon.meta.com/world/151841784428637/"

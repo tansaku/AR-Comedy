@@ -162,28 +162,37 @@
   margin-top: 0 !important;
 }
 
-.home-highlights + h2 {
+.home-showcase + h2 {
   margin-top: 0.35rem !important;
 }
 
-/* --- Festival + VR highlight cards --- */
-.home-highlights {
+/* --- Home showcase: posters once, then text columns + Edinburgh span --- */
+.home-showcase {
   margin: 0 0 2rem;
 }
 
-.highlight-cards {
+.showcase-intro {
+  margin: 0 0 1.25rem !important;
+  font-size: 0.98rem;
+  line-height: 1.55;
+  color: var(--text-muted);
+  max-width: none;
+}
+
+.showcase-grid {
   display: grid;
   gap: 1rem;
   grid-template-columns: 1fr;
 }
 
 @media (min-width: 640px) {
-  .highlight-cards {
+  .showcase-grid {
     grid-template-columns: 1fr 1fr;
+    align-items: stretch;
   }
 }
 
-.highlight-card {
+.showcase-col {
   padding: 1.1rem 1.2rem;
   background: var(--surface);
   border: 1px solid var(--border);
@@ -191,7 +200,20 @@
   margin: 0 !important;
 }
 
-.home-highlights .highlight-card-heading {
+.showcase-span.showcase-edinburgh {
+  margin-top: 1rem;
+  padding: 1.1rem 1.2rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+
+.showcase-instagram {
+  margin: 1rem 0 0 !important;
+  text-align: center;
+}
+
+.home-showcase .showcase-heading {
   font-size: 1.12rem !important;
   font-family: "Fraunces", Georgia, serif !important;
   margin: 0 0 0.6rem !important;
@@ -223,15 +245,56 @@
   margin: 0.5rem 0 0.75rem !important;
 }
 
-.festival-show-list li {
+.festival-show-list li.festival-show-item {
   margin: 0 0 1rem !important;
   padding: 0 0 0.85rem !important;
   border: none !important;
   border-bottom: 1px solid rgba(255, 255, 255, 0.06) !important;
   background: none !important;
   display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 0.75rem;
+}
+
+.festival-show-body {
+  flex: 1;
+  min-width: 0;
+  display: flex;
   flex-direction: column;
   gap: 0.3rem;
+}
+
+.festival-poster-link {
+  flex: 0 0 auto;
+  line-height: 0;
+  border: none !important;
+}
+
+.festival-poster-thumb {
+  display: block;
+  width: 76px;
+  height: auto;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+}
+
+@media (max-width: 480px) {
+  .festival-show-list li.festival-show-item {
+    flex-direction: column;
+  }
+  .festival-poster-thumb {
+    width: 100%;
+    max-width: 100px;
+  }
+}
+
+.festival-show-list--text-only li.festival-show-item {
+  flex-direction: column;
+  gap: 0.35rem;
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+  border-bottom: none !important;
 }
 
 .festival-show-list li:last-child {
@@ -303,6 +366,105 @@
 .hero-social .sep {
   margin: 0 0.45rem;
   opacity: 0.45;
+}
+
+.hero-tagline {
+  font-family: "Fraunces", Georgia, serif !important;
+  font-size: 1.2rem;
+  line-height: 1.35;
+  color: #e4b87a !important;
+  margin: 0 0 0.65rem !important;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.hero-cred {
+  font-size: 0.92rem;
+  line-height: 1.5;
+  color: var(--text-muted) !important;
+  margin: 0 0 0.65rem !important;
+}
+
+.hero-quote {
+  font-size: 0.88rem;
+  line-height: 1.45;
+  color: var(--text-muted) !important;
+  margin: 0 0 1rem !important;
+  opacity: 0.95;
+}
+
+/* --- Poster strip (home): one full poster each, shared frame height --- */
+.poster-strip {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.85rem;
+  margin: 0 0 1.5rem;
+  max-width: 100%;
+  align-items: stretch;
+}
+
+@media (max-width: 520px) {
+  .poster-strip {
+    grid-template-columns: 1fr;
+  }
+}
+
+.poster-card {
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+  text-decoration: none !important;
+  border-bottom: none !important;
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+
+.poster-card:hover {
+  border-color: rgba(232, 165, 75, 0.45) !important;
+  transform: translateY(-2px);
+}
+
+.poster-card-visual {
+  flex: 1 1 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: min(52vw, 340px);
+  padding: 0.65rem 0.45rem;
+  background: rgba(0, 0, 0, 0.22);
+}
+
+@media (min-width: 640px) {
+  .poster-card-visual {
+    min-height: 320px;
+  }
+}
+
+.poster-card-img {
+  display: block;
+  max-width: 100%;
+  max-height: min(52vh, 440px);
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  object-position: center center;
+}
+
+.poster-card-label {
+  display: block;
+  padding: 0.45rem 0.65rem 0.55rem;
+  font-size: 0.82rem;
+  font-weight: 600;
+  text-align: center;
+  color: var(--text-muted) !important;
+  background: rgba(0, 0, 0, 0.2);
+}
+
+.poster-card:hover .poster-card-label {
+  color: var(--accent) !important;
 }
 
 /* --- Section headings in flow --- */

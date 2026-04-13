@@ -1,20 +1,26 @@
 ---
 layout: default
 title: Sam Joseph — comedy
-description: Stand-up comedy, VR Comedy Booby Trap, festivals — gig archive & podcast.
+description: Stand-up comedy, VR Comedy Booby Trap, Brighton & Edinburgh 2026 — book for gigs and festivals.
+image: /assets/images/brighton-fringe-2026-turning-japanese.png
 ---
 
 <section class="hero" aria-labelledby="hero-heading">
   <h1 id="hero-heading" class="hero-title">Sam Joseph</h1>
-  <p class="hero-lede">Stand-up comic — clubs, festivals, and the odd tech tangent. This year’s big push is <strong>Brighton</strong> and <strong>Edinburgh</strong>; ticket links land in my Instagram bio first.</p>
+  <p class="hero-tagline">Comedian, parent, recovering tech person — midlife sold separately.</p>
+  <p class="hero-lede">Stand-up on Japan, bilingual family life, and sharp tech jokes. <strong>Brighton</strong> &amp; <strong>Edinburgh 2026</strong>: <em>I Think I’m Turning Japanese (I really think so, not!)</em> · Weekly <strong>Comedy Booby Trap</strong> in VR (Scenic Club).</p>
+  <p class="hero-cred">Previously: solo show at Leicester, Brighton &amp; Tunbridge Wells Fringes. Podcast: <a href="{{ '/podcasts/' | relative_url }}">Comedians on Technology, People and Drugs</a>.</p>
+  <p class="hero-quote" role="note"><em>“Like a geek, grown up”</em> — Markus Birdman</p>
   <p class="hero-social">
     <a href="https://www.instagram.com/tansaku/">Instagram</a>
     <span class="sep" aria-hidden="true">·</span>
     <a href="https://www.facebook.com/tansaku">Facebook</a>
+    <span class="sep" aria-hidden="true">·</span>
+    <a href="{{ '/booking/' | relative_url }}">Book me</a>
   </p>
 </section>
 
-{% include home-highlights.html %}
+{% include home-showcase.html %}
 
 ## Upcoming gigs
 

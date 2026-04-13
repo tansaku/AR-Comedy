@@ -1,0 +1,55 @@
+{% assign hl = site.data.highlights %}
+{% assign brighton_show = hl.festivals.shows | where: "festival", "Brighton Fringe 2026" | first %}
+{% if brighton_show == nil %}{% assign brighton_show = hl.festivals.shows | first %}{% endif %}
+{% assign edinburgh_show = hl.festivals.shows | where: "festival", "Edinburgh Fringe 2026" | first %}
+
+<section class="home-showcase" aria-label="Shows and festivals">
+  {% include poster-strip.html %}
+
+  <p class="showcase-intro">{{ hl.festivals.intro }}</p>
+
+  <div class="showcase-grid">
+    <article class="showcase-col showcase-col-brighton">
+      <h2 class="showcase-heading">Brighton Fringe</h2>
+      {% if brighton_show %}
+      <ul class="festival-show-list festival-show-list--text-only">
+        <li class="festival-show-item">
+          <div class="festival-show-body">
+            <span class="festival-show-line">
+              <strong>{% if brighton_show.tickets_url %}<a href="{{ brighton_show.tickets_url }}">{{ brighton_show.name }}</a>{% else %}{{ brighton_show.name }}{% endif %}</strong>
+              <span class="festival-tag">{{ brighton_show.festival }}</span>
+            </span>
+            {% if brighton_show.dates %}<span class="festival-dates">{{ brighton_show.dates }}</span>{% endif %}
+            {% if brighton_show.venue %}<span class="festival-venue">{{ brighton_show.venue }}</span>{% endif %}
+            {% if brighton_show.tickets_url %}<span class="festival-tickets"><a href="{{ brighton_show.tickets_url }}">Book tickets →</a></span>{% endif %}
+          </div>
+        </li>
+      </ul>
+      {% endif %}
+    </article>
+
+    <article class="showcase-col showcase-col-vr">
+      <h2 class="showcase-heading">{{ hl.regular_vr.title }}</h2>
+      <p class="highlight-card-text">{{ hl.regular_vr.blurb }}</p>
+      <p class="highlight-schedule"><strong>{{ hl.regular_vr.schedule }}</strong></p>
+      <p class="highlight-card-text"><a href="{{ hl.regular_vr.venue_url }}">{{ hl.regular_vr.venue_label }}</a> in Meta Horizon Worlds</p>
+    </article>
+  </div>
+
+  {% if edinburgh_show %}
+  <div class="showcase-span showcase-edinburgh">
+    <h2 class="showcase-heading">Edinburgh Fringe</h2>
+    <div class="festival-show-body">
+      <span class="festival-show-line">
+        <strong>{% if edinburgh_show.tickets_url %}<a href="{{ edinburgh_show.tickets_url }}">{{ edinburgh_show.name }}</a>{% else %}{{ edinburgh_show.name }}{% endif %}</strong>
+        <span class="festival-tag">{{ edinburgh_show.festival }}</span>
+      </span>
+      {% if edinburgh_show.dates %}<span class="festival-dates">{{ edinburgh_show.dates }}</span>{% endif %}
+      {% if edinburgh_show.venue %}<span class="festival-venue">{{ edinburgh_show.venue }}</span>{% endif %}
+      {% if edinburgh_show.tickets_url %}<span class="festival-tickets"><a href="{{ edinburgh_show.tickets_url }}">Book tickets →</a></span>{% endif %}
+    </div>
+  </div>
+  {% endif %}
+
+  <p class="highlight-cta showcase-instagram"><a href="{{ hl.festivals.instagram_url }}">Instagram — link in bio for tickets &amp; dates →</a></p>
+</section>
