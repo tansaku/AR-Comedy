@@ -5,6 +5,13 @@
 
 gigs:
   -
+    date: "2026-04-21"
+    kind: "performed"
+    show: "Hood Rat Comedy"
+    schedule: "Doors 19:30, Show from 20:00"
+    venue: "Rumba, 36 Shaftesbury Avenue, London W1D 7EP"
+    venue_map_url: "https://maps.app.goo.gl/LNgvSK7eym2BkWEXA"
+  -
     date: "2026-04-16"
     kind: "performed"
     show: "Virtue Comedy Club"
