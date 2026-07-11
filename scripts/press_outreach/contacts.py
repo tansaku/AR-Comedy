@@ -132,7 +132,12 @@ def contact_to_dict(contact: MediaContact) -> dict[str, str | int]:
     return data
 
 
-def build_contact_notes_html(contact: MediaContact) -> str:
+def build_contact_notes_html(
+    contact: MediaContact,
+    *,
+    intro_suggestion: str = "",
+    london_note: str = "",
+) -> str:
     """Editable reference block at the top of the compose window — delete before sending."""
     fields = [
         ("Row", str(contact.row)),
@@ -147,13 +152,24 @@ def build_contact_notes_html(contact: MediaContact) -> str:
         f"<div><strong>{html.escape(label)}:</strong> {html.escape(value or '—')}</div>"
         for label, value in fields
     )
+    extras = ""
+    if intro_suggestion.strip():
+        extras += (
+            f'<div style="margin-top:8px;"><strong>Intro idea (optional):</strong> '
+            f"{html.escape(intro_suggestion)}</div>"
+        )
+    if london_note.strip():
+        extras += (
+            f'<div style="margin-top:8px;"><strong>London preview note (optional):</strong> '
+            f"{html.escape(london_note)}</div>"
+        )
     return (
         '<div id="press-contact-notes" style="margin:0 0 16px 0;padding:12px 14px;'
         "border:2px dashed #888;background:#f5f5f5;color:#333;font-family:Arial,sans-serif;"
         'font-size:11pt;line-height:1.5;">'
         "<p style=\"margin:0 0 8px 0;\"><strong>Contact notes — delete this whole "
         "grey box before sending</strong></p>"
-        f"{lines}"
+        f"{lines}{extras}"
         "<hr style=\"margin:12px 0 0 0;border:none;border-top:1px solid #bbb;\">"
         "</div>"
     )

@@ -13,8 +13,10 @@ Usage:
   python3 scripts/press_outreach/compose_next.py --refresh-template
   python3 scripts/press_outreach/compose_next.py --once
   python3 scripts/press_outreach/compose_next.py --dry-run
+  python3 scripts/press_outreach/compose_next.py --no-llm
 
 Requires Thunderbird at /Applications/Thunderbird.app
+Set OPENROUTER_API_KEY in .env for LLM-generated hook lines (see .env.example).
 Close the Numbers contact list before running (so highlights can be saved).
 """
 
@@ -34,7 +36,8 @@ from contacts import (
     load_contacts,
     summarise,
 )
-from intros import draft_intro, draft_london_note
+from intros import draft_hook_line, draft_london_note
+from sent_examples import load_sent_hook_examples
 from sync_sent import sent_mail_size, sync_and_mark, wait_for_press_send
 from template import build_compose_arg, describe_cached_template, write_personalised_html
 
@@ -72,6 +75,11 @@ def parse_args() -> argparse.Namespace:
         default=3.0,
         help="How often to check Sent Mail when waiting for a send (default: 3)",
     )
+    parser.add_argument(
+        "--no-llm",
+        action="store_true",
+        help="Skip OpenRouter; use rule-based hook lines only",
+    )
     return parser.parse_args()
 
 
@@ -97,28 +105,36 @@ def prepare_compose_for_contact(
     contact: MediaContact,
     *,
     refresh_template: bool,
+    use_llm: bool,
+    hook_examples=None,
 ) -> tuple[Path, str, str]:
-    intro = draft_intro(contact)
+    hook_line, hook_source = draft_hook_line(
+        contact, use_llm=use_llm, examples=hook_examples
+    )
     london_note = draft_london_note(contact)
-    notes_html = build_contact_notes_html(contact)
+    notes_html = build_contact_notes_html(
+        contact,
+        intro_suggestion=hook_line,
+        london_note=london_note,
+    )
 
     print(f"\nNext: row {contact.row} — {contact.name} <{contact.email}>")
     print(f"Org: {contact.organisation}")
-    print(f"Intro draft: {intro}")
+    print(f"Hook ({hook_source}): {hook_line}")
     if london_note:
-        print(f"London note: {london_note}")
+        print(f"London note idea (in grey box only): {london_note}")
     print(
         "\nGrey contact-notes box is at the top of the compose window — "
-        "use it for personalisation, then delete it before sending."
+        "use it for reference, then delete it before sending."
     )
+    print("Template hook line is injected into the email body for you to edit.")
 
     html_path = COMPOSE_DIR / f"row-{contact.row}.html"
     html_path, subject = write_personalised_html(
         html_path,
         first_name=contact.first_name,
-        intro=intro,
-        london_note=london_note,
         contact_notes_html=notes_html,
+        hook_line=hook_line,
         refresh_template=refresh_template,
     )
     compose_arg = build_compose_arg(
@@ -136,16 +152,24 @@ def open_compose_for_contact(
     contact: MediaContact,
     *,
     refresh_template: bool,
+    use_llm: bool,
+    hook_examples=None,
 ) -> None:
     _, _, compose_arg = prepare_compose_for_contact(
-        contact, refresh_template=refresh_template
+        contact,
+        refresh_template=refresh_template,
+        use_llm=use_llm,
+        hook_examples=hook_examples,
     )
     launch_compose(compose_arg)
 
 
-def run_once(args: argparse.Namespace, contact: MediaContact) -> int:
+def run_once(args: argparse.Namespace, contact: MediaContact, hook_examples=None) -> int:
     _, _, compose_arg = prepare_compose_for_contact(
-        contact, refresh_template=args.refresh_template
+        contact,
+        refresh_template=args.refresh_template,
+        use_llm=not args.no_llm,
+        hook_examples=hook_examples,
     )
     if args.dry_run:
         print("(dry-run — not launching Thunderbird)")
@@ -157,7 +181,7 @@ def run_once(args: argparse.Namespace, contact: MediaContact) -> int:
     return 0
 
 
-def run_loop(args: argparse.Namespace) -> int:
+def run_loop(args: argparse.Namespace, hook_examples=None) -> int:
     if not THUNDERBIRD.exists() and not args.dry_run:
         print(f"Thunderbird not found at {THUNDERBIRD}", file=sys.stderr)
         return 1
@@ -176,12 +200,22 @@ def run_loop(args: argparse.Namespace) -> int:
 
         contact = pending[0]
         if args.dry_run:
-            prepare_compose_for_contact(contact, refresh_template=args.refresh_template)
+            prepare_compose_for_contact(
+                contact,
+                refresh_template=args.refresh_template,
+                use_llm=not args.no_llm,
+                hook_examples=hook_examples,
+            )
             print("(dry-run — not launching Thunderbird or waiting for send)")
             return 0
 
         watch_offset = sent_mail_size()
-        open_compose_for_contact(contact, refresh_template=args.refresh_template)
+        open_compose_for_contact(
+            contact,
+            refresh_template=args.refresh_template,
+            use_llm=not args.no_llm,
+            hook_examples=hook_examples,
+        )
 
         try:
             wait_for_press_send(
@@ -217,11 +251,17 @@ def main() -> int:
         print("No actionable pending contacts left.")
         return 0
 
+    hook_examples = None
+    if not args.no_llm:
+        print("Loading sent hook examples for LLM few-shot...")
+        hook_examples = load_sent_hook_examples()
+        print(f"Using {len(hook_examples)} sent examples.")
+
     if args.once or args.dry_run:
         pending = [c for c in contacts if c.is_actionable]
-        return run_once(args, pending[0])
+        return run_once(args, pending[0], hook_examples=hook_examples)
 
-    return run_loop(args)
+    return run_loop(args, hook_examples=hook_examples)
 
 
 if __name__ == "__main__":

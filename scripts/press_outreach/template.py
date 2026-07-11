@@ -21,15 +21,48 @@ THUNDERBIRD_PROFILE = Path.home() / (
 SUBJECT_MARKER = "ED_FRINGE_PRESS_RELEASE"
 FROM_EMAIL = "tansaku@gmail.com"
 
-GREETING_RE = re.compile(
-    r"(<span[^>]*>)(Hi )[^,<]+(,)(</span>)",
-    re.IGNORECASE,
-)
-INTRO_RE = re.compile(
-    r"(<span[^>]*>)(Hope you're well[^<]*?)(Best, Sam Joseph)(</span>)",
-    re.DOTALL,
-)
+GREETING_RE = re.compile(r"Hi\s+[^,<]+,\s*", re.IGNORECASE)
 BODY_OPEN_RE = re.compile(r"(<body[^>]*>)", re.IGNORECASE)
+HOOK_BLOCK_RE = re.compile(
+    r"(Hope you're well - Just sharing the press release for my upcoming Edinburgh show\.\s*)(.*?)(\s*Best, Sam Joseph)",
+    re.DOTALL | re.IGNORECASE,
+)
+INTRO_PARAGRAPH_STYLE = "margin-top:0pt;margin-bottom:0pt;"
+INTRO_PARAGRAPH_STYLE_SPACED = "margin-top:0pt;margin-bottom:12pt;"
+PRE_WRAP_SPAN_RE = re.compile(
+    r'(white-space:\s*pre-wrap;">)(.*?)(</span>)',
+    re.DOTALL | re.IGNORECASE,
+)
+def _newlines_to_br(text: str) -> str:
+    text = text.replace("\r\n", "\n").replace("\r", "\n")
+    text = text.replace("\n\n", "<br><br>")
+    return text.replace("\n", "<br>")
+
+
+def normalize_line_breaks_for_compose(html: str) -> str:
+    """Make intro line breaks survive Thunderbird's compose HTML importer."""
+    marker = "Press Release"
+    split_at = html.find(marker)
+    if split_at < 0:
+        prefix, suffix = html, ""
+    else:
+        prefix, suffix = html[:split_at], html[split_at:]
+
+    prefix = prefix.replace(INTRO_PARAGRAPH_STYLE, INTRO_PARAGRAPH_STYLE_SPACED)
+
+    def span_replacer(match: re.Match[str]) -> str:
+        return match.group(1) + _newlines_to_br(match.group(2)) + match.group(3)
+
+    prefix = PRE_WRAP_SPAN_RE.sub(span_replacer, prefix)
+    return prefix + suffix
+
+
+def replace_greeting_name(html: str, first_name: str) -> str:
+    """Swap the template greeting name; spacing comes from the following <p> tags."""
+    greeting = GREETING_RE.search(html)
+    if not greeting:
+        raise ValueError("Could not find greeting ('Hi …,') in press-release template")
+    return GREETING_RE.sub(f"Hi {first_name},", html, count=1)
 
 
 def discover_template_sources(profile_dir: Path | None = None) -> list[Path]:
@@ -214,36 +247,41 @@ def inject_contact_notes(html: str, notes_html: str) -> str:
     return html[:insert_at] + notes_html + html[insert_at:]
 
 
+def inject_hook_line(html: str, hook_line: str) -> str:
+    """Replace the template's default hook with a personalised angle."""
+    hook_line = hook_line.strip()
+    if not hook_line:
+        return html
+
+    def replacer(match: re.Match[str]) -> str:
+        return f"{match.group(1)}{hook_line}{match.group(3)}"
+
+    updated, count = HOOK_BLOCK_RE.subn(replacer, html, count=1)
+    if count != 1:
+        raise ValueError("Could not find hook block in press-release template")
+    return updated
+
+
 def personalise_html(
     html: str,
     *,
     first_name: str,
-    intro: str,
-    london_note: str = "",
     contact_notes_html: str = "",
+    hook_line: str = "",
 ) -> str:
+    """Inject contact notes, swap greeting name, and optionally replace the hook."""
     html = inject_contact_notes(html, contact_notes_html)
-    html = GREETING_RE.sub(rf"\1Hi {first_name}\3\4", html, count=1)
-
-    intro_text = intro.strip()
-    if london_note.strip():
-        intro_text = f"{intro_text}\n\n{london_note.strip()}"
-
-    def replace_intro(match: re.Match[str]) -> str:
-        return f"{match.group(1)}{intro_text}\n{match.group(3)}{match.group(4)}"
-
-    html, count = INTRO_RE.subn(replace_intro, html, count=1)
-    if count != 1:
-        raise ValueError("Could not find intro block in press-release template")
-    return html
+    html = replace_greeting_name(html, first_name)
+    if hook_line:
+        html = inject_hook_line(html, hook_line)
+    return normalize_line_breaks_for_compose(html)
 
 
 def build_compose_html(
     *,
     first_name: str,
-    intro: str,
-    london_note: str = "",
     contact_notes_html: str = "",
+    hook_line: str = "",
     templates_paths: list[Path] | None = None,
     cache_path: Path | None = None,
     refresh_template: bool = False,
@@ -256,9 +294,8 @@ def build_compose_html(
     html = personalise_html(
         html,
         first_name=first_name,
-        intro=intro,
-        london_note=london_note,
         contact_notes_html=contact_notes_html,
+        hook_line=hook_line,
     )
     return decode_subject(message), html
 
@@ -267,18 +304,16 @@ def write_personalised_html(
     output_path: Path,
     *,
     first_name: str,
-    intro: str,
-    london_note: str = "",
     contact_notes_html: str = "",
+    hook_line: str = "",
     templates_paths: list[Path] | None = None,
     cache_path: Path | None = None,
     refresh_template: bool = False,
 ) -> tuple[Path, str]:
     subject, html = build_compose_html(
         first_name=first_name,
-        intro=intro,
-        london_note=london_note,
         contact_notes_html=contact_notes_html,
+        hook_line=hook_line,
         templates_paths=templates_paths,
         cache_path=cache_path,
         refresh_template=refresh_template,

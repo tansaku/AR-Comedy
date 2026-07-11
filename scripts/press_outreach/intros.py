@@ -97,12 +97,24 @@ def _org_hook(contact: MediaContact) -> str | None:
 
 
 def draft_intro(contact: MediaContact) -> str:
-    """Return a first-pass intro paragraph for human review."""
+    """Return a first-pass intro paragraph for human review (rule-based)."""
     base = "Hope you're well - Just sharing the press release for my upcoming Edinburgh show."
     hook = _org_hook(contact) or _interest_hook(contact)
     if hook:
         return f"{base}  {hook}"
     return base
+
+
+def draft_hook_line(
+    contact: MediaContact,
+    *,
+    use_llm: bool = True,
+    examples=None,
+) -> tuple[str, str]:
+    """Return (hook_only, source) — hook is injected into the template body."""
+    from llm_hook import draft_hook
+
+    return draft_hook(contact, use_llm=use_llm, examples=examples)
 
 
 def draft_london_note(contact: MediaContact) -> str:
