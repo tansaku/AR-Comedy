@@ -9,5 +9,14 @@
 __pycache__/
 *.py[cod]
 
+# Press outreach drafts (generated .eml files; may contain recipient addresses)
+data/.press-compose-base.eml
+data/.press-compose-base.json
+data/.press-compose-drafts/
+data/.press-outreach-sent-sync.json
+data/press-outreach-mail-merge.csv
+data/press-outreach-manifest.json
+data/*.numbers
+
 # Editor / IDE (personal workspace settings)
 .vscode/
