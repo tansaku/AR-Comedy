@@ -10,10 +10,9 @@ from typing import Literal
 
 from numbers_parser import Document
 
-Status = Literal["sent", "skip", "pending"]
+from numbers_style import SENT_BG, SKIP_BG, row_status_from_name_cell, style_entire_row
 
-SENT_BG = (255, 240, 86)
-SKIP_BG = (254, 174, 0)
+Status = Literal["sent", "skip", "pending"]
 
 DEFAULT_NUMBERS_PATH = (
     Path(__file__).resolve().parents[2] / "data" / "2026 Media Contact List .numbers"
@@ -68,17 +67,8 @@ class MediaContact:
 
 
 def classify_row_status(table, row: int) -> Status:
-    cell = table.cell(row, COLUMNS["name"])
-    style = cell.style
-    if not style or not getattr(style, "bg_color", None):
-        return "pending"
-    bg = style.bg_color
-    rgb = (bg.r, bg.g, bg.b)
-    if rgb == SENT_BG:
-        return "sent"
-    if rgb == SKIP_BG:
-        return "skip"
-    return "pending"
+    status = row_status_from_name_cell(table, row, COLUMNS["name"])
+    return status  # type: ignore[return-value]
 
 
 def first_name_from(full_name: str) -> str:

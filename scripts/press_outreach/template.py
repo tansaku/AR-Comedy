@@ -30,6 +30,10 @@ HOOK_BLOCK_RE = re.compile(
     r"(Hope you're well - Just sharing the press release for my upcoming Edinburgh show\.\s*)(.*?)(\s*Best, Sam Joseph)",
     re.DOTALL | re.IGNORECASE,
 )
+INDUSTRY_HOOK_BLOCK_RE = re.compile(
+    r"(Hope you're well — I'm up at Edinburgh Fringe with a solo comedy hour and wanted to reach out\.\s*)(.*?)(\s*Best, Sam Joseph)",
+    re.DOTALL | re.IGNORECASE,
+)
 IMG_TAG_RE = re.compile(r"<img\b[^>]*>", re.IGNORECASE)
 DATA_IMAGE_SRC_RE = re.compile(r'src="data:image/[^"]+"', re.IGNORECASE)
 CID_IMAGE_SRC_RE = re.compile(r'src="cid:[^"]+"', re.IGNORECASE)
@@ -312,7 +316,13 @@ def inject_sign_off_extras(
     return (updated_prefix if count else prefix) + suffix
 
 
-def inject_hook_line(html: str, hook_line: str, *, required: bool = True) -> str:
+def inject_hook_line(
+    html: str,
+    hook_line: str,
+    *,
+    required: bool = True,
+    industry_mode: bool = False,
+) -> str:
     """Replace the template's default hook with a personalised angle."""
     hook_line = hook_line.strip()
     if not hook_line:
@@ -321,10 +331,14 @@ def inject_hook_line(html: str, hook_line: str, *, required: bool = True) -> str
     def replacer(match: re.Match[str]) -> str:
         return f"{match.group(1)}{hook_line}{match.group(3)}"
 
-    updated, count = HOOK_BLOCK_RE.subn(replacer, html, count=1)
-    if count != 1 and required:
-        raise ValueError("Could not find hook block in press-release template")
-    return updated
+    patterns = [INDUSTRY_HOOK_BLOCK_RE, HOOK_BLOCK_RE] if industry_mode else [HOOK_BLOCK_RE]
+    for pattern in patterns:
+        updated, count = pattern.subn(replacer, html, count=1)
+        if count == 1:
+            return updated
+    if required:
+        raise ValueError("Could not find hook block in email template")
+    return html
 
 
 def personalise_html(
@@ -337,12 +351,15 @@ def personalise_html(
     london_ps: str = "",
     require_hook_block: bool = True,
     require_sign_off_block: bool = True,
+    industry_mode: bool = False,
 ) -> str:
     """Inject contact notes, swap greeting name, and optionally replace the hook."""
     html = inject_contact_notes(html, contact_notes_html)
     html = replace_greeting_name(html, first_name)
     if hook_line:
-        html = inject_hook_line(html, hook_line, required=require_hook_block)
+        html = inject_hook_line(
+            html, hook_line, required=require_hook_block, industry_mode=industry_mode
+        )
     html = inject_sign_off_extras(
         html,
         include_instagram=include_instagram,
@@ -362,6 +379,7 @@ def build_compose_html(
     london_ps: str = "",
     templates_paths: list[Path] | None = None,
     refresh_template: bool = False,
+    industry_mode: bool = False,
 ) -> tuple[str, str]:
     """Return (subject, personalised HTML body) ready for Thunderbird -compose."""
     eml_bytes = load_base_eml(campaign, templates_paths, refresh=refresh_template)
@@ -377,6 +395,7 @@ def build_compose_html(
         london_ps=london_ps,
         require_hook_block=campaign.require_hook_block,
         require_sign_off_block=campaign.require_sign_off_block,
+        industry_mode=industry_mode,
     )
     return decode_subject(message, fallback=campaign.subject_marker), html
 
@@ -392,6 +411,7 @@ def write_personalised_html(
     london_ps: str = "",
     templates_paths: list[Path] | None = None,
     refresh_template: bool = False,
+    industry_mode: bool = False,
 ) -> tuple[Path, str]:
     subject, html = build_compose_html(
         campaign=campaign,
@@ -402,6 +422,7 @@ def write_personalised_html(
         london_ps=london_ps,
         templates_paths=templates_paths,
         refresh_template=refresh_template,
+        industry_mode=industry_mode,
     )
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(html, encoding="utf-8")

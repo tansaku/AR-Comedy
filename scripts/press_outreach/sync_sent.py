@@ -11,15 +11,13 @@ from email.parser import BytesParser
 from pathlib import Path
 
 from numbers_parser import Document
-from numbers_parser.cell import RGB, Style
 
 from contacts import (
     COLUMNS,
     DEFAULT_NUMBERS_PATH,
-    SENT_BG,
-    SKIP_BG,
     load_contacts,
 )
+from numbers_style import SKIP_BG, row_status_from_name_cell, style_entire_row
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_SYNC_STATE = REPO_ROOT / "data" / ".press-outreach-sent-sync.json"
@@ -165,12 +163,7 @@ def sync_sent_recipients(
 
 
 def _is_skip_cell(table, row: int) -> bool:
-    cell = table.cell(row, COLUMNS["name"])
-    style = cell.style
-    if not style or not getattr(style, "bg_color", None):
-        return False
-    bg = style.bg_color
-    return (bg.r, bg.g, bg.b) == SKIP_BG
+    return row_status_from_name_cell(table, row, COLUMNS["name"]) == "skip"
 
 
 def mark_sent_rows_in_numbers(
@@ -178,14 +171,13 @@ def mark_sent_rows_in_numbers(
     *,
     numbers_path: Path | None = None,
 ) -> int:
-    """Yellow-highlight rows whose email appears in sent_emails. Returns rows updated."""
+    """Yellow-highlight entire rows whose email appears in sent_emails."""
     numbers_path = numbers_path or DEFAULT_NUMBERS_PATH
     sent_lookup = {email.lower() for email in sent_emails}
     contacts = load_contacts(numbers_path)
 
     doc = Document(str(numbers_path))
     table = doc.sheets[0].tables[0]
-    sent_style = Style(bg_color=RGB(*SENT_BG))
     updated = 0
 
     for contact in contacts:
@@ -195,12 +187,50 @@ def mark_sent_rows_in_numbers(
             continue
         if _is_skip_cell(table, contact.row):
             continue
-        table.set_cell_style(contact.row, COLUMNS["name"], sent_style)
+        style_entire_row(table, contact.row, (255, 240, 86))
         updated += 1
 
     if updated:
         doc.save(str(numbers_path))
     return updated
+
+
+def repair_row_highlights(
+    numbers_path: Path,
+    *,
+    name_col: int = 1,
+) -> int:
+    """Re-apply sent/skip colours across entire rows (fixes legacy name-only highlights)."""
+    doc = Document(str(numbers_path))
+    table = doc.sheets[0].tables[0]
+    updated = 0
+    for row in range(1, table.num_rows):
+        status = row_status_from_name_cell(table, row, name_col)
+        if status == "sent":
+            style_entire_row(table, row, (255, 240, 86))
+            updated += 1
+        elif status == "skip":
+            style_entire_row(table, row, SKIP_BG)
+            updated += 1
+    if updated:
+        doc.save(str(numbers_path))
+    return updated
+
+
+def mark_row_skipped(
+    row: int,
+    *,
+    numbers_path: Path,
+    reason: str = "",
+    fit_col: int | None = None,
+) -> None:
+    """Orange-highlight a row and optionally record a skip reason."""
+    doc = Document(str(numbers_path))
+    table = doc.sheets[0].tables[0]
+    style_entire_row(table, row, SKIP_BG)
+    if reason and fit_col is not None:
+        table.write(row, fit_col, f"SKIP: {reason}")
+    doc.save(str(numbers_path))
 
 
 def sync_and_mark(
