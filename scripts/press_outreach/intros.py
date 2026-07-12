@@ -7,6 +7,12 @@ import re
 
 from contacts import MediaContact
 
+LONDON_PREVIEW_PS = (
+    "p.s. I'm also running a few London previews over the next few weeks. "
+    "If a press ticket would be useful, boxoffice@museumofcomedy.com can help."
+)
+
+# Shown in the grey contact-notes box during review mode only.
 LONDON_PREVIEW_NOTE = (
     "I'm also running a few London previews over the next few weeks — "
     "if a press ticket would be useful, boxoffice@museumofcomedy.com can help."
@@ -119,3 +125,7 @@ def draft_hook_line(
 
 def draft_london_note(contact: MediaContact) -> str:
     return LONDON_PREVIEW_NOTE if contact.is_london_relevant else ""
+
+
+def draft_london_ps(contact: MediaContact) -> str:
+    return LONDON_PREVIEW_PS if contact.is_london_relevant else ""

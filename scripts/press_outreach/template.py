@@ -20,8 +20,10 @@ THUNDERBIRD_PROFILE = Path.home() / (
 )
 SUBJECT_MARKER = "ED_FRINGE_PRESS_RELEASE"
 FROM_EMAIL = "tansaku@gmail.com"
+INSTAGRAM_URL = "https://www.instagram.com/tansaku/"
 
 GREETING_RE = re.compile(r"Hi\s+[^,<]+,\s*", re.IGNORECASE)
+SIGN_OFF_RE = re.compile(r"Best, Sam Joseph\b", re.IGNORECASE)
 BODY_OPEN_RE = re.compile(r"(<body[^>]*>)", re.IGNORECASE)
 HOOK_BLOCK_RE = re.compile(
     r"(Hope you're well - Just sharing the press release for my upcoming Edinburgh show\.\s*)(.*?)(\s*Best, Sam Joseph)",
@@ -247,6 +249,35 @@ def inject_contact_notes(html: str, notes_html: str) -> str:
     return html[:insert_at] + notes_html + html[insert_at:]
 
 
+def inject_sign_off_extras(
+    html: str,
+    *,
+    include_instagram: bool = True,
+    london_ps: str = "",
+) -> str:
+    """Link Instagram after the sign-off name; optionally append a London preview p.s."""
+    if not include_instagram and not london_ps.strip():
+        return html
+
+    marker = "Press Release"
+    split_at = html.find(marker)
+    if split_at < 0:
+        prefix, suffix = html, ""
+    else:
+        prefix, suffix = html[:split_at], html[split_at:]
+
+    sign_off = "Best, Sam Joseph"
+    if include_instagram:
+        sign_off = f'Best, Sam Joseph <a href="{INSTAGRAM_URL}">{INSTAGRAM_URL}</a>'
+    if london_ps.strip():
+        sign_off += f"<br><br>{_newlines_to_br(london_ps.strip())}"
+
+    updated_prefix, count = SIGN_OFF_RE.subn(sign_off, prefix, count=1)
+    if count != 1:
+        raise ValueError("Could not find sign-off ('Best, Sam Joseph') in press-release template")
+    return updated_prefix + suffix
+
+
 def inject_hook_line(html: str, hook_line: str) -> str:
     """Replace the template's default hook with a personalised angle."""
     hook_line = hook_line.strip()
@@ -268,12 +299,19 @@ def personalise_html(
     first_name: str,
     contact_notes_html: str = "",
     hook_line: str = "",
+    include_instagram: bool = True,
+    london_ps: str = "",
 ) -> str:
     """Inject contact notes, swap greeting name, and optionally replace the hook."""
     html = inject_contact_notes(html, contact_notes_html)
     html = replace_greeting_name(html, first_name)
     if hook_line:
         html = inject_hook_line(html, hook_line)
+    html = inject_sign_off_extras(
+        html,
+        include_instagram=include_instagram,
+        london_ps=london_ps,
+    )
     return normalize_line_breaks_for_compose(html)
 
 
@@ -282,6 +320,8 @@ def build_compose_html(
     first_name: str,
     contact_notes_html: str = "",
     hook_line: str = "",
+    include_instagram: bool = True,
+    london_ps: str = "",
     templates_paths: list[Path] | None = None,
     cache_path: Path | None = None,
     refresh_template: bool = False,
@@ -296,6 +336,8 @@ def build_compose_html(
         first_name=first_name,
         contact_notes_html=contact_notes_html,
         hook_line=hook_line,
+        include_instagram=include_instagram,
+        london_ps=london_ps,
     )
     return decode_subject(message), html
 
@@ -306,6 +348,8 @@ def write_personalised_html(
     first_name: str,
     contact_notes_html: str = "",
     hook_line: str = "",
+    include_instagram: bool = True,
+    london_ps: str = "",
     templates_paths: list[Path] | None = None,
     cache_path: Path | None = None,
     refresh_template: bool = False,
@@ -314,6 +358,8 @@ def write_personalised_html(
         first_name=first_name,
         contact_notes_html=contact_notes_html,
         hook_line=hook_line,
+        include_instagram=include_instagram,
+        london_ps=london_ps,
         templates_paths=templates_paths,
         cache_path=cache_path,
         refresh_template=refresh_template,

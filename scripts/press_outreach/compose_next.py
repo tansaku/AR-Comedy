@@ -14,9 +14,12 @@ Usage:
   python3 scripts/press_outreach/compose_next.py --once
   python3 scripts/press_outreach/compose_next.py --dry-run
   python3 scripts/press_outreach/compose_next.py --no-llm
+  python3 scripts/press_outreach/compose_next.py --send-ready
+  python3 scripts/press_outreach/compose_next.py --send-ready --auto-send
 
 Requires Thunderbird at /Applications/Thunderbird.app
 Set OPENROUTER_API_KEY in .env for LLM-generated hook lines (see .env.example).
+--auto-send uses AppleScript (Cmd+Enter) and needs Accessibility permission for your terminal.
 Close the Numbers contact list before running (so highlights can be saved).
 """
 
@@ -36,10 +39,11 @@ from contacts import (
     load_contacts,
     summarise,
 )
-from intros import draft_hook_line, draft_london_note
+from intros import draft_hook_line, draft_london_note, draft_london_ps
 from sent_examples import load_sent_hook_examples
 from sync_sent import sent_mail_size, sync_and_mark, wait_for_press_send
 from template import build_compose_arg, describe_cached_template, write_personalised_html
+from thunderbird_send import wait_and_send
 
 THUNDERBIRD = Path("/Applications/Thunderbird.app/Contents/MacOS/thunderbird")
 COMPOSE_DIR = Path(__file__).resolve().parents[2] / "data" / ".press-compose-drafts"
@@ -80,7 +84,20 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Skip OpenRouter; use rule-based hook lines only",
     )
-    return parser.parse_args()
+    parser.add_argument(
+        "--send-ready",
+        action="store_true",
+        help="Final email: no grey notes box, Instagram link on sign-off, London p.s. for UK contacts",
+    )
+    parser.add_argument(
+        "--auto-send",
+        action="store_true",
+        help="After opening compose, wait 3–4s (random) then send via Thunderbird (requires --send-ready)",
+    )
+    args = parser.parse_args()
+    if args.auto_send and not args.send_ready:
+        parser.error("--auto-send requires --send-ready (no grey box to delete)")
+    return args
 
 
 def launch_compose(compose_arg: str) -> None:
@@ -107,26 +124,36 @@ def prepare_compose_for_contact(
     refresh_template: bool,
     use_llm: bool,
     hook_examples=None,
+    send_ready: bool = False,
 ) -> tuple[Path, str, str]:
     hook_line, hook_source = draft_hook_line(
         contact, use_llm=use_llm, examples=hook_examples
     )
-    london_note = draft_london_note(contact)
-    notes_html = build_contact_notes_html(
-        contact,
-        intro_suggestion=hook_line,
-        london_note=london_note,
-    )
+    london_ps = draft_london_ps(contact) if send_ready else ""
+    notes_html = ""
+    if not send_ready:
+        london_note = draft_london_note(contact)
+        notes_html = build_contact_notes_html(
+            contact,
+            intro_suggestion=hook_line,
+            london_note=london_note,
+        )
 
     print(f"\nNext: row {contact.row} — {contact.name} <{contact.email}>")
     print(f"Org: {contact.organisation}")
     print(f"Hook ({hook_source}): {hook_line}")
-    if london_note:
-        print(f"London note idea (in grey box only): {london_note}")
-    print(
-        "\nGrey contact-notes box is at the top of the compose window — "
-        "use it for reference, then delete it before sending."
-    )
+    if send_ready:
+        print("Send-ready mode: no grey box; Instagram link on sign-off.")
+        if london_ps:
+            print(f"London p.s. included for {contact.country}.")
+    else:
+        london_note = draft_london_note(contact)
+        if london_note:
+            print(f"London note idea (in grey box only): {london_note}")
+        print(
+            "\nGrey contact-notes box is at the top of the compose window — "
+            "use it for reference, then delete it before sending."
+        )
     print("Template hook line is injected into the email body for you to edit.")
 
     html_path = COMPOSE_DIR / f"row-{contact.row}.html"
@@ -135,6 +162,8 @@ def prepare_compose_for_contact(
         first_name=contact.first_name,
         contact_notes_html=notes_html,
         hook_line=hook_line,
+        include_instagram=True,
+        london_ps=london_ps,
         refresh_template=refresh_template,
     )
     compose_arg = build_compose_arg(
@@ -154,14 +183,20 @@ def open_compose_for_contact(
     refresh_template: bool,
     use_llm: bool,
     hook_examples=None,
+    send_ready: bool = False,
+    auto_send: bool = False,
 ) -> None:
     _, _, compose_arg = prepare_compose_for_contact(
         contact,
         refresh_template=refresh_template,
         use_llm=use_llm,
         hook_examples=hook_examples,
+        send_ready=send_ready,
     )
     launch_compose(compose_arg)
+    if auto_send:
+        delay = wait_and_send()
+        print(f"Auto-sent after {delay:.1f}s.")
 
 
 def run_once(args: argparse.Namespace, contact: MediaContact, hook_examples=None) -> int:
@@ -170,6 +205,7 @@ def run_once(args: argparse.Namespace, contact: MediaContact, hook_examples=None
         refresh_template=args.refresh_template,
         use_llm=not args.no_llm,
         hook_examples=hook_examples,
+        send_ready=args.send_ready,
     )
     if args.dry_run:
         print("(dry-run — not launching Thunderbird)")
@@ -178,6 +214,9 @@ def run_once(args: argparse.Namespace, contact: MediaContact, hook_examples=None
         print(f"Thunderbird not found at {THUNDERBIRD}", file=sys.stderr)
         return 1
     launch_compose(compose_arg)
+    if args.auto_send:
+        delay = wait_and_send()
+        print(f"Auto-sent after {delay:.1f}s.")
     return 0
 
 
@@ -186,10 +225,16 @@ def run_loop(args: argparse.Namespace, hook_examples=None) -> int:
         print(f"Thunderbird not found at {THUNDERBIRD}", file=sys.stderr)
         return 1
 
-    print(
-        "Loop mode: after each send, the next compose window opens automatically. "
-        "Press Ctrl+C to stop.\n"
-    )
+    if args.auto_send:
+        print(
+            "AUTO-SEND enabled: each compose will be sent after a random 3–4s pause. "
+            "Press Ctrl+C to stop.\n"
+        )
+    else:
+        print(
+            "Loop mode: after each send, the next compose window opens automatically. "
+            "Press Ctrl+C to stop.\n"
+        )
 
     while True:
         contacts = load_contacts(args.numbers)
@@ -205,6 +250,7 @@ def run_loop(args: argparse.Namespace, hook_examples=None) -> int:
                 refresh_template=args.refresh_template,
                 use_llm=not args.no_llm,
                 hook_examples=hook_examples,
+                send_ready=args.send_ready,
             )
             print("(dry-run — not launching Thunderbird or waiting for send)")
             return 0
@@ -215,6 +261,8 @@ def run_loop(args: argparse.Namespace, hook_examples=None) -> int:
             refresh_template=args.refresh_template,
             use_llm=not args.no_llm,
             hook_examples=hook_examples,
+            send_ready=args.send_ready,
+            auto_send=args.auto_send,
         )
 
         try:
