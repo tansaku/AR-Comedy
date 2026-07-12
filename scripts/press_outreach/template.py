@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
-"""Load and personalise the Edinburgh press-release Thunderbird template."""
+"""Load and personalise Thunderbird outreach templates."""
 
 from __future__ import annotations
 
-import base64
 import re
 from datetime import datetime
 from email import policy
@@ -12,13 +11,15 @@ from email.parser import BytesParser
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
+from campaigns import DEFAULT_CAMPAIGN_ID, Campaign, PRESS, get_campaign
+
 REPO_ROOT = Path(__file__).resolve().parents[2]
+# Legacy cache paths (press campaign); new runs use campaign-specific paths.
 DEFAULT_CACHE = REPO_ROOT / "data" / ".press-compose-base.eml"
 DEFAULT_CACHE_META = REPO_ROOT / "data" / ".press-compose-base.json"
 THUNDERBIRD_PROFILE = Path.home() / (
     "Library/Thunderbird/Profiles/magfbx3x.default-release"
 )
-SUBJECT_MARKER = "ED_FRINGE_PRESS_RELEASE"
 FROM_EMAIL = "tansaku@gmail.com"
 INSTAGRAM_URL = "https://www.instagram.com/tansaku/"
 
@@ -29,6 +30,9 @@ HOOK_BLOCK_RE = re.compile(
     r"(Hope you're well - Just sharing the press release for my upcoming Edinburgh show\.\s*)(.*?)(\s*Best, Sam Joseph)",
     re.DOTALL | re.IGNORECASE,
 )
+IMG_TAG_RE = re.compile(r"<img\b[^>]*>", re.IGNORECASE)
+DATA_IMAGE_SRC_RE = re.compile(r'src="data:image/[^"]+"', re.IGNORECASE)
+CID_IMAGE_SRC_RE = re.compile(r'src="cid:[^"]+"', re.IGNORECASE)
 INTRO_PARAGRAPH_STYLE = "margin-top:0pt;margin-bottom:0pt;"
 INTRO_PARAGRAPH_STYLE_SPACED = "margin-top:0pt;margin-bottom:12pt;"
 PRE_WRAP_SPAN_RE = re.compile(
@@ -98,10 +102,12 @@ def _message_date(chunk: str) -> datetime | None:
         return None
 
 
-def find_latest_press_message(
+def find_latest_template_message(
+    campaign: Campaign,
     templates_paths: list[Path] | None = None,
 ) -> tuple[bytes, Path, datetime | None]:
-    """Return the newest ED FRINGE press-release template across Thunderbird folders."""
+    """Return the newest Thunderbird template for this campaign."""
+    marker = campaign.subject_marker
     paths = templates_paths or discover_template_sources()
     if not paths:
         raise FileNotFoundError(
@@ -112,7 +118,7 @@ def find_latest_press_message(
     for path in paths:
         text = path.read_text(encoding="utf-8", errors="replace")
         for chunk in text.split("\nFrom - "):
-            if SUBJECT_MARKER not in chunk:
+            if marker not in chunk:
                 continue
             raw = chunk if chunk.startswith("From - ") else "From - " + chunk
             eml = "\n".join(raw.splitlines()[1:]).encode("utf-8")
@@ -124,15 +130,21 @@ def find_latest_press_message(
             if message_date and (best_date is None or message_date > best_date):
                 best = (eml, path, message_date)
             elif message_date is None and best_date is None:
-                # Fall back to file modification order if dates are missing.
                 best = (eml, path, message_date)
 
     if best is None:
+        spaced = marker.replace("_", " ")
         raise FileNotFoundError(
-            "No press-release template found. Save a Thunderbird template whose "
-            f"subject contains '{SUBJECT_MARKER.replace('_', ' ')}'."
+            f"No {campaign.label} template found. Save a Thunderbird template whose "
+            f"subject contains '{spaced}'."
         )
     return best
+
+
+def find_latest_press_message(
+    templates_paths: list[Path] | None = None,
+) -> tuple[bytes, Path, datetime | None]:
+    return find_latest_template_message(PRESS, templates_paths)
 
 
 def _newest_source_mtime(paths: list[Path]) -> float:
@@ -152,18 +164,20 @@ def cache_is_stale(
 
 
 def cache_base_eml(
+    campaign: Campaign,
     templates_paths: list[Path] | None = None,
     cache_path: Path | None = None,
     cache_meta_path: Path | None = None,
 ) -> Path:
-    eml, source_path, message_date = find_latest_press_message(templates_paths)
-    target = cache_path or DEFAULT_CACHE
-    meta_path = cache_meta_path or DEFAULT_CACHE_META
+    eml, source_path, message_date = find_latest_template_message(campaign, templates_paths)
+    target = cache_path or campaign.cache_eml
+    meta_path = cache_meta_path or campaign.cache_meta
     target.parent.mkdir(parents=True, exist_ok=True)
     target.write_bytes(eml)
     meta_path.write_text(
         (
-            f'{{"source": "{source_path}", '
+            f'{{"campaign": "{campaign.id}", '
+            f'"source": "{source_path}", '
             f'"message_date": "{message_date.isoformat() if message_date else ""}", '
             f'"cached_at": "{datetime.now().isoformat()}"}}\n'
         ),
@@ -173,23 +187,24 @@ def cache_base_eml(
 
 
 def load_base_eml(
+    campaign: Campaign,
     templates_paths: list[Path] | None = None,
     cache_path: Path | None = None,
     refresh: bool = False,
 ) -> bytes:
     paths = templates_paths or discover_template_sources()
-    target = cache_path or DEFAULT_CACHE
+    target = cache_path or campaign.cache_eml
     if refresh or cache_is_stale(templates_paths=paths, cache_path=target):
-        cache_base_eml(paths, target)
+        cache_base_eml(campaign, paths, target)
     elif not target.exists():
-        cache_base_eml(paths, target)
+        cache_base_eml(campaign, paths, target)
     return target.read_bytes()
 
 
-def describe_cached_template(cache_meta_path: Path | None = None) -> str:
-    meta_path = cache_meta_path or DEFAULT_CACHE_META
+def describe_cached_template(campaign: Campaign) -> str:
+    meta_path = campaign.cache_meta
     if not meta_path.exists():
-        return "template cache: not yet built"
+        return f"{campaign.id} template cache: not yet built"
     return meta_path.read_text(encoding="utf-8").strip()
 
 
@@ -208,31 +223,49 @@ def _html_part(message):
     raise ValueError("Press-release template is not HTML")
 
 
-def decode_subject(message) -> str:
-    raw = message.get("Subject", SUBJECT_MARKER.replace("_", " "))
+def decode_subject(message, *, fallback: str) -> str:
+    raw = message.get("Subject", fallback.replace("_", " "))
     if not raw:
-        return "ED FRINGE PRESS RELEASE"
+        return fallback.replace("_", " ")
     try:
         return str(make_header(decode_header(raw)))
     except (UnicodeError, ValueError):
         return str(raw)
 
 
-def inline_cid_images(html: str, message) -> str:
-    """Replace cid: image references with data URIs for Thunderbird compose."""
-    for part in message.walk():
-        if part.get_content_maintype() != "image":
-            continue
-        cid = part.get("Content-ID")
-        if not cid:
-            continue
-        cid = cid.strip("<>")
-        payload = part.get_payload(decode=True)
-        if not payload:
-            continue
-        mime = part.get_content_type()
-        b64 = base64.b64encode(payload).decode("ascii")
-        html = html.replace(f"cid:{cid}", f"data:{mime};base64,{b64}")
+def use_hosted_poster(
+    html: str,
+    *,
+    poster_url: str,
+    tickets_url: str | None = None,
+) -> str:
+    """Drop embedded megabyte images; use one small hosted poster before the body copy."""
+    html = IMG_TAG_RE.sub("", html)
+    link_open = f'<a href="{tickets_url}">' if tickets_url else ""
+    link_close = "</a>" if tickets_url else ""
+    band = (
+        f'<p style="margin:12pt 0 16pt 0;">{link_open}'
+        f'<img src="{poster_url}" width="400" alt="I Think I\'m Turning Japanese — Edinburgh Fringe 2026" '
+        f'style="max-width:100%;height:auto;border:0;">{link_close}</p>'
+    )
+    marker = "Press Release"
+    split_at = html.find(marker)
+    if split_at < 0:
+        return html + band
+    return html[:split_at] + band + html[split_at:]
+
+
+def optimise_template_images(html: str, campaign: Campaign) -> str:
+    """Prefer GitHub Pages-hosted images over inlined CID/data-URI blobs."""
+    if campaign.poster_url:
+        return use_hosted_poster(
+            html,
+            poster_url=campaign.poster_url,
+            tickets_url=campaign.tickets_url,
+        )
+    # No hosted poster configured: swap cid/data URIs only if a remote URL is added later.
+    html = DATA_IMAGE_SRC_RE.sub('src=""', html)
+    html = CID_IMAGE_SRC_RE.sub('src=""', html)
     return html
 
 
@@ -254,6 +287,7 @@ def inject_sign_off_extras(
     *,
     include_instagram: bool = True,
     london_ps: str = "",
+    required: bool = True,
 ) -> str:
     """Link Instagram after the sign-off name; optionally append a London preview p.s."""
     if not include_instagram and not london_ps.strip():
@@ -273,12 +307,12 @@ def inject_sign_off_extras(
         sign_off += f"<br><br>{_newlines_to_br(london_ps.strip())}"
 
     updated_prefix, count = SIGN_OFF_RE.subn(sign_off, prefix, count=1)
-    if count != 1:
+    if count != 1 and required:
         raise ValueError("Could not find sign-off ('Best, Sam Joseph') in press-release template")
-    return updated_prefix + suffix
+    return (updated_prefix if count else prefix) + suffix
 
 
-def inject_hook_line(html: str, hook_line: str) -> str:
+def inject_hook_line(html: str, hook_line: str, *, required: bool = True) -> str:
     """Replace the template's default hook with a personalised angle."""
     hook_line = hook_line.strip()
     if not hook_line:
@@ -288,7 +322,7 @@ def inject_hook_line(html: str, hook_line: str) -> str:
         return f"{match.group(1)}{hook_line}{match.group(3)}"
 
     updated, count = HOOK_BLOCK_RE.subn(replacer, html, count=1)
-    if count != 1:
+    if count != 1 and required:
         raise ValueError("Could not find hook block in press-release template")
     return updated
 
@@ -301,36 +335,39 @@ def personalise_html(
     hook_line: str = "",
     include_instagram: bool = True,
     london_ps: str = "",
+    require_hook_block: bool = True,
+    require_sign_off_block: bool = True,
 ) -> str:
     """Inject contact notes, swap greeting name, and optionally replace the hook."""
     html = inject_contact_notes(html, contact_notes_html)
     html = replace_greeting_name(html, first_name)
     if hook_line:
-        html = inject_hook_line(html, hook_line)
+        html = inject_hook_line(html, hook_line, required=require_hook_block)
     html = inject_sign_off_extras(
         html,
         include_instagram=include_instagram,
         london_ps=london_ps,
+        required=require_sign_off_block,
     )
     return normalize_line_breaks_for_compose(html)
 
 
 def build_compose_html(
     *,
+    campaign: Campaign,
     first_name: str,
     contact_notes_html: str = "",
     hook_line: str = "",
     include_instagram: bool = True,
     london_ps: str = "",
     templates_paths: list[Path] | None = None,
-    cache_path: Path | None = None,
     refresh_template: bool = False,
 ) -> tuple[str, str]:
     """Return (subject, personalised HTML body) ready for Thunderbird -compose."""
-    eml_bytes = load_base_eml(templates_paths, cache_path, refresh=refresh_template)
+    eml_bytes = load_base_eml(campaign, templates_paths, refresh=refresh_template)
     message = _parse_message(eml_bytes)
     html = _html_part(message).get_content()
-    html = inline_cid_images(html, message)
+    html = optimise_template_images(html, campaign)
     html = personalise_html(
         html,
         first_name=first_name,
@@ -338,30 +375,32 @@ def build_compose_html(
         hook_line=hook_line,
         include_instagram=include_instagram,
         london_ps=london_ps,
+        require_hook_block=campaign.require_hook_block,
+        require_sign_off_block=campaign.require_sign_off_block,
     )
-    return decode_subject(message), html
+    return decode_subject(message, fallback=campaign.subject_marker), html
 
 
 def write_personalised_html(
     output_path: Path,
     *,
+    campaign: Campaign,
     first_name: str,
     contact_notes_html: str = "",
     hook_line: str = "",
     include_instagram: bool = True,
     london_ps: str = "",
     templates_paths: list[Path] | None = None,
-    cache_path: Path | None = None,
     refresh_template: bool = False,
 ) -> tuple[Path, str]:
     subject, html = build_compose_html(
+        campaign=campaign,
         first_name=first_name,
         contact_notes_html=contact_notes_html,
         hook_line=hook_line,
         include_instagram=include_instagram,
         london_ps=london_ps,
         templates_paths=templates_paths,
-        cache_path=cache_path,
         refresh_template=refresh_template,
     )
     output_path.parent.mkdir(parents=True, exist_ok=True)

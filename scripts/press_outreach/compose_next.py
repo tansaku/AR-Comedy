@@ -16,10 +16,12 @@ Usage:
   python3 scripts/press_outreach/compose_next.py --no-llm
   python3 scripts/press_outreach/compose_next.py --send-ready
   python3 scripts/press_outreach/compose_next.py --send-ready --auto-send
+  python3 scripts/press_outreach/compose_next.py --campaign industry --dry-run
 
 Requires Thunderbird at /Applications/Thunderbird.app
 Set OPENROUTER_API_KEY in .env for LLM-generated hook lines (see .env.example).
 --auto-send uses AppleScript (Cmd+Enter) and needs Accessibility permission for your terminal.
+Industry campaign: save a Thunderbird template with INDUSTRY_OUTREACH in the subject.
 Close the Numbers contact list before running (so highlights can be saved).
 """
 
@@ -32,8 +34,8 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
+from campaigns import Campaign, get_campaign
 from contacts import (
-    DEFAULT_NUMBERS_PATH,
     MediaContact,
     build_contact_notes_html,
     load_contacts,
@@ -46,12 +48,22 @@ from template import build_compose_arg, describe_cached_template, write_personal
 from thunderbird_send import wait_and_send
 
 THUNDERBIRD = Path("/Applications/Thunderbird.app/Contents/MacOS/thunderbird")
-COMPOSE_DIR = Path(__file__).resolve().parents[2] / "data" / ".press-compose-drafts"
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--numbers", type=Path, default=DEFAULT_NUMBERS_PATH)
+    parser.add_argument(
+        "--campaign",
+        choices=("press", "industry"),
+        default="press",
+        help="Outreach campaign (default: press)",
+    )
+    parser.add_argument(
+        "--numbers",
+        type=Path,
+        default=None,
+        help="Numbers contact list (default: campaign-specific)",
+    )
     parser.add_argument("--dry-run", action="store_true", help="Prepare draft only; do not open Thunderbird")
     parser.add_argument(
         "--refresh-template",
@@ -104,16 +116,18 @@ def launch_compose(compose_arg: str) -> None:
     subprocess.run([str(THUNDERBIRD), "-compose", compose_arg], check=False)
 
 
-def do_initial_sync(args: argparse.Namespace) -> None:
+def do_initial_sync(args: argparse.Namespace, campaign: Campaign) -> None:
     if args.no_sync:
         return
-    print("Syncing sent press emails from Thunderbird → Numbers highlights...")
+    print(f"Syncing sent {campaign.label} emails from Thunderbird → Numbers highlights...")
     try:
         marked, total_sent = sync_and_mark(
             numbers_path=args.numbers,
+            state_path=campaign.sync_state,
+            subject_marker=campaign.subject_marker,
             full_rescan=args.full_rescan,
         )
-        print(f"Known press sends: {total_sent}; newly marked yellow: {marked}")
+        print(f"Known sends: {total_sent}; newly marked yellow: {marked}")
     except FileNotFoundError as exc:
         print(f"Sync skipped: {exc}", file=sys.stderr)
 
@@ -121,14 +135,18 @@ def do_initial_sync(args: argparse.Namespace) -> None:
 def prepare_compose_for_contact(
     contact: MediaContact,
     *,
+    campaign: Campaign,
     refresh_template: bool,
     use_llm: bool,
     hook_examples=None,
     send_ready: bool = False,
 ) -> tuple[Path, str, str]:
-    hook_line, hook_source = draft_hook_line(
-        contact, use_llm=use_llm, examples=hook_examples
-    )
+    hook_line = ""
+    hook_source = "none"
+    if campaign.use_llm_hooks and use_llm:
+        hook_line, hook_source = draft_hook_line(
+            contact, use_llm=use_llm, examples=hook_examples
+        )
     london_ps = draft_london_ps(contact) if send_ready else ""
     notes_html = ""
     if not send_ready:
@@ -139,9 +157,10 @@ def prepare_compose_for_contact(
             london_note=london_note,
         )
 
-    print(f"\nNext: row {contact.row} — {contact.name} <{contact.email}>")
+    print(f"\n[{campaign.id}] Next: row {contact.row} — {contact.name} <{contact.email}>")
     print(f"Org: {contact.organisation}")
-    print(f"Hook ({hook_source}): {hook_line}")
+    if hook_line:
+        print(f"Hook ({hook_source}): {hook_line}")
     if send_ready:
         print("Send-ready mode: no grey box; Instagram link on sign-off.")
         if london_ps:
@@ -156,9 +175,10 @@ def prepare_compose_for_contact(
         )
     print("Template hook line is injected into the email body for you to edit.")
 
-    html_path = COMPOSE_DIR / f"row-{contact.row}.html"
+    html_path = campaign.compose_dir / f"row-{contact.row}.html"
     html_path, subject = write_personalised_html(
         html_path,
+        campaign=campaign,
         first_name=contact.first_name,
         contact_notes_html=notes_html,
         hook_line=hook_line,
@@ -173,13 +193,14 @@ def prepare_compose_for_contact(
     )
     print(f"Draft written: {html_path}")
     print(f"Subject: {subject}")
-    print(f"Template: {describe_cached_template()}")
+    print(f"Template: {describe_cached_template(campaign)}")
     return html_path, subject, compose_arg
 
 
 def open_compose_for_contact(
     contact: MediaContact,
     *,
+    campaign: Campaign,
     refresh_template: bool,
     use_llm: bool,
     hook_examples=None,
@@ -188,6 +209,7 @@ def open_compose_for_contact(
 ) -> None:
     _, _, compose_arg = prepare_compose_for_contact(
         contact,
+        campaign=campaign,
         refresh_template=refresh_template,
         use_llm=use_llm,
         hook_examples=hook_examples,
@@ -199,9 +221,12 @@ def open_compose_for_contact(
         print(f"Auto-sent after {delay:.1f}s.")
 
 
-def run_once(args: argparse.Namespace, contact: MediaContact, hook_examples=None) -> int:
+def run_once(
+    args: argparse.Namespace, contact: MediaContact, campaign: Campaign, hook_examples=None
+) -> int:
     _, _, compose_arg = prepare_compose_for_contact(
         contact,
+        campaign=campaign,
         refresh_template=args.refresh_template,
         use_llm=not args.no_llm,
         hook_examples=hook_examples,
@@ -220,7 +245,7 @@ def run_once(args: argparse.Namespace, contact: MediaContact, hook_examples=None
     return 0
 
 
-def run_loop(args: argparse.Namespace, hook_examples=None) -> int:
+def run_loop(args: argparse.Namespace, campaign: Campaign, hook_examples=None) -> int:
     if not THUNDERBIRD.exists() and not args.dry_run:
         print(f"Thunderbird not found at {THUNDERBIRD}", file=sys.stderr)
         return 1
@@ -247,6 +272,7 @@ def run_loop(args: argparse.Namespace, hook_examples=None) -> int:
         if args.dry_run:
             prepare_compose_for_contact(
                 contact,
+                campaign=campaign,
                 refresh_template=args.refresh_template,
                 use_llm=not args.no_llm,
                 hook_examples=hook_examples,
@@ -258,6 +284,7 @@ def run_loop(args: argparse.Namespace, hook_examples=None) -> int:
         watch_offset = sent_mail_size()
         open_compose_for_contact(
             contact,
+            campaign=campaign,
             refresh_template=args.refresh_template,
             use_llm=not args.no_llm,
             hook_examples=hook_examples,
@@ -270,6 +297,7 @@ def run_loop(args: argparse.Namespace, hook_examples=None) -> int:
                 contact.email,
                 since_offset=watch_offset,
                 poll_seconds=args.poll_seconds,
+                subject_marker=campaign.subject_marker,
             )
         except KeyboardInterrupt:
             print("\nStopped.")
@@ -278,7 +306,11 @@ def run_loop(args: argparse.Namespace, hook_examples=None) -> int:
         print(f"Sent detected for {contact.email}.")
         if not args.no_sync:
             try:
-                marked, total_sent = sync_and_mark(numbers_path=args.numbers)
+                marked, total_sent = sync_and_mark(
+                    numbers_path=args.numbers,
+                    state_path=campaign.sync_state,
+                    subject_marker=campaign.subject_marker,
+                )
                 print(f"Synced: {total_sent} known sends; newly marked yellow: {marked}")
             except FileNotFoundError as exc:
                 print(f"Sync skipped: {exc}", file=sys.stderr)
@@ -286,7 +318,15 @@ def run_loop(args: argparse.Namespace, hook_examples=None) -> int:
 
 def main() -> int:
     args = parse_args()
-    do_initial_sync(args)
+    campaign = get_campaign(args.campaign)
+    if args.numbers is None:
+        args.numbers = campaign.default_numbers
+
+    print(f"Campaign: {campaign.label} ({campaign.subject_marker})")
+    if campaign.poster_url:
+        print(f"Poster: {campaign.poster_url}")
+
+    do_initial_sync(args, campaign)
 
     contacts = load_contacts(args.numbers)
     counts = summarise(contacts)
@@ -300,16 +340,16 @@ def main() -> int:
         return 0
 
     hook_examples = None
-    if not args.no_llm:
+    if not args.no_llm and campaign.use_llm_hooks:
         print("Loading sent hook examples for LLM few-shot...")
         hook_examples = load_sent_hook_examples()
         print(f"Using {len(hook_examples)} sent examples.")
 
     if args.once or args.dry_run:
         pending = [c for c in contacts if c.is_actionable]
-        return run_once(args, pending[0], hook_examples=hook_examples)
+        return run_once(args, pending[0], campaign, hook_examples=hook_examples)
 
-    return run_loop(args, hook_examples=hook_examples)
+    return run_loop(args, campaign, hook_examples=hook_examples)
 
 
 if __name__ == "__main__":

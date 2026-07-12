@@ -16,6 +16,10 @@ data/.press-compose-drafts/
 data/.press-hook-cache.json
 data/.press-sent-hook-examples.json
 data/.press-outreach-sent-sync.json
+data/.industry-compose-base.eml
+data/.industry-compose-base.json
+data/.industry-compose-drafts/
+data/.industry-outreach-sent-sync.json
 data/press-outreach-mail-merge.csv
 data/press-outreach-manifest.json
 data/*.numbers

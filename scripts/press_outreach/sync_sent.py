@@ -63,8 +63,8 @@ def _message_body_from_chunk(chunk: str) -> str:
     return "\n".join(lines)
 
 
-def _emails_from_message_chunk(chunk: str) -> set[str]:
-    if SUBJECT_MARKER not in chunk:
+def _emails_from_message_chunk(chunk: str, *, subject_marker: str) -> set[str]:
+    if subject_marker not in chunk:
         return set()
     body = _message_body_from_chunk(chunk)
     if not body:
@@ -76,11 +76,11 @@ def _emails_from_message_chunk(chunk: str) -> set[str]:
     except (UnicodeError, ValueError):
         return set()
     subject = message.get("Subject", "")
-    spaced = SUBJECT_MARKER.replace("_", " ")
+    spaced = subject_marker.replace("_", " ")
     if (
-        SUBJECT_MARKER not in subject
+        subject_marker not in subject
         and spaced not in subject
-        and SUBJECT_MARKER not in chunk
+        and subject_marker not in chunk
     ):
         return set()
     return _emails_from_header(message.get("To", ""))
@@ -93,6 +93,7 @@ def _iter_chunks_from_text(text: str) -> list[str]:
 def scan_sent_mail(
     sent_path: Path,
     *,
+    subject_marker: str = SUBJECT_MARKER,
     start_offset: int = 0,
     tail_only: bool = False,
 ) -> tuple[set[str], int]:
@@ -118,7 +119,7 @@ def scan_sent_mail(
 
     found: set[str] = set()
     for chunk in _iter_chunks_from_text(text):
-        found.update(_emails_from_message_chunk(chunk))
+        found.update(_emails_from_message_chunk(chunk, subject_marker=subject_marker))
     return found, end_offset
 
 
@@ -126,6 +127,7 @@ def sync_sent_recipients(
     *,
     sent_path: Path | None = None,
     state_path: Path | None = None,
+    subject_marker: str = SUBJECT_MARKER,
     full_rescan: bool = False,
 ) -> set[str]:
     """Update sync state from Thunderbird Sent Mail; return all known sent emails."""
@@ -135,16 +137,24 @@ def sync_sent_recipients(
     known = {email.lower() for email in state.get("sent_emails", [])}
 
     if full_rescan:
-        batch, end_offset = scan_sent_mail(sent_path, start_offset=0, tail_only=False)
+        batch, end_offset = scan_sent_mail(
+            sent_path, subject_marker=subject_marker, start_offset=0, tail_only=False
+        )
     elif "byte_offset" not in state or not state.get("sent_emails"):
-        batch, end_offset = scan_sent_mail(sent_path, tail_only=True)
+        batch, end_offset = scan_sent_mail(
+            sent_path, subject_marker=subject_marker, tail_only=True
+        )
     else:
         size = sent_path.stat().st_size
         previous_offset = state["byte_offset"]
         if previous_offset >= size:
             batch, end_offset = set(), size
         else:
-            batch, end_offset = scan_sent_mail(sent_path, start_offset=previous_offset)
+            batch, end_offset = scan_sent_mail(
+                sent_path,
+                subject_marker=subject_marker,
+                start_offset=previous_offset,
+            )
 
     known.update(batch)
     state["sent_emails"] = sorted(known)
@@ -198,6 +208,7 @@ def sync_and_mark(
     numbers_path: Path | None = None,
     sent_path: Path | None = None,
     state_path: Path | None = None,
+    subject_marker: str = SUBJECT_MARKER,
     full_rescan: bool = False,
 ) -> tuple[int, int]:
     """Sync Thunderbird sent mail and update Numbers highlights.
@@ -207,6 +218,7 @@ def sync_and_mark(
     sent_emails = sync_sent_recipients(
         sent_path=sent_path,
         state_path=state_path,
+        subject_marker=subject_marker,
         full_rescan=full_rescan,
     )
     marked = mark_sent_rows_in_numbers(sent_emails, numbers_path=numbers_path)
@@ -223,10 +235,13 @@ def recipient_sent_since(
     *,
     since_offset: int,
     sent_path: Path | None = None,
+    subject_marker: str = SUBJECT_MARKER,
 ) -> bool:
-    """True if a press-release message to recipient_email appears after since_offset."""
+    """True if a campaign message to recipient_email appears after since_offset."""
     sent_path = sent_path or DEFAULT_SENT_MAIL
-    recipients, _ = scan_sent_mail(sent_path, start_offset=since_offset)
+    recipients, _ = scan_sent_mail(
+        sent_path, subject_marker=subject_marker, start_offset=since_offset
+    )
     return recipient_email.lower() in recipients
 
 
@@ -235,6 +250,7 @@ def wait_for_press_send(
     *,
     since_offset: int,
     sent_path: Path | None = None,
+    subject_marker: str = SUBJECT_MARKER,
     poll_seconds: float = 3.0,
 ) -> None:
     """Block until recipient appears in Sent Mail, polling incrementally."""
@@ -250,6 +266,7 @@ def wait_for_press_send(
             recipient_email,
             since_offset=since_offset,
             sent_path=sent_path,
+            subject_marker=subject_marker,
         ):
             return
         time.sleep(poll_seconds)
