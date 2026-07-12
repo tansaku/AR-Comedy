@@ -41,7 +41,8 @@ class IndustryApproach:
     should_contact: bool
     priority: str
     fit_summary: str
-    hook: str
+    subject: str
+    body: str
     skip_reason: str = ""
 
 
@@ -100,39 +101,37 @@ def _parse_approach_json(content: str) -> IndustryApproach:
         if start >= 0 and end > start:
             text = text[start : end + 1]
     data = json.loads(text)
-    hook = str(data.get("hook", "")).strip()
     return IndustryApproach(
         should_contact=bool(data.get("should_contact", True)),
         priority=str(data.get("priority", "medium")).strip().lower(),
         fit_summary=str(data.get("fit_summary", "")).strip(),
-        hook=hook,
+        subject=str(data.get("subject", "")).strip(),
+        body=str(data.get("body", "")).strip(),
         skip_reason=str(data.get("skip_reason", "")).strip(),
     )
 
 
 def _build_prompt(contact: IndustryContact, *, audience: str) -> str:
-    return f"""You help a comedian decide whether and how to invite one Edinburgh Fringe industry
-contact to see his show. Audience list type: {audience}.
+    return f"""You help a comedian write a short industry outreach email inviting one Edinburgh
+Fringe contact to see his show. Audience list type: {audience}.
 
 {INDUSTRY_SHOW_CONTEXT}
-
-The email template already opens with (do NOT repeat):
-"{BASE_LINE}"
 
 Return JSON only:
 {{
   "should_contact": true/false,
   "priority": "high|medium|low",
   "fit_summary": "One sentence on why they are/aren't a good fit",
-  "hook": "1-2 sentences to insert after the opening line — specific to them (empty if should_contact is false)",
+  "subject": "Short email subject line, max ~10 words, no spammy caps",
+  "body": "Email body ONLY — 2-4 short paragraphs, no greeting, no sign-off. British English, warm not pushy. Include show title, venue, dates (20-30 Aug, 21:05) naturally. Invite them to see it if they're about. Max ~120 words.",
   "skip_reason": "Brief reason if should_contact is false, else empty"
 }}
 
 Rules:
 - should_contact=false if they won't be in town during the show, aren't interested in comedy,
   or their stated preferences clearly exclude this kind of solo stand-up.
-- hook max ~45 words, British English, warm not pushy.
-- Reference their role, organisation, or stated interests when possible.
+- body must be specific to this person's role, organisation, or stated interests.
+- Do NOT include "Hi name" or "Best Sam" — those are added automatically.
 
 Contact profile:
 {contact.profile_text()}
@@ -148,9 +147,10 @@ def generate_industry_approach(
     payload = _openrouter_payload(
         prompt,
         system=(
-            "You assess Fringe industry outreach fit and write short email hooks. "
+            "You assess Fringe industry outreach fit and write complete short outreach emails. "
             "Reply with valid JSON only."
         ),
+        max_tokens=400,
     )
     body = _call_openrouter(payload)
     content = body["choices"][0]["message"]["content"]
@@ -161,14 +161,15 @@ def generate_industry_approach(
             should_contact=False,
             priority="low",
             fit_summary=approach.fit_summary or "Not a strong fit",
-            hook="",
+            subject="",
+            body="",
             skip_reason=approach.fit_summary or "Low fit",
         )
     print(f"  LLM model: {model_used}", flush=True)
     return approach
 
 
-def approach_to_storage(approach: IndustryApproach) -> tuple[str, str, str]:
+def approach_to_storage(approach: IndustryApproach) -> tuple[str, str, str, str]:
     if not approach.should_contact:
-        return "", f"SKIP: {approach.skip_reason or approach.fit_summary}", "skip"
-    return approach.hook, approach.fit_summary, approach.priority
+        return "", "", f"SKIP: {approach.skip_reason or approach.fit_summary}", "skip"
+    return approach.subject, approach.body, approach.fit_summary, approach.priority

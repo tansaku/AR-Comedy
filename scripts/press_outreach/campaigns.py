@@ -33,6 +33,7 @@ class Campaign:
     require_hook_block: bool = True
     require_sign_off_block: bool = True
     use_llm_hooks: bool = True
+    sync_require_subject: bool = True
 
 
 def _campaign(
@@ -46,6 +47,7 @@ def _campaign(
     require_hook_block: bool = True,
     require_sign_off_block: bool = True,
     use_llm_hooks: bool = True,
+    sync_require_subject: bool = True,
     poster_url: str | None = None,
     tickets_url: str | None = None,
 ) -> Campaign:
@@ -66,6 +68,7 @@ def _campaign(
         require_hook_block=require_hook_block,
         require_sign_off_block=require_sign_off_block,
         use_llm_hooks=use_llm_hooks,
+        sync_require_subject=sync_require_subject,
     )
 
 
@@ -87,6 +90,7 @@ INDUSTRY_UK = _campaign(
     industry_audience="UK comedy programmers, festivals and venues",
     require_hook_block=False,
     require_sign_off_block=False,
+    sync_require_subject=False,
     poster_url=PRESS_POSTER_URL,
     tickets_url=PRESS_TICKETS_URL,
 )
@@ -100,6 +104,7 @@ INDUSTRY_INTL = _campaign(
     industry_audience="international comedy programmers, festivals and venues",
     require_hook_block=False,
     require_sign_off_block=False,
+    sync_require_subject=False,
     poster_url=PRESS_POSTER_URL,
     tickets_url=PRESS_TICKETS_URL,
 )
@@ -113,6 +118,7 @@ INDUSTRY_AGENTS = _campaign(
     industry_audience="agents, casting directors and talent managers",
     require_hook_block=False,
     require_sign_off_block=False,
+    sync_require_subject=False,
     poster_url=None,
     tickets_url=None,
 )

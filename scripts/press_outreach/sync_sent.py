@@ -62,7 +62,7 @@ def _message_body_from_chunk(chunk: str) -> str:
 
 
 def _emails_from_message_chunk(chunk: str, *, subject_marker: str) -> set[str]:
-    if subject_marker not in chunk:
+    if subject_marker and subject_marker not in chunk:
         return set()
     body = _message_body_from_chunk(chunk)
     if not body:
@@ -74,8 +74,8 @@ def _emails_from_message_chunk(chunk: str, *, subject_marker: str) -> set[str]:
     except (UnicodeError, ValueError):
         return set()
     subject = message.get("Subject", "")
-    spaced = subject_marker.replace("_", " ")
-    if (
+    spaced = subject_marker.replace("_", " ") if subject_marker else ""
+    if subject_marker and (
         subject_marker not in subject
         and spaced not in subject
         and subject_marker not in chunk

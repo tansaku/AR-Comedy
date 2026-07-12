@@ -2,18 +2,16 @@
 """
 Review and send industry outreach emails one at a time.
 
+AI writes the full short email (subject + body) — no Thunderbird template needed.
+
 Workflow:
-  1. Run pregenerate_industry.py overnight to fill Outreach draft / AI fit columns
+  1. Run pregenerate_industry.py overnight to fill Email subject / Outreach draft columns
   2. Run this script to review each proposal: send, edit, or skip
   3. Skip marks the row orange in Numbers; send marks yellow (via Sent Mail sync)
 
 Usage:
   python3 scripts/press_outreach/compose_industry.py --campaign industry-uk
   python3 scripts/press_outreach/compose_industry.py --campaign industry-uk --send-ready
-  python3 scripts/press_outreach/compose_industry.py --campaign industry-uk --auto-send --send-ready
-
-Save a Thunderbird template whose subject contains the campaign marker
-(e.g. INDUSTRY_UK_OUTREACH) before composing.
 """
 
 from __future__ import annotations
@@ -27,8 +25,12 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from campaigns import Campaign, get_campaign
 from industry_contacts import IndustryContact, load_industry_contacts, summarise_industry
+from industry_email import (
+    DEFAULT_SUBJECT,
+    build_industry_compose_arg,
+    write_industry_compose,
+)
 from sync_sent import mark_row_skipped, sent_mail_size, sync_and_mark, wait_for_press_send
-from template import build_compose_arg, describe_cached_template, write_personalised_html
 from thunderbird_send import wait_and_send
 
 THUNDERBIRD = Path("/Applications/Thunderbird.app/Contents/MacOS/thunderbird")
@@ -57,16 +59,21 @@ def launch_compose(compose_arg: str) -> None:
     subprocess.run([str(THUNDERBIRD), "-compose", compose_arg], check=False)
 
 
+def _sync_marker(campaign: Campaign) -> str:
+    return campaign.subject_marker if campaign.sync_require_subject else ""
+
+
 def build_notes_html(contact: IndustryContact) -> str:
     import html as html_lib
 
     fields = [
+        ("Subject", contact.subject),
         ("AI fit", contact.ai_fit),
         ("Priority", contact.priority),
         ("Organisation", contact.organisation),
         ("Job title", contact.job_title),
         ("In town", f"{contact.in_town_start} – {contact.in_town_end}"),
-        ("Draft hook", contact.draft),
+        ("Draft body", contact.draft),
     ]
     lines = "".join(
         f"<div><strong>{html_lib.escape(label)}:</strong> {html_lib.escape(value or '—')}</div>"
@@ -88,7 +95,8 @@ def print_review_card(contact: IndustryContact, campaign: Campaign) -> None:
     print(f"Org: {contact.organisation} · {contact.job_title}")
     print(f"In town: {contact.in_town_start} – {contact.in_town_end}")
     print(f"AI fit ({contact.priority}): {contact.ai_fit}")
-    print(f"Draft hook:\n  {contact.draft}")
+    print(f"Subject: {contact.subject or DEFAULT_SUBJECT}")
+    print(f"Draft body:\n{contact.draft}")
     print("=" * 72)
 
 
@@ -110,23 +118,21 @@ def open_compose(
     dry_run: bool,
 ) -> None:
     notes = "" if send_ready else build_notes_html(contact)
+    subject = contact.subject.strip() or DEFAULT_SUBJECT
     html_path = campaign.compose_dir / f"row-{contact.row}.html"
-    html_path, subject = write_personalised_html(
+    html_path, subject = write_industry_compose(
         html_path,
-        campaign=campaign,
-        first_name=contact.first_name,
-        contact_notes_html=notes,
-        hook_line=contact.draft,
-        include_instagram=True,
-        industry_mode=True,
-    )
-    compose_arg = build_compose_arg(
-        to_email=contact.email,
+        contact,
+        campaign,
         subject=subject,
-        html_path=html_path,
+        body=contact.draft,
+        notes_html=notes,
+    )
+    compose_arg = build_industry_compose_arg(
+        contact=contact, subject=subject, html_path=html_path
     )
     print(f"Subject: {subject}")
-    print(f"Draft: {html_path}")
+    print(f"Draft: {html_path} ({html_path.stat().st_size // 1024} KB)")
     if dry_run:
         print("(dry-run — not launching Thunderbird)")
         return
@@ -140,27 +146,28 @@ def main() -> int:
     args = parse_args()
     campaign = get_campaign(args.campaign)
     numbers_path = args.numbers or campaign.default_numbers
+    marker = _sync_marker(campaign)
 
     if not numbers_path.exists():
         print(f"Numbers file not found: {numbers_path}", file=sys.stderr)
         return 1
 
     print(f"Campaign: {campaign.label}")
-    print(f"Template marker: {campaign.subject_marker}")
-    print(f"Close Numbers before running so highlights and drafts can be saved.\n")
+    print("Emails are AI-generated — no Thunderbird template required.")
+    print("Close Numbers before running so highlights and drafts can be saved.\n")
 
     if not args.no_sync:
         try:
             marked, total = sync_and_mark(
                 numbers_path=numbers_path,
                 state_path=campaign.sync_state,
-                subject_marker=campaign.subject_marker,
+                subject_marker=marker,
             )
             print(f"Sent sync: {total} known; newly marked yellow: {marked}")
         except FileNotFoundError as exc:
             print(f"Sync skipped: {exc}")
 
-    contacts, doc, outreach_cols = load_industry_contacts(
+    contacts, _, outreach_cols = load_industry_contacts(
         numbers_path,
         schema=campaign.industry_schema or "programmer",
     )
@@ -184,7 +191,7 @@ def main() -> int:
     while pending_review:
         contact = pending_review[0]
         print_review_card(contact, campaign)
-        action = "s" if args.auto_send else prompt_action()
+        action = "s" if (args.auto_send or args.dry_run) else prompt_action()
 
         if action == "q":
             print("Stopped.")
@@ -199,7 +206,7 @@ def main() -> int:
                 fit_col=outreach_cols.fit,
             )
             print(f"Skipped row {contact.row}.")
-            contacts, doc, outreach_cols = load_industry_contacts(
+            contacts, _, outreach_cols = load_industry_contacts(
                 numbers_path, schema=campaign.industry_schema or "programmer"
             )
             pending_review = [c for c in contacts if c.ready_to_review]
@@ -224,7 +231,7 @@ def main() -> int:
                     contact.email,
                     since_offset=watch_offset,
                     poll_seconds=args.poll_seconds,
-                    subject_marker=campaign.subject_marker,
+                    subject_marker=marker,
                 )
             except KeyboardInterrupt:
                 print("\nStopped.")
@@ -234,9 +241,9 @@ def main() -> int:
                 sync_and_mark(
                     numbers_path=numbers_path,
                     state_path=campaign.sync_state,
-                    subject_marker=campaign.subject_marker,
+                    subject_marker=marker,
                 )
-        contacts, doc, outreach_cols = load_industry_contacts(
+        contacts, _, outreach_cols = load_industry_contacts(
             numbers_path, schema=campaign.industry_schema or "programmer"
         )
         pending_review = [c for c in contacts if c.ready_to_review]

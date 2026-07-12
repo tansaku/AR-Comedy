@@ -8,6 +8,7 @@ from pathlib import Path
 
 from numbers_parser import Document
 
+SUBJECT_HEADER = "Email subject"
 DRAFT_HEADER = "Outreach draft"
 FIT_HEADER = "AI fit"
 PRIORITY_HEADER = "Priority"
@@ -15,6 +16,7 @@ PRIORITY_HEADER = "Priority"
 
 @dataclass(frozen=True)
 class OutreachColumns:
+    subject: int | None
     draft: int | None
     fit: int | None
     priority: int | None
@@ -29,10 +31,17 @@ def _header_col(table, header: str) -> int | None:
 
 def read_outreach_columns(table) -> OutreachColumns:
     return OutreachColumns(
+        subject=_header_col(table, SUBJECT_HEADER),
         draft=_header_col(table, DRAFT_HEADER),
         fit=_header_col(table, FIT_HEADER),
         priority=_header_col(table, PRIORITY_HEADER),
     )
+
+
+def _append_columns(table, count: int) -> int:
+    start = table.num_cols
+    table.add_column(count)
+    return start
 
 
 def ensure_outreach_columns(
@@ -41,17 +50,30 @@ def ensure_outreach_columns(
     save_path: Path | None = None,
     doc: Document | None = None,
 ) -> OutreachColumns:
-    """Append Outreach draft / AI fit / Priority columns if missing."""
+    """Append outreach columns if missing (supports legacy 3-col and full 4-col layouts)."""
     cols = read_outreach_columns(table)
-    if cols.draft is not None:
+    if cols.subject is not None and cols.draft is not None:
         return cols
 
-    start = table.num_cols
-    table.add_column(3)
-    table.write(0, start, DRAFT_HEADER)
-    table.write(0, start + 1, FIT_HEADER)
-    table.write(0, start + 2, PRIORITY_HEADER)
-    cols = OutreachColumns(draft=start, fit=start + 1, priority=start + 2)
+    if cols.draft is None:
+        start = _append_columns(table, 4)
+        table.write(0, start, SUBJECT_HEADER)
+        table.write(0, start + 1, DRAFT_HEADER)
+        table.write(0, start + 2, FIT_HEADER)
+        table.write(0, start + 3, PRIORITY_HEADER)
+        cols = OutreachColumns(
+            subject=start, draft=start + 1, fit=start + 2, priority=start + 3
+        )
+    elif cols.subject is None:
+        start = _append_columns(table, 1)
+        table.write(0, start, SUBJECT_HEADER)
+        cols = OutreachColumns(
+            subject=start,
+            draft=cols.draft,
+            fit=cols.fit,
+            priority=cols.priority,
+        )
+
     if save_path and doc:
         doc.save(str(save_path))
     return cols
@@ -62,10 +84,13 @@ def write_outreach_plan(
     row: int,
     cols: OutreachColumns,
     *,
+    subject: str = "",
     draft: str,
     ai_fit: str,
     priority: str = "",
 ) -> None:
+    if cols.subject is not None and subject:
+        table.write(row, cols.subject, subject)
     if cols.draft is not None:
         table.write(row, cols.draft, draft)
     if cols.fit is not None:

@@ -103,6 +103,7 @@ class IndustryContact:
     work_to_avoid: str
     status: Status
     first_name: str
+    subject: str = ""
     draft: str = ""
     ai_fit: str = ""
     priority: str = ""
@@ -176,9 +177,12 @@ def _load_row(
     country_col = columns.get("country")
     country = _cell_str(table, row, country_col) if country_col is not None else ""
 
-    draft = ""
-    ai_fit = ""
-    priority = ""
+    draft: str = ""
+    subject: str = ""
+    ai_fit: str = ""
+    priority: str = ""
+    if outreach_cols.subject is not None:
+        subject = _cell_str(table, row, outreach_cols.subject)
     if outreach_cols.draft is not None:
         draft = _cell_str(table, row, outreach_cols.draft)
     if outreach_cols.fit is not None:
@@ -209,6 +213,7 @@ def _load_row(
         status=row_status_from_name_cell(table, row, columns["name"]),  # type: ignore[arg-type]
         first_name=first_name_from(_cell_str(table, row, columns["name"])),
         draft=draft,
+        subject=subject,
         ai_fit=ai_fit,
         priority=priority,
         in_town_overlap=overlaps_show_dates(in_start, in_end),

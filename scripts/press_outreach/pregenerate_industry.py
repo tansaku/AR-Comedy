@@ -86,18 +86,21 @@ def main() -> int:
             approach = generate_industry_approach(
                 contact, audience=campaign.industry_audience
             )
-            draft, fit, priority = approach_to_storage(approach)
+            subject, draft, fit, priority = approach_to_storage(approach)
             write_outreach_plan(
                 table,
                 contact.row,
                 outreach_cols,
+                subject=subject,
                 draft=draft,
                 ai_fit=fit,
                 priority=priority,
             )
             print(f"  {priority}: {fit[:80]}")
+            if subject:
+                print(f"  subject: {subject}")
             if draft:
-                print(f"  hook: {draft[:100]}")
+                print(f"  body: {draft[:120]}...")
             ok += 1
         except Exception as exc:  # noqa: BLE001
             print(f"  FAILED: {exc}", file=sys.stderr)
