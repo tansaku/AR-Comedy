@@ -8,7 +8,7 @@ from pathlib import Path
 
 from campaigns import Campaign
 from industry_contacts import IndustryContact
-from template import FROM_EMAIL, INSTAGRAM_URL, build_compose_arg
+from template import FROM_EMAIL, INSTAGRAM_URL, build_compose_arg, resolve_poster_src
 
 DEFAULT_SUBJECT = "Edinburgh Fringe — culture-clash solo comedy"
 
@@ -26,6 +26,7 @@ def build_industry_html(
     *,
     body: str,
     notes_html: str = "",
+    embed_poster: bool = False,
 ) -> str:
     """Assemble a short HTML email from AI-written body paragraphs."""
     greeting = f"<p>Hi {html_lib.escape(contact.first_name)},</p>"
@@ -36,15 +37,19 @@ def build_industry_html(
     )
     poster = ""
     if campaign.poster_url:
-        link_open = (
-            f'<a href="{campaign.tickets_url}">' if campaign.tickets_url else ""
+        poster_src = resolve_poster_src(
+            campaign.poster_url, embed_for_compose=embed_poster
         )
-        link_close = "</a>" if campaign.tickets_url else ""
-        poster = (
-            f'<p style="margin-top:16px;">{link_open}'
-            f'<img src="{campaign.poster_url}" width="320" alt="Edinburgh Fringe 2026 poster" '
-            f'style="max-width:100%;height:auto;border:0;">{link_close}</p>'
-        )
+        if poster_src:
+            link_open = (
+                f'<a href="{campaign.tickets_url}">' if campaign.tickets_url else ""
+            )
+            link_close = "</a>" if campaign.tickets_url else ""
+            poster = (
+                f'<p style="margin-top:16px;">{link_open}'
+                f'<img src="{poster_src}" width="320" alt="Edinburgh Fringe 2026 poster" '
+                f'style="max-width:100%;height:auto;border:0;">{link_close}</p>'
+            )
     return (
         "<!DOCTYPE html><html><body style=\"font-family:Arial,sans-serif;font-size:12pt;"
         "color:#222;line-height:1.5;\">"
@@ -61,9 +66,16 @@ def write_industry_compose(
     subject: str,
     body: str,
     notes_html: str = "",
+    embed_poster: bool = False,
 ) -> tuple[Path, str]:
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    html = build_industry_html(contact, campaign, body=body, notes_html=notes_html)
+    html = build_industry_html(
+        contact,
+        campaign,
+        body=body,
+        notes_html=notes_html,
+        embed_poster=embed_poster,
+    )
     output_path.write_text(html, encoding="utf-8")
     return output_path, subject
 

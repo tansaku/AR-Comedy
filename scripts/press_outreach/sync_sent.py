@@ -19,6 +19,11 @@ from contacts import (
 )
 from numbers_style import SKIP_BG, row_status_from_name_cell, style_entire_row
 
+try:
+    from industry_contacts import load_industry_contacts
+except ImportError:  # pragma: no cover
+    load_industry_contacts = None  # type: ignore[assignment,misc]
+
 REPO_ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_SYNC_STATE = REPO_ROOT / "data" / ".press-outreach-sent-sync.json"
 DEFAULT_SENT_MAIL = Path.home() / (
@@ -166,15 +171,32 @@ def _is_skip_cell(table, row: int) -> bool:
     return row_status_from_name_cell(table, row, COLUMNS["name"]) == "skip"
 
 
+def _load_contacts_for_sync(
+    numbers_path: Path,
+    *,
+    industry_schema: str | None = None,
+):
+    if industry_schema:
+        if load_industry_contacts is None:
+            raise RuntimeError("industry_contacts module unavailable")
+        contacts, _, _ = load_industry_contacts(numbers_path, schema=industry_schema)  # type: ignore[arg-type]
+        return contacts
+    return load_contacts(numbers_path)
+
+
 def mark_sent_rows_in_numbers(
     sent_emails: set[str],
     *,
     numbers_path: Path | None = None,
+    industry_schema: str | None = None,
+    name_col: int = 1,
 ) -> int:
     """Yellow-highlight entire rows whose email appears in sent_emails."""
     numbers_path = numbers_path or DEFAULT_NUMBERS_PATH
     sent_lookup = {email.lower() for email in sent_emails}
-    contacts = load_contacts(numbers_path)
+    contacts = _load_contacts_for_sync(
+        numbers_path, industry_schema=industry_schema
+    )
 
     doc = Document(str(numbers_path))
     table = doc.sheets[0].tables[0]
@@ -185,7 +207,7 @@ def mark_sent_rows_in_numbers(
             continue
         if contact.status == "sent":
             continue
-        if _is_skip_cell(table, contact.row):
+        if row_status_from_name_cell(table, contact.row, name_col) == "skip":
             continue
         style_entire_row(table, contact.row, (255, 240, 86))
         updated += 1
@@ -240,6 +262,7 @@ def sync_and_mark(
     state_path: Path | None = None,
     subject_marker: str = SUBJECT_MARKER,
     full_rescan: bool = False,
+    industry_schema: str | None = None,
 ) -> tuple[int, int]:
     """Sync Thunderbird sent mail and update Numbers highlights.
 
@@ -251,7 +274,11 @@ def sync_and_mark(
         subject_marker=subject_marker,
         full_rescan=full_rescan,
     )
-    marked = mark_sent_rows_in_numbers(sent_emails, numbers_path=numbers_path)
+    marked = mark_sent_rows_in_numbers(
+        sent_emails,
+        numbers_path=numbers_path,
+        industry_schema=industry_schema,
+    )
     return marked, len(sent_emails)
 
 
@@ -273,6 +300,42 @@ def recipient_sent_since(
         sent_path, subject_marker=subject_marker, start_offset=since_offset
     )
     return recipient_email.lower() in recipients
+
+
+def wait_for_send_or_done(
+    recipient_email: str,
+    *,
+    since_offset: int,
+    sent_path: Path | None = None,
+    subject_marker: str = SUBJECT_MARKER,
+    poll_seconds: float = 3.0,
+) -> str:
+    """Poll Sent Mail; return 'sent' when detected, 'done' when user presses Enter."""
+    import select
+    import sys
+    import time
+
+    sent_path = sent_path or DEFAULT_SENT_MAIL
+    print(
+        f"\nReview in Thunderbird for {recipient_email}.\n"
+        "  • Send from Thunderbird → script advances automatically.\n"
+        "  • Close without sending → press Enter here, then choose skip / defer / reopen."
+    )
+    while True:
+        if recipient_sent_since(
+            recipient_email,
+            since_offset=since_offset,
+            sent_path=sent_path,
+            subject_marker=subject_marker,
+        ):
+            return "sent"
+        if sys.stdin.isatty():
+            ready, _, _ = select.select([sys.stdin], [], [], poll_seconds)
+            if ready:
+                sys.stdin.readline()
+                return "done"
+        else:
+            time.sleep(poll_seconds)
 
 
 def wait_for_press_send(

@@ -3,7 +3,10 @@
 
 from __future__ import annotations
 
+import base64
 import re
+import urllib.error
+import urllib.request
 from datetime import datetime
 from email import policy
 from email.header import decode_header, make_header
@@ -22,6 +25,8 @@ THUNDERBIRD_PROFILE = Path.home() / (
 )
 FROM_EMAIL = "tansaku@gmail.com"
 INSTAGRAM_URL = "https://www.instagram.com/tansaku/"
+LOCAL_POSTER_PATH = REPO_ROOT / "assets" / "images" / "email-edinburgh-fringe-2026.jpg"
+_poster_remote_ok: bool | None = None
 
 GREETING_RE = re.compile(r"Hi\s+[^,<]+,\s*", re.IGNORECASE)
 SIGN_OFF_RE = re.compile(r"Best, Sam Joseph\b", re.IGNORECASE)
@@ -237,19 +242,56 @@ def decode_subject(message, *, fallback: str) -> str:
         return str(raw)
 
 
+def _hosted_poster_available(poster_url: str) -> bool:
+    global _poster_remote_ok
+    if _poster_remote_ok is not None:
+        return _poster_remote_ok
+    try:
+        request = urllib.request.Request(poster_url, method="HEAD")
+        with urllib.request.urlopen(request, timeout=8) as response:
+            _poster_remote_ok = response.status == 200
+    except (urllib.error.URLError, OSError, ValueError):
+        _poster_remote_ok = False
+    return _poster_remote_ok
+
+
+def resolve_poster_src(
+    poster_url: str | None,
+    *,
+    embed_for_compose: bool = False,
+) -> str | None:
+    """Poster src for email HTML.
+
+    Thunderbird compose often blocks remote images — embed locally for review drafts.
+    Sent mail uses the hosted URL when live (~100KB JPEG, not the old 3.5MB inline).
+    """
+    if embed_for_compose and LOCAL_POSTER_PATH.exists():
+        encoded = base64.b64encode(LOCAL_POSTER_PATH.read_bytes()).decode("ascii")
+        return f"data:image/jpeg;base64,{encoded}"
+    if poster_url and _hosted_poster_available(poster_url):
+        return poster_url
+    if LOCAL_POSTER_PATH.exists():
+        encoded = base64.b64encode(LOCAL_POSTER_PATH.read_bytes()).decode("ascii")
+        return f"data:image/jpeg;base64,{encoded}"
+    return poster_url
+
+
 def use_hosted_poster(
     html: str,
     *,
     poster_url: str,
     tickets_url: str | None = None,
 ) -> str:
-    """Drop embedded megabyte images; use one small hosted poster before the body copy."""
+    """Drop embedded megabyte images; use one small poster before the body copy."""
     html = IMG_TAG_RE.sub("", html)
+    poster_src = resolve_poster_src(poster_url)
+    if not poster_src:
+        return html
     link_open = f'<a href="{tickets_url}">' if tickets_url else ""
     link_close = "</a>" if tickets_url else ""
     band = (
         f'<p style="margin:12pt 0 16pt 0;">{link_open}'
-        f'<img src="{poster_url}" width="400" alt="I Think I\'m Turning Japanese — Edinburgh Fringe 2026" '
+        f'<img src="{poster_src}" width="400" alt="I Think I\'m Turning Japanese — Edinburgh Fringe 2026" '
         f'style="max-width:100%;height:auto;border:0;">{link_close}</p>'
     )
     marker = "Press Release"
