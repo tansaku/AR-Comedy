@@ -35,6 +35,10 @@ HOOK_BLOCK_RE = re.compile(
     r"(Hope you're well - Just sharing the press release for my upcoming Edinburgh show\.\s*)(.*?)(\s*Best, Sam Joseph)",
     re.DOTALL | re.IGNORECASE,
 )
+CAMDEN_HOOK_BLOCK_RE = re.compile(
+    r"(Hope you're well — just sharing the press release for my Camden Fringe show at the Museum of Comedy\.\s*)(.*?)(\s*Best, Sam Joseph)",
+    re.DOTALL | re.IGNORECASE,
+)
 INDUSTRY_HOOK_BLOCK_RE = re.compile(
     r"(Hope you're well — I'm up at Edinburgh Fringe with a solo comedy hour and wanted to reach out\.\s*)(.*?)(\s*Best, Sam Joseph)",
     re.DOTALL | re.IGNORECASE,
@@ -259,20 +263,24 @@ def resolve_poster_src(
     poster_url: str | None,
     *,
     embed_for_compose: bool = False,
+    local_poster_path: Path | None = None,
 ) -> str | None:
     """Poster src for email HTML.
 
     Thunderbird compose often blocks remote images — embed locally for review drafts.
-    Sent mail uses the hosted URL when live (~100KB JPEG, not the old 3.5MB inline).
+    Sent mail uses the hosted URL when live (~40–100KB JPEG, not multi-MB inline).
     """
-    if embed_for_compose and LOCAL_POSTER_PATH.exists():
-        encoded = base64.b64encode(LOCAL_POSTER_PATH.read_bytes()).decode("ascii")
-        return f"data:image/jpeg;base64,{encoded}"
+    local_path = local_poster_path or LOCAL_POSTER_PATH
+    if embed_for_compose and local_path.exists():
+        encoded = base64.b64encode(local_path.read_bytes()).decode("ascii")
+        mime = "jpeg" if local_path.suffix.lower() in {".jpg", ".jpeg"} else "png"
+        return f"data:image/{mime};base64,{encoded}"
     if poster_url and _hosted_poster_available(poster_url):
         return poster_url
-    if LOCAL_POSTER_PATH.exists():
-        encoded = base64.b64encode(LOCAL_POSTER_PATH.read_bytes()).decode("ascii")
-        return f"data:image/jpeg;base64,{encoded}"
+    if local_path.exists():
+        encoded = base64.b64encode(local_path.read_bytes()).decode("ascii")
+        mime = "jpeg" if local_path.suffix.lower() in {".jpg", ".jpeg"} else "png"
+        return f"data:image/{mime};base64,{encoded}"
     return poster_url
 
 
@@ -364,6 +372,7 @@ def inject_hook_line(
     *,
     required: bool = True,
     industry_mode: bool = False,
+    camden_mode: bool = False,
 ) -> str:
     """Replace the template's default hook with a personalised angle."""
     hook_line = hook_line.strip()
@@ -373,7 +382,12 @@ def inject_hook_line(
     def replacer(match: re.Match[str]) -> str:
         return f"{match.group(1)}{hook_line}{match.group(3)}"
 
-    patterns = [INDUSTRY_HOOK_BLOCK_RE, HOOK_BLOCK_RE] if industry_mode else [HOOK_BLOCK_RE]
+    patterns = []
+    if camden_mode:
+        patterns.append(CAMDEN_HOOK_BLOCK_RE)
+    if industry_mode:
+        patterns.append(INDUSTRY_HOOK_BLOCK_RE)
+    patterns.append(HOOK_BLOCK_RE)
     for pattern in patterns:
         updated, count = pattern.subn(replacer, html, count=1)
         if count == 1:
@@ -394,13 +408,15 @@ def personalise_html(
     require_hook_block: bool = True,
     require_sign_off_block: bool = True,
     industry_mode: bool = False,
+    camden_mode: bool = False,
 ) -> str:
     """Inject contact notes, swap greeting name, and optionally replace the hook."""
     html = inject_contact_notes(html, contact_notes_html)
     html = replace_greeting_name(html, first_name)
     if hook_line:
         html = inject_hook_line(
-            html, hook_line, required=require_hook_block, industry_mode=industry_mode
+            html, hook_line, required=require_hook_block, industry_mode=industry_mode,
+            camden_mode=camden_mode,
         )
     html = inject_sign_off_extras(
         html,
@@ -424,6 +440,7 @@ def build_compose_html(
     industry_mode: bool = False,
 ) -> tuple[str, str]:
     """Return (subject, personalised HTML body) ready for Thunderbird -compose."""
+    camden_mode = campaign.id == "camden-press"
     eml_bytes = load_base_eml(campaign, templates_paths, refresh=refresh_template)
     message = _parse_message(eml_bytes)
     html = _html_part(message).get_content()
@@ -438,6 +455,7 @@ def build_compose_html(
         require_hook_block=campaign.require_hook_block,
         require_sign_off_block=campaign.require_sign_off_block,
         industry_mode=industry_mode,
+        camden_mode=camden_mode,
     )
     return decode_subject(message, fallback=campaign.subject_marker), html
 
@@ -471,9 +489,15 @@ def write_personalised_html(
     return output_path, subject
 
 
+def _compose_safe_text(value: str) -> str:
+    """Avoid Thunderbird compose parse errors from ASCII apostrophes in quoted values."""
+    return value.replace("'", "\u2019")
+
+
 def quote_compose_value(value: str) -> str:
-    """Quote a value for Thunderbird -compose (single-quoted, escape apostrophes)."""
-    return "'" + value.replace("\\", "\\\\").replace("'", "\\'") + "'"
+    """Quote a value for Thunderbird -compose (single-quoted)."""
+    safe = _compose_safe_text(value).replace("\\", "\\\\")
+    return "'" + safe + "'"
 
 
 def build_compose_arg(

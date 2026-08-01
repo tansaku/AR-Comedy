@@ -54,7 +54,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "--campaign",
-        choices=("press", "industry"),
+        choices=("press", "camden-press", "industry"),
         default="press",
         help="Outreach campaign (default: press)",
     )
@@ -145,12 +145,12 @@ def prepare_compose_for_contact(
     hook_source = "none"
     if campaign.use_llm_hooks and use_llm:
         hook_line, hook_source = draft_hook_line(
-            contact, use_llm=use_llm, examples=hook_examples
+            contact, use_llm=use_llm, examples=hook_examples, campaign_id=campaign.id
         )
-    london_ps = draft_london_ps(contact) if send_ready else ""
+    london_ps = draft_london_ps(contact, campaign_id=campaign.id) if send_ready else ""
     notes_html = ""
     if not send_ready:
-        london_note = draft_london_note(contact)
+        london_note = draft_london_note(contact, campaign_id=campaign.id)
         notes_html = build_contact_notes_html(
             contact,
             intro_suggestion=hook_line,
@@ -166,9 +166,9 @@ def prepare_compose_for_contact(
         if london_ps:
             print(f"London p.s. included for {contact.country}.")
     else:
-        london_note = draft_london_note(contact)
+        london_note = draft_london_note(contact, campaign_id=campaign.id)
         if london_note:
-            print(f"London note idea (in grey box only): {london_note}")
+            print(f"Press note idea (in grey box only): {london_note}")
         print(
             "\nGrey contact-notes box is at the top of the compose window — "
             "use it for reference, then delete it before sending."

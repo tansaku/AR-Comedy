@@ -14,6 +14,8 @@ data/.press-compose-base.eml
 data/.press-compose-base.json
 data/.press-compose-drafts/
 data/.press-hook-cache.json
+data/.camden-press-hook-cache.json
+data/.camden-press-greeting-cache.json
 data/.press-sent-hook-examples.json
 data/.press-outreach-sent-sync.json
 data/.industry-agents-compose-base.eml
@@ -28,7 +30,11 @@ data/.industry-uk-compose-base.eml
 data/.industry-uk-compose-base.json
 data/.industry-uk-compose-drafts/
 data/.industry-uk-outreach-sent-sync.json
-data/press-outreach-mail-merge.csv
+data/.camden-press-compose-base.eml
+data/.camden-press-compose-base.json
+data/.camden-press-compose-drafts/
+data/.camden-press-outreach-sent-sync.json
+data/camden-press-list-import.csv
 data/press-outreach-manifest.json
 data/*.numbers
 

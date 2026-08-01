@@ -13,6 +13,14 @@ SITE_BASE = "https://comedy.neurogrid.com"
 PRESS_POSTER_URL = f"{SITE_BASE}/assets/images/email-edinburgh-fringe-2026.jpg"
 PRESS_TICKETS_URL = "https://edinburgh.justthetonic.com/event/88:5767/"
 
+CAMDEN_FRINGE_PAGE = (
+    "https://camdenfringe.com/events/i-think-im-turning-japanese-i-really-think-so-not/"
+)
+CAMDEN_TICKETS_URL = "https://museumofcomedy.ticketsolve.com/ticketbooth/shows/873664754"
+CAMDEN_PRESS_TICKETS_EMAIL = "boxoffice@museumofcomedy.com"
+CAMDEN_EMAIL_POSTER = REPO_ROOT / "assets" / "images" / "email-camden-fringe-2026.jpg"
+CAMDEN_POSTER_URL = f"{SITE_BASE}/assets/images/email-camden-fringe-2026.jpg"
+
 IndustrySchema = Literal["programmer", "agent"]
 
 
@@ -81,6 +89,15 @@ PRESS = _campaign(
     tickets_url=PRESS_TICKETS_URL,
 )
 
+CAMDEN_PRESS = _campaign(
+    id="camden-press",
+    label="Camden Fringe press release",
+    subject_marker="CAMDEN FRINGE PRESS RELEASE",
+    numbers_filename="Camden Fringe 2026 Press List.numbers",
+    poster_url=CAMDEN_POSTER_URL,
+    tickets_url=CAMDEN_TICKETS_URL,
+)
+
 INDUSTRY_UK = _campaign(
     id="industry-uk",
     label="Industry — UK programmers",
@@ -128,7 +145,7 @@ INDUSTRY = INDUSTRY_UK
 
 CAMPAIGNS: dict[str, Campaign] = {
     c.id: c
-    for c in (PRESS, INDUSTRY_UK, INDUSTRY_INTL, INDUSTRY_AGENTS)
+    for c in (PRESS, CAMDEN_PRESS, INDUSTRY_UK, INDUSTRY_INTL, INDUSTRY_AGENTS)
 }
 DEFAULT_CAMPAIGN_ID = "press"
 

@@ -66,9 +66,22 @@ def _message_body_from_chunk(chunk: str) -> str:
     return "\n".join(lines)
 
 
+def _subject_marker_matches(*, subject: str, chunk: str, subject_marker: str) -> bool:
+    if not subject_marker:
+        return True
+    variants = {
+        subject_marker,
+        subject_marker.replace("_", " "),
+        subject_marker.replace(" ", "_"),
+    }
+    subject_text = subject or ""
+    if any(marker in subject_text for marker in variants):
+        return True
+    # Encoded-word Subject lines often contain underscores before decoding.
+    return any(marker in chunk for marker in variants)
+
+
 def _emails_from_message_chunk(chunk: str, *, subject_marker: str) -> set[str]:
-    if subject_marker and subject_marker not in chunk:
-        return set()
     body = _message_body_from_chunk(chunk)
     if not body:
         return set()
@@ -78,13 +91,8 @@ def _emails_from_message_chunk(chunk: str, *, subject_marker: str) -> set[str]:
         )
     except (UnicodeError, ValueError):
         return set()
-    subject = message.get("Subject", "")
-    spaced = subject_marker.replace("_", " ") if subject_marker else ""
-    if subject_marker and (
-        subject_marker not in subject
-        and spaced not in subject
-        and subject_marker not in chunk
-    ):
+    subject = str(message.get("Subject", ""))
+    if not _subject_marker_matches(subject=subject, chunk=chunk, subject_marker=subject_marker):
         return set()
     return _emails_from_header(message.get("To", ""))
 
@@ -309,6 +317,7 @@ def wait_for_send_or_done(
     sent_path: Path | None = None,
     subject_marker: str = SUBJECT_MARKER,
     poll_seconds: float = 3.0,
+    prompt: str | None = None,
 ) -> str:
     """Poll Sent Mail; return 'sent' when detected, 'done' when user presses Enter."""
     import select
@@ -316,11 +325,14 @@ def wait_for_send_or_done(
     import time
 
     sent_path = sent_path or DEFAULT_SENT_MAIL
-    print(
-        f"\nReview in Thunderbird for {recipient_email}.\n"
-        "  • Send from Thunderbird → script advances automatically.\n"
-        "  • Close without sending → press Enter here, then choose skip / defer / reopen."
-    )
+    if prompt is None:
+        prompt = (
+            f"\nWaiting for send to {recipient_email}.\n"
+            "  • Send from Thunderbird → script advances when Sent Mail syncs "
+            f"(checks every {poll_seconds:g}s).\n"
+            "  • Already sent, or don't want to wait? Press Enter to advance."
+        )
+    print(prompt)
     while True:
         if recipient_sent_since(
             recipient_email,
