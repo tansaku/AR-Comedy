@@ -1,6 +1,6 @@
 {% assign hl = site.data.highlights %}
-{% assign brighton_show = hl.festivals.shows | where: "festival", "Brighton Fringe 2026" | first %}
-{% if brighton_show == nil %}{% assign brighton_show = hl.festivals.shows | first %}{% endif %}
+{% assign camden_show = hl.festivals.shows | where: "festival", "Camden Fringe 2026" | first %}
+{% if camden_show == nil %}{% assign camden_show = hl.festivals.shows | first %}{% endif %}
 {% assign edinburgh_show = hl.festivals.shows | where: "festival", "Edinburgh Fringe 2026" | first %}
 
 <section class="home-showcase" aria-label="Shows and festivals">
@@ -10,18 +10,19 @@
 
   <div class="showcase-grid">
     <article class="showcase-col showcase-col-brighton">
-      <h2 class="showcase-heading">Brighton Fringe</h2>
-      {% if brighton_show %}
+      <h2 class="showcase-heading">Camden Fringe</h2>
+      {% if camden_show %}
       <ul class="festival-show-list festival-show-list--text-only">
         <li class="festival-show-item">
           <div class="festival-show-body">
             <span class="festival-show-line">
-              <strong>{% if brighton_show.tickets_url %}<a href="{{ brighton_show.tickets_url }}">{{ brighton_show.name }}</a>{% else %}{{ brighton_show.name }}{% endif %}</strong>
-              <span class="festival-tag">{{ brighton_show.festival }}</span>
+              <strong>{% if camden_show.tickets_url %}<a href="{{ camden_show.tickets_url }}">{{ camden_show.name }}</a>{% else %}{{ camden_show.name }}{% endif %}</strong>
+              <span class="festival-tag">{{ camden_show.festival }}</span>
             </span>
-            {% if brighton_show.dates %}<span class="festival-dates">{{ brighton_show.dates }}</span>{% endif %}
-            {% if brighton_show.venue %}<span class="festival-venue">{{ brighton_show.venue }}</span>{% endif %}
-            {% if brighton_show.tickets_url %}<span class="festival-tickets"><a href="{{ brighton_show.tickets_url }}">Book tickets →</a></span>{% endif %}
+            {% if camden_show.dates %}<span class="festival-dates">{{ camden_show.dates }}</span>{% endif %}
+            {% if camden_show.venue %}<span class="festival-venue">{{ camden_show.venue }}</span>{% endif %}
+            {% if camden_show.listing_url %}<span class="festival-tickets"><a href="{{ camden_show.listing_url }}">Camden Fringe listing →</a></span>{% endif %}
+            {% if camden_show.tickets_url %}<span class="festival-tickets"><a href="{{ camden_show.tickets_url }}">Book tickets →</a></span>{% endif %}
           </div>
         </li>
       </ul>

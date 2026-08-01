@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Sam Joseph — comedy
-description: Stand-up comedy, VR Comedy Booby Trap, Brighton & Edinburgh 2026 — book for gigs and festivals.
-image: /assets/images/brighton-fringe-2026-turning-japanese.png
+description: Stand-up comedy, VR Comedy Booby Trap, Camden & Edinburgh 2026 — book for gigs and festivals.
+image: /assets/images/camden-fringe-2026-poster.jpg
 ---
 
 <section class="hero" aria-labelledby="hero-heading">
   <h1 id="hero-heading" class="hero-title">Sam Joseph</h1>
   <p class="hero-tagline">Comedian, parent, recovering tech person — midlife sold separately.</p>
-  <p class="hero-lede">Stand-up on Japan, bilingual family life, and sharp tech jokes. <strong>Brighton</strong> &amp; <strong>Edinburgh 2026</strong>: <em>I Think I’m Turning Japanese (I really think so, not!)</em> · Weekly <strong>Comedy Booby Trap</strong> in VR (Scenic Club).</p>
+  <p class="hero-lede">Stand-up on Japan, bilingual family life, and sharp tech jokes. <strong>Camden</strong> &amp; <strong>Edinburgh 2026</strong>: <em>I Think I’m Turning Japanese (I really think so, not!)</em> · Weekly <strong>Comedy Booby Trap</strong> in VR (Scenic Club).</p>
   <p class="hero-cred">Previously: solo show at Leicester, Brighton &amp; Tunbridge Wells Fringes. Podcast: <a href="{{ '/podcasts/' | relative_url }}">Comedians on Technology, People and Drugs</a>.</p>
   <p class="hero-quote" role="note"><em>“Like a geek, grown up”</em> — Markus Birdman</p>
   <p class="hero-social">

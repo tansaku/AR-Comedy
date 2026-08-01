@@ -2,15 +2,16 @@
 # festivals.shows: ticket URLs should be canonical (no utm_/fbclid).
 
 festivals:
-  intro: "Three festival runs of the same show — Leicester first, Brighton second, then Edinburgh. Tickets on the Fringe box-office pages below; Instagram bio stays handy for anything else."
+  intro: "Camden Fringe at the Museum of Comedy, then Edinburgh in August. Tickets on the links below; Instagram bio for quick updates."
   instagram_url: "https://www.instagram.com/tansaku/"
   shows:
-    - name: "I Think I'm Turning Japanese (I really think so, not!)"
-      festival: Brighton Fringe 2026
-      dates: "Sun 3 May, 7:00pm · Mon 4 May, 5:45pm · Sat 24 & Sun 25 May, 5:45pm"
-      venue: "Laughing Horse @ The Walrus (Hideaway)"
-      tickets_url: "https://www.brightonfringe.org/events/i-think-im-turning-japanese-i-really-think-so-not/"
-    - name: "I Think I'm Turning Japanese (I Really Think So, Not!)"
+    - name: "I Think I'm Turning Japanese (I Really Think So, NOT!)"
+      festival: Camden Fringe 2026
+      dates: "Wed 13 Aug 2026, 7:00pm (50 min)"
+      venue: "Museum of Comedy, The Undercroft, St George's Church, Bloomsbury Way, London WC1A 2SR"
+      tickets_url: "https://museumofcomedy.ticketsolve.com/ticketbooth/shows/873664754"
+      listing_url: "https://camdenfringe.com/events/i-think-im-turning-japanese-i-really-think-so-not/"
+    - name: "I Think I'm Turning Japanese (I Really Think So, NOT!)"
       festival: Edinburgh Fringe 2026
       dates: "20–30 Aug 2026, 21:05 (50 min) — nightly run in this window"
       venue: "Just the Tonic at The Caves — The Spare Room"
