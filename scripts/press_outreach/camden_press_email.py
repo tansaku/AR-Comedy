@@ -5,7 +5,7 @@ from __future__ import annotations
 
 import html as html_lib
 
-from camden_press_content import build_camden_release_html
+from camden_press_content import ascii_hyphens, build_camden_release_html
 from campaigns import CAMDEN_EMAIL_POSTER, Campaign
 from contacts import MediaContact
 from template import FROM_EMAIL, INSTAGRAM_URL, build_compose_arg, resolve_poster_src
@@ -15,7 +15,7 @@ DEFAULT_SUBJECT = (
 )
 
 OPENING = (
-    "Hope you're well — just sharing the press release for my Camden Fringe show "
+    "Hope you're well - just sharing the press release for my Camden Fringe show "
     "at the Museum of Comedy."
 )
 
@@ -33,14 +33,14 @@ def _intro_html(
         f"<p>{html_lib.escape(OPENING)}</p>",
     ]
     if hook_line.strip():
-        parts.append(f"<p>{html_lib.escape(hook_line.strip())}</p>")
+        parts.append(f"<p>{html_lib.escape(ascii_hyphens(hook_line.strip()))}</p>")
 
     sign_off = "Best, Sam Joseph"
     if include_instagram:
         sign_off += f' <a href="{INSTAGRAM_URL}">{INSTAGRAM_URL}</a>'
     parts.append(f"<p>{sign_off}</p>")
     if london_ps.strip():
-        parts.append(f"<p>{html_lib.escape(london_ps.strip())}</p>")
+        parts.append(f"<p>{html_lib.escape(ascii_hyphens(london_ps.strip()))}</p>")
     return "".join(parts)
 
 
@@ -51,7 +51,6 @@ def build_camden_html(
     greeting_addressee: str = "there",
     hook_line: str = "",
     notes_html: str = "",
-    embed_poster: bool = False,
     include_instagram: bool = True,
     london_ps: str = "",
 ) -> str:
@@ -66,9 +65,10 @@ def build_camden_html(
 
     poster = ""
     if campaign.poster_url:
+        # Always embed locally — Thunderbird compose blocks remote images.
         poster_src = resolve_poster_src(
             campaign.poster_url,
-            embed_for_compose=embed_poster,
+            embed_for_compose=True,
             local_poster_path=CAMDEN_EMAIL_POSTER,
         )
         if poster_src:
@@ -95,7 +95,6 @@ def write_camden_compose(
     greeting_addressee: str = "there",
     hook_line: str = "",
     notes_html: str = "",
-    embed_poster: bool = False,
     include_instagram: bool = True,
     london_ps: str = "",
     subject: str = DEFAULT_SUBJECT,
@@ -107,7 +106,6 @@ def write_camden_compose(
         greeting_addressee=greeting_addressee,
         hook_line=hook_line,
         notes_html=notes_html,
-        embed_poster=embed_poster,
         include_instagram=include_instagram,
         london_ps=london_ps,
     )

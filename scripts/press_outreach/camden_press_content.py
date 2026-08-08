@@ -7,6 +7,13 @@ import html as html_lib
 
 from campaigns import CAMDEN_FRINGE_PAGE, CAMDEN_PRESS_TICKETS_EMAIL, Campaign
 
+CAMDEN_PERFORMANCE = "Thursday 13 August 2026, 7:00pm"
+
+
+def ascii_hyphens(text: str) -> str:
+    """Use ASCII hyphens in outreach copy (no em/en dashes)."""
+    return text.replace("\u2014", "-").replace("\u2013", "-")
+
 AUDIENCE_QUOTES = [
     (
         "A very entertaining show. It's unusual for comedy to also be informative, but this one was. "
@@ -36,7 +43,7 @@ AUDIENCE_QUOTES = [
 def build_camden_release_html(campaign: Campaign) -> str:
     quotes_html = "".join(
         f'<p><em>&ldquo;{html_lib.escape(quote)}&rdquo;</em><br>'
-        f"— {html_lib.escape(attribution)}</p>"
+        f"- {html_lib.escape(attribution)}</p>"
         for quote, attribution in AUDIENCE_QUOTES
     )
     return f"""
@@ -59,7 +66,7 @@ def build_camden_release_html(campaign: Campaign) -> str:
     <p><strong>Audience feedback from Brighton previews:</strong></p>
     {quotes_html}
     <p>
-      <strong>Performance:</strong> Wednesday 13 August 2026, 7:00pm<br>
+      <strong>Performance:</strong> {CAMDEN_PERFORMANCE}<br>
       <strong>Venue:</strong> Museum of Comedy, The Undercroft, St George&rsquo;s Church,
       Bloomsbury Way, London WC1A 2SR<br>
       <strong>Duration:</strong> 50 mins · <strong>Tickets:</strong> &pound;10.25<br>

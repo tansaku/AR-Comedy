@@ -116,7 +116,7 @@ def draft_intro(contact: MediaContact, *, campaign_id: str = "press") -> str:
     """Return a first-pass intro paragraph for human review (rule-based)."""
     if campaign_id == "camden-press":
         base = (
-            "Hope you're well — just sharing the press release for my Camden Fringe show "
+            "Hope you're well - just sharing the press release for my Camden Fringe show "
             "at the Museum of Comedy."
         )
     else:

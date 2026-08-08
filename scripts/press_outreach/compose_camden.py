@@ -127,7 +127,6 @@ def open_contact(
     campaign,
     use_llm: bool,
     hook_examples,
-    embed_poster: bool,
     auto_send: bool,
     dry_run: bool,
     refresh_hooks: bool = False,
@@ -166,7 +165,6 @@ def open_contact(
         campaign,
         greeting_addressee=greeting_addressee or "there",
         hook_line=hook_line or "",
-        embed_poster=embed_poster,
         include_instagram=True,
         london_ps=draft_london_ps(contact, campaign_id=campaign.id),
         subject=DEFAULT_SUBJECT,
@@ -268,7 +266,6 @@ def run_auto_loop(
             campaign=campaign,
             use_llm=not args.no_llm,
             hook_examples=hook_examples,
-            embed_poster=False,
             auto_send=not args.dry_run,
             dry_run=args.dry_run,
             refresh_hooks=args.refresh_hooks,
@@ -298,10 +295,8 @@ def run_manual_loop(
     numbers_path: Path,
     args: argparse.Namespace,
     hook_examples,
-    embed_poster_first: bool = False,
 ) -> None:
     print(f"\nManual review — {len(pending)} contacts. Ctrl+C to stop.\n")
-    first = True
     while pending:
         contact = pending[0]
         watch_offset = sent_mail_size()
@@ -310,13 +305,11 @@ def run_manual_loop(
             campaign=campaign,
             use_llm=not args.no_llm,
             hook_examples=hook_examples,
-            embed_poster=embed_poster_first and first,
             auto_send=False,
             dry_run=args.dry_run,
             refresh_hooks=args.refresh_hooks,
             refresh_greetings=args.refresh_greetings,
         )
-        first = False
         if args.dry_run:
             break
         try:
@@ -397,7 +390,6 @@ def main() -> int:
             numbers_path=numbers_path,
             args=args,
             hook_examples=hook_examples,
-            embed_poster_first=True,
         )
         print("Done.")
         return 0
@@ -410,7 +402,6 @@ def main() -> int:
         campaign=campaign,
         use_llm=not args.no_llm,
         hook_examples=hook_examples,
-        embed_poster=True,
         auto_send=False,
         dry_run=args.dry_run,
         refresh_hooks=args.refresh_hooks,

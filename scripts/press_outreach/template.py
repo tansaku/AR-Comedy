@@ -36,7 +36,7 @@ HOOK_BLOCK_RE = re.compile(
     re.DOTALL | re.IGNORECASE,
 )
 CAMDEN_HOOK_BLOCK_RE = re.compile(
-    r"(Hope you're well — just sharing the press release for my Camden Fringe show at the Museum of Comedy\.\s*)(.*?)(\s*Best, Sam Joseph)",
+    r"(Hope you're well [-–—] just sharing the press release for my Camden Fringe show at the Museum of Comedy\.\s*)(.*?)(\s*Best, Sam Joseph)",
     re.DOTALL | re.IGNORECASE,
 )
 INDUSTRY_HOOK_BLOCK_RE = re.compile(

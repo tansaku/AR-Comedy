@@ -25,7 +25,7 @@ BASE_LINE = (
 )
 
 CAMDEN_BASE_LINE = (
-    "Hope you're well — just sharing the press release for my Camden Fringe show "
+    "Hope you're well - just sharing the press release for my Camden Fringe show "
     "at the Museum of Comedy."
 )
 
@@ -38,14 +38,15 @@ Tone: warm, lightly self-deprecating, occasionally nerdy wordplay; not salesy or
 """.strip()
 
 CAMDEN_SHOW_CONTEXT = """
-Sam Joseph — British stand-up comedian, Camden Fringe 2026.
-Show: "I Think I'm Turning Japanese (I Really Think So, NOT!)" — 50-minute culture-clash solo comedy
+Sam Joseph - British stand-up comedian, Camden Fringe 2026.
+Show: "I Think I'm Turning Japanese (I Really Think So, NOT!)" - 50-minute culture-clash solo comedy
 about marriage, language learning, and living between the UK and Japan.
-Venue: Museum of Comedy, London. Date: 13 August 2026, 7:00pm.
+Venue: Museum of Comedy, London. Date: Thursday 13 August 2026, 7:00pm.
 Tickets: https://museumofcomedy.ticketsolve.com/ticketbooth/shows/873664754
 Camden Fringe listing: https://camdenfringe.com/events/i-think-im-turning-japanese-i-really-think-so-not/
 Press tickets: boxoffice@museumofcomedy.com
 Tone: warm, lightly self-deprecating British humour; not salesy or gushy.
+Use ASCII hyphens only, not em dashes.
 """.strip()
 
 
@@ -132,7 +133,8 @@ def _build_prompt(
 Rules for Camden list contacts:
 - The "Interests" field is only a coarse list section (often "Theatre" for all fringe bloggers). Do NOT claim they cover theatre, comedy, or a specific beat unless the organisation name or website snippet supports it.
 - Do NOT invent editorial angles or open with vague flattery ("Given your fringe coverage", "Given your theatre focus", etc.).
-- Prefer starting with "I thought you might appreciate…" (or similar) and a concrete angle about the show — culture clash, Japan/UK, family, language — not their supposed beat.
+- Prefer starting with "I thought you might appreciate…" (or similar) and a concrete angle about the show - culture clash, Japan/UK, family, language - not their supposed beat.
+- Use ASCII hyphens only, not em dashes.
 - Use a specific detail from the organisation name or website snippet when you have one; otherwise a warm general line about the show is fine.
 """
         if web_url or web_blurb:
@@ -244,11 +246,20 @@ def generate_hook_llm(
     hook = _parse_hook_response(content, base_line=base_line)
     if not hook:
         raise RuntimeError("OpenRouter returned an empty hook")
+    hook = _normalize_hook(hook, campaign_id=campaign_id)
 
     if use_cache:
         cache = _load_hook_cache(campaign_id)
         cache[cache_key] = hook
         _save_hook_cache(cache, campaign_id=campaign_id)
+    return hook
+
+
+def _normalize_hook(hook: str, *, campaign_id: str) -> str:
+    if campaign_id == "camden-press":
+        from camden_press_content import ascii_hyphens
+
+        return ascii_hyphens(hook)
     return hook
 
 
@@ -268,7 +279,7 @@ def draft_hook(
         try:
             cache = _load_hook_cache(campaign_id)
             if use_cache and cache_key in cache:
-                return cache[cache_key], "cache"
+                return _normalize_hook(cache[cache_key], campaign_id=campaign_id), "cache"
             hook = generate_hook_llm(
                 contact,
                 examples=examples,
