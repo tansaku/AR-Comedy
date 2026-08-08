@@ -13,14 +13,14 @@ To refresh the upcoming list after dates pass, push any change (or an empty comm
 
 One-off migration from the old README list: `python3 scripts/migrate_readme_gigs_to_yaml.py` (rewrites `_data/gigs.yml` from the legacy README format if you still have it in `README.md`).
 
-## Home highlights (festivals & VR)
+## Home highlights (festivals & projects)
 
-Edit [`_data/highlights.yml`](_data/highlights.yml) for the Brighton/Edinburgh blurb and the repeating **Comedy Booby Trap (VR)** block. Under `festivals.shows`, each row supports `name`, `festival`, `dates`, optional `venue`, and `tickets_url` (use canonical URLs without tracking query params). The [Instagram bio](https://www.instagram.com/tansaku/) is for quick updates; this file is what the site renders.
+Edit [`_data/highlights.yml`](_data/highlights.yml) for the festival blurb, **Joke Wranglers** podcast copy, **Hilarity Unlimited** comedian application links, and **past projects** (e.g. Comedy Booby Trap VR). Under `festivals.shows`, each row supports `name`, `festival`, `dates`, optional `venue`, and `tickets_url` (use canonical URLs without tracking query params). The [Instagram bio](https://www.instagram.com/tansaku/) is for quick updates; this file is what the site renders.
 
 ## Repo layout
 
 - `index.md` — main page (highlights, gigs, impressions, podcast)
-- `_data/highlights.yml` — festival copy + optional show list; recurring VR (Scenic Club) blurb
+- `_data/highlights.yml` — festival copy + optional show list; Joke Wranglers + Hilarity Unlimited blurb
 - `archive.md` — past gigs
 - `podcasts.md` — listen links (Spotify, Apple, RSS); URL `/podcasts/`
 - `assets/css/custom.css` — small style additions

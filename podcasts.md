@@ -1,11 +1,19 @@
 ---
 layout: default
 title: Podcasts
-description: Comedians on Technology, People and Drugs — listen on Spotify, Apple Podcasts, or any RSS client.
+description: Joke Wranglers and Comedians on Technology, People and Drugs — listen on Spotify, Apple Podcasts, or RSS.
 permalink: /podcasts/
 ---
 
 # Podcasts
+
+## Joke Wranglers
+
+Comedy panel show podcast — two teams of two comedians compete in 10 rounds of joke challenges.
+
+**Listen**
+
+* [Spotify](https://open.spotify.com/show/033KZykUNv3NRGB2er3RbQ)
 
 ## Comedians on Technology, People and Drugs
 

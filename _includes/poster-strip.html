@@ -1,6 +1,7 @@
 {% assign hl = site.data.highlights %}
 {% assign camden = hl.festivals.shows | where: "festival", "Camden Fringe 2026" | first %}
 {% if camden == nil %}{% assign camden = hl.festivals.shows | first %}{% endif %}
+{% assign jw = hl.joke_wranglers %}
 <div class="poster-strip" role="group" aria-label="Show posters">
   <a class="poster-card" href="{% if camden.tickets_url %}{{ camden.tickets_url }}{% else %}#{% endif %}">
     <span class="poster-card-visual">
@@ -8,10 +9,10 @@
     </span>
     <span class="poster-card-label">Camden Fringe · tickets</span>
   </a>
-  <a class="poster-card" href="{{ hl.regular_vr.venue_url }}">
+  <a class="poster-card" href="{{ jw.spotify_url }}">
     <span class="poster-card-visual">
-      <img class="poster-card-img" src="{{ '/assets/images/comedy-booby-trap-vr.png' | relative_url }}" width="1024" height="1024" loading="eager" decoding="async" alt="Comedy Booby Trap with Sam Joseph — weekly in Meta Horizon Worlds, Scenic Club. Wed & Sat 10:30pm UK.">
+      <img class="poster-card-img" src="{{ jw.poster_image | relative_url }}" width="300" height="300" loading="eager" decoding="async" alt="Joke Wranglers podcast — two teams of comedians compete in 10 rounds of joke challenges.">
     </span>
-    <span class="poster-card-label">VR Booby Trap · Scenic Club</span>
+    <span class="poster-card-label">Joke Wranglers · Spotify</span>
   </a>
 </div>

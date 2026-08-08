@@ -1,4 +1,4 @@
-# Home page: festival focus + recurring VR.
+# Home page: festival focus + current projects.
 # festivals.shows: ticket URLs should be canonical (no utm_/fbclid).
 
 festivals:
@@ -17,9 +17,22 @@ festivals:
       venue: "Just the Tonic at The Caves — The Spare Room"
       tickets_url: "https://edinburgh.justthetonic.com/event/88:5767/"
 
-regular_vr:
-  title: "Comedy Booby Trap (VR)"
-  blurb: "Improv stand-up in VR in Meta Horizon Worlds, at the Scenic Club — Wed & Sat from 10:30pm UK."
-  schedule: "Every Wednesday & Saturday · 10:30pm UK"
-  venue_label: "Scenic Club"
-  venue_url: "https://horizon.meta.com/world/151841784428637/"
+joke_wranglers:
+  title: "Joke Wranglers"
+  blurb: "Comedy panel show podcast — two teams of two comedians compete in 10 rounds of joke challenges."
+  spotify_url: "https://open.spotify.com/show/033KZykUNv3NRGB2er3RbQ"
+  poster_image: "/assets/images/joke-wranglers-podcast.jpg"
+
+hilarity_unlimited:
+  title: "Hilarity Unlimited"
+  blurb: "Comedy nights around London and Hertfordshire — Craic-Up Comedy, Sunset Comedy, and more."
+  apply_blurb: "Comedians wanting a spot: apply via GigPigs or hilarityunlimited.com."
+  gigpigs_url: "https://gigpigs.app/"
+  website_url: "https://hilarityunlimited.com/"
+
+past_projects:
+  - title: "Comedy Booby Trap (VR)"
+    blurb: "Weekly improv stand-up in Meta Horizon Worlds at the Scenic Club — Wed & Sat, 10:30pm UK. Ran for 313 episodes; now paused."
+    venue_label: "Scenic Club"
+    venue_url: "https://horizon.meta.com/world/151841784428637/"
+    poster_image: "/assets/images/comedy-booby-trap-vr.png"
