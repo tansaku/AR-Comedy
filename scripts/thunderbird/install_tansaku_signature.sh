@@ -9,7 +9,7 @@ TB_PROFILE="${TB_PROFILE:-$HOME/Library/Thunderbird/Profiles/magfbx3x.default-re
 SIG_SRC="$REPO_ROOT/assets/thunderbird/tansaku-gmail-signature.html"
 SIG_DEST="$TB_PROFILE/signatures/tansaku-gmail.html"
 USER_JS="$TB_PROFILE/user.js"
-IDENTITY_ID="${TANSaku_IDENTITY_ID:-id2}"
+IDENTITY_ID="${TANSAKU_IDENTITY_ID:-id2}"
 
 if [[ ! -f "$SIG_SRC" ]]; then
   echo "Signature template not found: $SIG_SRC" >&2
