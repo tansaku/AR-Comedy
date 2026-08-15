@@ -9,7 +9,7 @@ image: /assets/images/camden-fringe-2026-poster.jpg
   <h1 id="hero-heading" class="hero-title">Sam Joseph</h1>
   <p class="hero-tagline">Comedian, parent, recovering tech person — midlife sold separately.</p>
   <p class="hero-lede">Stand-up on Japan, bilingual family life, and sharp tech jokes. <strong>Camden</strong> &amp; <strong>Edinburgh 2026</strong>: <em>I Think I’m Turning Japanese (I really think so, not!)</em> · Panel show podcast <strong><a href="https://open.spotify.com/show/033KZykUNv3NRGB2er3RbQ">Joke Wranglers</a></strong>.</p>
-  <p class="hero-cred">Previously: solo show at Leicester, Brighton &amp; Tunbridge Wells Fringes; <strong>Comedy Booby Trap</strong> VR (313 episodes). Comedy nights with <strong>Hilarity Unlimited</strong>. Podcasts: <a href="{{ '/podcasts/' | relative_url }}">Comedians on Technology, People and Drugs</a> &amp; Joke Wranglers.</p>
+  <p class="hero-cred">Previously: solo show at Leicester, Brighton &amp; Tunbridge Wells Fringes; <strong>Comedy Booby Trap</strong> VR (313 episodes). Comedy nights with <strong>Hilarity Unlimited</strong>. Podcasts: <a href="{{ '/podcasts/' | relative_url }}">Comedians on Technology, People and Drugs</a> &amp; <a href="https://open.spotify.com/show/033KZykUNv3NRGB2er3RbQ">Joke Wranglers</a>.</p>
   <p class="hero-quote" role="note"><em>“Like a geek, grown up”</em> — Markus Birdman</p>
   <p class="hero-social">
     <a href="https://www.instagram.com/tansaku/">Instagram</a>
