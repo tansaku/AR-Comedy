@@ -21,7 +21,15 @@ joke_wranglers:
   title: "Joke Wranglers"
   blurb: "Comedy panel show podcast — two teams of two comedians compete in 10 rounds of joke challenges."
   spotify_url: "https://open.spotify.com/show/033KZykUNv3NRGB2er3RbQ"
+  youtube_url: "https://www.youtube.com/playlist?list=PLG6hAMTolfwg"
   poster_image: "/assets/images/joke-wranglers-podcast.jpg"
+
+comedians_on:
+  title: "Comedians on Technology, People and Drugs"
+  spotify_url: "https://open.spotify.com/show/653Py2rL5AoFNQbw7jK99b"
+  apple_url: "https://podcasts.apple.com/gb/podcast/comedians-on-technology-people-and-drugs/id1784130785"
+  rss_url: "https://anchor.fm/s/fbf0949c/podcast/rss"
+  youtube_url: "https://www.youtube.com/playlist?list=PLImk-3Y44oxQ"
 
 hilarity_unlimited:
   title: "Hilarity Unlimited"

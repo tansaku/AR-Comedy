@@ -34,7 +34,11 @@
     <article class="showcase-col showcase-col-podcast">
       <h2 class="showcase-heading">{{ jw.title }}</h2>
       <p class="highlight-card-text">{{ jw.blurb }}</p>
-      <p class="highlight-card-text"><a href="{{ jw.spotify_url }}">Listen on Spotify →</a></p>
+      <p class="highlight-card-text">
+        <a href="{{ jw.spotify_url }}">Spotify</a>
+        ·
+        <a href="{{ jw.youtube_url }}">YouTube</a>
+      </p>
 
       <h2 class="showcase-heading showcase-heading--secondary">{{ hu.title }}</h2>
       <p class="highlight-card-text">{{ hu.blurb }}</p>

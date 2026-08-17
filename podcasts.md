@@ -1,9 +1,12 @@
 ---
 layout: default
 title: Podcasts
-description: Joke Wranglers and Comedians on Technology, People and Drugs — listen on Spotify, Apple Podcasts, or RSS.
+description: Joke Wranglers and Comedians on Technology, People and Drugs — listen on Spotify, YouTube, Apple Podcasts, or RSS.
 permalink: /podcasts/
 ---
+
+{% assign jw = site.data.highlights.joke_wranglers %}
+{% assign cot = site.data.highlights.comedians_on %}
 
 # Podcasts
 
@@ -13,16 +16,18 @@ Comedy panel show podcast — two teams of two comedians compete in 10 rounds of
 
 **Listen**
 
-* [Spotify](https://open.spotify.com/show/033KZykUNv3NRGB2er3RbQ)
+* [Spotify]({{ jw.spotify_url }})
+* [YouTube]({{ jw.youtube_url }})
 
-## Comedians on Technology, People and Drugs
+## {{ cot.title }}
 
 Interviews with up-and-coming comedians on technology, people and drugs. New episodes drop regularly.
 
 **Listen**
 
-* [Spotify](https://open.spotify.com/show/653Py2rL5AoFNQbw7jK99b)
-* [Apple Podcasts](https://podcasts.apple.com/gb/podcast/comedians-on-technology-people-and-drugs/id1784130785)
-* [RSS feed](https://anchor.fm/s/fbf0949c/podcast/rss) (for Pocket Casts, Overcast, etc.)
+* [Spotify]({{ cot.spotify_url }})
+* [YouTube]({{ cot.youtube_url }})
+* [Apple Podcasts]({{ cot.apple_url }})
+* [RSS feed]({{ cot.rss_url }}) (for Pocket Casts, Overcast, etc.)
 
 [Back to home]({{ '/' | relative_url }})
