@@ -80,7 +80,7 @@
 
         <div class="review-list">
           {% for review in reviews %}
-          <article class="review-card{% if review.type == 'professional' and forloop.first %} review-card--featured{% endif %}" data-review-type="{{ review.type }}">
+          <article class="review-card{% if review.featured %} review-card--featured{% endif %}" data-review-type="{{ review.type }}">
             <header class="review-card-head">
               <div class="review-card-title">
                 <div class="quote-icon" aria-hidden="true">
@@ -89,6 +89,9 @@
                 <div class="review-byline">
                   <strong>{% if review.publication %}{{ review.publication }}{% else %}{{ review.author }}{% endif %}</strong>
                   <span class="review-role">{% if review.type == 'professional' %}(Professional critic){% else %}(Audience member){% endif %}</span>
+                  {% if review.stars_label and review.hide_stars != true %}
+                  <span class="review-stars">{{ review.stars_label }}</span>
+                  {% endif %}
                 </div>
               </div>
               <time class="review-date">{% if review.listed_on_edfringe %}{{ review.listed_on_edfringe }}{% else %}{{ review.date }}{% endif %}</time>

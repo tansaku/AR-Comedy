@@ -53,6 +53,7 @@ reviews:
     author: "jaybingham"
     date: "16 Aug 2026"
     listed_on_edfringe: "30 Aug 2026"
+    featured: true
     stars: 3.5
     stars_label: "3.5 / 5"
     url: "https://ayoungishperspective.co.uk/2026/08/16/review-i-think-im-turning-japanese-i-really-think-so-not/"
@@ -72,17 +73,6 @@ reviews:
 
       As well as making us all laugh, Sam Joseph wants us to walk away ‘having learned a little something’. And I absolutely did! Not only do I now know more about Japan, I also know that Joseph is an infectiously happy person. If he channelled his hyper energy into making his jokes brilliant, then I Think I’m Turning Japanese could go very far.
 
-  - type: professional
-    publication: "The Real Chrisparkle"
-    author: "therealchrisparkle"
-    date: "29 Aug 2026"
-    stars: 2
-    stars_label: "2 / 5"
-    url: "https://therealchrisparkle.com/2026/08/29/edinburgh-fringe-reviews-2026-hope-this-helps-behind-closed-doors-fab-goualin-mixed-messages-pierrepoint-the-peoples-hangman-and-i-think-im-turning-japanese-i-really-think/"
-    note: "Not on the EdFringe listing snapshot; published independently. Only the paragraph about this show is archived (the original post reviews several shows)."
-    body: |
-      In 1998 Sam Joseph moved to Japan; a bold and brave step if ever there was. There he became entranced with the country – its people, its food and its language. Even more entrancing was the Japanese lady who would eventually become his wife. Through anecdotes of language mix-ups, poor hotel choices, getting in the wrong taxis, and so on, Sam illustrates what it’s like to be a Brit living in Japan. They also lived in Hawaii, but that’s another story (allegedly to be told at the Fringe next year). Sam is a high-energy, quirky performer; the kind of guy who peppers his speech with random noises and sudden movements. A self-confessed teller of dad jokes, he gives off a children’s entertainer vibe – which I don’t mean unkindly, but you could expect him to make you a balloon animal to take home. If I’m honest, I found his material more informative and curious than funny, but humour is nothing if not subjective, and he’s clearly, as Steve Martin once said, a wild and crazy guy.
-
   - type: audience
     author: "Daniel Shepherd"
     date: "30 Aug 2026"
@@ -96,12 +86,6 @@ reviews:
     stars: 5
     stars_label: "10/10"
     body: "Amazing show about the Japanese Culture. 10/10 ⭐️⭐️⭐️⭐️⭐️"
-
-  - type: audience
-    author: "JuneY"
-    date: "29 Aug 2026"
-    id: "8bd57f52-659b-460d-bd92-7608488d69d6"
-    body: "Lived in Japan 10 years myself a few years after Sam and did relate/like some of his stories but felt bad that he was expecting (more) laughter after every single thing he said and the audience was disappointing him. Good luck!"
 
   - type: audience
     author: "Lennards Emmanuel"
@@ -168,3 +152,19 @@ reviews:
     date: "20 Aug 2026"
     id: "a67fd56f-d409-48ae-a28a-ed7e1a63afbe"
     body: "A hilarious account of tansaku’s journey to make sense of the mysteries of Japanese culture, language and dating culture. You will laugh, and you may just leave a little wiser too!"
+
+  - type: audience
+    author: "JuneY"
+    date: "29 Aug 2026"
+    id: "8bd57f52-659b-460d-bd92-7608488d69d6"
+    body: "Lived in Japan 10 years myself a few years after Sam and did relate/like some of his stories but felt bad that he was expecting (more) laughter after every single thing he said and the audience was disappointing him. Good luck!"
+
+  - type: professional
+    publication: "The Real Chrisparkle"
+    author: "therealchrisparkle"
+    date: "29 Aug 2026"
+    hide_stars: true
+    url: "https://therealchrisparkle.com/2026/08/29/edinburgh-fringe-reviews-2026-hope-this-helps-behind-closed-doors-fab-goualin-mixed-messages-pierrepoint-the-peoples-hangman-and-i-think-im-turning-japanese-i-really-think/"
+    note: "Not on the EdFringe listing snapshot; published independently. Only the paragraph about this show is archived (the original post reviews several shows)."
+    body: |
+      In 1998 Sam Joseph moved to Japan; a bold and brave step if ever there was. There he became entranced with the country – its people, its food and its language. Even more entrancing was the Japanese lady who would eventually become his wife. Through anecdotes of language mix-ups, poor hotel choices, getting in the wrong taxis, and so on, Sam illustrates what it’s like to be a Brit living in Japan. They also lived in Hawaii, but that’s another story (allegedly to be told at the Fringe next year). Sam is a high-energy, quirky performer; the kind of guy who peppers his speech with random noises and sudden movements. A self-confessed teller of dad jokes, he gives off a children’s entertainer vibe – which I don’t mean unkindly, but you could expect him to make you a balloon animal to take home. If I’m honest, I found his material more informative and curious than funny, but humour is nothing if not subjective, and he’s clearly, as Steve Martin once said, a wild and crazy guy.
