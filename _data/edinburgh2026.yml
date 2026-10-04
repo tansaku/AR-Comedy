@@ -1,0 +1,170 @@
+# Permanent archive of the Edinburgh Fringe 2026 listing for
+# I Think I'm Turning Japanese (I Really Think So, Not!).
+# Reviews were captured from a saved EdFringe listing snapshot plus
+# the original publication pages. EdFringe's live reviews API requires auth.
+
+source:
+  edfringe_url: "https://www.edfringe.com/tickets/whats-on/i-think-i-m-turning-japanese-i-really-think-so-not"
+  captured: "2026-10-04"
+  snapshot_note: "Live page HTML did not embed reviews (loaded client-side). Audience and featured critic cards were taken from a locally saved listing. A Young(ish) Perspective and The Real Chrisparkle full texts were taken from the publications' own pages."
+
+show:
+  title: "I Think I'm Turning Japanese (I Really Think So, Not!)"
+  presented_by: "Sam Joseph"
+  genre: "Comedy"
+  subgenre: "Stand-up"
+  country: "United Kingdom — England"
+  duration: "50 minutes"
+  time: "21:05"
+  dates: "20–30 August 2026"
+  dates_short: "20 - 30 Aug"
+  performances: 11
+  age: "18+ (Restriction)"
+  warnings: "Audience participation, Contains distressing or potentially triggering themes, Strong language/swearing"
+  price_notes: "Group discounts; Friends 2-for-1"
+  description: "Blending British wit with Japanese sensibility, Sam Joseph's stand-up show explores life between cultures. After six years living in Japan and 20 years raising bilingual children with his Japanese wife across Tokyo, Honolulu and the UK, he unpacks the joys and absurdities of international family life. Expect sharp observations on language mishaps, cultural misunderstandings and the strange things that happen when British understatement meets Japanese politeness. Following his previous fringe show Comedy Booby Trap, performed at Leicester, Brighton and Tunbridge Wells Fringes."
+  listing_image: "/assets/images/edinburgh2026-listing.jpg"
+  poster_image: "/assets/images/camden-fringe-2026-poster.jpg"
+  tickets_url: "https://edinburgh.justthetonic.com/event/88:5767/"
+  venue:
+    name: "Just The Tonic at The Caves"
+    space: "Just The Spare Room"
+    address: "Rowantree Bar, (under Sth Bridge) 253 Cowgate, Edinburgh EH1 1LG"
+    accessibility: "Wheelchair accessible toilets. Space has steps (about 6–10). Babes in arms: babies do not require a ticket (under 18 months)."
+  credits:
+    - role: "Performer / presented by"
+      name: "Sam Joseph"
+  performances:
+    - "Thu 20 Aug 2026, 21:05"
+    - "Fri 21 Aug 2026, 21:05"
+    - "Sat 22 Aug 2026, 21:05"
+    - "Sun 23 Aug 2026, 21:05"
+    - "Mon 24 Aug 2026, 21:05"
+    - "Tue 25 Aug 2026, 21:05"
+    - "Wed 26 Aug 2026, 21:05"
+    - "Thu 27 Aug 2026, 21:05"
+    - "Fri 28 Aug 2026, 21:05"
+    - "Sat 29 Aug 2026, 21:05"
+    - "Sun 30 Aug 2026, 21:05"
+
+reviews:
+  - type: professional
+    publication: "A Young(ish) Perspective"
+    author: "jaybingham"
+    date: "16 Aug 2026"
+    listed_on_edfringe: "30 Aug 2026"
+    stars: 3.5
+    stars_label: "3.5 / 5"
+    url: "https://ayoungishperspective.co.uk/2026/08/16/review-i-think-im-turning-japanese-i-really-think-so-not/"
+    dek: "A work-in-progress tribute to Japan and romance"
+    listing_excerpt: |
+      3.5 Stars
+
+      As well as making us all laugh, Sam Joseph wants us to walk away ‘having learned a little something’. And I absolutely did! Not only do I now know more about Japan, I also know that Joseph is an infectiously happy person. If he channelled his hyper energy into making his jokes brilliant, then I Think I’m Turning Japanese could go very far.
+    body: |
+      Sam Joseph is an English up-and-coming comedian who has spent the past thirty years alternating between life in Britain and Japan. In his 50-minute set, which he says is a preview of something greater, he talks about his first experiences in Japan in 1998, overcoming the language barrier, meeting the love of his life, and raising their three children.
+
+      Joseph speaks with immense earnestness and delight. While other stand-up comedians have used their spaces to express mockery and dissent, exposing the strangeness of their new experiences (which may or may not have happened), Joseph conveys his stories and facts with such clear respect and appreciation. With a tone of self-deprecation, he covers several aspects of Japanese life, such as his hilarious misinterpretations of conversations in Japanese, e.g. “go back to where you came from” actually meant, “go and stand where you were initially standing, you’ll find the service you need”! He is funny and relatable, allowing us to unite in the embarrassment of being hapless British tourists while also describing a country most of us are unfamiliar with.
+
+      Joseph also has a great deal of energy – and as lovely as it is to see people genuinely enjoy what they do, it unfortunately detracted from quite a few of his jokes. He speaks a little too fast for people to keep up or even hear some of the words. He pauses awkwardly to fidget (which he at least referenced, saying that “half the set would just be weird noises”), and he leaves a couple of his lines unfinished. But where his set may have lacked in good jokes (though there definitely were a couple of brilliant zingers!), he compensated with his sweet, shining personality. He lit up the room, making it easy for us all to say that we had a wonderful time.
+
+      His joy and kindness especially came out when he talked about his wife, whom he met in Japan. It’s refreshing to listen to a comedian speaking positively about their spouse for once! 25 years on, and their love still burns bright, eliciting a lot of “aww”s from the audience. I Think I’m Turning Japanese is a show chock-full of positivity, and Joseph is like an eager child, frantically yet passionately telling us about all the things, and people, he loves. Being in the room with him was such a wonderful experience.
+
+      As well as making us all laugh, Sam Joseph wants us to walk away ‘having learned a little something’. And I absolutely did! Not only do I now know more about Japan, I also know that Joseph is an infectiously happy person. If he channelled his hyper energy into making his jokes brilliant, then I Think I’m Turning Japanese could go very far.
+
+  - type: professional
+    publication: "The Real Chrisparkle"
+    author: "therealchrisparkle"
+    date: "29 Aug 2026"
+    stars: 2
+    stars_label: "2 / 5"
+    url: "https://therealchrisparkle.com/2026/08/29/edinburgh-fringe-reviews-2026-hope-this-helps-behind-closed-doors-fab-goualin-mixed-messages-pierrepoint-the-peoples-hangman-and-i-think-im-turning-japanese-i-really-think/"
+    note: "Not on the EdFringe listing snapshot; published independently. Only the paragraph about this show is archived (the original post reviews several shows)."
+    body: |
+      In 1998 Sam Joseph moved to Japan; a bold and brave step if ever there was. There he became entranced with the country – its people, its food and its language. Even more entrancing was the Japanese lady who would eventually become his wife. Through anecdotes of language mix-ups, poor hotel choices, getting in the wrong taxis, and so on, Sam illustrates what it’s like to be a Brit living in Japan. They also lived in Hawaii, but that’s another story (allegedly to be told at the Fringe next year). Sam is a high-energy, quirky performer; the kind of guy who peppers his speech with random noises and sudden movements. A self-confessed teller of dad jokes, he gives off a children’s entertainer vibe – which I don’t mean unkindly, but you could expect him to make you a balloon animal to take home. If I’m honest, I found his material more informative and curious than funny, but humour is nothing if not subjective, and he’s clearly, as Steve Martin once said, a wild and crazy guy.
+
+  - type: audience
+    author: "Daniel Shepherd"
+    date: "30 Aug 2026"
+    id: "2af0fa98-4de5-468b-a198-c109351e8e11"
+    body: "Very engaging and truly unique comedy!"
+
+  - type: audience
+    author: "James Cooper"
+    date: "29 Aug 2026"
+    id: "ad43deb1-6795-43c4-9d02-64e6957777ed"
+    stars: 5
+    stars_label: "10/10"
+    body: "Amazing show about the Japanese Culture. 10/10 ⭐️⭐️⭐️⭐️⭐️"
+
+  - type: audience
+    author: "JuneY"
+    date: "29 Aug 2026"
+    id: "8bd57f52-659b-460d-bd92-7608488d69d6"
+    body: "Lived in Japan 10 years myself a few years after Sam and did relate/like some of his stories but felt bad that he was expecting (more) laughter after every single thing he said and the audience was disappointing him. Good luck!"
+
+  - type: audience
+    author: "Lennards Emmanuel"
+    date: "28 Aug 2026"
+    id: "a1c58ecf-ef95-4bfc-8ffa-b21af2e0b4db"
+    body: "Such a relief go to such an engaging show, with no excessive crowd work, just a talented story teller, with some interesting insights about Japan. Thanks Sam, we left with huge smiles on our faces. Can’t wait for Hawaii the sequel."
+
+  - type: audience
+    author: "Dennis Hughes"
+    date: "27 Aug 2026"
+    id: "84bde64b-69cf-496f-9794-2810c4bfe091"
+    body: "Very funny and lovely show!! Stories from an exciting life and funny jokes are a great combination. Woof woof!!!"
+
+  - type: audience
+    author: "Alice & Ed"
+    date: "26 Aug 2026"
+    id: "0850182e-0599-427c-bbec-3db37f19d538"
+    body: "What a show - energetic, witty and heartwarming, all whilst being insightful. Loved hearing the stories and the way that he interacted with the audience. Thanks Sam! Woof woof!"
+
+  - type: audience
+    author: "Kofi Atiase"
+    date: "24 Aug 2026"
+    id: "a0c950ae-9113-4299-aa19-6d973f5800ac"
+    body: "Having just gone to Japan myself, I'm beginning to appreciate just how accurate and witty many of Sam Joseph's insights were in this show. All the while he still manages to fit his own comedy and style into what feels like a very tight set. Definitely recommended to anyone who is interested in Japan, as well as anyone looking for a good laugh"
+
+  - type: audience
+    author: "Andrew Roffey"
+    date: "23 Aug 2026"
+    id: "e83e6a0d-aab0-4c3b-8a3a-84fcca587907"
+    body: "Having visited Japan last year and stumbled through my own fair share of awkward funny moments, this show was pure comfort. The happy ending, to their story, was also a relief. Woof Woof"
+
+  - type: audience
+    author: "Eri Ikuno"
+    date: "22 Aug 2026"
+    id: "8a314422-4e84-4394-9301-17665903b12e"
+    body: "Sam truly takes you on a journey of what it was like to be a \"gaijin\" in old (90's) Japan waaaay before google translate existed. Where being misunderstood was a rite of passage and the awkwardness that comes with it. The show truly took it home as I used to spend my summers with my Japanese family in ye ol' pre-social media era and my experiences were very similar to Sam's (awkwardness and all). If you're into Japanese culture or want to know more about what is like to live in Japan as a foreigner while having a major laugh (and learn a couple of Japanese words here and there), this show is for you. So bring your best kimono and a nice iced matcha and don't miss this show!"
+
+  - type: audience
+    author: "Alicia Spencer"
+    date: "21 Aug 2026"
+    id: "db38cd4c-c4fc-41e2-8bb4-7bb6f6c357bd"
+    body: "Sam did an awesome job of working with the crowd to create a masterfully funny and heartwarming show that kept us all absolutely locked in. Couldn’t recommend enough"
+
+  - type: audience
+    author: "Anthea C"
+    date: "21 Aug 2026"
+    id: "d83787e4-e355-4aa2-ab9a-7fabf2ac1075"
+    body: "A very entertaining and at times heartwarming comedy about Sam's life in Japan as a graduate working in Japan, nightlife in Japan and how he met his wife. You learn to appreciate cultural differences from a different angle. What makes the show great is that it felt as if we were all with him as various events occurred."
+
+  - type: audience
+    author: "Simon"
+    date: "21 Aug 2026"
+    id: "a668129e-e290-4989-8e54-ce327ff5a0b9"
+    body: "Really brilliant show. Sam’s stories about living in Japan, messing up the language, and meeting his wife had me laughing the whole time but also felt proper heartfelt. It doesn’t feel like a standard comedy routine and more like listening to a mate tell you the best stories from their life. You can tell he genuinely loves Japan and isn’t just going for easy jokes, which made it refreshing. Left the venue in a great (but hungry) mood and already recommending it to friends."
+
+  - type: audience
+    author: "Carol Kemp"
+    date: "20 Aug 2026"
+    id: "e9caf161-4eeb-45c5-ab7c-72447f90dde6"
+    body: "With some comedians it feels like an ‘us and them’ situation, but with Sam it’s an ‘us and us’. He makes the audience feel at home so the laughter reverberates easily around the room. His hilarious observations come from the heart, and are evoked so well, it’s as if we were there too!"
+
+  - type: audience
+    author: "Mike Green"
+    date: "20 Aug 2026"
+    id: "a67fd56f-d409-48ae-a28a-ed7e1a63afbe"
+    body: "A hilarious account of tansaku’s journey to make sense of the mysteries of Japanese culture, language and dating culture. You will laugh, and you may just leave a little wiser too!"

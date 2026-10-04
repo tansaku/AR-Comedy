@@ -21,6 +21,7 @@ Edit [`_data/highlights.yml`](_data/highlights.yml) for the festival blurb, **Jo
 
 - `index.md` — main page (highlights, gigs, impressions, podcast)
 - `_data/highlights.yml` — festival copy + optional show list; Joke Wranglers + Hilarity Unlimited blurb
+- `edinburgh2026.md` — EdFringe 2026 listing archive (own layout/CSS, not the comedy theme); URL `/edinburgh2026/`
 - `archive.md` — past gigs
 - `podcasts.md` — listen links (Spotify, Apple, RSS); URL `/podcasts/`
 - `assets/css/custom.css` — small style additions

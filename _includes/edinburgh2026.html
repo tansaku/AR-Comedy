@@ -1,0 +1,168 @@
+{% assign show = site.data.edinburgh2026.show %}
+{% assign source = site.data.edinburgh2026.source %}
+{% assign reviews = site.data.edinburgh2026.reviews %}
+
+<p class="archive-banner">Archival copy of the Edinburgh Fringe 2026 listing — not the official Festival site. <a href="{{ '/' | relative_url }}">comedy.neurogrid.com</a> · <a href="{{ source.edfringe_url }}">Original EdFringe URL</a></p>
+
+<div class="listing-wrap">
+  <header class="title-card">
+    <div class="title-card-image">
+      <img class="blur" src="{{ show.listing_image | relative_url }}" alt="" width="250" height="250">
+      <img class="hero" src="{{ show.listing_image | relative_url }}" width="250" height="250" alt="{{ show.title }}">
+    </div>
+    <div class="title-card-body">
+      <div class="tag-row">
+        <span class="tag tag-navy">{{ show.genre }}</span>
+        <span class="tag tag-muted">{{ show.subgenre }}</span>
+      </div>
+      <h1>{{ show.title }}</h1>
+      <div class="event-details">
+        <span>{{ show.time }}</span>
+        <span>{{ show.duration }}</span>
+        <span>{{ show.country }}</span>
+      </div>
+      <a class="ticket-btn" href="{{ show.tickets_url }}">Buy tickets</a>
+    </div>
+  </header>
+
+  <div class="tabs" data-listing-tabs>
+    <ul class="tab-list" role="tablist">
+      <li><button type="button" role="tab" id="tab-about" aria-controls="panel-about" aria-selected="false">About</button></li>
+      <li><button type="button" role="tab" id="tab-dates" aria-controls="panel-dates" aria-selected="false">Dates</button></li>
+      <li><button type="button" role="tab" id="tab-venue" aria-controls="panel-venue" aria-selected="false">Venue</button></li>
+      <li><button type="button" role="tab" id="tab-reviews" aria-controls="panel-reviews" aria-selected="true">Reviews</button></li>
+    </ul>
+
+    <section class="tab-panel" id="panel-about" role="tabpanel" aria-labelledby="tab-about">
+      <div class="about-copy">
+        <h2>About</h2>
+        <p>{{ show.description }}</p>
+        <p><strong>Presented by</strong> {{ show.presented_by }}</p>
+        <div class="meta-block">
+          <p><strong>Age:</strong> {{ show.age }}</p>
+          <p><strong>Warnings:</strong> {{ show.warnings }}</p>
+          <p><strong>Offers:</strong> {{ show.price_notes }}</p>
+        </div>
+        <p><a href="https://www.instagram.com/tansaku/">Instagram</a></p>
+      </div>
+    </section>
+
+    <section class="tab-panel" id="panel-dates" role="tabpanel" aria-labelledby="tab-dates">
+      <div class="dates-list-wrap">
+        <h2>Dates</h2>
+        <p>{{ show.dates }} · nightly at {{ show.time }} ({{ show.duration }})</p>
+        <ul class="dates-list">
+          {% for slot in show.performances %}
+          <li>{{ slot }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    </section>
+
+    <section class="tab-panel" id="panel-venue" role="tabpanel" aria-labelledby="tab-venue">
+      <div class="venue-copy">
+        <h2>Venue</h2>
+        <p><strong>{{ show.venue.name }}</strong><br>{{ show.venue.space }}<br>{{ show.venue.address }}</p>
+        <div class="meta-block">
+          <p>{{ show.venue.accessibility }}</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="tab-panel is-active" id="panel-reviews" role="tabpanel" aria-labelledby="tab-reviews">
+      <div class="reviews-well">
+        <div class="review-filters" data-review-filters>
+          <span class="filter-label">Filter by:</span>
+          <button type="button" class="filter-btn" data-filter="all" aria-pressed="true">All reviews</button>
+          <button type="button" class="filter-btn" data-filter="audience" aria-pressed="false">Audience</button>
+          <button type="button" class="filter-btn" data-filter="professional" aria-pressed="false">Professional critic</button>
+        </div>
+
+        <div class="review-list">
+          {% for review in reviews %}
+          <article class="review-card{% if review.type == 'professional' and forloop.first %} review-card--featured{% endif %}" data-review-type="{{ review.type }}">
+            <header class="review-card-head">
+              <div class="review-card-title">
+                <div class="quote-icon" aria-hidden="true">
+                  <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="m7.404 2.285.036.178c-1.324.522-2.384 1.223-3.178 2.1-.795.855-1.192 1.745-1.192 2.671 0 .38.06.665.18.854h2.493c1.276.309 1.914 1.152 1.914 2.528 0 .902-.313 1.65-.94 2.243-.601.57-1.396.855-2.383.855-1.228 0-2.263-.463-3.106-1.389C.409 11.375 0 10.201 0 8.801c0-1.78.686-3.276 2.059-4.486 1.396-1.211 3.178-1.887 5.345-2.03Zm8.343 0 .036.178c-1.324.522-2.383 1.223-3.178 2.1-.795.855-1.192 1.745-1.192 2.671 0 .38.06.665.18.854h2.493C15.362 8.397 16 9.24 16 10.616c0 .902-.313 1.65-.94 2.243-.601.57-1.396.855-2.383.855-1.252 0-2.287-.463-3.106-1.389-.819-.95-1.228-2.124-1.228-3.524 0-1.78.686-3.276 2.059-4.486 1.396-1.211 3.178-1.887 5.345-2.03Z"/></svg>
+                </div>
+                <div class="review-byline">
+                  <strong>{% if review.publication %}{{ review.publication }}{% else %}{{ review.author }}{% endif %}</strong>
+                  <span class="review-role">{% if review.type == 'professional' %}(Professional critic){% else %}(Audience member){% endif %}</span>
+                </div>
+              </div>
+              <time class="review-date">{% if review.listed_on_edfringe %}{{ review.listed_on_edfringe }}{% else %}{{ review.date }}{% endif %}</time>
+            </header>
+
+            {% if review.listing_excerpt %}
+            <p class="review-body">{{ review.listing_excerpt }}</p>
+            <details>
+              <summary class="review-more">Read the full review</summary>
+              <div class="review-body">{{ review.body | markdownify }}</div>
+            </details>
+            {% elsif review.type == 'professional' %}
+            <div class="review-body">{{ review.body | markdownify }}</div>
+            {% else %}
+            <p class="review-body is-clamped" data-clamp>{{ review.body }}</p>
+            <button type="button" class="review-more" data-expand hidden>Read more</button>
+            {% endif %}
+
+            <footer class="review-foot">
+              {% if review.url %}<a class="review-link" href="{{ review.url }}">Read the original review</a>{% else %}<span></span>{% endif %}
+              <time class="review-date">{% if review.listed_on_edfringe %}{{ review.listed_on_edfringe }}{% else %}{{ review.date }}{% endif %}</time>
+            </footer>
+            {% if review.note %}<p class="review-note">{{ review.note }}</p>{% endif %}
+          </article>
+          {% endfor %}
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <footer class="archive-colophon">
+    <p>This page keeps a copy of Sam Joseph’s own Edinburgh Fringe 2026 listing so the reviews remain readable after EdFringe takes the live page down. It is not an official Festival Fringe page and does not include EdFringe’s site-wide navigation or ticket checkout.</p>
+    <p>{{ source.snapshot_note }}</p>
+    <p><a href="{{ '/' | relative_url }}">← Sam Joseph home</a></p>
+  </footer>
+</div>
+
+<script>
+(function () {
+  var root = document.querySelector("[data-listing-tabs]");
+  if (!root) return;
+  var tabs = root.querySelectorAll('[role="tab"]');
+  var panels = root.querySelectorAll('[role="tabpanel"]');
+  tabs.forEach(function (tab) {
+    tab.addEventListener("click", function () {
+      tabs.forEach(function (t) { t.setAttribute("aria-selected", t === tab ? "true" : "false"); });
+      panels.forEach(function (p) { p.classList.toggle("is-active", p.id === tab.getAttribute("aria-controls")); });
+    });
+  });
+
+  var filters = document.querySelector("[data-review-filters]");
+  if (filters) {
+    var cards = document.querySelectorAll("[data-review-type]");
+    filters.addEventListener("click", function (e) {
+      var btn = e.target.closest("[data-filter]");
+      if (!btn) return;
+      filters.querySelectorAll("[data-filter]").forEach(function (b) {
+        b.setAttribute("aria-pressed", b === btn ? "true" : "false");
+      });
+      var kind = btn.getAttribute("data-filter");
+      cards.forEach(function (card) {
+        card.classList.toggle("is-hidden", kind !== "all" && card.getAttribute("data-review-type") !== kind);
+      });
+    });
+  }
+
+  document.querySelectorAll("[data-clamp]").forEach(function (el) {
+    var btn = el.parentElement.querySelector("[data-expand]");
+    if (!btn) return;
+    if (el.scrollHeight > el.clientHeight + 4) btn.hidden = false;
+    btn.addEventListener("click", function () {
+      el.classList.remove("is-clamped");
+      btn.remove();
+    });
+  });
+})();
+</script>
